@@ -69,6 +69,8 @@ export default function Home() {
           fileName = '/market-research-data.json'
         } else if (teamFilter === 'artificial-intelligence') {
           fileName = '/artificial-intelligence-data.json'
+        } else if (teamFilter === 'human-resources') {
+          fileName = '/Human-Resource-data.json'
         }
 
         if (fileName) {
@@ -294,6 +296,7 @@ export default function Home() {
                   <option value="artificial-intelligence">Artificial Intelligence</option>
                   <option value="market-research">Market Research</option>
                   <option value="digital-marketing">Digital Marketing</option>
+                  <option value="human-resources">Human Resources</option>
                 </select>
               </div>
 

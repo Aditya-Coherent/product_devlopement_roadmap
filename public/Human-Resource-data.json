@@ -1,0 +1,159 @@
+[
+    {
+      "month": "January",
+      "element": "Talent Acquisition",
+      "task": "Manpower Planning, Freeze JD / KRA / KPI, Freeze Recruitment Process, Recruitment (Marketing SR / Sales SR / Product Manager / Ops / HR etc)",
+      "team": "human-resources"
+    },
+    {
+      "month": "January",
+      "element": "Onboarding & Induction Module",
+      "task": "As and when - based on New hires",
+      "team": "human-resources"
+    },
+    {
+      "month": "January",
+      "element": "HR Policy Setting",
+      "task": "Leave Policy, Attendance Policy, Work from Home Policy, Travel Policy, Reimbursement Policy",
+      "team": "human-resources"
+    },
+    {
+      "month": "January",
+      "element": "HR Operations Module",
+      "task": "Attendance Management Setup, Leave Management Setup, Payroll Structure Finalization",
+      "team": "human-resources"
+    },
+    {
+      "month": "January",
+      "element": "Performance Management Module",
+      "task": "KRA & KPI Finalization",
+      "team": "human-resources"
+    },
+    {
+      "month": "February",
+      "element": "Talent Acquisition",
+      "task": "Hiring as per plan, Replacement hiring if required",
+      "team": "human-resources"
+    },
+    {
+      "month": "February",
+      "element": "Onboarding & Induction Module",
+      "task": "As and when - based on New hires",
+      "team": "human-resources"
+    },
+    {
+      "month": "February",
+      "element": "HR Operations Module",
+      "task": "Payroll Processing, Attendance & Leave Monitoring",
+      "team": "human-resources"
+    },
+    {
+      "month": "February",
+      "element": "Performance Management Module",
+      "task": "Goal Alignment Discussions",
+      "team": "human-resources"
+    },
+    {
+      "month": "March",
+      "element": "Learning & Development (L&D)",
+      "task": "Training Need Identification, Skill Gap Analysis",
+      "team": "human-resources"
+    },
+    {
+      "month": "March",
+      "element": "HR Operations Module",
+      "task": "Payroll Processing, Compliance Checks",
+      "team": "human-resources"
+    },
+    {
+      "month": "March",
+      "element": "Employee engagement and recognition programs",
+      "task": "Monthly Engagement Activity",
+      "team": "human-resources"
+    },
+    {
+      "month": "April",
+      "element": "HR Policy Setting",
+      "task": "Policy Review & Finalization",
+      "team": "human-resources"
+    },
+    {
+      "month": "April",
+      "element": "Learning & Development (L&D)",
+      "task": "Initiate Quarterly Training (Inhouse - Functional / Soft skills)",
+      "team": "human-resources"
+    },
+    {
+      "month": "April",
+      "element": "Employee engagement and recognition programs",
+      "task": "Monthly Event",
+      "team": "human-resources"
+    },
+    {
+      "month": "May",
+      "element": "Performance Management Module",
+      "task": "Mid-cycle Performance Review",
+      "team": "human-resources"
+    },
+    {
+      "month": "May",
+      "element": "HR Operations Module",
+      "task": "Payroll, Attendance, Leave Review",
+      "team": "human-resources"
+    },
+    {
+      "month": "June",
+      "element": "Learning & Development (L&D)",
+      "task": "Mandatory Training Rollout",
+      "team": "human-resources"
+    },
+    {
+      "month": "June",
+      "element": "Employee engagement and recognition programs",
+      "task": "Quarterly Engagement Program",
+      "team": "human-resources"
+    },
+    {
+      "month": "July",
+      "element": "Talent Acquisition",
+      "task": "Replacement if required",
+      "team": "human-resources"
+    },
+    {
+      "month": "July",
+      "element": "HR Operations Module",
+      "task": "Payroll, Audit Support",
+      "team": "human-resources"
+    },
+    {
+      "month": "August",
+      "element": "Performance Management Module",
+      "task": "Performance Tracking & Coaching",
+      "team": "human-resources"
+    },
+    {
+      "month": "September",
+      "element": "Learning & Development (L&D)",
+      "task": "2 Hours mandatory training for each employee",
+      "team": "human-resources"
+    },
+    {
+      "month": "October",
+      "element": "Performance Management Module",
+      "task": "Annual Appraisal Preparation",
+      "team": "human-resources"
+    },
+    {
+      "month": "November",
+      "element": "HR Operations Module",
+      "task": "Year-end Payroll Planning",
+      "team": "human-resources"
+    },
+    {
+      "month": "December",
+      "element": "Year-End Review",
+      "task": "HR Audit, Policy Review, Next Year HR Roadmap",
+      "team": "human-resources"
+    }
+  ]
+  
