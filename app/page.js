@@ -261,10 +261,10 @@ export default function Home() {
             <Sparkles className="w-10 h-10 text-white" />
           </motion.div>
           <h1 className="text-5xl md:text-6xl font-bold text-gray-800 mb-4">
-            Rituva Development Roadmap
+            Rituva Execution Roadmap
           </h1>
           <p className="text-xl text-gray-600 font-light">
-            Track your team&apos;s progress and milestones
+            Track progress and milestones
           </p>
         </motion.header>
 
@@ -284,7 +284,7 @@ export default function Home() {
               <div>
                 <label htmlFor="team-filter" className="block text-sm font-medium text-gray-700 mb-2">
                   <Users className="w-4 h-4 inline mr-2" />
-                  Team
+                  Domain
                 </label>
                 <select
                   id="team-filter"
