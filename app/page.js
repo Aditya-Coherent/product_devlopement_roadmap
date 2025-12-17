@@ -219,14 +219,14 @@ export default function Home() {
 
   return (
     <div className="min-h-screen bg-gradient-to-br from-white via-emerald-50 to-teal-50">
-      {/* Logo in top left corner */}
-      <div className="fixed top-4 left-4 z-50">
+      {/* Logo in top left corner - fixed position */}
+      <div className="fixed top-6 left-6 z-50 pointer-events-auto">
         <Image
           src="/logo.png"
           alt="Rituva Logo"
           width={120}
           height={48}
-          className="h-12 w-auto object-contain"
+          className="h-12 w-auto object-contain drop-shadow-md"
           priority
         />
       </div>
@@ -292,7 +292,7 @@ export default function Home() {
                   onChange={(e) => setTeamFilter(e.target.value)}
                   className="w-full px-4 py-3 bg-white border-2 border-emerald-200 rounded-xl text-gray-800 font-medium focus:outline-none focus:ring-2 focus:ring-emerald-500 focus:border-emerald-500 transition-all cursor-pointer hover:border-emerald-300"
                 >
-                  <option value="website">Website</option>
+                  <option value="website">Website Development</option>
                   <option value="artificial-intelligence">Artificial Intelligence</option>
                   <option value="market-research">Market Research</option>
                   <option value="digital-marketing">Digital Marketing</option>
