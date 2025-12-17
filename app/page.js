@@ -434,7 +434,7 @@ export default function Home() {
                                   className="flex items-start gap-3 p-3 rounded-lg bg-white hover:bg-emerald-50 transition-all group border border-emerald-50"
                                 >
                                   <CheckCircle2 className="w-5 h-5 text-emerald-500 mt-0.5 flex-shrink-0 group-hover:scale-110 transition-transform" />
-                                  <span className="text-gray-700 flex-1">{task}</span>
+                                  <span className="text-gray-700 flex-1 whitespace-nowrap overflow-hidden text-ellipsis">{task}</span>
                                 </motion.li>
                               ))}
                             </ul>
