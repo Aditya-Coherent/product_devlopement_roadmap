@@ -1,0 +1,74 @@
+[
+  {
+    "month": "January",
+    "element": "Website Go-Live",
+    "task": "UI/UX finalization, Development completion, Payment gateway, Shipping, WooCommerce, CRM, Analytics, Hotjar, Email automation, Live chat, Security, Speed baseline, Autoscale",
+    "team": "website"
+  },
+  {
+    "month": "February",
+    "element": "On-Page SEO & Performance",
+    "task": "Meta tags, Headers, URLs, Image optimization (50–80), Cache tuning, CDN config, Mobile fixes, CWV initial fixes",
+    "team": "website"
+  },
+  {
+    "month": "March",
+    "element": "Technical SEO Strengthening",
+    "task": "Schema markup, Crawl fixes, Indexing, Redirects, CWV mobile & desktop, DB optimization, Load testing",
+    "team": "website"
+  },
+  {
+    "month": "April",
+    "element": "Conversion Rate Optimization",
+    "task": "Funnel analysis, CTA optimization, Checkout UX, Product page UX, Reviews optimization",
+    "team": "website"
+  },
+  {
+    "month": "May",
+    "element": "Content & Internal Linking",
+    "task": "Internal linking (50–60 products), Category content, Product content cleanup, CDN tuning",
+    "team": "website"
+  },
+  {
+    "month": "June",
+    "element": "Mobile Optimization",
+    "task": "Mobile CWV, Tap usability, Mobile checkout, Lazy loading improvements",
+    "team": "website"
+  },
+  {
+    "month": "July",
+    "element": "Performance & Security",
+    "task": "Server monitoring, Hosting optimization, Security monitoring, Plugin updates, Cache strategy",
+    "team": "website"
+  },
+  {
+    "month": "August",
+    "element": "SEO Consolidation",
+    "task": "GSC audit, Crawl budget optimization, Duplicate fixes, Schema validation",
+    "team": "website"
+  },
+  {
+    "month": "September",
+    "element": "Advanced Analytics & Retention",
+    "task": "CRM cohorts, Retention analysis, Email journey optimization",
+    "team": "website"
+  },
+  {
+    "month": "October",
+    "element": "Pre-Peak Scaling",
+    "task": "Load testing, Server scaling readiness, Checkout fail-safe checks",
+    "team": "website"
+  },
+  {
+    "month": "November",
+    "element": "Peak Traffic Management",
+    "task": "Real-time monitoring, Rapid fixes, CDN & cache tuning",
+    "team": "website"
+  },
+  {
+    "month": "December",
+    "element": "Year-End Review & Roadmap",
+    "task": "Full audit, Performance summary, CRO learnings, Next-year roadmap",
+    "team": "website"
+  }
+]

@@ -1,0 +1,218 @@
+[
+  {
+    "month": "January",
+    "element": "AI Strategy & Data Foundation",
+    "task": "Define AI objectives, success metrics, and use‑case prioritization",
+    "team": "artificial-intelligence"
+  },
+  {
+    "month": "January",
+    "element": "AI Strategy & Data Foundation",
+    "task": "Identify data sources for personalization, forecasting, and intelligence",
+    "team": "artificial-intelligence"
+  },
+  {
+    "month": "January",
+    "element": "AI Strategy & Data Foundation",
+    "task": "Design AI governance, safety, and brand‑control guidelines",
+    "team": "artificial-intelligence"
+  },
+  {
+    "month": "February",
+    "element": "AI Knowledge & Data Layer",
+    "task": "Structure product, ingredient, and Ayurvedic knowledge corpus",
+    "team": "artificial-intelligence"
+  },
+  {
+    "month": "February",
+    "element": "AI Knowledge & Data Layer",
+    "task": "Prepare datasets for embeddings, retrieval, and model training",
+    "team": "artificial-intelligence"
+  },
+  {
+    "month": "February",
+    "element": "AI Knowledge & Data Layer",
+    "task": "Validate data quality and consistency for AI readiness",
+    "team": "artificial-intelligence"
+  },
+  {
+    "month": "March",
+    "element": "AI Personalization Engine",
+    "task": "Design personalization logic for kit recommendations",
+    "team": "artificial-intelligence"
+  },
+  {
+    "month": "March",
+    "element": "AI Personalization Engine",
+    "task": "Model concern‑to‑ingredient and routine mapping",
+    "team": "artificial-intelligence"
+  },
+  {
+    "month": "March",
+    "element": "AI Personalization Engine",
+    "task": "Simulate recommendation accuracy and edge cases",
+    "team": "artificial-intelligence"
+  },
+  {
+    "month": "April",
+    "element": "AI Personalization Engine",
+    "task": "Train and refine recommendation models",
+    "team": "artificial-intelligence"
+  },
+  {
+    "month": "April",
+    "element": "AI Personalization Engine",
+    "task": "Implement feedback loops for recommendation improvement",
+    "team": "artificial-intelligence"
+  },
+  {
+    "month": "April",
+    "element": "AI Personalization Engine",
+    "task": "Calibrate models for conversion and trust optimization",
+    "team": "artificial-intelligence"
+  },
+  {
+    "month": "May",
+    "element": "AI Conversational Assistant",
+    "task": "Train conversational AI on Ayurvedic knowledge and product science",
+    "team": "artificial-intelligence"
+  },
+  {
+    "month": "May",
+    "element": "AI Conversational Assistant",
+    "task": "Define safe response boundaries and escalation logic",
+    "team": "artificial-intelligence"
+  },
+  {
+    "month": "May",
+    "element": "AI Conversational Assistant",
+    "task": "Test conversational accuracy across customer scenarios",
+    "team": "artificial-intelligence"
+  },
+  {
+    "month": "June",
+    "element": "AI Conversational Assistant",
+    "task": "Deploy conversational intelligence across customer journeys",
+    "team": "artificial-intelligence"
+  },
+  {
+    "month": "June",
+    "element": "AI Conversational Assistant",
+    "task": "Enable guided routines, follow‑ups, and personalization memory",
+    "team": "artificial-intelligence"
+  },
+  {
+    "month": "June",
+    "element": "AI Conversational Assistant",
+    "task": "Monitor responses and continuously retrain models",
+    "team": "artificial-intelligence"
+  },
+  {
+    "month": "July",
+    "element": "Customer Intelligence AI",
+    "task": "Model customer behavior patterns using AI clustering",
+    "team": "artificial-intelligence"
+  },
+  {
+    "month": "July",
+    "element": "Customer Intelligence AI",
+    "task": "Generate predictive insights for churn and retention",
+    "team": "artificial-intelligence"
+  },
+  {
+    "month": "July",
+    "element": "Customer Intelligence AI",
+    "task": "Surface AI‑driven insights via decision dashboards",
+    "team": "artificial-intelligence"
+  },
+  {
+    "month": "August",
+    "element": "Customer Intelligence AI",
+    "task": "Optimize segmentation and cohort prediction models",
+    "team": "artificial-intelligence"
+  },
+  {
+    "month": "August",
+    "element": "Customer Intelligence AI",
+    "task": "Improve recommendation and messaging relevance using insights",
+    "team": "artificial-intelligence"
+  },
+  {
+    "month": "August",
+    "element": "Customer Intelligence AI",
+    "task": "Automate insight generation for marketing and ops",
+    "team": "artificial-intelligence"
+  },
+  {
+    "month": "September",
+    "element": "Demand Forecasting AI",
+    "task": "Train demand prediction models using sales and seasonality data",
+    "team": "artificial-intelligence"
+  },
+  {
+    "month": "September",
+    "element": "Demand Forecasting AI",
+    "task": "Model regional demand and inventory velocity",
+    "team": "artificial-intelligence"
+  },
+  {
+    "month": "September",
+    "element": "Demand Forecasting AI",
+    "task": "Validate forecasts against real‑world signals",
+    "team": "artificial-intelligence"
+  },
+  {
+    "month": "October",
+    "element": "Demand Forecasting AI",
+    "task": "Refine forecasting accuracy with continuous learning",
+    "team": "artificial-intelligence"
+  },
+  {
+    "month": "October",
+    "element": "Demand Forecasting AI",
+    "task": "Generate AI‑driven replenishment recommendations",
+    "team": "artificial-intelligence"
+  },
+  {
+    "month": "October",
+    "element": "Demand Forecasting AI",
+    "task": "Align forecasts with promotion and growth signals",
+    "team": "artificial-intelligence"
+  },
+  {
+    "month": "November",
+    "element": "AI Optimization & Learning",
+    "task": "Run AI‑led optimization on recommendations and conversations",
+    "team": "artificial-intelligence"
+  },
+  {
+    "month": "November",
+    "element": "AI Optimization & Learning",
+    "task": "Continuously retrain models using live feedback",
+    "team": "artificial-intelligence"
+  },
+  {
+    "month": "November",
+    "element": "AI Optimization & Learning",
+    "task": "Improve AI impact on AOV and repeat purchase",
+    "team": "artificial-intelligence"
+  },
+  {
+    "month": "December",
+    "element": "AI Performance & Scale Planning",
+    "task": "Audit AI performance accuracy and business impact",
+    "team": "artificial-intelligence"
+  },
+  {
+    "month": "December",
+    "element": "AI Performance & Scale Planning",
+    "task": "Refine models based on annual learning",
+    "team": "artificial-intelligence"
+  },
+  {
+    "month": "December",
+    "element": "AI Performance & Scale Planning",
+    "task": "Plan AI scale‑up automation and next‑year enhancements",
+    "team": "artificial-intelligence"
+  }
+]

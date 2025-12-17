@@ -1,0 +1,3098 @@
+[
+  {
+    "month": "January",
+    "element": "Website Go-Live",
+    "task": "UI/UX finalization, Development completion, Payment gateway, Shipping, WooCommerce, CRM, Analytics, Hotjar, Email automation, Live chat, Security, Speed baseline, Autoscale",
+    "team": "website"
+  },
+  {
+    "month": "February",
+    "element": "On-Page SEO & Performance",
+    "task": "Meta tags, Headers, URLs, Image optimization (50–80), Cache tuning, CDN config, Mobile fixes, CWV initial fixes",
+    "team": "website"
+  },
+  {
+    "month": "March",
+    "element": "Technical SEO Strengthening",
+    "task": "Schema markup, Crawl fixes, Indexing, Redirects, CWV mobile & desktop, DB optimization, Load testing",
+    "team": "website"
+  },
+  {
+    "month": "April",
+    "element": "Conversion Rate Optimization",
+    "task": "Funnel analysis, CTA optimization, Checkout UX, Product page UX, Reviews optimization",
+    "team": "website"
+  },
+  {
+    "month": "May",
+    "element": "Content & Internal Linking",
+    "task": "Internal linking (50–60 products), Category content, Product content cleanup, CDN tuning",
+    "team": "website"
+  },
+  {
+    "month": "June",
+    "element": "Mobile Optimization",
+    "task": "Mobile CWV, Tap usability, Mobile checkout, Lazy loading improvements",
+    "team": "website"
+  },
+  {
+    "month": "July",
+    "element": "Performance & Security",
+    "task": "Server monitoring, Hosting optimization, Security monitoring, Plugin updates, Cache strategy",
+    "team": "website"
+  },
+  {
+    "month": "August",
+    "element": "SEO Consolidation",
+    "task": "GSC audit, Crawl budget optimization, Duplicate fixes, Schema validation",
+    "team": "website"
+  },
+  {
+    "month": "September",
+    "element": "Advanced Analytics & Retention",
+    "task": "CRM cohorts, Retention analysis, Email journey optimization",
+    "team": "website"
+  },
+  {
+    "month": "October",
+    "element": "Pre-Peak Scaling",
+    "task": "Load testing, Server scaling readiness, Checkout fail-safe checks",
+    "team": "website"
+  },
+  {
+    "month": "November",
+    "element": "Peak Traffic Management",
+    "task": "Real-time monitoring, Rapid fixes, CDN & cache tuning",
+    "team": "website"
+  },
+  {
+    "month": "December",
+    "element": "Year-End Review & Roadmap",
+    "task": "Full audit, Performance summary, CRO learnings, Next-year roadmap",
+    "team": "website"
+  },
+  {
+    "month": "January",
+    "element": "On-Page SEO",
+    "task": "Page Metadata",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "January",
+    "element": "On-Page SEO",
+    "task": "HTML Structure",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "January",
+    "element": "On-Page SEO",
+    "task": "Keyword Placement",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "January",
+    "element": "On-Page SEO",
+    "task": "Image Optimization",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "January",
+    "element": "On-Page SEO",
+    "task": "Internal Linking",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "January",
+    "element": "On-Page SEO",
+    "task": "Schema Markup",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "January",
+    "element": "On-Page SEO",
+    "task": "Content Optimization",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "January",
+    "element": "On-Page SEO",
+    "task": "Mobile Optimization",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "January",
+    "element": "On-Page SEO",
+    "task": "Blog Optimization",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "January",
+    "element": "On-Page SEO",
+    "task": "Core Web Vitals",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "January",
+    "element": "Off-Page SEO",
+    "task": "Backlink Strategy",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "January",
+    "element": "Off-Page SEO",
+    "task": "Social Bookmarking & Citations",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "January",
+    "element": "Off-Page SEO",
+    "task": "Competitor Backlink Analysis",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "January",
+    "element": "Off-Page SEO",
+    "task": "Content Strategy for Blog",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "January",
+    "element": "Off-Page SEO",
+    "task": "Blog Content Formats",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "January",
+    "element": "Off-Page SEO",
+    "task": "Keyword Research & Mapping",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "January",
+    "element": "Off-Page SEO",
+    "task": "Social Media & Brand Signals",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "January",
+    "element": "Off-Page SEO",
+    "task": "Performance Tracking",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "January",
+    "element": "Technical SEO",
+    "task": "Technical SEO Checklist",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "January",
+    "element": "Technical SEO",
+    "task": "Page Speed Performance",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "January",
+    "element": "Technical SEO",
+    "task": "URLs and Redirects",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "January",
+    "element": "Technical SEO",
+    "task": "Structured Data & Schema Mark-up",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "January",
+    "element": "Technical SEO",
+    "task": "Technical Audits",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "January",
+    "element": "Performance Marketing",
+    "task": "Search Engine Marketing",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "January",
+    "element": "Performance Marketing",
+    "task": "Social Media Advertising",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "January",
+    "element": "Performance Marketing",
+    "task": "Email Marketing",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "January",
+    "element": "Performance Marketing",
+    "task": "Conversion Rate Optimization (CRO)",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "January",
+    "element": "Performance Marketing",
+    "task": "Marketplace & Distributor",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "January",
+    "element": "Performance Marketing",
+    "task": "Social Media Optimization",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "January",
+    "element": "Brand Positioning & Thought Leadership",
+    "task": "Trend Stories & Listicles",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "January",
+    "element": "Brand Positioning & Thought Leadership",
+    "task": "Media Gifting",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "January",
+    "element": "Brand Positioning & Thought Leadership",
+    "task": "Press Release",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "January",
+    "element": "Brand Positioning & Thought Leadership",
+    "task": "Influencer Collaboration",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "January",
+    "element": "Content Marketing & Strategy",
+    "task": "Blog Categories & Sample Topics",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "January",
+    "element": "Content Marketing & Strategy",
+    "task": "Press & Thought Leadership",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "January",
+    "element": "Content Marketing & Strategy",
+    "task": "Customer Reviews",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "January",
+    "element": "Content Marketing & Strategy",
+    "task": "About Page",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "January",
+    "element": "Content Marketing & Strategy",
+    "task": "Landing Pages",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "February",
+    "element": "On-Page SEO",
+    "task": "Page Metadata",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "February",
+    "element": "On-Page SEO",
+    "task": "HTML Structure",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "February",
+    "element": "On-Page SEO",
+    "task": "Keyword Placement",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "February",
+    "element": "On-Page SEO",
+    "task": "Image Optimization",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "February",
+    "element": "On-Page SEO",
+    "task": "Internal Linking",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "February",
+    "element": "On-Page SEO",
+    "task": "Schema Markup",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "February",
+    "element": "On-Page SEO",
+    "task": "Content Optimization",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "February",
+    "element": "On-Page SEO",
+    "task": "Mobile Optimization",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "February",
+    "element": "On-Page SEO",
+    "task": "Blog Optimization",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "February",
+    "element": "On-Page SEO",
+    "task": "Core Web Vitals",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "February",
+    "element": "Off-Page SEO",
+    "task": "Backlink Strategy",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "February",
+    "element": "Off-Page SEO",
+    "task": "Social Bookmarking & Citations",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "February",
+    "element": "Off-Page SEO",
+    "task": "Competitor Backlink Analysis",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "February",
+    "element": "Off-Page SEO",
+    "task": "Content Strategy for Blog",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "February",
+    "element": "Off-Page SEO",
+    "task": "Blog Content Formats",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "February",
+    "element": "Off-Page SEO",
+    "task": "Keyword Research & Mapping",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "February",
+    "element": "Off-Page SEO",
+    "task": "Social Media & Brand Signals",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "February",
+    "element": "Off-Page SEO",
+    "task": "Performance Tracking",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "February",
+    "element": "Technical SEO",
+    "task": "Technical SEO Checklist",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "February",
+    "element": "Technical SEO",
+    "task": "Page Speed Performance",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "February",
+    "element": "Technical SEO",
+    "task": "URLs and Redirects",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "February",
+    "element": "Technical SEO",
+    "task": "Structured Data & Schema Mark-up",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "February",
+    "element": "Technical SEO",
+    "task": "Technical Audits",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "February",
+    "element": "Performance Marketing",
+    "task": "Search Engine Marketing",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "February",
+    "element": "Performance Marketing",
+    "task": "Social Media Advertising",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "February",
+    "element": "Performance Marketing",
+    "task": "Email Marketing",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "February",
+    "element": "Performance Marketing",
+    "task": "Conversion Rate Optimization (CRO)",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "February",
+    "element": "Performance Marketing",
+    "task": "Marketplace & Distributor",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "February",
+    "element": "Performance Marketing",
+    "task": "Social Media Optimization",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "February",
+    "element": "Brand Positioning & Thought Leadership",
+    "task": "Trend Stories & Listicles",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "February",
+    "element": "Brand Positioning & Thought Leadership",
+    "task": "Media Gifting",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "February",
+    "element": "Brand Positioning & Thought Leadership",
+    "task": "Press Release",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "February",
+    "element": "Brand Positioning & Thought Leadership",
+    "task": "Influencer Collaboration",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "February",
+    "element": "Content Marketing & Strategy",
+    "task": "Blog Categories & Sample Topics",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "February",
+    "element": "Content Marketing & Strategy",
+    "task": "Press & Thought Leadership",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "February",
+    "element": "Content Marketing & Strategy",
+    "task": "Customer Reviews",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "February",
+    "element": "Content Marketing & Strategy",
+    "task": "About Page",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "February",
+    "element": "Content Marketing & Strategy",
+    "task": "Landing Pages",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "March",
+    "element": "On-Page SEO",
+    "task": "Page Metadata",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "March",
+    "element": "On-Page SEO",
+    "task": "HTML Structure",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "March",
+    "element": "On-Page SEO",
+    "task": "Keyword Placement",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "March",
+    "element": "On-Page SEO",
+    "task": "Image Optimization",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "March",
+    "element": "On-Page SEO",
+    "task": "Internal Linking",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "March",
+    "element": "On-Page SEO",
+    "task": "Schema Markup",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "March",
+    "element": "On-Page SEO",
+    "task": "Content Optimization",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "March",
+    "element": "On-Page SEO",
+    "task": "Mobile Optimization",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "March",
+    "element": "On-Page SEO",
+    "task": "Blog Optimization",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "March",
+    "element": "On-Page SEO",
+    "task": "Core Web Vitals",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "March",
+    "element": "Off-Page SEO",
+    "task": "Backlink Strategy",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "March",
+    "element": "Off-Page SEO",
+    "task": "Social Bookmarking & Citations",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "March",
+    "element": "Off-Page SEO",
+    "task": "Competitor Backlink Analysis",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "March",
+    "element": "Off-Page SEO",
+    "task": "Content Strategy for Blog",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "March",
+    "element": "Off-Page SEO",
+    "task": "Blog Content Formats",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "March",
+    "element": "Off-Page SEO",
+    "task": "Keyword Research & Mapping",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "March",
+    "element": "Off-Page SEO",
+    "task": "Social Media & Brand Signals",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "March",
+    "element": "Off-Page SEO",
+    "task": "Performance Tracking",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "March",
+    "element": "Technical SEO",
+    "task": "Technical SEO Checklist",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "March",
+    "element": "Technical SEO",
+    "task": "Page Speed Performance",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "March",
+    "element": "Technical SEO",
+    "task": "URLs and Redirects",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "March",
+    "element": "Technical SEO",
+    "task": "Structured Data & Schema Mark-up",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "March",
+    "element": "Technical SEO",
+    "task": "Technical Audits",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "March",
+    "element": "Performance Marketing",
+    "task": "Search Engine Marketing",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "March",
+    "element": "Performance Marketing",
+    "task": "Social Media Advertising",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "March",
+    "element": "Performance Marketing",
+    "task": "Email Marketing",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "March",
+    "element": "Performance Marketing",
+    "task": "Conversion Rate Optimization (CRO)",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "March",
+    "element": "Performance Marketing",
+    "task": "Marketplace & Distributor",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "March",
+    "element": "Performance Marketing",
+    "task": "Social Media Optimization",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "March",
+    "element": "Brand Positioning & Thought Leadership",
+    "task": "Trend Stories & Listicles",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "March",
+    "element": "Brand Positioning & Thought Leadership",
+    "task": "Media Gifting",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "March",
+    "element": "Brand Positioning & Thought Leadership",
+    "task": "Press Release",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "March",
+    "element": "Brand Positioning & Thought Leadership",
+    "task": "Influencer Collaboration",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "March",
+    "element": "Content Marketing & Strategy",
+    "task": "Blog Categories & Sample Topics",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "March",
+    "element": "Content Marketing & Strategy",
+    "task": "Press & Thought Leadership",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "March",
+    "element": "Content Marketing & Strategy",
+    "task": "Customer Reviews",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "March",
+    "element": "Content Marketing & Strategy",
+    "task": "About Page",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "March",
+    "element": "Content Marketing & Strategy",
+    "task": "Landing Pages",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "April",
+    "element": "On-Page SEO",
+    "task": "Page Metadata",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "April",
+    "element": "On-Page SEO",
+    "task": "HTML Structure",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "April",
+    "element": "On-Page SEO",
+    "task": "Keyword Placement",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "April",
+    "element": "On-Page SEO",
+    "task": "Image Optimization",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "April",
+    "element": "On-Page SEO",
+    "task": "Internal Linking",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "April",
+    "element": "On-Page SEO",
+    "task": "Schema Markup",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "April",
+    "element": "On-Page SEO",
+    "task": "Content Optimization",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "April",
+    "element": "On-Page SEO",
+    "task": "Mobile Optimization",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "April",
+    "element": "On-Page SEO",
+    "task": "Blog Optimization",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "April",
+    "element": "On-Page SEO",
+    "task": "Core Web Vitals",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "April",
+    "element": "Off-Page SEO",
+    "task": "Backlink Strategy",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "April",
+    "element": "Off-Page SEO",
+    "task": "Social Bookmarking & Citations",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "April",
+    "element": "Off-Page SEO",
+    "task": "Competitor Backlink Analysis",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "April",
+    "element": "Off-Page SEO",
+    "task": "Content Strategy for Blog",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "April",
+    "element": "Off-Page SEO",
+    "task": "Blog Content Formats",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "April",
+    "element": "Off-Page SEO",
+    "task": "Keyword Research & Mapping",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "April",
+    "element": "Off-Page SEO",
+    "task": "Social Media & Brand Signals",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "April",
+    "element": "Off-Page SEO",
+    "task": "Performance Tracking",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "April",
+    "element": "Technical SEO",
+    "task": "Technical SEO Checklist",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "April",
+    "element": "Technical SEO",
+    "task": "Page Speed Performance",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "April",
+    "element": "Technical SEO",
+    "task": "URLs and Redirects",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "April",
+    "element": "Technical SEO",
+    "task": "Structured Data & Schema Mark-up",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "April",
+    "element": "Technical SEO",
+    "task": "Technical Audits",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "April",
+    "element": "Performance Marketing",
+    "task": "Search Engine Marketing",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "April",
+    "element": "Performance Marketing",
+    "task": "Social Media Advertising",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "April",
+    "element": "Performance Marketing",
+    "task": "Email Marketing",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "April",
+    "element": "Performance Marketing",
+    "task": "Conversion Rate Optimization (CRO)",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "April",
+    "element": "Performance Marketing",
+    "task": "Marketplace & Distributor",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "April",
+    "element": "Performance Marketing",
+    "task": "Social Media Optimization",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "April",
+    "element": "Brand Positioning & Thought Leadership",
+    "task": "Trend Stories & Listicles",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "April",
+    "element": "Brand Positioning & Thought Leadership",
+    "task": "Media Gifting",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "April",
+    "element": "Brand Positioning & Thought Leadership",
+    "task": "Press Release",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "April",
+    "element": "Brand Positioning & Thought Leadership",
+    "task": "Influencer Collaboration",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "April",
+    "element": "Content Marketing & Strategy",
+    "task": "Blog Categories & Sample Topics",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "April",
+    "element": "Content Marketing & Strategy",
+    "task": "Press & Thought Leadership",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "April",
+    "element": "Content Marketing & Strategy",
+    "task": "Customer Reviews",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "April",
+    "element": "Content Marketing & Strategy",
+    "task": "About Page",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "April",
+    "element": "Content Marketing & Strategy",
+    "task": "Landing Pages",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "May",
+    "element": "On-Page SEO",
+    "task": "Page Metadata",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "May",
+    "element": "On-Page SEO",
+    "task": "HTML Structure",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "May",
+    "element": "On-Page SEO",
+    "task": "Keyword Placement",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "May",
+    "element": "On-Page SEO",
+    "task": "Image Optimization",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "May",
+    "element": "On-Page SEO",
+    "task": "Internal Linking",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "May",
+    "element": "On-Page SEO",
+    "task": "Schema Markup",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "May",
+    "element": "On-Page SEO",
+    "task": "Content Optimization",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "May",
+    "element": "On-Page SEO",
+    "task": "Mobile Optimization",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "May",
+    "element": "On-Page SEO",
+    "task": "Blog Optimization",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "May",
+    "element": "On-Page SEO",
+    "task": "Core Web Vitals",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "May",
+    "element": "Off-Page SEO",
+    "task": "Backlink Strategy",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "May",
+    "element": "Off-Page SEO",
+    "task": "Social Bookmarking & Citations",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "May",
+    "element": "Off-Page SEO",
+    "task": "Competitor Backlink Analysis",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "May",
+    "element": "Off-Page SEO",
+    "task": "Content Strategy for Blog",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "May",
+    "element": "Off-Page SEO",
+    "task": "Blog Content Formats",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "May",
+    "element": "Off-Page SEO",
+    "task": "Keyword Research & Mapping",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "May",
+    "element": "Off-Page SEO",
+    "task": "Social Media & Brand Signals",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "May",
+    "element": "Off-Page SEO",
+    "task": "Performance Tracking",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "May",
+    "element": "Technical SEO",
+    "task": "Technical SEO Checklist",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "May",
+    "element": "Technical SEO",
+    "task": "Page Speed Performance",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "May",
+    "element": "Technical SEO",
+    "task": "URLs and Redirects",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "May",
+    "element": "Technical SEO",
+    "task": "Structured Data & Schema Mark-up",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "May",
+    "element": "Technical SEO",
+    "task": "Technical Audits",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "May",
+    "element": "Performance Marketing",
+    "task": "Search Engine Marketing",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "May",
+    "element": "Performance Marketing",
+    "task": "Social Media Advertising",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "May",
+    "element": "Performance Marketing",
+    "task": "Email Marketing",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "May",
+    "element": "Performance Marketing",
+    "task": "Conversion Rate Optimization (CRO)",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "May",
+    "element": "Performance Marketing",
+    "task": "Marketplace & Distributor",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "May",
+    "element": "Performance Marketing",
+    "task": "Social Media Optimization",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "May",
+    "element": "Brand Positioning & Thought Leadership",
+    "task": "Trend Stories & Listicles",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "May",
+    "element": "Brand Positioning & Thought Leadership",
+    "task": "Media Gifting",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "May",
+    "element": "Brand Positioning & Thought Leadership",
+    "task": "Press Release",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "May",
+    "element": "Brand Positioning & Thought Leadership",
+    "task": "Influencer Collaboration",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "May",
+    "element": "Content Marketing & Strategy",
+    "task": "Blog Categories & Sample Topics",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "May",
+    "element": "Content Marketing & Strategy",
+    "task": "Press & Thought Leadership",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "May",
+    "element": "Content Marketing & Strategy",
+    "task": "Customer Reviews",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "May",
+    "element": "Content Marketing & Strategy",
+    "task": "About Page",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "May",
+    "element": "Content Marketing & Strategy",
+    "task": "Landing Pages",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "June",
+    "element": "On-Page SEO",
+    "task": "Page Metadata",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "June",
+    "element": "On-Page SEO",
+    "task": "HTML Structure",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "June",
+    "element": "On-Page SEO",
+    "task": "Keyword Placement",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "June",
+    "element": "On-Page SEO",
+    "task": "Image Optimization",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "June",
+    "element": "On-Page SEO",
+    "task": "Internal Linking",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "June",
+    "element": "On-Page SEO",
+    "task": "Schema Markup",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "June",
+    "element": "On-Page SEO",
+    "task": "Content Optimization",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "June",
+    "element": "On-Page SEO",
+    "task": "Mobile Optimization",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "June",
+    "element": "On-Page SEO",
+    "task": "Blog Optimization",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "June",
+    "element": "On-Page SEO",
+    "task": "Core Web Vitals",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "June",
+    "element": "Off-Page SEO",
+    "task": "Backlink Strategy",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "June",
+    "element": "Off-Page SEO",
+    "task": "Social Bookmarking & Citations",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "June",
+    "element": "Off-Page SEO",
+    "task": "Competitor Backlink Analysis",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "June",
+    "element": "Off-Page SEO",
+    "task": "Content Strategy for Blog",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "June",
+    "element": "Off-Page SEO",
+    "task": "Blog Content Formats",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "June",
+    "element": "Off-Page SEO",
+    "task": "Keyword Research & Mapping",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "June",
+    "element": "Off-Page SEO",
+    "task": "Social Media & Brand Signals",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "June",
+    "element": "Off-Page SEO",
+    "task": "Performance Tracking",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "June",
+    "element": "Technical SEO",
+    "task": "Technical SEO Checklist",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "June",
+    "element": "Technical SEO",
+    "task": "Page Speed Performance",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "June",
+    "element": "Technical SEO",
+    "task": "URLs and Redirects",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "June",
+    "element": "Technical SEO",
+    "task": "Structured Data & Schema Mark-up",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "June",
+    "element": "Technical SEO",
+    "task": "Technical Audits",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "June",
+    "element": "Performance Marketing",
+    "task": "Search Engine Marketing",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "June",
+    "element": "Performance Marketing",
+    "task": "Social Media Advertising",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "June",
+    "element": "Performance Marketing",
+    "task": "Email Marketing",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "June",
+    "element": "Performance Marketing",
+    "task": "Conversion Rate Optimization (CRO)",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "June",
+    "element": "Performance Marketing",
+    "task": "Marketplace & Distributor",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "June",
+    "element": "Performance Marketing",
+    "task": "Social Media Optimization",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "June",
+    "element": "Brand Positioning & Thought Leadership",
+    "task": "Trend Stories & Listicles",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "June",
+    "element": "Brand Positioning & Thought Leadership",
+    "task": "Media Gifting",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "June",
+    "element": "Brand Positioning & Thought Leadership",
+    "task": "Press Release",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "June",
+    "element": "Brand Positioning & Thought Leadership",
+    "task": "Influencer Collaboration",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "June",
+    "element": "Content Marketing & Strategy",
+    "task": "Blog Categories & Sample Topics",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "June",
+    "element": "Content Marketing & Strategy",
+    "task": "Press & Thought Leadership",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "June",
+    "element": "Content Marketing & Strategy",
+    "task": "Customer Reviews",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "June",
+    "element": "Content Marketing & Strategy",
+    "task": "About Page",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "June",
+    "element": "Content Marketing & Strategy",
+    "task": "Landing Pages",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "July",
+    "element": "On-Page SEO",
+    "task": "Page Metadata",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "July",
+    "element": "On-Page SEO",
+    "task": "HTML Structure",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "July",
+    "element": "On-Page SEO",
+    "task": "Keyword Placement",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "July",
+    "element": "On-Page SEO",
+    "task": "Image Optimization",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "July",
+    "element": "On-Page SEO",
+    "task": "Internal Linking",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "July",
+    "element": "On-Page SEO",
+    "task": "Schema Markup",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "July",
+    "element": "On-Page SEO",
+    "task": "Content Optimization",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "July",
+    "element": "On-Page SEO",
+    "task": "Mobile Optimization",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "July",
+    "element": "On-Page SEO",
+    "task": "Blog Optimization",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "July",
+    "element": "On-Page SEO",
+    "task": "Core Web Vitals",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "July",
+    "element": "Off-Page SEO",
+    "task": "Backlink Strategy",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "July",
+    "element": "Off-Page SEO",
+    "task": "Social Bookmarking & Citations",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "July",
+    "element": "Off-Page SEO",
+    "task": "Competitor Backlink Analysis",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "July",
+    "element": "Off-Page SEO",
+    "task": "Content Strategy for Blog",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "July",
+    "element": "Off-Page SEO",
+    "task": "Blog Content Formats",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "July",
+    "element": "Off-Page SEO",
+    "task": "Keyword Research & Mapping",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "July",
+    "element": "Off-Page SEO",
+    "task": "Social Media & Brand Signals",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "July",
+    "element": "Off-Page SEO",
+    "task": "Performance Tracking",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "July",
+    "element": "Technical SEO",
+    "task": "Technical SEO Checklist",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "July",
+    "element": "Technical SEO",
+    "task": "Page Speed Performance",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "July",
+    "element": "Technical SEO",
+    "task": "URLs and Redirects",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "July",
+    "element": "Technical SEO",
+    "task": "Structured Data & Schema Mark-up",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "July",
+    "element": "Technical SEO",
+    "task": "Technical Audits",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "July",
+    "element": "Performance Marketing",
+    "task": "Search Engine Marketing",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "July",
+    "element": "Performance Marketing",
+    "task": "Social Media Advertising",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "July",
+    "element": "Performance Marketing",
+    "task": "Email Marketing",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "July",
+    "element": "Performance Marketing",
+    "task": "Conversion Rate Optimization (CRO)",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "July",
+    "element": "Performance Marketing",
+    "task": "Marketplace & Distributor",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "July",
+    "element": "Performance Marketing",
+    "task": "Social Media Optimization",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "July",
+    "element": "Brand Positioning & Thought Leadership",
+    "task": "Trend Stories & Listicles",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "July",
+    "element": "Brand Positioning & Thought Leadership",
+    "task": "Media Gifting",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "July",
+    "element": "Brand Positioning & Thought Leadership",
+    "task": "Press Release",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "July",
+    "element": "Brand Positioning & Thought Leadership",
+    "task": "Influencer Collaboration",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "July",
+    "element": "Content Marketing & Strategy",
+    "task": "Blog Categories & Sample Topics",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "July",
+    "element": "Content Marketing & Strategy",
+    "task": "Press & Thought Leadership",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "July",
+    "element": "Content Marketing & Strategy",
+    "task": "Customer Reviews",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "July",
+    "element": "Content Marketing & Strategy",
+    "task": "About Page",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "July",
+    "element": "Content Marketing & Strategy",
+    "task": "Landing Pages",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "August",
+    "element": "On-Page SEO",
+    "task": "Page Metadata",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "August",
+    "element": "On-Page SEO",
+    "task": "HTML Structure",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "August",
+    "element": "On-Page SEO",
+    "task": "Keyword Placement",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "August",
+    "element": "On-Page SEO",
+    "task": "Image Optimization",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "August",
+    "element": "On-Page SEO",
+    "task": "Internal Linking",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "August",
+    "element": "On-Page SEO",
+    "task": "Schema Markup",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "August",
+    "element": "On-Page SEO",
+    "task": "Content Optimization",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "August",
+    "element": "On-Page SEO",
+    "task": "Mobile Optimization",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "August",
+    "element": "On-Page SEO",
+    "task": "Blog Optimization",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "August",
+    "element": "On-Page SEO",
+    "task": "Core Web Vitals",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "August",
+    "element": "Off-Page SEO",
+    "task": "Backlink Strategy",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "August",
+    "element": "Off-Page SEO",
+    "task": "Social Bookmarking & Citations",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "August",
+    "element": "Off-Page SEO",
+    "task": "Competitor Backlink Analysis",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "August",
+    "element": "Off-Page SEO",
+    "task": "Content Strategy for Blog",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "August",
+    "element": "Off-Page SEO",
+    "task": "Blog Content Formats",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "August",
+    "element": "Off-Page SEO",
+    "task": "Keyword Research & Mapping",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "August",
+    "element": "Off-Page SEO",
+    "task": "Social Media & Brand Signals",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "August",
+    "element": "Off-Page SEO",
+    "task": "Performance Tracking",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "August",
+    "element": "Technical SEO",
+    "task": "Technical SEO Checklist",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "August",
+    "element": "Technical SEO",
+    "task": "Page Speed Performance",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "August",
+    "element": "Technical SEO",
+    "task": "URLs and Redirects",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "August",
+    "element": "Technical SEO",
+    "task": "Structured Data & Schema Mark-up",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "August",
+    "element": "Technical SEO",
+    "task": "Technical Audits",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "August",
+    "element": "Performance Marketing",
+    "task": "Search Engine Marketing",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "August",
+    "element": "Performance Marketing",
+    "task": "Social Media Advertising",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "August",
+    "element": "Performance Marketing",
+    "task": "Email Marketing",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "August",
+    "element": "Performance Marketing",
+    "task": "Conversion Rate Optimization (CRO)",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "August",
+    "element": "Performance Marketing",
+    "task": "Marketplace & Distributor",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "August",
+    "element": "Performance Marketing",
+    "task": "Social Media Optimization",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "August",
+    "element": "Brand Positioning & Thought Leadership",
+    "task": "Trend Stories & Listicles",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "August",
+    "element": "Brand Positioning & Thought Leadership",
+    "task": "Media Gifting",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "August",
+    "element": "Brand Positioning & Thought Leadership",
+    "task": "Press Release",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "August",
+    "element": "Brand Positioning & Thought Leadership",
+    "task": "Influencer Collaboration",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "August",
+    "element": "Content Marketing & Strategy",
+    "task": "Blog Categories & Sample Topics",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "August",
+    "element": "Content Marketing & Strategy",
+    "task": "Press & Thought Leadership",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "August",
+    "element": "Content Marketing & Strategy",
+    "task": "Customer Reviews",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "August",
+    "element": "Content Marketing & Strategy",
+    "task": "About Page",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "August",
+    "element": "Content Marketing & Strategy",
+    "task": "Landing Pages",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "September",
+    "element": "On-Page SEO",
+    "task": "Page Metadata",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "September",
+    "element": "On-Page SEO",
+    "task": "HTML Structure",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "September",
+    "element": "On-Page SEO",
+    "task": "Keyword Placement",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "September",
+    "element": "On-Page SEO",
+    "task": "Image Optimization",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "September",
+    "element": "On-Page SEO",
+    "task": "Internal Linking",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "September",
+    "element": "On-Page SEO",
+    "task": "Schema Markup",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "September",
+    "element": "On-Page SEO",
+    "task": "Content Optimization",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "September",
+    "element": "On-Page SEO",
+    "task": "Mobile Optimization",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "September",
+    "element": "On-Page SEO",
+    "task": "Blog Optimization",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "September",
+    "element": "On-Page SEO",
+    "task": "Core Web Vitals",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "September",
+    "element": "Off-Page SEO",
+    "task": "Backlink Strategy",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "September",
+    "element": "Off-Page SEO",
+    "task": "Social Bookmarking & Citations",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "September",
+    "element": "Off-Page SEO",
+    "task": "Competitor Backlink Analysis",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "September",
+    "element": "Off-Page SEO",
+    "task": "Content Strategy for Blog",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "September",
+    "element": "Off-Page SEO",
+    "task": "Blog Content Formats",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "September",
+    "element": "Off-Page SEO",
+    "task": "Keyword Research & Mapping",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "September",
+    "element": "Off-Page SEO",
+    "task": "Social Media & Brand Signals",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "September",
+    "element": "Off-Page SEO",
+    "task": "Performance Tracking",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "September",
+    "element": "Technical SEO",
+    "task": "Technical SEO Checklist",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "September",
+    "element": "Technical SEO",
+    "task": "Page Speed Performance",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "September",
+    "element": "Technical SEO",
+    "task": "URLs and Redirects",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "September",
+    "element": "Technical SEO",
+    "task": "Structured Data & Schema Mark-up",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "September",
+    "element": "Technical SEO",
+    "task": "Technical Audits",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "September",
+    "element": "Performance Marketing",
+    "task": "Search Engine Marketing",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "September",
+    "element": "Performance Marketing",
+    "task": "Social Media Advertising",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "September",
+    "element": "Performance Marketing",
+    "task": "Email Marketing",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "September",
+    "element": "Performance Marketing",
+    "task": "Conversion Rate Optimization (CRO)",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "September",
+    "element": "Performance Marketing",
+    "task": "Marketplace & Distributor",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "September",
+    "element": "Performance Marketing",
+    "task": "Social Media Optimization",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "September",
+    "element": "Brand Positioning & Thought Leadership",
+    "task": "Trend Stories & Listicles",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "September",
+    "element": "Brand Positioning & Thought Leadership",
+    "task": "Media Gifting",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "September",
+    "element": "Brand Positioning & Thought Leadership",
+    "task": "Press Release",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "September",
+    "element": "Brand Positioning & Thought Leadership",
+    "task": "Influencer Collaboration",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "September",
+    "element": "Content Marketing & Strategy",
+    "task": "Blog Categories & Sample Topics",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "September",
+    "element": "Content Marketing & Strategy",
+    "task": "Press & Thought Leadership",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "September",
+    "element": "Content Marketing & Strategy",
+    "task": "Customer Reviews",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "September",
+    "element": "Content Marketing & Strategy",
+    "task": "About Page",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "September",
+    "element": "Content Marketing & Strategy",
+    "task": "Landing Pages",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "October",
+    "element": "On-Page SEO",
+    "task": "Page Metadata",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "October",
+    "element": "On-Page SEO",
+    "task": "HTML Structure",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "October",
+    "element": "On-Page SEO",
+    "task": "Keyword Placement",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "October",
+    "element": "On-Page SEO",
+    "task": "Image Optimization",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "October",
+    "element": "On-Page SEO",
+    "task": "Internal Linking",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "October",
+    "element": "On-Page SEO",
+    "task": "Schema Markup",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "October",
+    "element": "On-Page SEO",
+    "task": "Content Optimization",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "October",
+    "element": "On-Page SEO",
+    "task": "Mobile Optimization",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "October",
+    "element": "On-Page SEO",
+    "task": "Blog Optimization",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "October",
+    "element": "On-Page SEO",
+    "task": "Core Web Vitals",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "October",
+    "element": "Off-Page SEO",
+    "task": "Backlink Strategy",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "October",
+    "element": "Off-Page SEO",
+    "task": "Social Bookmarking & Citations",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "October",
+    "element": "Off-Page SEO",
+    "task": "Competitor Backlink Analysis",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "October",
+    "element": "Off-Page SEO",
+    "task": "Content Strategy for Blog",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "October",
+    "element": "Off-Page SEO",
+    "task": "Blog Content Formats",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "October",
+    "element": "Off-Page SEO",
+    "task": "Keyword Research & Mapping",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "October",
+    "element": "Off-Page SEO",
+    "task": "Social Media & Brand Signals",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "October",
+    "element": "Off-Page SEO",
+    "task": "Performance Tracking",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "October",
+    "element": "Technical SEO",
+    "task": "Technical SEO Checklist",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "October",
+    "element": "Technical SEO",
+    "task": "Page Speed Performance",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "October",
+    "element": "Technical SEO",
+    "task": "URLs and Redirects",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "October",
+    "element": "Technical SEO",
+    "task": "Structured Data & Schema Mark-up",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "October",
+    "element": "Technical SEO",
+    "task": "Technical Audits",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "October",
+    "element": "Performance Marketing",
+    "task": "Search Engine Marketing",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "October",
+    "element": "Performance Marketing",
+    "task": "Social Media Advertising",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "October",
+    "element": "Performance Marketing",
+    "task": "Email Marketing",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "October",
+    "element": "Performance Marketing",
+    "task": "Conversion Rate Optimization (CRO)",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "October",
+    "element": "Performance Marketing",
+    "task": "Marketplace & Distributor",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "October",
+    "element": "Performance Marketing",
+    "task": "Social Media Optimization",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "October",
+    "element": "Brand Positioning & Thought Leadership",
+    "task": "Trend Stories & Listicles",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "October",
+    "element": "Brand Positioning & Thought Leadership",
+    "task": "Media Gifting",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "October",
+    "element": "Brand Positioning & Thought Leadership",
+    "task": "Press Release",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "October",
+    "element": "Brand Positioning & Thought Leadership",
+    "task": "Influencer Collaboration",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "October",
+    "element": "Content Marketing & Strategy",
+    "task": "Blog Categories & Sample Topics",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "October",
+    "element": "Content Marketing & Strategy",
+    "task": "Press & Thought Leadership",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "October",
+    "element": "Content Marketing & Strategy",
+    "task": "Customer Reviews",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "October",
+    "element": "Content Marketing & Strategy",
+    "task": "About Page",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "October",
+    "element": "Content Marketing & Strategy",
+    "task": "Landing Pages",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "November",
+    "element": "On-Page SEO",
+    "task": "Page Metadata",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "November",
+    "element": "On-Page SEO",
+    "task": "HTML Structure",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "November",
+    "element": "On-Page SEO",
+    "task": "Keyword Placement",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "November",
+    "element": "On-Page SEO",
+    "task": "Image Optimization",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "November",
+    "element": "On-Page SEO",
+    "task": "Internal Linking",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "November",
+    "element": "On-Page SEO",
+    "task": "Schema Markup",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "November",
+    "element": "On-Page SEO",
+    "task": "Content Optimization",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "November",
+    "element": "On-Page SEO",
+    "task": "Mobile Optimization",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "November",
+    "element": "On-Page SEO",
+    "task": "Blog Optimization",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "November",
+    "element": "On-Page SEO",
+    "task": "Core Web Vitals",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "November",
+    "element": "Off-Page SEO",
+    "task": "Backlink Strategy",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "November",
+    "element": "Off-Page SEO",
+    "task": "Social Bookmarking & Citations",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "November",
+    "element": "Off-Page SEO",
+    "task": "Competitor Backlink Analysis",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "November",
+    "element": "Off-Page SEO",
+    "task": "Content Strategy for Blog",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "November",
+    "element": "Off-Page SEO",
+    "task": "Blog Content Formats",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "November",
+    "element": "Off-Page SEO",
+    "task": "Keyword Research & Mapping",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "November",
+    "element": "Off-Page SEO",
+    "task": "Social Media & Brand Signals",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "November",
+    "element": "Off-Page SEO",
+    "task": "Performance Tracking",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "November",
+    "element": "Technical SEO",
+    "task": "Technical SEO Checklist",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "November",
+    "element": "Technical SEO",
+    "task": "Page Speed Performance",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "November",
+    "element": "Technical SEO",
+    "task": "URLs and Redirects",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "November",
+    "element": "Technical SEO",
+    "task": "Structured Data & Schema Mark-up",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "November",
+    "element": "Technical SEO",
+    "task": "Technical Audits",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "November",
+    "element": "Performance Marketing",
+    "task": "Search Engine Marketing",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "November",
+    "element": "Performance Marketing",
+    "task": "Social Media Advertising",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "November",
+    "element": "Performance Marketing",
+    "task": "Email Marketing",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "November",
+    "element": "Performance Marketing",
+    "task": "Conversion Rate Optimization (CRO)",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "November",
+    "element": "Performance Marketing",
+    "task": "Marketplace & Distributor",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "November",
+    "element": "Performance Marketing",
+    "task": "Social Media Optimization",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "November",
+    "element": "Brand Positioning & Thought Leadership",
+    "task": "Trend Stories & Listicles",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "November",
+    "element": "Brand Positioning & Thought Leadership",
+    "task": "Media Gifting",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "November",
+    "element": "Brand Positioning & Thought Leadership",
+    "task": "Press Release",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "November",
+    "element": "Brand Positioning & Thought Leadership",
+    "task": "Influencer Collaboration",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "November",
+    "element": "Content Marketing & Strategy",
+    "task": "Blog Categories & Sample Topics",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "November",
+    "element": "Content Marketing & Strategy",
+    "task": "Press & Thought Leadership",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "November",
+    "element": "Content Marketing & Strategy",
+    "task": "Customer Reviews",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "November",
+    "element": "Content Marketing & Strategy",
+    "task": "About Page",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "November",
+    "element": "Content Marketing & Strategy",
+    "task": "Landing Pages",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "December",
+    "element": "On-Page SEO",
+    "task": "Page Metadata",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "December",
+    "element": "On-Page SEO",
+    "task": "HTML Structure",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "December",
+    "element": "On-Page SEO",
+    "task": "Keyword Placement",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "December",
+    "element": "On-Page SEO",
+    "task": "Image Optimization",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "December",
+    "element": "On-Page SEO",
+    "task": "Internal Linking",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "December",
+    "element": "On-Page SEO",
+    "task": "Schema Markup",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "December",
+    "element": "On-Page SEO",
+    "task": "Content Optimization",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "December",
+    "element": "On-Page SEO",
+    "task": "Mobile Optimization",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "December",
+    "element": "On-Page SEO",
+    "task": "Blog Optimization",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "December",
+    "element": "On-Page SEO",
+    "task": "Core Web Vitals",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "December",
+    "element": "Off-Page SEO",
+    "task": "Backlink Strategy",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "December",
+    "element": "Off-Page SEO",
+    "task": "Social Bookmarking & Citations",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "December",
+    "element": "Off-Page SEO",
+    "task": "Competitor Backlink Analysis",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "December",
+    "element": "Off-Page SEO",
+    "task": "Content Strategy for Blog",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "December",
+    "element": "Off-Page SEO",
+    "task": "Blog Content Formats",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "December",
+    "element": "Off-Page SEO",
+    "task": "Keyword Research & Mapping",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "December",
+    "element": "Off-Page SEO",
+    "task": "Social Media & Brand Signals",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "December",
+    "element": "Off-Page SEO",
+    "task": "Performance Tracking",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "December",
+    "element": "Technical SEO",
+    "task": "Technical SEO Checklist",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "December",
+    "element": "Technical SEO",
+    "task": "Page Speed Performance",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "December",
+    "element": "Technical SEO",
+    "task": "URLs and Redirects",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "December",
+    "element": "Technical SEO",
+    "task": "Structured Data & Schema Mark-up",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "December",
+    "element": "Technical SEO",
+    "task": "Technical Audits",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "December",
+    "element": "Performance Marketing",
+    "task": "Search Engine Marketing",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "December",
+    "element": "Performance Marketing",
+    "task": "Social Media Advertising",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "December",
+    "element": "Performance Marketing",
+    "task": "Email Marketing",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "December",
+    "element": "Performance Marketing",
+    "task": "Conversion Rate Optimization (CRO)",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "December",
+    "element": "Performance Marketing",
+    "task": "Marketplace & Distributor",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "December",
+    "element": "Performance Marketing",
+    "task": "Social Media Optimization",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "December",
+    "element": "Brand Positioning & Thought Leadership",
+    "task": "Trend Stories & Listicles",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "December",
+    "element": "Brand Positioning & Thought Leadership",
+    "task": "Media Gifting",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "December",
+    "element": "Brand Positioning & Thought Leadership",
+    "task": "Press Release",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "December",
+    "element": "Brand Positioning & Thought Leadership",
+    "task": "Influencer Collaboration",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "December",
+    "element": "Content Marketing & Strategy",
+    "task": "Blog Categories & Sample Topics",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "December",
+    "element": "Content Marketing & Strategy",
+    "task": "Press & Thought Leadership",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "December",
+    "element": "Content Marketing & Strategy",
+    "task": "Customer Reviews",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "December",
+    "element": "Content Marketing & Strategy",
+    "task": "About Page",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "December",
+    "element": "Content Marketing & Strategy",
+    "task": "Landing Pages",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "Jan",
+    "element": "Monthly Pack (M1)",
+    "task": "Competitor/SKU watchlist update (new launches + key changes); \r\nPricing Snapshot (Top Changes / Movements across companies); \r\nSales Channel Trends Summary (D2C/Marketplace/Q-commerce / Offline)",
+    "team": "market-research"
+  },
+  {
+    "month": "Feb",
+    "element": "Monthly Pack (M2)",
+    "task": "Ingredient & format signal tracker / Analysis (rising/declining); \r\nConsumer demand/sentiment notes (key shifts / changes); \r\nCompetitor actions log (major moves, developments)",
+    "team": "market-research"
+  },
+  {
+    "month": "Mar (Q1 close)",
+    "element": "Quarterly Sales Intelligence Data + Quarterly Macro & Category Trends",
+    "task": "Deliver Q1 datasets: market size & sales dataset cuts (Product/Ingredient/Format), \r\nGlobal vs India benchmarks\r\nSales Channel dashboards\r\nCompetitor Pricing & Promotions + macro shifts / sentiment / Ayurveda×clinical narrative / ingredient megatrends.",
+    "team": "market-research"
+  },
+  {
+    "month": "Apr",
+    "element": "Monthly Pack (M4)",
+    "task": "Sales Channel Dashboard Snapshot (key changes only)\r\nRecent Developments Across Competitiors\r\nPrice Trends /  Changes (top SKUs/brands); \r\nNew ingredient/claim callouts captured in market",
+    "team": "market-research"
+  },
+  {
+    "month": "May",
+    "element": "Monthly Pack (M5)",
+    "task": "Monthly Refresh: \r\nIngredient preference signals, \r\nClaims Language Shifts, “mainstream vs rising” update; \r\nshortlist of “watch” ingredients/formats.\r\nNew product/format additions (kits/bundles/minis)",
+    "team": "market-research"
+  },
+  {
+    "month": "Jun (Q2 close)",
+    "element": "Quarterly Sales Intelligence Data + Quarterly Macro & Category Trends",
+    "task": "Deliver Q1 datasets: market size & sales dataset cuts (Product/Ingredient/Format), \r\nGlobal vs India benchmarks\r\nSales Channel dashboards\r\nCompetitor Pricing & Promotions + macro shifts / sentiment / Ayurveda×clinical narrative / ingredient megatrends.",
+    "team": "market-research"
+  },
+  {
+    "month": "Jul",
+    "element": "Monthly Pack (M7)",
+    "task": "Post-quarter change log (what shifted vs Q2 baseline); \r\nIngredient adoption cues refresh; Channel performance pulse (quick read)",
+    "team": "market-research"
+  },
+  {
+    "month": "Aug",
+    "element": "Monthly Pack (M8)",
+    "task": "Monthly Snapshot:\r\nCategory/consumer pulse dataset (concerns + spend cues); \r\nCompetitor SKU/pricing movement log; Ingredient/format trend tracker refresh",
+    "team": "market-research"
+  },
+  {
+    "month": "Sep (Q3 close)",
+    "element": "Quarterly Sales Intelligence Data + Quarterly Macro & Category Trends",
+    "task": "Deliver Q3 full pack: updated datasets + dashboards + \r\npricing/promos + \r\nquarterly trend storylines (what’s now “default” vs “next-wave”).",
+    "team": "market-research"
+  },
+  {
+    "month": "Oct",
+    "element": "Monthly Pack (M10)",
+    "task": "Pre-festive pricing/promo landscape snapshot; \r\nBundle/kit strategy tracker; \r\nIngredient + claim trends from festive campaign",
+    "team": "market-research"
+  },
+  {
+    "month": "Nov",
+    "element": "Monthly Pack (M11)",
+    "task": "Deep-dive Analysis / results on Agreed Theme / Narrative: Ingredients, Formats, or Channel economics/pricing; \r\nDetailed performance Comparison vs prior quarters.",
+    "team": "market-research"
+  },
+  {
+    "month": "Dec (Q4 close)",
+    "element": "Quarterly Sales Intelligence Data + Quarterly Macro & Category Trends + Annual Wrap",
+    "task": "Deliver Q4 full pack + a year-end consolidated view: what shifted across the year, key winners/losers, \r\nTop watchlist for next year.",
+    "team": "market-research"
+  },
+  {
+    "month": "January",
+    "element": "AI Strategy & Data Foundation",
+    "task": "Define AI objectives, success metrics, and use‑case prioritization",
+    "team": "artificial-intelligence"
+  },
+  {
+    "month": "January",
+    "element": "AI Strategy & Data Foundation",
+    "task": "Identify data sources for personalization, forecasting, and intelligence",
+    "team": "artificial-intelligence"
+  },
+  {
+    "month": "January",
+    "element": "AI Strategy & Data Foundation",
+    "task": "Design AI governance, safety, and brand‑control guidelines",
+    "team": "artificial-intelligence"
+  },
+  {
+    "month": "February",
+    "element": "AI Knowledge & Data Layer",
+    "task": "Structure product, ingredient, and Ayurvedic knowledge corpus",
+    "team": "artificial-intelligence"
+  },
+  {
+    "month": "February",
+    "element": "AI Knowledge & Data Layer",
+    "task": "Prepare datasets for embeddings, retrieval, and model training",
+    "team": "artificial-intelligence"
+  },
+  {
+    "month": "February",
+    "element": "AI Knowledge & Data Layer",
+    "task": "Validate data quality and consistency for AI readiness",
+    "team": "artificial-intelligence"
+  },
+  {
+    "month": "March",
+    "element": "AI Personalization Engine",
+    "task": "Design personalization logic for kit recommendations",
+    "team": "artificial-intelligence"
+  },
+  {
+    "month": "March",
+    "element": "AI Personalization Engine",
+    "task": "Model concern‑to‑ingredient and routine mapping",
+    "team": "artificial-intelligence"
+  },
+  {
+    "month": "March",
+    "element": "AI Personalization Engine",
+    "task": "Simulate recommendation accuracy and edge cases",
+    "team": "artificial-intelligence"
+  },
+  {
+    "month": "April",
+    "element": "AI Personalization Engine",
+    "task": "Train and refine recommendation models",
+    "team": "artificial-intelligence"
+  },
+  {
+    "month": "April",
+    "element": "AI Personalization Engine",
+    "task": "Implement feedback loops for recommendation improvement",
+    "team": "artificial-intelligence"
+  },
+  {
+    "month": "April",
+    "element": "AI Personalization Engine",
+    "task": "Calibrate models for conversion and trust optimization",
+    "team": "artificial-intelligence"
+  },
+  {
+    "month": "May",
+    "element": "AI Conversational Assistant",
+    "task": "Train conversational AI on Ayurvedic knowledge and product science",
+    "team": "artificial-intelligence"
+  },
+  {
+    "month": "May",
+    "element": "AI Conversational Assistant",
+    "task": "Define safe response boundaries and escalation logic",
+    "team": "artificial-intelligence"
+  },
+  {
+    "month": "May",
+    "element": "AI Conversational Assistant",
+    "task": "Test conversational accuracy across customer scenarios",
+    "team": "artificial-intelligence"
+  },
+  {
+    "month": "June",
+    "element": "AI Conversational Assistant",
+    "task": "Deploy conversational intelligence across customer journeys",
+    "team": "artificial-intelligence"
+  },
+  {
+    "month": "June",
+    "element": "AI Conversational Assistant",
+    "task": "Enable guided routines, follow‑ups, and personalization memory",
+    "team": "artificial-intelligence"
+  },
+  {
+    "month": "June",
+    "element": "AI Conversational Assistant",
+    "task": "Monitor responses and continuously retrain models",
+    "team": "artificial-intelligence"
+  },
+  {
+    "month": "July",
+    "element": "Customer Intelligence AI",
+    "task": "Model customer behavior patterns using AI clustering",
+    "team": "artificial-intelligence"
+  },
+  {
+    "month": "July",
+    "element": "Customer Intelligence AI",
+    "task": "Generate predictive insights for churn and retention",
+    "team": "artificial-intelligence"
+  },
+  {
+    "month": "July",
+    "element": "Customer Intelligence AI",
+    "task": "Surface AI‑driven insights via decision dashboards",
+    "team": "artificial-intelligence"
+  },
+  {
+    "month": "August",
+    "element": "Customer Intelligence AI",
+    "task": "Optimize segmentation and cohort prediction models",
+    "team": "artificial-intelligence"
+  },
+  {
+    "month": "August",
+    "element": "Customer Intelligence AI",
+    "task": "Improve recommendation and messaging relevance using insights",
+    "team": "artificial-intelligence"
+  },
+  {
+    "month": "August",
+    "element": "Customer Intelligence AI",
+    "task": "Automate insight generation for marketing and ops",
+    "team": "artificial-intelligence"
+  },
+  {
+    "month": "September",
+    "element": "Demand Forecasting AI",
+    "task": "Train demand prediction models using sales and seasonality data",
+    "team": "artificial-intelligence"
+  },
+  {
+    "month": "September",
+    "element": "Demand Forecasting AI",
+    "task": "Model regional demand and inventory velocity",
+    "team": "artificial-intelligence"
+  },
+  {
+    "month": "September",
+    "element": "Demand Forecasting AI",
+    "task": "Validate forecasts against real‑world signals",
+    "team": "artificial-intelligence"
+  },
+  {
+    "month": "October",
+    "element": "Demand Forecasting AI",
+    "task": "Refine forecasting accuracy with continuous learning",
+    "team": "artificial-intelligence"
+  },
+  {
+    "month": "October",
+    "element": "Demand Forecasting AI",
+    "task": "Generate AI‑driven replenishment recommendations",
+    "team": "artificial-intelligence"
+  },
+  {
+    "month": "October",
+    "element": "Demand Forecasting AI",
+    "task": "Align forecasts with promotion and growth signals",
+    "team": "artificial-intelligence"
+  },
+  {
+    "month": "November",
+    "element": "AI Optimization & Learning",
+    "task": "Run AI‑led optimization on recommendations and conversations",
+    "team": "artificial-intelligence"
+  },
+  {
+    "month": "November",
+    "element": "AI Optimization & Learning",
+    "task": "Continuously retrain models using live feedback",
+    "team": "artificial-intelligence"
+  },
+  {
+    "month": "November",
+    "element": "AI Optimization & Learning",
+    "task": "Improve AI impact on AOV and repeat purchase",
+    "team": "artificial-intelligence"
+  },
+  {
+    "month": "December",
+    "element": "AI Performance & Scale Planning",
+    "task": "Audit AI performance, accuracy, and business impact",
+    "team": "artificial-intelligence"
+  },
+  {
+    "month": "December",
+    "element": "AI Performance & Scale Planning",
+    "task": "Refine models based on annual learning",
+    "team": "artificial-intelligence"
+  },
+  {
+    "month": "December",
+    "element": "AI Performance & Scale Planning",
+    "task": "Plan AI scale‑up, automation, and next‑year enhancements",
+    "team": "artificial-intelligence"
+  }
+]
