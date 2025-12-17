@@ -219,8 +219,8 @@ export default function Home() {
 
   return (
     <div className="min-h-screen bg-gradient-to-br from-white via-emerald-50 to-teal-50">
-      {/* Logo in top left corner - fixed position */}
-      <div className="fixed top-6 left-6 z-50 pointer-events-auto">
+      {/* Logo in top left corner - scrolls with page */}
+      <div className="absolute top-6 left-6 z-10">
         <Image
           src="/logo.png"
           alt="Rituva Logo"
