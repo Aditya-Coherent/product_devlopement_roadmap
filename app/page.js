@@ -186,8 +186,7 @@ export default function Home() {
         grouped[month][item.element] = []
       }
       
-      const tasks = item.task.split(',').map(task => task.trim()).filter(task => task.length > 0)
-      grouped[month][item.element].push(...tasks)
+      grouped[month][item.element].push(item.task)
     })
 
     return grouped
@@ -204,8 +203,7 @@ export default function Home() {
   const totalTasks = () => {
     let count = 0
     filteredData.forEach(item => {
-      const tasks = item.task.split(',').map(task => task.trim()).filter(task => task.length > 0)
-      count += tasks.length
+      count += 1
     })
     return count
   }
