@@ -60,7 +60,10 @@ with open('public/7am.csv', 'r', encoding='utf-8-sig') as f:
         
         # Fallback values
         category = current_category if current_category else 'Digital Marketing'
-        element = current_element if current_element else 'Other'
+        # SWAP: subElement from CSV (col_subelement) becomes element in JSON
+        # SWAP: element from CSV (current_element) becomes subElement in JSON
+        element = col_subelement if col_subelement else 'Other'
+        subelement = current_element if current_element else 'Other'
         
         # Clean task (remove leading bullet points)
         task = col_task
@@ -72,8 +75,8 @@ with open('public/7am.csv', 'r', encoding='utf-8-sig') as f:
             entry = {
                 'month': month,
                 'category': category,
-                'element': element,
-                'subElement': col_subelement,
+                'subElement': subelement,  # Now contains "A. Page Metadata" etc
+                'element': element,         # Now contains "i. Page Title Optimization" etc
                 'task': task,
                 'monthlyTask': col_monthly_task,
                 'team': 'digital-marketing'
@@ -85,14 +88,7 @@ with open('public/digital-marketing-data.json', 'w', encoding='utf-8') as f:
     json.dump(data, f, indent=2, ensure_ascii=False)
 
 print(f"Successfully created digital-marketing-data.json with {len(data)} entries")
-print("\nBreakdown by category and month:")
-summary = {}
-for entry in data:
-    key = (entry['category'], entry['month'])
-    if key not in summary:
-        summary[key] = 0
-    summary[key] += 1
-
+print("\nTotal by category:")
 categories = {}
 for entry in data:
     cat = entry['category']
@@ -100,22 +96,14 @@ for entry in data:
         categories[cat] = 0
     categories[cat] += 1
 
-print("\nTotal by category:")
 for cat in sorted(categories.keys()):
     print(f"  {cat}: {categories[cat]}")
 
-print("\nSample from January (first 3 from each category):")
-categories_seen = {}
-for entry in data:
-    if entry['month'] == 'January':
-        cat = entry['category']
-        if cat not in categories_seen:
-            categories_seen[cat] = []
-        if len(categories_seen[cat]) < 3:
-            categories_seen[cat].append(entry)
-
-for cat in sorted(categories_seen.keys()):
-    print(f"\n{cat}:")
-    for e in categories_seen[cat]:
-        print(f"  - {e['element']} > {e['subElement']}: {e['task'][:60]}...")
-
+print("\nSample from January (showing swapped structure):")
+jan_entries = [e for e in data if e['month'] == 'January']
+for entry in jan_entries[:5]:
+    print(f"  Category: {entry['category']}")
+    print(f"  SubElement: {entry['subElement']}")
+    print(f"  Element: {entry['element']}")
+    print(f"  Task: {entry['task'][:60]}...")
+    print(f"  Monthly Task: {entry['monthlyTask']}\n")

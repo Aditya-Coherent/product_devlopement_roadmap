@@ -187,12 +187,14 @@ export default function Home() {
         grouped[month][category] = {}
       }
       
-      const element = item.element || 'Other'
-      if (!grouped[month][category][element]) {
-        grouped[month][category][element] = []
+      // For digital marketing, group by subElement; for others, group by element
+      const groupKey = teamFilter === 'digital-marketing' ? (item.subElement || 'Other') : (item.element || 'Other')
+      if (!grouped[month][category][groupKey]) {
+        grouped[month][category][groupKey] = []
       }
       
-      grouped[month][category][element].push({
+      grouped[month][category][groupKey].push({
+        element: item.element || '',
         subElement: item.subElement || '',
         task: item.task || '',
         monthlyTask: item.monthlyTask || '',
@@ -443,18 +445,18 @@ export default function Home() {
                                   </tr>
                                 </thead>
                                 <tbody>
-                                  {Object.keys(grouped[month][category]).map((element, elementIndex) => {
-                                    const items = grouped[month][category][element]
+                                  {Object.keys(grouped[month][category]).map((groupKey, elementIndex) => {
+                                    const items = grouped[month][category][groupKey]
                                     return items.map((item, itemIndex) => (
                                       <tr 
-                                        key={`${element}-${itemIndex}`}
+                                        key={`${groupKey}-${itemIndex}`}
                                         className={`border-b border-emerald-100 hover:bg-emerald-50 transition-colors ${itemIndex % 2 === 0 ? 'bg-white' : 'bg-emerald-50/30'}`}
                                       >
                                         <td className="border border-emerald-200 px-4 py-3 text-sm text-gray-700 font-medium">
-                                          {itemIndex === 0 ? element : ''}
+                                          {itemIndex === 0 ? (teamFilter === 'digital-marketing' ? groupKey : groupKey) : ''}
                                         </td>
                                         <td className="border border-emerald-200 px-4 py-3 text-sm text-gray-700 whitespace-pre-wrap">
-                                          {item.task}
+                                          {teamFilter === 'digital-marketing' ? item.element : item.task}
                                         </td>
                                         {teamFilter !== 'human-resources' && teamFilter !== 'market-research' && (
                                           <td className="border border-emerald-200 px-4 py-3 text-sm text-gray-600 italic whitespace-pre-wrap">
