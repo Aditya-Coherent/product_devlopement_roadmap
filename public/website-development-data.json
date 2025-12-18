@@ -13,8 +13,8 @@
     "category": "Web Development",
     "element": "Website Design and Development",
     "task": "Payment gateway & shipping integration",
-    "monthlyTask": "One time setup and integration",
-    "monthlyQuantifiable": "No",
+    "monthlyTask": "",
+    "monthlyQuantifiable": "",
     "team": "website"
   },
   {
@@ -22,8 +22,8 @@
     "category": "Web Development",
     "element": "Website Design and Development",
     "task": "SEO-friendly structure & content setup",
-    "monthlyTask": "One time setup and integration",
-    "monthlyQuantifiable": "No",
+    "monthlyTask": "",
+    "monthlyQuantifiable": "",
     "team": "website"
   },
   {
@@ -31,8 +31,8 @@
     "category": "Web Development",
     "element": "Website Design and Development",
     "task": "Reviews, ratings & UGC integration",
-    "monthlyTask": "One time setup and integration",
-    "monthlyQuantifiable": "No",
+    "monthlyTask": "",
+    "monthlyQuantifiable": "",
     "team": "website"
   },
   {
@@ -40,8 +40,8 @@
     "category": "Web Development",
     "element": "Website Design and Development",
     "task": "Email automation + remarketing setup",
-    "monthlyTask": "One time setup and integration",
-    "monthlyQuantifiable": "No",
+    "monthlyTask": "",
+    "monthlyQuantifiable": "",
     "team": "website"
   },
   {
@@ -443,7 +443,7 @@
   {
     "month": "January",
     "category": "Web Development",
-    "element": "Website Development",
+    "element": "Website Speed Optimization",
     "task": "CDN Monitoring and Required configurations",
     "monthlyTask": "Monitor CDN Performance, Check CDN Cache Hit Rate, Update and Optimize Static Assets, Purge CDN Cache Regularly, Review CDN Configuration and Settings, Analyze Geographical Load Distribution, Convert Image Conversion to WebP and Review Security Settings",
     "monthlyQuantifiable": "Yes",
@@ -452,7 +452,7 @@
   {
     "month": "February",
     "category": "Web Development",
-    "element": "Website Development",
+    "element": "Website Speed Optimization",
     "task": "CDN Monitoring and Required configurations",
     "monthlyTask": "Monitor CDN Performance, Check CDN Cache Hit Rate, Update and Optimize Static Assets, Purge CDN Cache Regularly, Review CDN Configuration and Settings, Analyze Geographical Load Distribution, Convert Image Conversion to WebP and Review Security Settings",
     "monthlyQuantifiable": "Yes",
@@ -461,7 +461,7 @@
   {
     "month": "March",
     "category": "Web Development",
-    "element": "Website Development",
+    "element": "Website Speed Optimization",
     "task": "CDN Monitoring and Required configurations",
     "monthlyTask": "Monitor CDN Performance, Check CDN Cache Hit Rate, Update and Optimize Static Assets, Purge CDN Cache Regularly, Review CDN Configuration and Settings, Analyze Geographical Load Distribution, Convert Image Conversion to WebP and Review Security Settings",
     "monthlyQuantifiable": "Yes",
@@ -470,7 +470,7 @@
   {
     "month": "April",
     "category": "Web Development",
-    "element": "Website Development",
+    "element": "Website Speed Optimization",
     "task": "CDN Monitoring and Required configurations",
     "monthlyTask": "Monitor CDN Performance, Check CDN Cache Hit Rate, Update and Optimize Static Assets, Purge CDN Cache Regularly, Review CDN Configuration and Settings, Analyze Geographical Load Distribution, Convert Image Conversion to WebP and Review Security Settings",
     "monthlyQuantifiable": "Yes",
@@ -479,7 +479,7 @@
   {
     "month": "May",
     "category": "Web Development",
-    "element": "Website Development",
+    "element": "Website Speed Optimization",
     "task": "CDN Monitoring and Required configurations",
     "monthlyTask": "Monitor CDN Performance, Check CDN Cache Hit Rate, Update and Optimize Static Assets, Purge CDN Cache Regularly, Review CDN Configuration and Settings, Analyze Geographical Load Distribution, Convert Image Conversion to WebP and Review Security Settings",
     "monthlyQuantifiable": "Yes",
@@ -488,7 +488,7 @@
   {
     "month": "June",
     "category": "Web Development",
-    "element": "Website Development",
+    "element": "Website Speed Optimization",
     "task": "CDN Monitoring and Required configurations",
     "monthlyTask": "Monitor CDN Performance, Check CDN Cache Hit Rate, Update and Optimize Static Assets, Purge CDN Cache Regularly, Review CDN Configuration and Settings, Analyze Geographical Load Distribution, Convert Image Conversion to WebP and Review Security Settings",
     "monthlyQuantifiable": "Yes",
@@ -497,7 +497,7 @@
   {
     "month": "July",
     "category": "Web Development",
-    "element": "Website Development",
+    "element": "Website Speed Optimization",
     "task": "CDN Monitoring and Required configurations",
     "monthlyTask": "Monitor CDN Performance, Check CDN Cache Hit Rate, Update and Optimize Static Assets, Purge CDN Cache Regularly, Review CDN Configuration and Settings, Analyze Geographical Load Distribution, Convert Image Conversion to WebP and Review Security Settings",
     "monthlyQuantifiable": "Yes",
@@ -506,7 +506,7 @@
   {
     "month": "August",
     "category": "Web Development",
-    "element": "Website Development",
+    "element": "Website Speed Optimization",
     "task": "CDN Monitoring and Required configurations",
     "monthlyTask": "Monitor CDN Performance, Check CDN Cache Hit Rate, Update and Optimize Static Assets, Purge CDN Cache Regularly, Review CDN Configuration and Settings, Analyze Geographical Load Distribution, Convert Image Conversion to WebP and Review Security Settings",
     "monthlyQuantifiable": "Yes",
@@ -515,7 +515,7 @@
   {
     "month": "September",
     "category": "Web Development",
-    "element": "Website Development",
+    "element": "Website Speed Optimization",
     "task": "CDN Monitoring and Required configurations",
     "monthlyTask": "Monitor CDN Performance, Check CDN Cache Hit Rate, Update and Optimize Static Assets, Purge CDN Cache Regularly, Review CDN Configuration and Settings, Analyze Geographical Load Distribution, Convert Image Conversion to WebP and Review Security Settings",
     "monthlyQuantifiable": "Yes",
@@ -524,7 +524,7 @@
   {
     "month": "October",
     "category": "Web Development",
-    "element": "Website Development",
+    "element": "Website Speed Optimization",
     "task": "CDN Monitoring and Required configurations",
     "monthlyTask": "Monitor CDN Performance, Check CDN Cache Hit Rate, Update and Optimize Static Assets, Purge CDN Cache Regularly, Review CDN Configuration and Settings, Analyze Geographical Load Distribution, Convert Image Conversion to WebP and Review Security Settings",
     "monthlyQuantifiable": "Yes",
@@ -533,7 +533,7 @@
   {
     "month": "November",
     "category": "Web Development",
-    "element": "Website Development",
+    "element": "Website Speed Optimization",
     "task": "CDN Monitoring and Required configurations",
     "monthlyTask": "Monitor CDN Performance, Check CDN Cache Hit Rate, Update and Optimize Static Assets, Purge CDN Cache Regularly, Review CDN Configuration and Settings, Analyze Geographical Load Distribution, Convert Image Conversion to WebP and Review Security Settings",
     "monthlyQuantifiable": "Yes",
@@ -542,7 +542,7 @@
   {
     "month": "December",
     "category": "Web Development",
-    "element": "Website Development",
+    "element": "Website Speed Optimization",
     "task": "CDN Monitoring and Required configurations",
     "monthlyTask": "Monitor CDN Performance, Check CDN Cache Hit Rate, Update and Optimize Static Assets, Purge CDN Cache Regularly, Review CDN Configuration and Settings, Analyze Geographical Load Distribution, Convert Image Conversion to WebP and Review Security Settings",
     "monthlyQuantifiable": "Yes",
@@ -1757,7 +1757,7 @@
   {
     "month": "January",
     "category": "Web Development",
-    "element": "Website Development",
+    "element": "Mobile Optimization",
     "task": "Mobile Friendly Issues Fixing",
     "monthlyTask": "Monthly 10-20",
     "monthlyQuantifiable": "Yes",
@@ -1766,7 +1766,7 @@
   {
     "month": "February",
     "category": "Web Development",
-    "element": "Website Development",
+    "element": "Mobile Optimization",
     "task": "Mobile Friendly Issues Fixing",
     "monthlyTask": "Monthly 10-20",
     "monthlyQuantifiable": "Yes",
@@ -1775,7 +1775,7 @@
   {
     "month": "March",
     "category": "Web Development",
-    "element": "Website Development",
+    "element": "Mobile Optimization",
     "task": "Mobile Friendly Issues Fixing",
     "monthlyTask": "Monthly 10-20",
     "monthlyQuantifiable": "Yes",
@@ -1784,7 +1784,7 @@
   {
     "month": "April",
     "category": "Web Development",
-    "element": "Website Development",
+    "element": "Mobile Optimization",
     "task": "Mobile Friendly Issues Fixing",
     "monthlyTask": "Monthly 10-20",
     "monthlyQuantifiable": "Yes",
@@ -1793,7 +1793,7 @@
   {
     "month": "May",
     "category": "Web Development",
-    "element": "Website Development",
+    "element": "Mobile Optimization",
     "task": "Mobile Friendly Issues Fixing",
     "monthlyTask": "Monthly 10-20",
     "monthlyQuantifiable": "Yes",
@@ -1802,7 +1802,7 @@
   {
     "month": "June",
     "category": "Web Development",
-    "element": "Website Development",
+    "element": "Mobile Optimization",
     "task": "Mobile Friendly Issues Fixing",
     "monthlyTask": "Monthly 10-20",
     "monthlyQuantifiable": "Yes",
@@ -1811,7 +1811,7 @@
   {
     "month": "July",
     "category": "Web Development",
-    "element": "Website Development",
+    "element": "Mobile Optimization",
     "task": "Mobile Friendly Issues Fixing",
     "monthlyTask": "Monthly 10-20",
     "monthlyQuantifiable": "Yes",
@@ -1820,7 +1820,7 @@
   {
     "month": "August",
     "category": "Web Development",
-    "element": "Website Development",
+    "element": "Mobile Optimization",
     "task": "Mobile Friendly Issues Fixing",
     "monthlyTask": "Monthly 10-20",
     "monthlyQuantifiable": "Yes",
@@ -1829,7 +1829,7 @@
   {
     "month": "September",
     "category": "Web Development",
-    "element": "Website Development",
+    "element": "Mobile Optimization",
     "task": "Mobile Friendly Issues Fixing",
     "monthlyTask": "Monthly 10-20",
     "monthlyQuantifiable": "Yes",
@@ -1838,7 +1838,7 @@
   {
     "month": "October",
     "category": "Web Development",
-    "element": "Website Development",
+    "element": "Mobile Optimization",
     "task": "Mobile Friendly Issues Fixing",
     "monthlyTask": "Monthly 10-20",
     "monthlyQuantifiable": "Yes",
@@ -1847,7 +1847,7 @@
   {
     "month": "November",
     "category": "Web Development",
-    "element": "Website Development",
+    "element": "Mobile Optimization",
     "task": "Mobile Friendly Issues Fixing",
     "monthlyTask": "Monthly 10-20",
     "monthlyQuantifiable": "Yes",
@@ -1856,7 +1856,7 @@
   {
     "month": "December",
     "category": "Web Development",
-    "element": "Website Development",
+    "element": "Mobile Optimization",
     "task": "Mobile Friendly Issues Fixing",
     "monthlyTask": "Monthly 10-20",
     "monthlyQuantifiable": "Yes",
@@ -2297,7 +2297,7 @@
   {
     "month": "January",
     "category": "Web Development",
-    "element": "Website Development",
+    "element": "Load Testing",
     "task": "Monitor Shopping Cart Load",
     "monthlyTask": "Weekly Monitoring and actions taking",
     "monthlyQuantifiable": "Yes",
@@ -2306,7 +2306,7 @@
   {
     "month": "February",
     "category": "Web Development",
-    "element": "Website Development",
+    "element": "Load Testing",
     "task": "Monitor Shopping Cart Load",
     "monthlyTask": "Weekly Monitoring and actions taking",
     "monthlyQuantifiable": "Yes",
@@ -2315,7 +2315,7 @@
   {
     "month": "March",
     "category": "Web Development",
-    "element": "Website Development",
+    "element": "Load Testing",
     "task": "Monitor Shopping Cart Load",
     "monthlyTask": "Weekly Monitoring and actions taking",
     "monthlyQuantifiable": "Yes",
@@ -2324,7 +2324,7 @@
   {
     "month": "April",
     "category": "Web Development",
-    "element": "Website Development",
+    "element": "Load Testing",
     "task": "Monitor Shopping Cart Load",
     "monthlyTask": "Weekly Monitoring and actions taking",
     "monthlyQuantifiable": "Yes",
@@ -2333,7 +2333,7 @@
   {
     "month": "May",
     "category": "Web Development",
-    "element": "Website Development",
+    "element": "Load Testing",
     "task": "Monitor Shopping Cart Load",
     "monthlyTask": "Weekly Monitoring and actions taking",
     "monthlyQuantifiable": "Yes",
@@ -2342,7 +2342,7 @@
   {
     "month": "June",
     "category": "Web Development",
-    "element": "Website Development",
+    "element": "Load Testing",
     "task": "Monitor Shopping Cart Load",
     "monthlyTask": "Weekly Monitoring and actions taking",
     "monthlyQuantifiable": "Yes",
@@ -2351,7 +2351,7 @@
   {
     "month": "July",
     "category": "Web Development",
-    "element": "Website Development",
+    "element": "Load Testing",
     "task": "Monitor Shopping Cart Load",
     "monthlyTask": "Weekly Monitoring and actions taking",
     "monthlyQuantifiable": "Yes",
@@ -2360,7 +2360,7 @@
   {
     "month": "August",
     "category": "Web Development",
-    "element": "Website Development",
+    "element": "Load Testing",
     "task": "Monitor Shopping Cart Load",
     "monthlyTask": "Weekly Monitoring and actions taking",
     "monthlyQuantifiable": "Yes",
@@ -2369,7 +2369,7 @@
   {
     "month": "September",
     "category": "Web Development",
-    "element": "Website Development",
+    "element": "Load Testing",
     "task": "Monitor Shopping Cart Load",
     "monthlyTask": "Weekly Monitoring and actions taking",
     "monthlyQuantifiable": "Yes",
@@ -2378,7 +2378,7 @@
   {
     "month": "October",
     "category": "Web Development",
-    "element": "Website Development",
+    "element": "Load Testing",
     "task": "Monitor Shopping Cart Load",
     "monthlyTask": "Weekly Monitoring and actions taking",
     "monthlyQuantifiable": "Yes",
@@ -2387,7 +2387,7 @@
   {
     "month": "November",
     "category": "Web Development",
-    "element": "Website Development",
+    "element": "Load Testing",
     "task": "Monitor Shopping Cart Load",
     "monthlyTask": "Weekly Monitoring and actions taking",
     "monthlyQuantifiable": "Yes",
@@ -2396,7 +2396,7 @@
   {
     "month": "December",
     "category": "Web Development",
-    "element": "Website Development",
+    "element": "Load Testing",
     "task": "Monitor Shopping Cart Load",
     "monthlyTask": "Weekly Monitoring and actions taking",
     "monthlyQuantifiable": "Yes",
@@ -2630,7 +2630,7 @@
   {
     "month": "January",
     "category": "Web Development",
-    "element": "Website Development",
+    "element": "Security and Performance",
     "task": "Security Monitoring",
     "monthlyTask": "Weekly Activity 2 times",
     "monthlyQuantifiable": "Yes",
@@ -2639,7 +2639,7 @@
   {
     "month": "February",
     "category": "Web Development",
-    "element": "Website Development",
+    "element": "Security and Performance",
     "task": "Security Monitoring",
     "monthlyTask": "Weekly Activity 2 times",
     "monthlyQuantifiable": "Yes",
@@ -2648,7 +2648,7 @@
   {
     "month": "March",
     "category": "Web Development",
-    "element": "Website Development",
+    "element": "Security and Performance",
     "task": "Security Monitoring",
     "monthlyTask": "Weekly Activity 2 times",
     "monthlyQuantifiable": "Yes",
@@ -2657,7 +2657,7 @@
   {
     "month": "April",
     "category": "Web Development",
-    "element": "Website Development",
+    "element": "Security and Performance",
     "task": "Security Monitoring",
     "monthlyTask": "Weekly Activity 2 times",
     "monthlyQuantifiable": "Yes",
@@ -2666,7 +2666,7 @@
   {
     "month": "May",
     "category": "Web Development",
-    "element": "Website Development",
+    "element": "Security and Performance",
     "task": "Security Monitoring",
     "monthlyTask": "Weekly Activity 2 times",
     "monthlyQuantifiable": "Yes",
@@ -2675,7 +2675,7 @@
   {
     "month": "June",
     "category": "Web Development",
-    "element": "Website Development",
+    "element": "Security and Performance",
     "task": "Security Monitoring",
     "monthlyTask": "Weekly Activity 2 times",
     "monthlyQuantifiable": "Yes",
@@ -2684,7 +2684,7 @@
   {
     "month": "July",
     "category": "Web Development",
-    "element": "Website Development",
+    "element": "Security and Performance",
     "task": "Security Monitoring",
     "monthlyTask": "Weekly Activity 2 times",
     "monthlyQuantifiable": "Yes",
@@ -2693,7 +2693,7 @@
   {
     "month": "August",
     "category": "Web Development",
-    "element": "Website Development",
+    "element": "Security and Performance",
     "task": "Security Monitoring",
     "monthlyTask": "Weekly Activity 2 times",
     "monthlyQuantifiable": "Yes",
@@ -2702,7 +2702,7 @@
   {
     "month": "September",
     "category": "Web Development",
-    "element": "Website Development",
+    "element": "Security and Performance",
     "task": "Security Monitoring",
     "monthlyTask": "Weekly Activity 2 times",
     "monthlyQuantifiable": "Yes",
@@ -2711,7 +2711,7 @@
   {
     "month": "October",
     "category": "Web Development",
-    "element": "Website Development",
+    "element": "Security and Performance",
     "task": "Security Monitoring",
     "monthlyTask": "Weekly Activity 2 times",
     "monthlyQuantifiable": "Yes",
@@ -2720,7 +2720,7 @@
   {
     "month": "November",
     "category": "Web Development",
-    "element": "Website Development",
+    "element": "Security and Performance",
     "task": "Security Monitoring",
     "monthlyTask": "Weekly Activity 2 times",
     "monthlyQuantifiable": "Yes",
@@ -2729,7 +2729,7 @@
   {
     "month": "December",
     "category": "Web Development",
-    "element": "Website Development",
+    "element": "Security and Performance",
     "task": "Security Monitoring",
     "monthlyTask": "Weekly Activity 2 times",
     "monthlyQuantifiable": "Yes",
