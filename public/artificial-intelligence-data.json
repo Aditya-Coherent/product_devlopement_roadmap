@@ -53,7 +53,7 @@
     "month": "March",
     "element": "Custom Kit Builder",
     "task": "Fix incorrect or confusing recommendations reported by users",
-    "monthlyTask": "NA",
+    "monthlyTask": "Monthly analysis",
     "monthlyQuantifiable": "NA",
     "team": "artificial-intelligence"
   },
@@ -87,7 +87,7 @@
     "month": "May",
     "element": "AI Chat Assistant",
     "task": "Update responses based on new products or customer questions",
-    "monthlyTask": "NA",
+    "monthlyTask": "Monthly analysis",
     "monthlyQuantifiable": "NA",
     "team": "artificial-intelligence"
   },
@@ -130,7 +130,7 @@
     "month": "August",
     "element": "Customer Intelligence",
     "task": "Use customer insights to improve recommendations, messaging, and follow-ups",
-    "monthlyTask": "NA",
+    "monthlyTask": "Monthly analysis",
     "monthlyQuantifiable": "NA",
     "team": "artificial-intelligence"
   },
@@ -172,7 +172,7 @@
     "month": "October",
     "element": "Demand Forecasting",
     "task": "Align demand insights with upcoming offers or promotions",
-    "monthlyTask": "NA",
+    "monthlyTask": "Monthly analysis",
     "monthlyQuantifiable": "NA",
     "team": "artificial-intelligence"
   },
@@ -189,7 +189,7 @@
     "month": "November",
     "element": "AI Optimization",
     "task": "Fix issues or gaps identified during performance reviews",
-    "monthlyTask": "NA",
+    "monthlyTask": "Monthly analysis",
     "monthlyQuantifiable": "NA",
     "team": "artificial-intelligence"
   },
