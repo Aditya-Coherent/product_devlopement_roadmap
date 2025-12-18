@@ -460,7 +460,7 @@ export default function Home() {
                                     <th className="border border-emerald-200 px-4 py-3 text-left font-semibold text-gray-800 text-sm">
                                       {teamFilter === 'digital-marketing' ? 'Element' : 'Element'}
                                     </th>
-                                    {teamFilter === 'digital-marketing' && (
+                                    {teamFilter === 'digital-marketing' && !['Technical SEO', 'Brand Positioning & Thought Leadership', 'Content Marketing & Strategy'].includes(category) && (
                                       <th className="border border-emerald-200 px-4 py-3 text-left font-semibold text-gray-800 text-sm">Sub-element</th>
                                     )}
                                     <th className="border border-emerald-200 px-4 py-3 text-left font-semibold text-gray-800 text-sm">Task</th>
@@ -518,7 +518,7 @@ export default function Home() {
                                         <td className="border border-emerald-200 px-4 py-3 text-sm text-gray-700 font-medium">
                                           {itemIndex === 0 ? groupKey : ''}
                                         </td>
-                                        {teamFilter === 'digital-marketing' && subElementSpans[itemIndex] && (
+                                        {teamFilter === 'digital-marketing' && !['Technical SEO', 'Brand Positioning & Thought Leadership', 'Content Marketing & Strategy'].includes(category) && subElementSpans[itemIndex] && (
                                           <td 
                                             className="border border-emerald-200 px-4 py-3 text-sm text-gray-700 whitespace-pre-wrap"
                                             rowSpan={subElementSpans[itemIndex]}
