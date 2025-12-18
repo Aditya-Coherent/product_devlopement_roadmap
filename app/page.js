@@ -336,24 +336,6 @@ export default function Home() {
           </div>
         </motion.div>
 
-        {/* Summary Button */}
-        <motion.div
-          initial={{ opacity: 0, y: 20 }}
-          animate={{ opacity: 1, y: 0 }}
-          transition={{ duration: 0.5, delay: 0.35 }}
-          className="mb-8 flex justify-center"
-        >
-          <a
-            href="/CMI.pdf"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="inline-flex items-center gap-2 bg-emerald-600 hover:bg-emerald-700 text-white font-semibold py-3 px-6 rounded-xl shadow-lg hover:shadow-xl transition-all transform hover:scale-105"
-          >
-            <FileText className="w-5 h-5" />
-            Summary
-          </a>
-        </motion.div>
-
         {/* Stats */}
         {!isLoading && excelData.length > 0 && (
           <motion.div
