@@ -454,24 +454,6 @@ export default function Home() {
                                     // Check if all sub-elements are "Other" - if so, hide the column
                                     const hasSubElements = teamFilter === 'digital-marketing' && items.some(item => item.subElement !== 'Other')
                                     
-                                    // Calculate row spans for monthly tasks (merge cells)
-                                    const monthlyTaskSpans = {}
-                                    let currentMonthly = null
-                                    let spanStart = 0
-                                    
-                                    items.forEach((item, idx) => {
-                                      if (item.monthlyTask !== currentMonthly) {
-                                        if (currentMonthly !== null) {
-                                          monthlyTaskSpans[spanStart] = idx - spanStart
-                                        }
-                                        currentMonthly = item.monthlyTask
-                                        spanStart = idx
-                                      }
-                                    })
-                                    if (currentMonthly !== null) {
-                                      monthlyTaskSpans[spanStart] = items.length - spanStart
-                                    }
-                                    
                                     // Calculate row spans for sub-elements (merge cells)
                                     const subElementSpans = {}
                                     let currentSubElement = null
@@ -488,6 +470,24 @@ export default function Home() {
                                     })
                                     if (currentSubElement !== null) {
                                       subElementSpans[subSpanStart] = items.length - subSpanStart
+                                    }
+                                    
+                                    // Calculate row spans for monthly tasks (merge cells)
+                                    const monthlyTaskSpans = {}
+                                    let currentMonthly = null
+                                    let spanStart = 0
+                                    
+                                    items.forEach((item, idx) => {
+                                      if (item.monthlyTask !== currentMonthly) {
+                                        if (currentMonthly !== null) {
+                                          monthlyTaskSpans[spanStart] = idx - spanStart
+                                        }
+                                        currentMonthly = item.monthlyTask
+                                        spanStart = idx
+                                      }
+                                    })
+                                    if (currentMonthly !== null) {
+                                      monthlyTaskSpans[spanStart] = items.length - spanStart
                                     }
                                     
                                     return items.map((item, itemIndex) => (
