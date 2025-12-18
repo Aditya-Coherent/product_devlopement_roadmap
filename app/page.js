@@ -187,8 +187,8 @@ export default function Home() {
         grouped[month][category] = {}
       }
       
-      // For digital marketing, group by subElement; for others, group by element
-      const groupKey = teamFilter === 'digital-marketing' ? (item.subElement || 'Other') : (item.element || 'Other')
+      // For digital marketing, group by element; for others, group by element
+      const groupKey = item.element || 'Other'
       if (!grouped[month][category][groupKey]) {
         grouped[month][category][groupKey] = []
       }
@@ -453,10 +453,10 @@ export default function Home() {
                                         className={`border-b border-emerald-100 hover:bg-emerald-50 transition-colors ${itemIndex % 2 === 0 ? 'bg-white' : 'bg-emerald-50/30'}`}
                                       >
                                         <td className="border border-emerald-200 px-4 py-3 text-sm text-gray-700 font-medium">
-                                          {itemIndex === 0 ? (teamFilter === 'digital-marketing' ? groupKey : groupKey) : ''}
+                                          {itemIndex === 0 ? groupKey : ''}
                                         </td>
                                         <td className="border border-emerald-200 px-4 py-3 text-sm text-gray-700 whitespace-pre-wrap">
-                                          {teamFilter === 'digital-marketing' ? item.element : item.task}
+                                          {teamFilter === 'digital-marketing' ? item.subElement : item.task}
                                         </td>
                                         {teamFilter !== 'human-resources' && teamFilter !== 'market-research' && (
                                           <td className="border border-emerald-200 px-4 py-3 text-sm text-gray-600 italic whitespace-pre-wrap">

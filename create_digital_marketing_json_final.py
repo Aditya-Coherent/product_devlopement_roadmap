@@ -7,7 +7,6 @@ months_list = ['January', 'February', 'March', 'April', 'May', 'June',
                'July', 'August', 'September', 'October', 'November', 'December']
 
 current_category = None
-current_element = None
 
 category_names = {
     'Digital Marketing', 'On-Page SEO', 'Off-Page SEO', 'Technical SEO', 
@@ -25,29 +24,24 @@ with open('public/7am.csv', 'r', encoding='utf-8-sig') as f:
             continue
         
         col_team = row[0].strip() if len(row) > 0 else ''
-        col_element = row[1].strip() if len(row) > 1 else ''
-        col_subelement = row[2].strip() if len(row) > 2 else ''
-        col_task = row[3].strip() if len(row) > 3 else ''
-        col_monthly_task = row[4].strip() if len(row) > 4 else ''
-        col_month = row[5].strip() if len(row) > 5 else ''
+        col_elements = row[1].strip() if len(row) > 1 else ''  # Main element
+        col_subelements = row[2].strip() if len(row) > 2 else ''  # Sub-element
+        col_task = row[3].strip() if len(row) > 3 else ''  # Task description
+        col_monthly_task = row[4].strip() if len(row) > 4 else ''  # Monthly task
+        col_month = row[5].strip() if len(row) > 5 else ''  # Month
         
         # Check if col_team is a category name (even with spaces)
         if col_team in category_names or col_team == ' Technical SEO':
             current_category = col_team.strip()
-            current_element = None
             continue
         
         # Skip header rows
-        if (col_team == 'Team') or (col_element == 'Elements' and col_subelement == 'Sub-elements'):
+        if (col_team == 'Team') or (col_elements == 'Elements' and col_subelements == 'Sub-elements'):
             continue
         
         # Skip if no task or task is the header "Task"
         if not col_task or col_task == 'Task':
             continue
-        
-        # Update current element if provided 
-        if col_element and col_element not in ['Elements', 'NA', '']:
-            current_element = col_element
         
         # Determine months
         month_str = col_month.strip()
@@ -60,10 +54,8 @@ with open('public/7am.csv', 'r', encoding='utf-8-sig') as f:
         
         # Fallback values
         category = current_category if current_category else 'Digital Marketing'
-        # SWAP: subElement from CSV (col_subelement) becomes element in JSON
-        # SWAP: element from CSV (current_element) becomes subElement in JSON
-        element = col_subelement if col_subelement else 'Other'
-        subelement = current_element if current_element else 'Other'
+        element = col_elements if col_elements else 'Other'
+        subelement = col_subelements if col_subelements else 'Other'
         
         # Clean task (remove leading bullet points)
         task = col_task
@@ -75,9 +67,9 @@ with open('public/7am.csv', 'r', encoding='utf-8-sig') as f:
             entry = {
                 'month': month,
                 'category': category,
-                'subElement': subelement,  # Now contains "A. Page Metadata" etc
-                'element': element,         # Now contains "i. Page Title Optimization" etc
-                'task': task,
+                'element': element,           # A. Page Metadata, B. HTML Structure, etc.
+                'subElement': subelement,     # i. Page Title Optimization, etc.
+                'task': task,                 # Create and Optimize title tags, etc.
                 'monthlyTask': col_monthly_task,
                 'team': 'digital-marketing'
             }
@@ -99,11 +91,11 @@ for entry in data:
 for cat in sorted(categories.keys()):
     print(f"  {cat}: {categories[cat]}")
 
-print("\nSample from January (showing swapped structure):")
+print("\nSample from January (showing correct 3-level structure):")
 jan_entries = [e for e in data if e['month'] == 'January']
-for entry in jan_entries[:5]:
+for entry in jan_entries[:8]:
     print(f"  Category: {entry['category']}")
-    print(f"  SubElement: {entry['subElement']}")
     print(f"  Element: {entry['element']}")
-    print(f"  Task: {entry['task'][:60]}...")
+    print(f"  SubElement: {entry['subElement']}")
+    print(f"  Task: {entry['task']}")
     print(f"  Monthly Task: {entry['monthlyTask']}\n")
