@@ -18,9 +18,9 @@ with open('public/7am.csv', 'r', encoding='utf-8-sig') as f:
             continue
         
         team = row['Team'].strip() if row['Team'] else ''
-        csv_elements = row['Elements'].strip() if row['Elements'] else ''  # A. Page Metadata, etc.
-        csv_subelements = row['SubElements'].strip() if row['SubElements'] else ''  # i. Page Title, etc.
-        csv_task = row['Task'].strip() if row['Task'] else ''  # The description
+        elements = row['Elements'].strip() if row['Elements'] else ''
+        subelements = row['SubElements'].strip() if row['SubElements'] else ''
+        task = row['Task'].strip() if row['Task'] else ''
         monthly_task = row['MonthlyTask'].strip() if row['MonthlyTask'] else ''
         month_str = row['Month'].strip() if row['Month'] else ''
         
@@ -37,16 +37,20 @@ with open('public/7am.csv', 'r', encoding='utf-8-sig') as f:
             continue
         
         # Skip lines with just "Elements" header
-        if csv_elements == 'Elements' and csv_subelements == 'Sub-elements':
+        if elements == 'Elements' and subelements == 'Sub-elements':
             continue
         
         # Skip if no task
-        if not csv_task or csv_task == 'Task':
+        if not task or task == 'Task':
             continue
         
-        # Update current element if provided (this is the grouping like "A. Page Metadata")
-        if csv_elements and csv_elements not in ['Elements', 'NA', '']:
-            current_element = csv_elements
+        # Update current element if provided
+        if elements and elements not in ['Elements', 'NA', '']:
+            current_element = elements
+        
+        # Use current element if this row doesn't have one
+        element = current_element if current_element else 'Other'
+        subelement = subelements if subelements else 'Other'
         
         # Determine months
         if month_str in ['Jan -  Dec', 'Jan - Dec']:
@@ -58,14 +62,8 @@ with open('public/7am.csv', 'r', encoding='utf-8-sig') as f:
         
         category = current_category if current_category else 'Digital Marketing'
         
-        # SWAPPED: 
-        # subElement = the grouping (A. Page Metadata, B. HTML Structure, etc.)
-        # element = the specific item (i. Page Title Optimization, etc.)
-        subelement = current_element if current_element else 'Other'
-        element = csv_subelements if csv_subelements else 'Other'
-        
         # Clean up task - remove leading bullet points
-        task_clean = csv_task
+        task_clean = task
         if task_clean.startswith('·'):
             task_clean = task_clean.replace('·', '', 1).strip()
         
@@ -79,9 +77,9 @@ with open('public/7am.csv', 'r', encoding='utf-8-sig') as f:
             entry = {
                 'month': month,
                 'category': category,
-                'element': element,           # i. Page Title Optimization
-                'subElement': subelement,     # A. Page Metadata
-                'task': task_clean,           # Create and Optimize title tags
+                'element': element,
+                'subElement': subelement,
+                'task': task_clean,
                 'monthlyTask': monthly_task_clean,
                 'team': 'digital-marketing'
             }
@@ -103,19 +101,28 @@ for entry in data:
 for cat in sorted(categories.keys()):
     print(f"  {cat}: {categories[cat]}")
 
-print("\n✓ SWAPPED STRUCTURE:")
-print("\nOn-Page SEO January sample:")
-on_page_jan = [e for e in data if e['category'] == 'On-Page SEO' and e['month'] == 'January'][:3]
-for entry in on_page_jan:
-    print(f"\n  SubElement: {entry['subElement']}")
-    print(f"  Element: {entry['element']}")
-    print(f"  Task: {entry['task']}")
-    print(f"  Monthly Task: {entry['monthlyTask']}")
+# Check for missing categories
+expected_categories = ['On-Page SEO', 'Off-Page SEO', 'Technical SEO', 'Performance Marketing',
+                       'Paid PR Submission & Distribution Services (B2C Focus)',
+                       'Brand Positioning & Thought Leadership', 'Content Marketing & Strategy']
+missing = [c for c in expected_categories if c not in categories]
+if missing:
+    print(f"\nMissing categories: {missing}")
+else:
+    print("\nAll 7 categories present!")
 
-print("\n\nOff-Page SEO January sample:")
+print("\nSample entries showing hierarchy:")
+print("\n1. On-Page SEO sample:")
+on_page_jan = [e for e in data if e['category'] == 'On-Page SEO' and e['month'] == 'January'][:2]
+for entry in on_page_jan:
+    print(f"   Element: {entry['element']}, SubElement: {entry['subElement']}, Task: {entry['task']}")
+
+print("\n2. Off-Page SEO sample:")
 off_page_jan = [e for e in data if e['category'] == 'Off-Page SEO' and e['month'] == 'January'][:2]
 for entry in off_page_jan:
-    print(f"\n  SubElement: {entry['subElement']}")
-    print(f"  Element: {entry['element']}")
-    print(f"  Task: {entry['task']}")
-    print(f"  Monthly Task: {entry['monthlyTask']}")
+    print(f"   Element: {entry['element']}, SubElement: {entry['subElement']}, Task: {entry['task']}")
+
+print("\n3. Technical SEO sample:")
+tech_seo_jan = [e for e in data if e['category'] == 'Technical SEO' and e['month'] == 'January'][:2]
+for entry in tech_seo_jan:
+    print(f"   Element: {entry['element']}, SubElement: {entry['subElement']}, Task: {entry['task']}, Monthly: {entry['monthlyTask']}")

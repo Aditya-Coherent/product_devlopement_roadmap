@@ -187,7 +187,7 @@ export default function Home() {
         grouped[month][category] = {}
       }
       
-      // For all teams, group by element
+      // For digital marketing, group by element; for others, group by element
       const groupKey = item.element || 'Other'
       if (!grouped[month][category][groupKey]) {
         grouped[month][category][groupKey] = []
@@ -438,6 +438,9 @@ export default function Home() {
                                     <th className="border border-emerald-200 px-4 py-3 text-left font-semibold text-gray-800 text-sm">
                                       {teamFilter === 'digital-marketing' ? 'Sub-element' : 'Element'}
                                     </th>
+                                    {teamFilter === 'digital-marketing' && (
+                                      <th className="border border-emerald-200 px-4 py-3 text-left font-semibold text-gray-800 text-sm">Element</th>
+                                    )}
                                     <th className="border border-emerald-200 px-4 py-3 text-left font-semibold text-gray-800 text-sm">Task</th>
                                     {teamFilter !== 'human-resources' && teamFilter !== 'market-research' && (
                                       <th className="border border-emerald-200 px-4 py-3 text-left font-semibold text-gray-800 text-sm">Monthly Task</th>
@@ -453,10 +456,15 @@ export default function Home() {
                                         className={`border-b border-emerald-100 hover:bg-emerald-50 transition-colors ${itemIndex % 2 === 0 ? 'bg-white' : 'bg-emerald-50/30'}`}
                                       >
                                         <td className="border border-emerald-200 px-4 py-3 text-sm text-gray-700 font-medium">
-                                          {itemIndex === 0 ? item.subElement : ''}
+                                          {itemIndex === 0 ? groupKey : ''}
                                         </td>
+                                        {teamFilter === 'digital-marketing' && (
+                                          <td className="border border-emerald-200 px-4 py-3 text-sm text-gray-700 whitespace-pre-wrap">
+                                            {item.subElement}
+                                          </td>
+                                        )}
                                         <td className="border border-emerald-200 px-4 py-3 text-sm text-gray-700 whitespace-pre-wrap">
-                                          {teamFilter === 'digital-marketing' ? item.element : item.task}
+                                          {item.task}
                                         </td>
                                         {teamFilter !== 'human-resources' && teamFilter !== 'market-research' && (
                                           <td className="border border-emerald-200 px-4 py-3 text-sm text-gray-600 italic whitespace-pre-wrap">
