@@ -336,7 +336,7 @@ export default function Home() {
           </div>
         </motion.div>
 
-        {/* Time Series Summary Button */}
+        {/* Summary Button */}
         <motion.div
           initial={{ opacity: 0, y: 20 }}
           animate={{ opacity: 1, y: 0 }}
@@ -350,7 +350,7 @@ export default function Home() {
             className="inline-flex items-center gap-2 bg-emerald-600 hover:bg-emerald-700 text-white font-semibold py-3 px-6 rounded-xl shadow-lg hover:shadow-xl transition-all transform hover:scale-105"
           >
             <FileText className="w-5 h-5" />
-            Time Series Summary
+            Summary
           </a>
         </motion.div>
 
