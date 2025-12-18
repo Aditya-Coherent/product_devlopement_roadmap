@@ -293,7 +293,7 @@ export default function Home() {
               <div>
                 <label htmlFor="team-filter" className="block text-sm font-medium text-gray-700 mb-2">
                   <Users className="w-4 h-4 inline mr-2" />
-                  Domain
+                  Team
                 </label>
                 <select
                   id="team-filter"
@@ -433,15 +433,11 @@ export default function Home() {
                               <table className="w-full border-collapse">
                                 <thead>
                                   <tr className="bg-emerald-100 border-b border-emerald-200">
-                                    <th className="border border-emerald-200 px-4 py-3 text-left font-semibold text-gray-800 text-sm">Element</th>
+                                    <th className="border border-emerald-200 px-4 py-3 text-left font-semibold text-gray-800 text-sm">
+                                      {teamFilter === 'digital-marketing' ? 'Sub-element' : 'Element'}
+                                    </th>
                                     <th className="border border-emerald-200 px-4 py-3 text-left font-semibold text-gray-800 text-sm">Task</th>
-                                    {teamFilter !== 'human-resources' && teamFilter !== 'digital-marketing' && (
-                                      <>
-                                        <th className="border border-emerald-200 px-4 py-3 text-left font-semibold text-gray-800 text-sm">Monthly Task</th>
-                                        <th className="border border-emerald-200 px-4 py-3 text-left font-semibold text-gray-800 text-sm">Monthly quantifiable or not (to measure outcome)</th>
-                                      </>
-                                    )}
-                                    {teamFilter === 'digital-marketing' && (
+                                    {teamFilter !== 'human-resources' && teamFilter !== 'market-research' && (
                                       <th className="border border-emerald-200 px-4 py-3 text-left font-semibold text-gray-800 text-sm">Monthly Task</th>
                                     )}
                                   </tr>
@@ -460,17 +456,7 @@ export default function Home() {
                                         <td className="border border-emerald-200 px-4 py-3 text-sm text-gray-700 whitespace-pre-wrap">
                                           {item.task}
                                         </td>
-                                        {teamFilter !== 'human-resources' && teamFilter !== 'digital-marketing' && (
-                                          <>
-                                            <td className="border border-emerald-200 px-4 py-3 text-sm text-gray-600 italic whitespace-pre-wrap">
-                                              {item.monthlyTask || 'NA'}
-                                            </td>
-                                            <td className="border border-emerald-200 px-4 py-3 text-sm text-gray-700">
-                                              {item.monthlyQuantifiable || 'NA'}
-                                            </td>
-                                          </>
-                                        )}
-                                        {teamFilter === 'digital-marketing' && (
+                                        {teamFilter !== 'human-resources' && teamFilter !== 'market-research' && (
                                           <td className="border border-emerald-200 px-4 py-3 text-sm text-gray-600 italic whitespace-pre-wrap">
                                             {item.monthlyTask || 'NA'}
                                           </td>

@@ -13,7 +13,7 @@
     "category": "Web Development",
     "element": "Website Design and Development",
     "task": "Payment gateway & shipping integration",
-    "monthlyTask": "No",
+    "monthlyTask": "One time setup and integration",
     "monthlyQuantifiable": "No",
     "team": "website"
   },
@@ -22,7 +22,7 @@
     "category": "Web Development",
     "element": "Website Design and Development",
     "task": "SEO-friendly structure & content setup",
-    "monthlyTask": "No",
+    "monthlyTask": "One time setup and integration",
     "monthlyQuantifiable": "No",
     "team": "website"
   },
@@ -31,7 +31,7 @@
     "category": "Web Development",
     "element": "Website Design and Development",
     "task": "Reviews, ratings & UGC integration",
-    "monthlyTask": "No",
+    "monthlyTask": "One time setup and integration",
     "monthlyQuantifiable": "No",
     "team": "website"
   },
@@ -40,7 +40,7 @@
     "category": "Web Development",
     "element": "Website Design and Development",
     "task": "Email automation + remarketing setup",
-    "monthlyTask": "No",
+    "monthlyTask": "One time setup and integration",
     "monthlyQuantifiable": "No",
     "team": "website"
   },
