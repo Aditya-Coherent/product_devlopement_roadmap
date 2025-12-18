@@ -435,7 +435,9 @@ export default function Home() {
                               <table className="w-full border-collapse">
                                 <thead>
                                   <tr className="bg-emerald-100 border-b border-emerald-200">
-                                    <th className="border border-emerald-200 px-4 py-3 text-left font-semibold text-gray-800 text-sm">Element</th>
+                                    <th className="border border-emerald-200 px-4 py-3 text-left font-semibold text-gray-800 text-sm">
+                                      {teamFilter === 'digital-marketing' ? 'Element' : 'Element'}
+                                    </th>
                                     {teamFilter === 'digital-marketing' && (
                                       <th className="border border-emerald-200 px-4 py-3 text-left font-semibold text-gray-800 text-sm">Sub-element</th>
                                     )}
@@ -448,43 +450,51 @@ export default function Home() {
                                 <tbody>
                                   {Object.keys(grouped[month][category]).map((groupKey, elementIndex) => {
                                     const items = grouped[month][category][groupKey]
-                                    // Filter out items where subElement is "Other" for digital marketing
-                                    const filteredItems = teamFilter === 'digital-marketing' 
-                                      ? items.filter(item => item.subElement !== 'Other')
-                                      : items
                                     
-                                    // Skip if no items after filtering
-                                    if (filteredItems.length === 0) return null
+                                    // Calculate row spans for monthly tasks (merge cells)
+                                    const monthlyTaskSpans = {}
+                                    let currentMonthly = null
+                                    let spanStart = 0
                                     
-                                    let lastMonthlyTask = ''
-                                    return filteredItems.map((item, itemIndex) => {
-                                      const showMonthlyTask = item.monthlyTask !== lastMonthlyTask
-                                      if (item.monthlyTask) lastMonthlyTask = item.monthlyTask
-                                      
-                                      return (
-                                        <tr 
-                                          key={`${groupKey}-${itemIndex}`}
-                                          className={`border-b border-emerald-100 hover:bg-emerald-50 transition-colors ${itemIndex % 2 === 0 ? 'bg-white' : 'bg-emerald-50/30'}`}
-                                        >
-                                          <td className="border border-emerald-200 px-4 py-3 text-sm text-gray-700 font-medium">
-                                            {itemIndex === 0 ? groupKey : ''}
-                                          </td>
-                                          {teamFilter === 'digital-marketing' && (
-                                            <td className="border border-emerald-200 px-4 py-3 text-sm text-gray-700 whitespace-pre-wrap">
-                                              {item.subElement}
-                                            </td>
-                                          )}
-                                          <td className="border border-emerald-200 px-4 py-3 text-sm text-gray-700 whitespace-pre-wrap">
-                                            {item.task}
-                                          </td>
-                                          {teamFilter !== 'human-resources' && teamFilter !== 'market-research' && (
-                                            <td className="border border-emerald-200 px-4 py-3 text-sm text-gray-600 italic whitespace-pre-wrap">
-                                              {showMonthlyTask ? (item.monthlyTask || 'NA') : ''}
-                                            </td>
-                                          )}
-                                        </tr>
-                                      )
+                                    items.forEach((item, idx) => {
+                                      if (item.monthlyTask !== currentMonthly) {
+                                        if (currentMonthly !== null) {
+                                          monthlyTaskSpans[spanStart] = idx - spanStart
+                                        }
+                                        currentMonthly = item.monthlyTask
+                                        spanStart = idx
+                                      }
                                     })
+                                    if (currentMonthly !== null) {
+                                      monthlyTaskSpans[spanStart] = items.length - spanStart
+                                    }
+                                    
+                                    return items.map((item, itemIndex) => (
+                                      <tr 
+                                        key={`${groupKey}-${itemIndex}`}
+                                        className={`border-b border-emerald-100 hover:bg-emerald-50 transition-colors ${itemIndex % 2 === 0 ? 'bg-white' : 'bg-emerald-50/30'}`}
+                                      >
+                                        <td className="border border-emerald-200 px-4 py-3 text-sm text-gray-700 font-medium">
+                                          {itemIndex === 0 ? groupKey : ''}
+                                        </td>
+                                        {teamFilter === 'digital-marketing' && (
+                                          <td className="border border-emerald-200 px-4 py-3 text-sm text-gray-700 whitespace-pre-wrap">
+                                            {item.subElement !== 'Other' ? item.subElement : ''}
+                                          </td>
+                                        )}
+                                        <td className="border border-emerald-200 px-4 py-3 text-sm text-gray-700 whitespace-pre-wrap">
+                                          {item.task}
+                                        </td>
+                                        {teamFilter !== 'human-resources' && teamFilter !== 'market-research' && monthlyTaskSpans[itemIndex] && (
+                                          <td 
+                                            className="border border-emerald-200 px-4 py-3 text-sm text-gray-600 italic whitespace-pre-wrap"
+                                            rowSpan={monthlyTaskSpans[itemIndex]}
+                                          >
+                                            {item.monthlyTask || 'NA'}
+                                          </td>
+                                        )}
+                                      </tr>
+                                    ))
                                   })}
                                 </tbody>
                               </table>
