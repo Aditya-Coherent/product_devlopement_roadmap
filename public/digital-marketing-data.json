@@ -110,7 +110,7 @@
   {
     "month": "January",
     "category": "On-Page SEO",
-    "element": "Other",
+    "element": "A. Page Metadata",
     "subElement": "ii. Meta Description Optimization",
     "task": "Create and Optimize meta descriptions",
     "monthlyTask": "30 pages/month",
@@ -119,7 +119,7 @@
   {
     "month": "February",
     "category": "On-Page SEO",
-    "element": "Other",
+    "element": "A. Page Metadata",
     "subElement": "ii. Meta Description Optimization",
     "task": "Create and Optimize meta descriptions",
     "monthlyTask": "30 pages/month",
@@ -128,7 +128,7 @@
   {
     "month": "March",
     "category": "On-Page SEO",
-    "element": "Other",
+    "element": "A. Page Metadata",
     "subElement": "ii. Meta Description Optimization",
     "task": "Create and Optimize meta descriptions",
     "monthlyTask": "30 pages/month",
@@ -137,7 +137,7 @@
   {
     "month": "April",
     "category": "On-Page SEO",
-    "element": "Other",
+    "element": "A. Page Metadata",
     "subElement": "ii. Meta Description Optimization",
     "task": "Create and Optimize meta descriptions",
     "monthlyTask": "30 pages/month",
@@ -146,7 +146,7 @@
   {
     "month": "May",
     "category": "On-Page SEO",
-    "element": "Other",
+    "element": "A. Page Metadata",
     "subElement": "ii. Meta Description Optimization",
     "task": "Create and Optimize meta descriptions",
     "monthlyTask": "30 pages/month",
@@ -155,7 +155,7 @@
   {
     "month": "June",
     "category": "On-Page SEO",
-    "element": "Other",
+    "element": "A. Page Metadata",
     "subElement": "ii. Meta Description Optimization",
     "task": "Create and Optimize meta descriptions",
     "monthlyTask": "30 pages/month",
@@ -164,7 +164,7 @@
   {
     "month": "July",
     "category": "On-Page SEO",
-    "element": "Other",
+    "element": "A. Page Metadata",
     "subElement": "ii. Meta Description Optimization",
     "task": "Create and Optimize meta descriptions",
     "monthlyTask": "30 pages/month",
@@ -173,7 +173,7 @@
   {
     "month": "August",
     "category": "On-Page SEO",
-    "element": "Other",
+    "element": "A. Page Metadata",
     "subElement": "ii. Meta Description Optimization",
     "task": "Create and Optimize meta descriptions",
     "monthlyTask": "30 pages/month",
@@ -182,7 +182,7 @@
   {
     "month": "September",
     "category": "On-Page SEO",
-    "element": "Other",
+    "element": "A. Page Metadata",
     "subElement": "ii. Meta Description Optimization",
     "task": "Create and Optimize meta descriptions",
     "monthlyTask": "30 pages/month",
@@ -191,7 +191,7 @@
   {
     "month": "October",
     "category": "On-Page SEO",
-    "element": "Other",
+    "element": "A. Page Metadata",
     "subElement": "ii. Meta Description Optimization",
     "task": "Create and Optimize meta descriptions",
     "monthlyTask": "30 pages/month",
@@ -200,7 +200,7 @@
   {
     "month": "November",
     "category": "On-Page SEO",
-    "element": "Other",
+    "element": "A. Page Metadata",
     "subElement": "ii. Meta Description Optimization",
     "task": "Create and Optimize meta descriptions",
     "monthlyTask": "30 pages/month",
@@ -209,7 +209,7 @@
   {
     "month": "December",
     "category": "On-Page SEO",
-    "element": "Other",
+    "element": "A. Page Metadata",
     "subElement": "ii. Meta Description Optimization",
     "task": "Create and Optimize meta descriptions",
     "monthlyTask": "30 pages/month",
@@ -434,7 +434,7 @@
   {
     "month": "January",
     "category": "On-Page SEO",
-    "element": "Other",
+    "element": "C. Keyword Placement",
     "subElement": "ii. URL Optimization",
     "task": "Use keyword-rich, clean URLs (where editable)",
     "monthlyTask": "Based on platform access",
@@ -443,7 +443,7 @@
   {
     "month": "February",
     "category": "On-Page SEO",
-    "element": "Other",
+    "element": "C. Keyword Placement",
     "subElement": "ii. URL Optimization",
     "task": "Use keyword-rich, clean URLs (where editable)",
     "monthlyTask": "Based on platform access",
@@ -452,7 +452,7 @@
   {
     "month": "March",
     "category": "On-Page SEO",
-    "element": "Other",
+    "element": "C. Keyword Placement",
     "subElement": "ii. URL Optimization",
     "task": "Use keyword-rich, clean URLs (where editable)",
     "monthlyTask": "Based on platform access",
@@ -461,7 +461,7 @@
   {
     "month": "April",
     "category": "On-Page SEO",
-    "element": "Other",
+    "element": "C. Keyword Placement",
     "subElement": "ii. URL Optimization",
     "task": "Use keyword-rich, clean URLs (where editable)",
     "monthlyTask": "Based on platform access",
@@ -470,7 +470,7 @@
   {
     "month": "May",
     "category": "On-Page SEO",
-    "element": "Other",
+    "element": "C. Keyword Placement",
     "subElement": "ii. URL Optimization",
     "task": "Use keyword-rich, clean URLs (where editable)",
     "monthlyTask": "Based on platform access",
@@ -479,7 +479,7 @@
   {
     "month": "June",
     "category": "On-Page SEO",
-    "element": "Other",
+    "element": "C. Keyword Placement",
     "subElement": "ii. URL Optimization",
     "task": "Use keyword-rich, clean URLs (where editable)",
     "monthlyTask": "Based on platform access",
@@ -488,7 +488,7 @@
   {
     "month": "July",
     "category": "On-Page SEO",
-    "element": "Other",
+    "element": "C. Keyword Placement",
     "subElement": "ii. URL Optimization",
     "task": "Use keyword-rich, clean URLs (where editable)",
     "monthlyTask": "Based on platform access",
@@ -497,7 +497,7 @@
   {
     "month": "August",
     "category": "On-Page SEO",
-    "element": "Other",
+    "element": "C. Keyword Placement",
     "subElement": "ii. URL Optimization",
     "task": "Use keyword-rich, clean URLs (where editable)",
     "monthlyTask": "Based on platform access",
@@ -506,7 +506,7 @@
   {
     "month": "September",
     "category": "On-Page SEO",
-    "element": "Other",
+    "element": "C. Keyword Placement",
     "subElement": "ii. URL Optimization",
     "task": "Use keyword-rich, clean URLs (where editable)",
     "monthlyTask": "Based on platform access",
@@ -515,7 +515,7 @@
   {
     "month": "October",
     "category": "On-Page SEO",
-    "element": "Other",
+    "element": "C. Keyword Placement",
     "subElement": "ii. URL Optimization",
     "task": "Use keyword-rich, clean URLs (where editable)",
     "monthlyTask": "Based on platform access",
@@ -524,7 +524,7 @@
   {
     "month": "November",
     "category": "On-Page SEO",
-    "element": "Other",
+    "element": "C. Keyword Placement",
     "subElement": "ii. URL Optimization",
     "task": "Use keyword-rich, clean URLs (where editable)",
     "monthlyTask": "Based on platform access",
@@ -533,7 +533,7 @@
   {
     "month": "December",
     "category": "On-Page SEO",
-    "element": "Other",
+    "element": "C. Keyword Placement",
     "subElement": "ii. URL Optimization",
     "task": "Use keyword-rich, clean URLs (where editable)",
     "monthlyTask": "Based on platform access",
@@ -767,7 +767,7 @@
   {
     "month": "January",
     "category": "On-Page SEO",
-    "element": "Other",
+    "element": "F. Schema Markup",
     "subElement": "ii. Breadcrumb & FAQ Schema",
     "task": "Implement on category/FAQ pages for better SERP",
     "monthlyTask": "One-time setup + review",
@@ -776,7 +776,7 @@
   {
     "month": "January",
     "category": "On-Page SEO",
-    "element": "Other",
+    "element": "F. Schema Markup",
     "subElement": "iii. Organization Schema",
     "task": "Add schema to homepage/about us",
     "monthlyTask": "One-time task",
@@ -893,7 +893,7 @@
   {
     "month": "January",
     "category": "On-Page SEO",
-    "element": "Other",
+    "element": "G. Content Optimization",
     "subElement": "ii. CTA Optimization",
     "task": "CTA Optimization: Add clear CTAs like “Buy Now” or “See More Styles”",
     "monthlyTask": "Continuous testing",
@@ -902,7 +902,7 @@
   {
     "month": "February",
     "category": "On-Page SEO",
-    "element": "Other",
+    "element": "G. Content Optimization",
     "subElement": "ii. CTA Optimization",
     "task": "CTA Optimization: Add clear CTAs like “Buy Now” or “See More Styles”",
     "monthlyTask": "Continuous testing",
@@ -911,7 +911,7 @@
   {
     "month": "March",
     "category": "On-Page SEO",
-    "element": "Other",
+    "element": "G. Content Optimization",
     "subElement": "ii. CTA Optimization",
     "task": "CTA Optimization: Add clear CTAs like “Buy Now” or “See More Styles”",
     "monthlyTask": "Continuous testing",
@@ -920,7 +920,7 @@
   {
     "month": "April",
     "category": "On-Page SEO",
-    "element": "Other",
+    "element": "G. Content Optimization",
     "subElement": "ii. CTA Optimization",
     "task": "CTA Optimization: Add clear CTAs like “Buy Now” or “See More Styles”",
     "monthlyTask": "Continuous testing",
@@ -929,7 +929,7 @@
   {
     "month": "May",
     "category": "On-Page SEO",
-    "element": "Other",
+    "element": "G. Content Optimization",
     "subElement": "ii. CTA Optimization",
     "task": "CTA Optimization: Add clear CTAs like “Buy Now” or “See More Styles”",
     "monthlyTask": "Continuous testing",
@@ -938,7 +938,7 @@
   {
     "month": "June",
     "category": "On-Page SEO",
-    "element": "Other",
+    "element": "G. Content Optimization",
     "subElement": "ii. CTA Optimization",
     "task": "CTA Optimization: Add clear CTAs like “Buy Now” or “See More Styles”",
     "monthlyTask": "Continuous testing",
@@ -947,7 +947,7 @@
   {
     "month": "July",
     "category": "On-Page SEO",
-    "element": "Other",
+    "element": "G. Content Optimization",
     "subElement": "ii. CTA Optimization",
     "task": "CTA Optimization: Add clear CTAs like “Buy Now” or “See More Styles”",
     "monthlyTask": "Continuous testing",
@@ -956,7 +956,7 @@
   {
     "month": "August",
     "category": "On-Page SEO",
-    "element": "Other",
+    "element": "G. Content Optimization",
     "subElement": "ii. CTA Optimization",
     "task": "CTA Optimization: Add clear CTAs like “Buy Now” or “See More Styles”",
     "monthlyTask": "Continuous testing",
@@ -965,7 +965,7 @@
   {
     "month": "September",
     "category": "On-Page SEO",
-    "element": "Other",
+    "element": "G. Content Optimization",
     "subElement": "ii. CTA Optimization",
     "task": "CTA Optimization: Add clear CTAs like “Buy Now” or “See More Styles”",
     "monthlyTask": "Continuous testing",
@@ -974,7 +974,7 @@
   {
     "month": "October",
     "category": "On-Page SEO",
-    "element": "Other",
+    "element": "G. Content Optimization",
     "subElement": "ii. CTA Optimization",
     "task": "CTA Optimization: Add clear CTAs like “Buy Now” or “See More Styles”",
     "monthlyTask": "Continuous testing",
@@ -983,7 +983,7 @@
   {
     "month": "November",
     "category": "On-Page SEO",
-    "element": "Other",
+    "element": "G. Content Optimization",
     "subElement": "ii. CTA Optimization",
     "task": "CTA Optimization: Add clear CTAs like “Buy Now” or “See More Styles”",
     "monthlyTask": "Continuous testing",
@@ -992,7 +992,7 @@
   {
     "month": "December",
     "category": "On-Page SEO",
-    "element": "Other",
+    "element": "G. Content Optimization",
     "subElement": "ii. CTA Optimization",
     "task": "CTA Optimization: Add clear CTAs like “Buy Now” or “See More Styles”",
     "monthlyTask": "Continuous testing",
@@ -1217,7 +1217,7 @@
   {
     "month": "January",
     "category": "On-Page SEO",
-    "element": "Other",
+    "element": "I. Blog Optimization",
     "subElement": "ii. Blog Schema",
     "task": "Use article/FAQ schema on blog posts",
     "monthlyTask": "For each blog",
@@ -1226,7 +1226,7 @@
   {
     "month": "February",
     "category": "On-Page SEO",
-    "element": "Other",
+    "element": "I. Blog Optimization",
     "subElement": "ii. Blog Schema",
     "task": "Use article/FAQ schema on blog posts",
     "monthlyTask": "For each blog",
@@ -1235,7 +1235,7 @@
   {
     "month": "March",
     "category": "On-Page SEO",
-    "element": "Other",
+    "element": "I. Blog Optimization",
     "subElement": "ii. Blog Schema",
     "task": "Use article/FAQ schema on blog posts",
     "monthlyTask": "For each blog",
@@ -1244,7 +1244,7 @@
   {
     "month": "April",
     "category": "On-Page SEO",
-    "element": "Other",
+    "element": "I. Blog Optimization",
     "subElement": "ii. Blog Schema",
     "task": "Use article/FAQ schema on blog posts",
     "monthlyTask": "For each blog",
@@ -1253,7 +1253,7 @@
   {
     "month": "May",
     "category": "On-Page SEO",
-    "element": "Other",
+    "element": "I. Blog Optimization",
     "subElement": "ii. Blog Schema",
     "task": "Use article/FAQ schema on blog posts",
     "monthlyTask": "For each blog",
@@ -1262,7 +1262,7 @@
   {
     "month": "June",
     "category": "On-Page SEO",
-    "element": "Other",
+    "element": "I. Blog Optimization",
     "subElement": "ii. Blog Schema",
     "task": "Use article/FAQ schema on blog posts",
     "monthlyTask": "For each blog",
@@ -1271,7 +1271,7 @@
   {
     "month": "July",
     "category": "On-Page SEO",
-    "element": "Other",
+    "element": "I. Blog Optimization",
     "subElement": "ii. Blog Schema",
     "task": "Use article/FAQ schema on blog posts",
     "monthlyTask": "For each blog",
@@ -1280,7 +1280,7 @@
   {
     "month": "August",
     "category": "On-Page SEO",
-    "element": "Other",
+    "element": "I. Blog Optimization",
     "subElement": "ii. Blog Schema",
     "task": "Use article/FAQ schema on blog posts",
     "monthlyTask": "For each blog",
@@ -1289,7 +1289,7 @@
   {
     "month": "September",
     "category": "On-Page SEO",
-    "element": "Other",
+    "element": "I. Blog Optimization",
     "subElement": "ii. Blog Schema",
     "task": "Use article/FAQ schema on blog posts",
     "monthlyTask": "For each blog",
@@ -1298,7 +1298,7 @@
   {
     "month": "October",
     "category": "On-Page SEO",
-    "element": "Other",
+    "element": "I. Blog Optimization",
     "subElement": "ii. Blog Schema",
     "task": "Use article/FAQ schema on blog posts",
     "monthlyTask": "For each blog",
@@ -1307,7 +1307,7 @@
   {
     "month": "November",
     "category": "On-Page SEO",
-    "element": "Other",
+    "element": "I. Blog Optimization",
     "subElement": "ii. Blog Schema",
     "task": "Use article/FAQ schema on blog posts",
     "monthlyTask": "For each blog",
@@ -1316,7 +1316,7 @@
   {
     "month": "December",
     "category": "On-Page SEO",
-    "element": "Other",
+    "element": "I. Blog Optimization",
     "subElement": "ii. Blog Schema",
     "task": "Use article/FAQ schema on blog posts",
     "monthlyTask": "For each blog",
@@ -1541,7 +1541,7 @@
   {
     "month": "January",
     "category": "On-Page SEO",
-    "element": "Other",
+    "element": "K. User Engagement Features",
     "subElement": "ii. Reviews & Trust Signals",
     "task": "Enable and optimize product reviews schema",
     "monthlyTask": "Platform-based",
@@ -1550,7 +1550,7 @@
   {
     "month": "February",
     "category": "On-Page SEO",
-    "element": "Other",
+    "element": "K. User Engagement Features",
     "subElement": "ii. Reviews & Trust Signals",
     "task": "Enable and optimize product reviews schema",
     "monthlyTask": "Platform-based",
@@ -1559,7 +1559,7 @@
   {
     "month": "March",
     "category": "On-Page SEO",
-    "element": "Other",
+    "element": "K. User Engagement Features",
     "subElement": "ii. Reviews & Trust Signals",
     "task": "Enable and optimize product reviews schema",
     "monthlyTask": "Platform-based",
@@ -1568,7 +1568,7 @@
   {
     "month": "April",
     "category": "On-Page SEO",
-    "element": "Other",
+    "element": "K. User Engagement Features",
     "subElement": "ii. Reviews & Trust Signals",
     "task": "Enable and optimize product reviews schema",
     "monthlyTask": "Platform-based",
@@ -1577,7 +1577,7 @@
   {
     "month": "May",
     "category": "On-Page SEO",
-    "element": "Other",
+    "element": "K. User Engagement Features",
     "subElement": "ii. Reviews & Trust Signals",
     "task": "Enable and optimize product reviews schema",
     "monthlyTask": "Platform-based",
@@ -1586,7 +1586,7 @@
   {
     "month": "June",
     "category": "On-Page SEO",
-    "element": "Other",
+    "element": "K. User Engagement Features",
     "subElement": "ii. Reviews & Trust Signals",
     "task": "Enable and optimize product reviews schema",
     "monthlyTask": "Platform-based",
@@ -1595,7 +1595,7 @@
   {
     "month": "July",
     "category": "On-Page SEO",
-    "element": "Other",
+    "element": "K. User Engagement Features",
     "subElement": "ii. Reviews & Trust Signals",
     "task": "Enable and optimize product reviews schema",
     "monthlyTask": "Platform-based",
@@ -1604,7 +1604,7 @@
   {
     "month": "August",
     "category": "On-Page SEO",
-    "element": "Other",
+    "element": "K. User Engagement Features",
     "subElement": "ii. Reviews & Trust Signals",
     "task": "Enable and optimize product reviews schema",
     "monthlyTask": "Platform-based",
@@ -1613,7 +1613,7 @@
   {
     "month": "September",
     "category": "On-Page SEO",
-    "element": "Other",
+    "element": "K. User Engagement Features",
     "subElement": "ii. Reviews & Trust Signals",
     "task": "Enable and optimize product reviews schema",
     "monthlyTask": "Platform-based",
@@ -1622,7 +1622,7 @@
   {
     "month": "October",
     "category": "On-Page SEO",
-    "element": "Other",
+    "element": "K. User Engagement Features",
     "subElement": "ii. Reviews & Trust Signals",
     "task": "Enable and optimize product reviews schema",
     "monthlyTask": "Platform-based",
@@ -1631,7 +1631,7 @@
   {
     "month": "November",
     "category": "On-Page SEO",
-    "element": "Other",
+    "element": "K. User Engagement Features",
     "subElement": "ii. Reviews & Trust Signals",
     "task": "Enable and optimize product reviews schema",
     "monthlyTask": "Platform-based",
@@ -1640,7 +1640,7 @@
   {
     "month": "December",
     "category": "On-Page SEO",
-    "element": "Other",
+    "element": "K. User Engagement Features",
     "subElement": "ii. Reviews & Trust Signals",
     "task": "Enable and optimize product reviews schema",
     "monthlyTask": "Platform-based",
@@ -1649,7 +1649,7 @@
   {
     "month": "January",
     "category": "On-Page SEO",
-    "element": "Other",
+    "element": "K. User Engagement Features",
     "subElement": "iii. Policy & Info Display",
     "task": "Ensure visible return policy, material info, size guide",
     "monthlyTask": "Once, then update as needed",
@@ -1658,7 +1658,7 @@
   {
     "month": "February",
     "category": "On-Page SEO",
-    "element": "Other",
+    "element": "K. User Engagement Features",
     "subElement": "iii. Policy & Info Display",
     "task": "Ensure visible return policy, material info, size guide",
     "monthlyTask": "Once, then update as needed",
@@ -1667,7 +1667,7 @@
   {
     "month": "March",
     "category": "On-Page SEO",
-    "element": "Other",
+    "element": "K. User Engagement Features",
     "subElement": "iii. Policy & Info Display",
     "task": "Ensure visible return policy, material info, size guide",
     "monthlyTask": "Once, then update as needed",
@@ -1676,7 +1676,7 @@
   {
     "month": "April",
     "category": "On-Page SEO",
-    "element": "Other",
+    "element": "K. User Engagement Features",
     "subElement": "iii. Policy & Info Display",
     "task": "Ensure visible return policy, material info, size guide",
     "monthlyTask": "Once, then update as needed",
@@ -1685,7 +1685,7 @@
   {
     "month": "May",
     "category": "On-Page SEO",
-    "element": "Other",
+    "element": "K. User Engagement Features",
     "subElement": "iii. Policy & Info Display",
     "task": "Ensure visible return policy, material info, size guide",
     "monthlyTask": "Once, then update as needed",
@@ -1694,7 +1694,7 @@
   {
     "month": "June",
     "category": "On-Page SEO",
-    "element": "Other",
+    "element": "K. User Engagement Features",
     "subElement": "iii. Policy & Info Display",
     "task": "Ensure visible return policy, material info, size guide",
     "monthlyTask": "Once, then update as needed",
@@ -1703,7 +1703,7 @@
   {
     "month": "July",
     "category": "On-Page SEO",
-    "element": "Other",
+    "element": "K. User Engagement Features",
     "subElement": "iii. Policy & Info Display",
     "task": "Ensure visible return policy, material info, size guide",
     "monthlyTask": "Once, then update as needed",
@@ -1712,7 +1712,7 @@
   {
     "month": "August",
     "category": "On-Page SEO",
-    "element": "Other",
+    "element": "K. User Engagement Features",
     "subElement": "iii. Policy & Info Display",
     "task": "Ensure visible return policy, material info, size guide",
     "monthlyTask": "Once, then update as needed",
@@ -1721,7 +1721,7 @@
   {
     "month": "September",
     "category": "On-Page SEO",
-    "element": "Other",
+    "element": "K. User Engagement Features",
     "subElement": "iii. Policy & Info Display",
     "task": "Ensure visible return policy, material info, size guide",
     "monthlyTask": "Once, then update as needed",
@@ -1730,7 +1730,7 @@
   {
     "month": "October",
     "category": "On-Page SEO",
-    "element": "Other",
+    "element": "K. User Engagement Features",
     "subElement": "iii. Policy & Info Display",
     "task": "Ensure visible return policy, material info, size guide",
     "monthlyTask": "Once, then update as needed",
@@ -1739,7 +1739,7 @@
   {
     "month": "November",
     "category": "On-Page SEO",
-    "element": "Other",
+    "element": "K. User Engagement Features",
     "subElement": "iii. Policy & Info Display",
     "task": "Ensure visible return policy, material info, size guide",
     "monthlyTask": "Once, then update as needed",
@@ -1748,7 +1748,7 @@
   {
     "month": "December",
     "category": "On-Page SEO",
-    "element": "Other",
+    "element": "K. User Engagement Features",
     "subElement": "iii. Policy & Info Display",
     "task": "Ensure visible return policy, material info, size guide",
     "monthlyTask": "Once, then update as needed",
@@ -1865,7 +1865,7 @@
   {
     "month": "January",
     "category": "Off-Page SEO",
-    "element": "Other",
+    "element": "A. Backlink Strategy",
     "subElement": "ii. Guest Posting",
     "task": "Secure placements on relevant blogs with dofollow links",
     "monthlyTask": "2–4 guest posts",
@@ -1874,7 +1874,7 @@
   {
     "month": "February",
     "category": "Off-Page SEO",
-    "element": "Other",
+    "element": "A. Backlink Strategy",
     "subElement": "ii. Guest Posting",
     "task": "Secure placements on relevant blogs with dofollow links",
     "monthlyTask": "2–4 guest posts",
@@ -1883,7 +1883,7 @@
   {
     "month": "March",
     "category": "Off-Page SEO",
-    "element": "Other",
+    "element": "A. Backlink Strategy",
     "subElement": "ii. Guest Posting",
     "task": "Secure placements on relevant blogs with dofollow links",
     "monthlyTask": "2–4 guest posts",
@@ -1892,7 +1892,7 @@
   {
     "month": "April",
     "category": "Off-Page SEO",
-    "element": "Other",
+    "element": "A. Backlink Strategy",
     "subElement": "ii. Guest Posting",
     "task": "Secure placements on relevant blogs with dofollow links",
     "monthlyTask": "2–4 guest posts",
@@ -1901,7 +1901,7 @@
   {
     "month": "May",
     "category": "Off-Page SEO",
-    "element": "Other",
+    "element": "A. Backlink Strategy",
     "subElement": "ii. Guest Posting",
     "task": "Secure placements on relevant blogs with dofollow links",
     "monthlyTask": "2–4 guest posts",
@@ -1910,7 +1910,7 @@
   {
     "month": "June",
     "category": "Off-Page SEO",
-    "element": "Other",
+    "element": "A. Backlink Strategy",
     "subElement": "ii. Guest Posting",
     "task": "Secure placements on relevant blogs with dofollow links",
     "monthlyTask": "2–4 guest posts",
@@ -1919,7 +1919,7 @@
   {
     "month": "July",
     "category": "Off-Page SEO",
-    "element": "Other",
+    "element": "A. Backlink Strategy",
     "subElement": "ii. Guest Posting",
     "task": "Secure placements on relevant blogs with dofollow links",
     "monthlyTask": "2–4 guest posts",
@@ -1928,7 +1928,7 @@
   {
     "month": "August",
     "category": "Off-Page SEO",
-    "element": "Other",
+    "element": "A. Backlink Strategy",
     "subElement": "ii. Guest Posting",
     "task": "Secure placements on relevant blogs with dofollow links",
     "monthlyTask": "2–4 guest posts",
@@ -1937,7 +1937,7 @@
   {
     "month": "September",
     "category": "Off-Page SEO",
-    "element": "Other",
+    "element": "A. Backlink Strategy",
     "subElement": "ii. Guest Posting",
     "task": "Secure placements on relevant blogs with dofollow links",
     "monthlyTask": "2–4 guest posts",
@@ -1946,7 +1946,7 @@
   {
     "month": "October",
     "category": "Off-Page SEO",
-    "element": "Other",
+    "element": "A. Backlink Strategy",
     "subElement": "ii. Guest Posting",
     "task": "Secure placements on relevant blogs with dofollow links",
     "monthlyTask": "2–4 guest posts",
@@ -1955,7 +1955,7 @@
   {
     "month": "November",
     "category": "Off-Page SEO",
-    "element": "Other",
+    "element": "A. Backlink Strategy",
     "subElement": "ii. Guest Posting",
     "task": "Secure placements on relevant blogs with dofollow links",
     "monthlyTask": "2–4 guest posts",
@@ -1964,7 +1964,7 @@
   {
     "month": "December",
     "category": "Off-Page SEO",
-    "element": "Other",
+    "element": "A. Backlink Strategy",
     "subElement": "ii. Guest Posting",
     "task": "Secure placements on relevant blogs with dofollow links",
     "monthlyTask": "2–4 guest posts",
@@ -1973,7 +1973,7 @@
   {
     "month": "January",
     "category": "Off-Page SEO",
-    "element": "Other",
+    "element": "A. Backlink Strategy",
     "subElement": "iii. Directories Listing",
     "task": "Submit listings in relevant directories",
     "monthlyTask": "25 directories",
@@ -1982,7 +1982,7 @@
   {
     "month": "February",
     "category": "Off-Page SEO",
-    "element": "Other",
+    "element": "A. Backlink Strategy",
     "subElement": "iii. Directories Listing",
     "task": "Submit listings in relevant directories",
     "monthlyTask": "25 directories",
@@ -1991,7 +1991,7 @@
   {
     "month": "March",
     "category": "Off-Page SEO",
-    "element": "Other",
+    "element": "A. Backlink Strategy",
     "subElement": "iii. Directories Listing",
     "task": "Submit listings in relevant directories",
     "monthlyTask": "25 directories",
@@ -2000,7 +2000,7 @@
   {
     "month": "April",
     "category": "Off-Page SEO",
-    "element": "Other",
+    "element": "A. Backlink Strategy",
     "subElement": "iii. Directories Listing",
     "task": "Submit listings in relevant directories",
     "monthlyTask": "25 directories",
@@ -2009,7 +2009,7 @@
   {
     "month": "May",
     "category": "Off-Page SEO",
-    "element": "Other",
+    "element": "A. Backlink Strategy",
     "subElement": "iii. Directories Listing",
     "task": "Submit listings in relevant directories",
     "monthlyTask": "25 directories",
@@ -2018,7 +2018,7 @@
   {
     "month": "June",
     "category": "Off-Page SEO",
-    "element": "Other",
+    "element": "A. Backlink Strategy",
     "subElement": "iii. Directories Listing",
     "task": "Submit listings in relevant directories",
     "monthlyTask": "25 directories",
@@ -2027,7 +2027,7 @@
   {
     "month": "July",
     "category": "Off-Page SEO",
-    "element": "Other",
+    "element": "A. Backlink Strategy",
     "subElement": "iii. Directories Listing",
     "task": "Submit listings in relevant directories",
     "monthlyTask": "25 directories",
@@ -2036,7 +2036,7 @@
   {
     "month": "August",
     "category": "Off-Page SEO",
-    "element": "Other",
+    "element": "A. Backlink Strategy",
     "subElement": "iii. Directories Listing",
     "task": "Submit listings in relevant directories",
     "monthlyTask": "25 directories",
@@ -2045,7 +2045,7 @@
   {
     "month": "September",
     "category": "Off-Page SEO",
-    "element": "Other",
+    "element": "A. Backlink Strategy",
     "subElement": "iii. Directories Listing",
     "task": "Submit listings in relevant directories",
     "monthlyTask": "25 directories",
@@ -2054,7 +2054,7 @@
   {
     "month": "October",
     "category": "Off-Page SEO",
-    "element": "Other",
+    "element": "A. Backlink Strategy",
     "subElement": "iii. Directories Listing",
     "task": "Submit listings in relevant directories",
     "monthlyTask": "25 directories",
@@ -2063,7 +2063,7 @@
   {
     "month": "November",
     "category": "Off-Page SEO",
-    "element": "Other",
+    "element": "A. Backlink Strategy",
     "subElement": "iii. Directories Listing",
     "task": "Submit listings in relevant directories",
     "monthlyTask": "25 directories",
@@ -2072,7 +2072,7 @@
   {
     "month": "December",
     "category": "Off-Page SEO",
-    "element": "Other",
+    "element": "A. Backlink Strategy",
     "subElement": "iii. Directories Listing",
     "task": "Submit listings in relevant directories",
     "monthlyTask": "25 directories",
@@ -2081,7 +2081,7 @@
   {
     "month": "January",
     "category": "Off-Page SEO",
-    "element": "Other",
+    "element": "A. Backlink Strategy",
     "subElement": "iv. Classified Submissions",
     "task": "Publish brand info with links on classified sites",
     "monthlyTask": "50–100 listings",
@@ -2090,7 +2090,7 @@
   {
     "month": "February",
     "category": "Off-Page SEO",
-    "element": "Other",
+    "element": "A. Backlink Strategy",
     "subElement": "iv. Classified Submissions",
     "task": "Publish brand info with links on classified sites",
     "monthlyTask": "50–100 listings",
@@ -2099,7 +2099,7 @@
   {
     "month": "March",
     "category": "Off-Page SEO",
-    "element": "Other",
+    "element": "A. Backlink Strategy",
     "subElement": "iv. Classified Submissions",
     "task": "Publish brand info with links on classified sites",
     "monthlyTask": "50–100 listings",
@@ -2108,7 +2108,7 @@
   {
     "month": "April",
     "category": "Off-Page SEO",
-    "element": "Other",
+    "element": "A. Backlink Strategy",
     "subElement": "iv. Classified Submissions",
     "task": "Publish brand info with links on classified sites",
     "monthlyTask": "50–100 listings",
@@ -2117,7 +2117,7 @@
   {
     "month": "May",
     "category": "Off-Page SEO",
-    "element": "Other",
+    "element": "A. Backlink Strategy",
     "subElement": "iv. Classified Submissions",
     "task": "Publish brand info with links on classified sites",
     "monthlyTask": "50–100 listings",
@@ -2126,7 +2126,7 @@
   {
     "month": "June",
     "category": "Off-Page SEO",
-    "element": "Other",
+    "element": "A. Backlink Strategy",
     "subElement": "iv. Classified Submissions",
     "task": "Publish brand info with links on classified sites",
     "monthlyTask": "50–100 listings",
@@ -2135,7 +2135,7 @@
   {
     "month": "July",
     "category": "Off-Page SEO",
-    "element": "Other",
+    "element": "A. Backlink Strategy",
     "subElement": "iv. Classified Submissions",
     "task": "Publish brand info with links on classified sites",
     "monthlyTask": "50–100 listings",
@@ -2144,7 +2144,7 @@
   {
     "month": "August",
     "category": "Off-Page SEO",
-    "element": "Other",
+    "element": "A. Backlink Strategy",
     "subElement": "iv. Classified Submissions",
     "task": "Publish brand info with links on classified sites",
     "monthlyTask": "50–100 listings",
@@ -2153,7 +2153,7 @@
   {
     "month": "September",
     "category": "Off-Page SEO",
-    "element": "Other",
+    "element": "A. Backlink Strategy",
     "subElement": "iv. Classified Submissions",
     "task": "Publish brand info with links on classified sites",
     "monthlyTask": "50–100 listings",
@@ -2162,7 +2162,7 @@
   {
     "month": "October",
     "category": "Off-Page SEO",
-    "element": "Other",
+    "element": "A. Backlink Strategy",
     "subElement": "iv. Classified Submissions",
     "task": "Publish brand info with links on classified sites",
     "monthlyTask": "50–100 listings",
@@ -2171,7 +2171,7 @@
   {
     "month": "November",
     "category": "Off-Page SEO",
-    "element": "Other",
+    "element": "A. Backlink Strategy",
     "subElement": "iv. Classified Submissions",
     "task": "Publish brand info with links on classified sites",
     "monthlyTask": "50–100 listings",
@@ -2180,7 +2180,7 @@
   {
     "month": "December",
     "category": "Off-Page SEO",
-    "element": "Other",
+    "element": "A. Backlink Strategy",
     "subElement": "iv. Classified Submissions",
     "task": "Publish brand info with links on classified sites",
     "monthlyTask": "50–100 listings",
@@ -2405,7 +2405,7 @@
   {
     "month": "January",
     "category": "Off-Page SEO",
-    "element": "Other",
+    "element": "C. Competitor Backlink Analysis",
     "subElement": "ii. Replication",
     "task": "Earn backlinks similar to competitors",
     "monthlyTask": "5-10 backlinks",
@@ -2414,7 +2414,7 @@
   {
     "month": "February",
     "category": "Off-Page SEO",
-    "element": "Other",
+    "element": "C. Competitor Backlink Analysis",
     "subElement": "ii. Replication",
     "task": "Earn backlinks similar to competitors",
     "monthlyTask": "5-10 backlinks",
@@ -2423,7 +2423,7 @@
   {
     "month": "March",
     "category": "Off-Page SEO",
-    "element": "Other",
+    "element": "C. Competitor Backlink Analysis",
     "subElement": "ii. Replication",
     "task": "Earn backlinks similar to competitors",
     "monthlyTask": "5-10 backlinks",
@@ -2432,7 +2432,7 @@
   {
     "month": "April",
     "category": "Off-Page SEO",
-    "element": "Other",
+    "element": "C. Competitor Backlink Analysis",
     "subElement": "ii. Replication",
     "task": "Earn backlinks similar to competitors",
     "monthlyTask": "5-10 backlinks",
@@ -2441,7 +2441,7 @@
   {
     "month": "May",
     "category": "Off-Page SEO",
-    "element": "Other",
+    "element": "C. Competitor Backlink Analysis",
     "subElement": "ii. Replication",
     "task": "Earn backlinks similar to competitors",
     "monthlyTask": "5-10 backlinks",
@@ -2450,7 +2450,7 @@
   {
     "month": "June",
     "category": "Off-Page SEO",
-    "element": "Other",
+    "element": "C. Competitor Backlink Analysis",
     "subElement": "ii. Replication",
     "task": "Earn backlinks similar to competitors",
     "monthlyTask": "5-10 backlinks",
@@ -2459,7 +2459,7 @@
   {
     "month": "July",
     "category": "Off-Page SEO",
-    "element": "Other",
+    "element": "C. Competitor Backlink Analysis",
     "subElement": "ii. Replication",
     "task": "Earn backlinks similar to competitors",
     "monthlyTask": "5-10 backlinks",
@@ -2468,7 +2468,7 @@
   {
     "month": "August",
     "category": "Off-Page SEO",
-    "element": "Other",
+    "element": "C. Competitor Backlink Analysis",
     "subElement": "ii. Replication",
     "task": "Earn backlinks similar to competitors",
     "monthlyTask": "5-10 backlinks",
@@ -2477,7 +2477,7 @@
   {
     "month": "September",
     "category": "Off-Page SEO",
-    "element": "Other",
+    "element": "C. Competitor Backlink Analysis",
     "subElement": "ii. Replication",
     "task": "Earn backlinks similar to competitors",
     "monthlyTask": "5-10 backlinks",
@@ -2486,7 +2486,7 @@
   {
     "month": "October",
     "category": "Off-Page SEO",
-    "element": "Other",
+    "element": "C. Competitor Backlink Analysis",
     "subElement": "ii. Replication",
     "task": "Earn backlinks similar to competitors",
     "monthlyTask": "5-10 backlinks",
@@ -2495,7 +2495,7 @@
   {
     "month": "November",
     "category": "Off-Page SEO",
-    "element": "Other",
+    "element": "C. Competitor Backlink Analysis",
     "subElement": "ii. Replication",
     "task": "Earn backlinks similar to competitors",
     "monthlyTask": "5-10 backlinks",
@@ -2504,7 +2504,7 @@
   {
     "month": "December",
     "category": "Off-Page SEO",
-    "element": "Other",
+    "element": "C. Competitor Backlink Analysis",
     "subElement": "ii. Replication",
     "task": "Earn backlinks similar to competitors",
     "monthlyTask": "5-10 backlinks",
@@ -2729,7 +2729,7 @@
   {
     "month": "January",
     "category": "Off-Page SEO",
-    "element": "Other",
+    "element": "E. Blog Content Formats",
     "subElement": "ii. Videos",
     "task": "Create short styling/product videos",
     "monthlyTask": "2 videos",
@@ -2738,7 +2738,7 @@
   {
     "month": "February",
     "category": "Off-Page SEO",
-    "element": "Other",
+    "element": "E. Blog Content Formats",
     "subElement": "ii. Videos",
     "task": "Create short styling/product videos",
     "monthlyTask": "2 videos",
@@ -2747,7 +2747,7 @@
   {
     "month": "March",
     "category": "Off-Page SEO",
-    "element": "Other",
+    "element": "E. Blog Content Formats",
     "subElement": "ii. Videos",
     "task": "Create short styling/product videos",
     "monthlyTask": "2 videos",
@@ -2756,7 +2756,7 @@
   {
     "month": "April",
     "category": "Off-Page SEO",
-    "element": "Other",
+    "element": "E. Blog Content Formats",
     "subElement": "ii. Videos",
     "task": "Create short styling/product videos",
     "monthlyTask": "2 videos",
@@ -2765,7 +2765,7 @@
   {
     "month": "May",
     "category": "Off-Page SEO",
-    "element": "Other",
+    "element": "E. Blog Content Formats",
     "subElement": "ii. Videos",
     "task": "Create short styling/product videos",
     "monthlyTask": "2 videos",
@@ -2774,7 +2774,7 @@
   {
     "month": "June",
     "category": "Off-Page SEO",
-    "element": "Other",
+    "element": "E. Blog Content Formats",
     "subElement": "ii. Videos",
     "task": "Create short styling/product videos",
     "monthlyTask": "2 videos",
@@ -2783,7 +2783,7 @@
   {
     "month": "July",
     "category": "Off-Page SEO",
-    "element": "Other",
+    "element": "E. Blog Content Formats",
     "subElement": "ii. Videos",
     "task": "Create short styling/product videos",
     "monthlyTask": "2 videos",
@@ -2792,7 +2792,7 @@
   {
     "month": "August",
     "category": "Off-Page SEO",
-    "element": "Other",
+    "element": "E. Blog Content Formats",
     "subElement": "ii. Videos",
     "task": "Create short styling/product videos",
     "monthlyTask": "2 videos",
@@ -2801,7 +2801,7 @@
   {
     "month": "September",
     "category": "Off-Page SEO",
-    "element": "Other",
+    "element": "E. Blog Content Formats",
     "subElement": "ii. Videos",
     "task": "Create short styling/product videos",
     "monthlyTask": "2 videos",
@@ -2810,7 +2810,7 @@
   {
     "month": "October",
     "category": "Off-Page SEO",
-    "element": "Other",
+    "element": "E. Blog Content Formats",
     "subElement": "ii. Videos",
     "task": "Create short styling/product videos",
     "monthlyTask": "2 videos",
@@ -2819,7 +2819,7 @@
   {
     "month": "November",
     "category": "Off-Page SEO",
-    "element": "Other",
+    "element": "E. Blog Content Formats",
     "subElement": "ii. Videos",
     "task": "Create short styling/product videos",
     "monthlyTask": "2 videos",
@@ -2828,7 +2828,7 @@
   {
     "month": "December",
     "category": "Off-Page SEO",
-    "element": "Other",
+    "element": "E. Blog Content Formats",
     "subElement": "ii. Videos",
     "task": "Create short styling/product videos",
     "monthlyTask": "2 videos",
@@ -2945,7 +2945,7 @@
   {
     "month": "January",
     "category": "Off-Page SEO",
-    "element": "Other",
+    "element": "F. Keyword Research & Mapping",
     "subElement": "ii. Mapping & Gap Analysis",
     "task": "Assign keywords & find content gaps",
     "monthlyTask": "Ongoing",
@@ -2954,7 +2954,7 @@
   {
     "month": "February",
     "category": "Off-Page SEO",
-    "element": "Other",
+    "element": "F. Keyword Research & Mapping",
     "subElement": "ii. Mapping & Gap Analysis",
     "task": "Assign keywords & find content gaps",
     "monthlyTask": "Ongoing",
@@ -2963,7 +2963,7 @@
   {
     "month": "March",
     "category": "Off-Page SEO",
-    "element": "Other",
+    "element": "F. Keyword Research & Mapping",
     "subElement": "ii. Mapping & Gap Analysis",
     "task": "Assign keywords & find content gaps",
     "monthlyTask": "Ongoing",
@@ -2972,7 +2972,7 @@
   {
     "month": "April",
     "category": "Off-Page SEO",
-    "element": "Other",
+    "element": "F. Keyword Research & Mapping",
     "subElement": "ii. Mapping & Gap Analysis",
     "task": "Assign keywords & find content gaps",
     "monthlyTask": "Ongoing",
@@ -2981,7 +2981,7 @@
   {
     "month": "May",
     "category": "Off-Page SEO",
-    "element": "Other",
+    "element": "F. Keyword Research & Mapping",
     "subElement": "ii. Mapping & Gap Analysis",
     "task": "Assign keywords & find content gaps",
     "monthlyTask": "Ongoing",
@@ -2990,7 +2990,7 @@
   {
     "month": "June",
     "category": "Off-Page SEO",
-    "element": "Other",
+    "element": "F. Keyword Research & Mapping",
     "subElement": "ii. Mapping & Gap Analysis",
     "task": "Assign keywords & find content gaps",
     "monthlyTask": "Ongoing",
@@ -2999,7 +2999,7 @@
   {
     "month": "July",
     "category": "Off-Page SEO",
-    "element": "Other",
+    "element": "F. Keyword Research & Mapping",
     "subElement": "ii. Mapping & Gap Analysis",
     "task": "Assign keywords & find content gaps",
     "monthlyTask": "Ongoing",
@@ -3008,7 +3008,7 @@
   {
     "month": "August",
     "category": "Off-Page SEO",
-    "element": "Other",
+    "element": "F. Keyword Research & Mapping",
     "subElement": "ii. Mapping & Gap Analysis",
     "task": "Assign keywords & find content gaps",
     "monthlyTask": "Ongoing",
@@ -3017,7 +3017,7 @@
   {
     "month": "September",
     "category": "Off-Page SEO",
-    "element": "Other",
+    "element": "F. Keyword Research & Mapping",
     "subElement": "ii. Mapping & Gap Analysis",
     "task": "Assign keywords & find content gaps",
     "monthlyTask": "Ongoing",
@@ -3026,7 +3026,7 @@
   {
     "month": "October",
     "category": "Off-Page SEO",
-    "element": "Other",
+    "element": "F. Keyword Research & Mapping",
     "subElement": "ii. Mapping & Gap Analysis",
     "task": "Assign keywords & find content gaps",
     "monthlyTask": "Ongoing",
@@ -3035,7 +3035,7 @@
   {
     "month": "November",
     "category": "Off-Page SEO",
-    "element": "Other",
+    "element": "F. Keyword Research & Mapping",
     "subElement": "ii. Mapping & Gap Analysis",
     "task": "Assign keywords & find content gaps",
     "monthlyTask": "Ongoing",
@@ -3044,7 +3044,7 @@
   {
     "month": "December",
     "category": "Off-Page SEO",
-    "element": "Other",
+    "element": "F. Keyword Research & Mapping",
     "subElement": "ii. Mapping & Gap Analysis",
     "task": "Assign keywords & find content gaps",
     "monthlyTask": "Ongoing",
@@ -3161,7 +3161,7 @@
   {
     "month": "January",
     "category": "Off-Page SEO",
-    "element": "Other",
+    "element": "G. Social Media & Brand Signals",
     "subElement": "ii. Content Sharing",
     "task": "Share blogs, products, reels",
     "monthlyTask": "Regular sharing",
@@ -3170,7 +3170,7 @@
   {
     "month": "February",
     "category": "Off-Page SEO",
-    "element": "Other",
+    "element": "G. Social Media & Brand Signals",
     "subElement": "ii. Content Sharing",
     "task": "Share blogs, products, reels",
     "monthlyTask": "Regular sharing",
@@ -3179,7 +3179,7 @@
   {
     "month": "March",
     "category": "Off-Page SEO",
-    "element": "Other",
+    "element": "G. Social Media & Brand Signals",
     "subElement": "ii. Content Sharing",
     "task": "Share blogs, products, reels",
     "monthlyTask": "Regular sharing",
@@ -3188,7 +3188,7 @@
   {
     "month": "April",
     "category": "Off-Page SEO",
-    "element": "Other",
+    "element": "G. Social Media & Brand Signals",
     "subElement": "ii. Content Sharing",
     "task": "Share blogs, products, reels",
     "monthlyTask": "Regular sharing",
@@ -3197,7 +3197,7 @@
   {
     "month": "May",
     "category": "Off-Page SEO",
-    "element": "Other",
+    "element": "G. Social Media & Brand Signals",
     "subElement": "ii. Content Sharing",
     "task": "Share blogs, products, reels",
     "monthlyTask": "Regular sharing",
@@ -3206,7 +3206,7 @@
   {
     "month": "June",
     "category": "Off-Page SEO",
-    "element": "Other",
+    "element": "G. Social Media & Brand Signals",
     "subElement": "ii. Content Sharing",
     "task": "Share blogs, products, reels",
     "monthlyTask": "Regular sharing",
@@ -3215,7 +3215,7 @@
   {
     "month": "July",
     "category": "Off-Page SEO",
-    "element": "Other",
+    "element": "G. Social Media & Brand Signals",
     "subElement": "ii. Content Sharing",
     "task": "Share blogs, products, reels",
     "monthlyTask": "Regular sharing",
@@ -3224,7 +3224,7 @@
   {
     "month": "August",
     "category": "Off-Page SEO",
-    "element": "Other",
+    "element": "G. Social Media & Brand Signals",
     "subElement": "ii. Content Sharing",
     "task": "Share blogs, products, reels",
     "monthlyTask": "Regular sharing",
@@ -3233,7 +3233,7 @@
   {
     "month": "September",
     "category": "Off-Page SEO",
-    "element": "Other",
+    "element": "G. Social Media & Brand Signals",
     "subElement": "ii. Content Sharing",
     "task": "Share blogs, products, reels",
     "monthlyTask": "Regular sharing",
@@ -3242,7 +3242,7 @@
   {
     "month": "October",
     "category": "Off-Page SEO",
-    "element": "Other",
+    "element": "G. Social Media & Brand Signals",
     "subElement": "ii. Content Sharing",
     "task": "Share blogs, products, reels",
     "monthlyTask": "Regular sharing",
@@ -3251,7 +3251,7 @@
   {
     "month": "November",
     "category": "Off-Page SEO",
-    "element": "Other",
+    "element": "G. Social Media & Brand Signals",
     "subElement": "ii. Content Sharing",
     "task": "Share blogs, products, reels",
     "monthlyTask": "Regular sharing",
@@ -3260,7 +3260,7 @@
   {
     "month": "December",
     "category": "Off-Page SEO",
-    "element": "Other",
+    "element": "G. Social Media & Brand Signals",
     "subElement": "ii. Content Sharing",
     "task": "Share blogs, products, reels",
     "monthlyTask": "Regular sharing",
@@ -3269,7 +3269,7 @@
   {
     "month": "January",
     "category": "Off-Page SEO",
-    "element": "Other",
+    "element": "G. Social Media & Brand Signals",
     "subElement": "iii. UGC Promotion",
     "task": "Encourage user-generated content",
     "monthlyTask": "Campaign-based",
@@ -3278,7 +3278,7 @@
   {
     "month": "February",
     "category": "Off-Page SEO",
-    "element": "Other",
+    "element": "G. Social Media & Brand Signals",
     "subElement": "iii. UGC Promotion",
     "task": "Encourage user-generated content",
     "monthlyTask": "Campaign-based",
@@ -3287,7 +3287,7 @@
   {
     "month": "March",
     "category": "Off-Page SEO",
-    "element": "Other",
+    "element": "G. Social Media & Brand Signals",
     "subElement": "iii. UGC Promotion",
     "task": "Encourage user-generated content",
     "monthlyTask": "Campaign-based",
@@ -3296,7 +3296,7 @@
   {
     "month": "April",
     "category": "Off-Page SEO",
-    "element": "Other",
+    "element": "G. Social Media & Brand Signals",
     "subElement": "iii. UGC Promotion",
     "task": "Encourage user-generated content",
     "monthlyTask": "Campaign-based",
@@ -3305,7 +3305,7 @@
   {
     "month": "May",
     "category": "Off-Page SEO",
-    "element": "Other",
+    "element": "G. Social Media & Brand Signals",
     "subElement": "iii. UGC Promotion",
     "task": "Encourage user-generated content",
     "monthlyTask": "Campaign-based",
@@ -3314,7 +3314,7 @@
   {
     "month": "June",
     "category": "Off-Page SEO",
-    "element": "Other",
+    "element": "G. Social Media & Brand Signals",
     "subElement": "iii. UGC Promotion",
     "task": "Encourage user-generated content",
     "monthlyTask": "Campaign-based",
@@ -3323,7 +3323,7 @@
   {
     "month": "July",
     "category": "Off-Page SEO",
-    "element": "Other",
+    "element": "G. Social Media & Brand Signals",
     "subElement": "iii. UGC Promotion",
     "task": "Encourage user-generated content",
     "monthlyTask": "Campaign-based",
@@ -3332,7 +3332,7 @@
   {
     "month": "August",
     "category": "Off-Page SEO",
-    "element": "Other",
+    "element": "G. Social Media & Brand Signals",
     "subElement": "iii. UGC Promotion",
     "task": "Encourage user-generated content",
     "monthlyTask": "Campaign-based",
@@ -3341,7 +3341,7 @@
   {
     "month": "September",
     "category": "Off-Page SEO",
-    "element": "Other",
+    "element": "G. Social Media & Brand Signals",
     "subElement": "iii. UGC Promotion",
     "task": "Encourage user-generated content",
     "monthlyTask": "Campaign-based",
@@ -3350,7 +3350,7 @@
   {
     "month": "October",
     "category": "Off-Page SEO",
-    "element": "Other",
+    "element": "G. Social Media & Brand Signals",
     "subElement": "iii. UGC Promotion",
     "task": "Encourage user-generated content",
     "monthlyTask": "Campaign-based",
@@ -3359,7 +3359,7 @@
   {
     "month": "November",
     "category": "Off-Page SEO",
-    "element": "Other",
+    "element": "G. Social Media & Brand Signals",
     "subElement": "iii. UGC Promotion",
     "task": "Encourage user-generated content",
     "monthlyTask": "Campaign-based",
@@ -3368,7 +3368,7 @@
   {
     "month": "December",
     "category": "Off-Page SEO",
-    "element": "Other",
+    "element": "G. Social Media & Brand Signals",
     "subElement": "iii. UGC Promotion",
     "task": "Encourage user-generated content",
     "monthlyTask": "Campaign-based",
@@ -3488,7 +3488,7 @@
     "element": "Technical SEO Checklist",
     "subElement": "Other",
     "task": "Robots.txt",
-    "monthlyTask": "·       Monitor and update as needed",
+    "monthlyTask": "Monitor and update as needed",
     "team": "digital-marketing"
   },
   {
@@ -3497,7 +3497,7 @@
     "element": "Technical SEO Checklist",
     "subElement": "Other",
     "task": "Robots.txt",
-    "monthlyTask": "·       Monitor and update as needed",
+    "monthlyTask": "Monitor and update as needed",
     "team": "digital-marketing"
   },
   {
@@ -3506,7 +3506,7 @@
     "element": "Technical SEO Checklist",
     "subElement": "Other",
     "task": "Robots.txt",
-    "monthlyTask": "·       Monitor and update as needed",
+    "monthlyTask": "Monitor and update as needed",
     "team": "digital-marketing"
   },
   {
@@ -3515,7 +3515,7 @@
     "element": "Technical SEO Checklist",
     "subElement": "Other",
     "task": "Robots.txt",
-    "monthlyTask": "·       Monitor and update as needed",
+    "monthlyTask": "Monitor and update as needed",
     "team": "digital-marketing"
   },
   {
@@ -3524,7 +3524,7 @@
     "element": "Technical SEO Checklist",
     "subElement": "Other",
     "task": "Robots.txt",
-    "monthlyTask": "·       Monitor and update as needed",
+    "monthlyTask": "Monitor and update as needed",
     "team": "digital-marketing"
   },
   {
@@ -3533,7 +3533,7 @@
     "element": "Technical SEO Checklist",
     "subElement": "Other",
     "task": "Robots.txt",
-    "monthlyTask": "·       Monitor and update as needed",
+    "monthlyTask": "Monitor and update as needed",
     "team": "digital-marketing"
   },
   {
@@ -3542,7 +3542,7 @@
     "element": "Technical SEO Checklist",
     "subElement": "Other",
     "task": "Robots.txt",
-    "monthlyTask": "·       Monitor and update as needed",
+    "monthlyTask": "Monitor and update as needed",
     "team": "digital-marketing"
   },
   {
@@ -3551,7 +3551,7 @@
     "element": "Technical SEO Checklist",
     "subElement": "Other",
     "task": "Robots.txt",
-    "monthlyTask": "·       Monitor and update as needed",
+    "monthlyTask": "Monitor and update as needed",
     "team": "digital-marketing"
   },
   {
@@ -3560,7 +3560,7 @@
     "element": "Technical SEO Checklist",
     "subElement": "Other",
     "task": "Robots.txt",
-    "monthlyTask": "·       Monitor and update as needed",
+    "monthlyTask": "Monitor and update as needed",
     "team": "digital-marketing"
   },
   {
@@ -3569,7 +3569,7 @@
     "element": "Technical SEO Checklist",
     "subElement": "Other",
     "task": "Robots.txt",
-    "monthlyTask": "·       Monitor and update as needed",
+    "monthlyTask": "Monitor and update as needed",
     "team": "digital-marketing"
   },
   {
@@ -3578,7 +3578,7 @@
     "element": "Technical SEO Checklist",
     "subElement": "Other",
     "task": "Robots.txt",
-    "monthlyTask": "·       Monitor and update as needed",
+    "monthlyTask": "Monitor and update as needed",
     "team": "digital-marketing"
   },
   {
@@ -3587,13 +3587,13 @@
     "element": "Technical SEO Checklist",
     "subElement": "Other",
     "task": "Robots.txt",
-    "monthlyTask": "·       Monitor and update as needed",
+    "monthlyTask": "Monitor and update as needed",
     "team": "digital-marketing"
   },
   {
     "month": "January",
     "category": "Technical SEO",
-    "element": "Other",
+    "element": "Technical SEO Checklist",
     "subElement": "Other",
     "task": "Sitemap",
     "monthlyTask": "",
@@ -3602,7 +3602,7 @@
   {
     "month": "February",
     "category": "Technical SEO",
-    "element": "Other",
+    "element": "Technical SEO Checklist",
     "subElement": "Other",
     "task": "Sitemap",
     "monthlyTask": "",
@@ -3611,7 +3611,7 @@
   {
     "month": "March",
     "category": "Technical SEO",
-    "element": "Other",
+    "element": "Technical SEO Checklist",
     "subElement": "Other",
     "task": "Sitemap",
     "monthlyTask": "",
@@ -3620,7 +3620,7 @@
   {
     "month": "April",
     "category": "Technical SEO",
-    "element": "Other",
+    "element": "Technical SEO Checklist",
     "subElement": "Other",
     "task": "Sitemap",
     "monthlyTask": "",
@@ -3629,7 +3629,7 @@
   {
     "month": "May",
     "category": "Technical SEO",
-    "element": "Other",
+    "element": "Technical SEO Checklist",
     "subElement": "Other",
     "task": "Sitemap",
     "monthlyTask": "",
@@ -3638,7 +3638,7 @@
   {
     "month": "June",
     "category": "Technical SEO",
-    "element": "Other",
+    "element": "Technical SEO Checklist",
     "subElement": "Other",
     "task": "Sitemap",
     "monthlyTask": "",
@@ -3647,7 +3647,7 @@
   {
     "month": "July",
     "category": "Technical SEO",
-    "element": "Other",
+    "element": "Technical SEO Checklist",
     "subElement": "Other",
     "task": "Sitemap",
     "monthlyTask": "",
@@ -3656,7 +3656,7 @@
   {
     "month": "August",
     "category": "Technical SEO",
-    "element": "Other",
+    "element": "Technical SEO Checklist",
     "subElement": "Other",
     "task": "Sitemap",
     "monthlyTask": "",
@@ -3665,7 +3665,7 @@
   {
     "month": "September",
     "category": "Technical SEO",
-    "element": "Other",
+    "element": "Technical SEO Checklist",
     "subElement": "Other",
     "task": "Sitemap",
     "monthlyTask": "",
@@ -3674,7 +3674,7 @@
   {
     "month": "October",
     "category": "Technical SEO",
-    "element": "Other",
+    "element": "Technical SEO Checklist",
     "subElement": "Other",
     "task": "Sitemap",
     "monthlyTask": "",
@@ -3683,7 +3683,7 @@
   {
     "month": "November",
     "category": "Technical SEO",
-    "element": "Other",
+    "element": "Technical SEO Checklist",
     "subElement": "Other",
     "task": "Sitemap",
     "monthlyTask": "",
@@ -3692,7 +3692,7 @@
   {
     "month": "December",
     "category": "Technical SEO",
-    "element": "Other",
+    "element": "Technical SEO Checklist",
     "subElement": "Other",
     "task": "Sitemap",
     "monthlyTask": "",
@@ -3701,7 +3701,7 @@
   {
     "month": "January",
     "category": "Technical SEO",
-    "element": "Other",
+    "element": "Technical SEO Checklist",
     "subElement": "Other",
     "task": "Image alt tags",
     "monthlyTask": "",
@@ -3710,7 +3710,7 @@
   {
     "month": "February",
     "category": "Technical SEO",
-    "element": "Other",
+    "element": "Technical SEO Checklist",
     "subElement": "Other",
     "task": "Image alt tags",
     "monthlyTask": "",
@@ -3719,7 +3719,7 @@
   {
     "month": "March",
     "category": "Technical SEO",
-    "element": "Other",
+    "element": "Technical SEO Checklist",
     "subElement": "Other",
     "task": "Image alt tags",
     "monthlyTask": "",
@@ -3728,7 +3728,7 @@
   {
     "month": "April",
     "category": "Technical SEO",
-    "element": "Other",
+    "element": "Technical SEO Checklist",
     "subElement": "Other",
     "task": "Image alt tags",
     "monthlyTask": "",
@@ -3737,7 +3737,7 @@
   {
     "month": "May",
     "category": "Technical SEO",
-    "element": "Other",
+    "element": "Technical SEO Checklist",
     "subElement": "Other",
     "task": "Image alt tags",
     "monthlyTask": "",
@@ -3746,7 +3746,7 @@
   {
     "month": "June",
     "category": "Technical SEO",
-    "element": "Other",
+    "element": "Technical SEO Checklist",
     "subElement": "Other",
     "task": "Image alt tags",
     "monthlyTask": "",
@@ -3755,7 +3755,7 @@
   {
     "month": "July",
     "category": "Technical SEO",
-    "element": "Other",
+    "element": "Technical SEO Checklist",
     "subElement": "Other",
     "task": "Image alt tags",
     "monthlyTask": "",
@@ -3764,7 +3764,7 @@
   {
     "month": "August",
     "category": "Technical SEO",
-    "element": "Other",
+    "element": "Technical SEO Checklist",
     "subElement": "Other",
     "task": "Image alt tags",
     "monthlyTask": "",
@@ -3773,7 +3773,7 @@
   {
     "month": "September",
     "category": "Technical SEO",
-    "element": "Other",
+    "element": "Technical SEO Checklist",
     "subElement": "Other",
     "task": "Image alt tags",
     "monthlyTask": "",
@@ -3782,7 +3782,7 @@
   {
     "month": "October",
     "category": "Technical SEO",
-    "element": "Other",
+    "element": "Technical SEO Checklist",
     "subElement": "Other",
     "task": "Image alt tags",
     "monthlyTask": "",
@@ -3791,7 +3791,7 @@
   {
     "month": "November",
     "category": "Technical SEO",
-    "element": "Other",
+    "element": "Technical SEO Checklist",
     "subElement": "Other",
     "task": "Image alt tags",
     "monthlyTask": "",
@@ -3800,7 +3800,7 @@
   {
     "month": "December",
     "category": "Technical SEO",
-    "element": "Other",
+    "element": "Technical SEO Checklist",
     "subElement": "Other",
     "task": "Image alt tags",
     "monthlyTask": "",
@@ -3809,7 +3809,7 @@
   {
     "month": "January",
     "category": "Technical SEO",
-    "element": "Other",
+    "element": "Technical SEO Checklist",
     "subElement": "Other",
     "task": "Plugin Optimization",
     "monthlyTask": "",
@@ -3818,7 +3818,7 @@
   {
     "month": "February",
     "category": "Technical SEO",
-    "element": "Other",
+    "element": "Technical SEO Checklist",
     "subElement": "Other",
     "task": "Plugin Optimization",
     "monthlyTask": "",
@@ -3827,7 +3827,7 @@
   {
     "month": "March",
     "category": "Technical SEO",
-    "element": "Other",
+    "element": "Technical SEO Checklist",
     "subElement": "Other",
     "task": "Plugin Optimization",
     "monthlyTask": "",
@@ -3836,7 +3836,7 @@
   {
     "month": "April",
     "category": "Technical SEO",
-    "element": "Other",
+    "element": "Technical SEO Checklist",
     "subElement": "Other",
     "task": "Plugin Optimization",
     "monthlyTask": "",
@@ -3845,7 +3845,7 @@
   {
     "month": "May",
     "category": "Technical SEO",
-    "element": "Other",
+    "element": "Technical SEO Checklist",
     "subElement": "Other",
     "task": "Plugin Optimization",
     "monthlyTask": "",
@@ -3854,7 +3854,7 @@
   {
     "month": "June",
     "category": "Technical SEO",
-    "element": "Other",
+    "element": "Technical SEO Checklist",
     "subElement": "Other",
     "task": "Plugin Optimization",
     "monthlyTask": "",
@@ -3863,7 +3863,7 @@
   {
     "month": "July",
     "category": "Technical SEO",
-    "element": "Other",
+    "element": "Technical SEO Checklist",
     "subElement": "Other",
     "task": "Plugin Optimization",
     "monthlyTask": "",
@@ -3872,7 +3872,7 @@
   {
     "month": "August",
     "category": "Technical SEO",
-    "element": "Other",
+    "element": "Technical SEO Checklist",
     "subElement": "Other",
     "task": "Plugin Optimization",
     "monthlyTask": "",
@@ -3881,7 +3881,7 @@
   {
     "month": "September",
     "category": "Technical SEO",
-    "element": "Other",
+    "element": "Technical SEO Checklist",
     "subElement": "Other",
     "task": "Plugin Optimization",
     "monthlyTask": "",
@@ -3890,7 +3890,7 @@
   {
     "month": "October",
     "category": "Technical SEO",
-    "element": "Other",
+    "element": "Technical SEO Checklist",
     "subElement": "Other",
     "task": "Plugin Optimization",
     "monthlyTask": "",
@@ -3899,7 +3899,7 @@
   {
     "month": "November",
     "category": "Technical SEO",
-    "element": "Other",
+    "element": "Technical SEO Checklist",
     "subElement": "Other",
     "task": "Plugin Optimization",
     "monthlyTask": "",
@@ -3908,7 +3908,7 @@
   {
     "month": "December",
     "category": "Technical SEO",
-    "element": "Other",
+    "element": "Technical SEO Checklist",
     "subElement": "Other",
     "task": "Plugin Optimization",
     "monthlyTask": "",
@@ -3920,7 +3920,7 @@
     "element": "Page Speed Performance",
     "subElement": "Other",
     "task": "Speed Optimization based on score (JS, CSS rendering)",
-    "monthlyTask": "·       Implementations and prepare reports",
+    "monthlyTask": "Implementations and prepare reports",
     "team": "digital-marketing"
   },
   {
@@ -3929,7 +3929,7 @@
     "element": "Page Speed Performance",
     "subElement": "Other",
     "task": "Speed Optimization based on score (JS, CSS rendering)",
-    "monthlyTask": "·       Implementations and prepare reports",
+    "monthlyTask": "Implementations and prepare reports",
     "team": "digital-marketing"
   },
   {
@@ -3938,7 +3938,7 @@
     "element": "Page Speed Performance",
     "subElement": "Other",
     "task": "Speed Optimization based on score (JS, CSS rendering)",
-    "monthlyTask": "·       Implementations and prepare reports",
+    "monthlyTask": "Implementations and prepare reports",
     "team": "digital-marketing"
   },
   {
@@ -3947,7 +3947,7 @@
     "element": "Page Speed Performance",
     "subElement": "Other",
     "task": "Speed Optimization based on score (JS, CSS rendering)",
-    "monthlyTask": "·       Implementations and prepare reports",
+    "monthlyTask": "Implementations and prepare reports",
     "team": "digital-marketing"
   },
   {
@@ -3956,7 +3956,7 @@
     "element": "Page Speed Performance",
     "subElement": "Other",
     "task": "Speed Optimization based on score (JS, CSS rendering)",
-    "monthlyTask": "·       Implementations and prepare reports",
+    "monthlyTask": "Implementations and prepare reports",
     "team": "digital-marketing"
   },
   {
@@ -3965,7 +3965,7 @@
     "element": "Page Speed Performance",
     "subElement": "Other",
     "task": "Speed Optimization based on score (JS, CSS rendering)",
-    "monthlyTask": "·       Implementations and prepare reports",
+    "monthlyTask": "Implementations and prepare reports",
     "team": "digital-marketing"
   },
   {
@@ -3974,7 +3974,7 @@
     "element": "Page Speed Performance",
     "subElement": "Other",
     "task": "Speed Optimization based on score (JS, CSS rendering)",
-    "monthlyTask": "·       Implementations and prepare reports",
+    "monthlyTask": "Implementations and prepare reports",
     "team": "digital-marketing"
   },
   {
@@ -3983,7 +3983,7 @@
     "element": "Page Speed Performance",
     "subElement": "Other",
     "task": "Speed Optimization based on score (JS, CSS rendering)",
-    "monthlyTask": "·       Implementations and prepare reports",
+    "monthlyTask": "Implementations and prepare reports",
     "team": "digital-marketing"
   },
   {
@@ -3992,7 +3992,7 @@
     "element": "Page Speed Performance",
     "subElement": "Other",
     "task": "Speed Optimization based on score (JS, CSS rendering)",
-    "monthlyTask": "·       Implementations and prepare reports",
+    "monthlyTask": "Implementations and prepare reports",
     "team": "digital-marketing"
   },
   {
@@ -4001,7 +4001,7 @@
     "element": "Page Speed Performance",
     "subElement": "Other",
     "task": "Speed Optimization based on score (JS, CSS rendering)",
-    "monthlyTask": "·       Implementations and prepare reports",
+    "monthlyTask": "Implementations and prepare reports",
     "team": "digital-marketing"
   },
   {
@@ -4010,7 +4010,7 @@
     "element": "Page Speed Performance",
     "subElement": "Other",
     "task": "Speed Optimization based on score (JS, CSS rendering)",
-    "monthlyTask": "·       Implementations and prepare reports",
+    "monthlyTask": "Implementations and prepare reports",
     "team": "digital-marketing"
   },
   {
@@ -4019,13 +4019,13 @@
     "element": "Page Speed Performance",
     "subElement": "Other",
     "task": "Speed Optimization based on score (JS, CSS rendering)",
-    "monthlyTask": "·       Implementations and prepare reports",
+    "monthlyTask": "Implementations and prepare reports",
     "team": "digital-marketing"
   },
   {
     "month": "January",
     "category": "Technical SEO",
-    "element": "Other",
+    "element": "Page Speed Performance",
     "subElement": "Other",
     "task": "Maintaining core web vitals LCP, CLS, INP, etc.",
     "monthlyTask": "Estimate Speed Scores above 95",
@@ -4034,7 +4034,7 @@
   {
     "month": "February",
     "category": "Technical SEO",
-    "element": "Other",
+    "element": "Page Speed Performance",
     "subElement": "Other",
     "task": "Maintaining core web vitals LCP, CLS, INP, etc.",
     "monthlyTask": "Estimate Speed Scores above 95",
@@ -4043,7 +4043,7 @@
   {
     "month": "March",
     "category": "Technical SEO",
-    "element": "Other",
+    "element": "Page Speed Performance",
     "subElement": "Other",
     "task": "Maintaining core web vitals LCP, CLS, INP, etc.",
     "monthlyTask": "Estimate Speed Scores above 95",
@@ -4052,7 +4052,7 @@
   {
     "month": "April",
     "category": "Technical SEO",
-    "element": "Other",
+    "element": "Page Speed Performance",
     "subElement": "Other",
     "task": "Maintaining core web vitals LCP, CLS, INP, etc.",
     "monthlyTask": "Estimate Speed Scores above 95",
@@ -4061,7 +4061,7 @@
   {
     "month": "May",
     "category": "Technical SEO",
-    "element": "Other",
+    "element": "Page Speed Performance",
     "subElement": "Other",
     "task": "Maintaining core web vitals LCP, CLS, INP, etc.",
     "monthlyTask": "Estimate Speed Scores above 95",
@@ -4070,7 +4070,7 @@
   {
     "month": "June",
     "category": "Technical SEO",
-    "element": "Other",
+    "element": "Page Speed Performance",
     "subElement": "Other",
     "task": "Maintaining core web vitals LCP, CLS, INP, etc.",
     "monthlyTask": "Estimate Speed Scores above 95",
@@ -4079,7 +4079,7 @@
   {
     "month": "July",
     "category": "Technical SEO",
-    "element": "Other",
+    "element": "Page Speed Performance",
     "subElement": "Other",
     "task": "Maintaining core web vitals LCP, CLS, INP, etc.",
     "monthlyTask": "Estimate Speed Scores above 95",
@@ -4088,7 +4088,7 @@
   {
     "month": "August",
     "category": "Technical SEO",
-    "element": "Other",
+    "element": "Page Speed Performance",
     "subElement": "Other",
     "task": "Maintaining core web vitals LCP, CLS, INP, etc.",
     "monthlyTask": "Estimate Speed Scores above 95",
@@ -4097,7 +4097,7 @@
   {
     "month": "September",
     "category": "Technical SEO",
-    "element": "Other",
+    "element": "Page Speed Performance",
     "subElement": "Other",
     "task": "Maintaining core web vitals LCP, CLS, INP, etc.",
     "monthlyTask": "Estimate Speed Scores above 95",
@@ -4106,7 +4106,7 @@
   {
     "month": "October",
     "category": "Technical SEO",
-    "element": "Other",
+    "element": "Page Speed Performance",
     "subElement": "Other",
     "task": "Maintaining core web vitals LCP, CLS, INP, etc.",
     "monthlyTask": "Estimate Speed Scores above 95",
@@ -4115,7 +4115,7 @@
   {
     "month": "November",
     "category": "Technical SEO",
-    "element": "Other",
+    "element": "Page Speed Performance",
     "subElement": "Other",
     "task": "Maintaining core web vitals LCP, CLS, INP, etc.",
     "monthlyTask": "Estimate Speed Scores above 95",
@@ -4124,7 +4124,7 @@
   {
     "month": "December",
     "category": "Technical SEO",
-    "element": "Other",
+    "element": "Page Speed Performance",
     "subElement": "Other",
     "task": "Maintaining core web vitals LCP, CLS, INP, etc.",
     "monthlyTask": "Estimate Speed Scores above 95",
@@ -4136,7 +4136,7 @@
     "element": "URLs and Redirects",
     "subElement": "Other",
     "task": "Implement 301 redirects",
-    "monthlyTask": "·       Monitor and update as needed",
+    "monthlyTask": "Monitor and update as needed",
     "team": "digital-marketing"
   },
   {
@@ -4145,7 +4145,7 @@
     "element": "URLs and Redirects",
     "subElement": "Other",
     "task": "Implement 301 redirects",
-    "monthlyTask": "·       Monitor and update as needed",
+    "monthlyTask": "Monitor and update as needed",
     "team": "digital-marketing"
   },
   {
@@ -4154,7 +4154,7 @@
     "element": "URLs and Redirects",
     "subElement": "Other",
     "task": "Implement 301 redirects",
-    "monthlyTask": "·       Monitor and update as needed",
+    "monthlyTask": "Monitor and update as needed",
     "team": "digital-marketing"
   },
   {
@@ -4163,7 +4163,7 @@
     "element": "URLs and Redirects",
     "subElement": "Other",
     "task": "Implement 301 redirects",
-    "monthlyTask": "·       Monitor and update as needed",
+    "monthlyTask": "Monitor and update as needed",
     "team": "digital-marketing"
   },
   {
@@ -4172,7 +4172,7 @@
     "element": "URLs and Redirects",
     "subElement": "Other",
     "task": "Implement 301 redirects",
-    "monthlyTask": "·       Monitor and update as needed",
+    "monthlyTask": "Monitor and update as needed",
     "team": "digital-marketing"
   },
   {
@@ -4181,7 +4181,7 @@
     "element": "URLs and Redirects",
     "subElement": "Other",
     "task": "Implement 301 redirects",
-    "monthlyTask": "·       Monitor and update as needed",
+    "monthlyTask": "Monitor and update as needed",
     "team": "digital-marketing"
   },
   {
@@ -4190,7 +4190,7 @@
     "element": "URLs and Redirects",
     "subElement": "Other",
     "task": "Implement 301 redirects",
-    "monthlyTask": "·       Monitor and update as needed",
+    "monthlyTask": "Monitor and update as needed",
     "team": "digital-marketing"
   },
   {
@@ -4199,7 +4199,7 @@
     "element": "URLs and Redirects",
     "subElement": "Other",
     "task": "Implement 301 redirects",
-    "monthlyTask": "·       Monitor and update as needed",
+    "monthlyTask": "Monitor and update as needed",
     "team": "digital-marketing"
   },
   {
@@ -4208,7 +4208,7 @@
     "element": "URLs and Redirects",
     "subElement": "Other",
     "task": "Implement 301 redirects",
-    "monthlyTask": "·       Monitor and update as needed",
+    "monthlyTask": "Monitor and update as needed",
     "team": "digital-marketing"
   },
   {
@@ -4217,7 +4217,7 @@
     "element": "URLs and Redirects",
     "subElement": "Other",
     "task": "Implement 301 redirects",
-    "monthlyTask": "·       Monitor and update as needed",
+    "monthlyTask": "Monitor and update as needed",
     "team": "digital-marketing"
   },
   {
@@ -4226,7 +4226,7 @@
     "element": "URLs and Redirects",
     "subElement": "Other",
     "task": "Implement 301 redirects",
-    "monthlyTask": "·       Monitor and update as needed",
+    "monthlyTask": "Monitor and update as needed",
     "team": "digital-marketing"
   },
   {
@@ -4235,13 +4235,13 @@
     "element": "URLs and Redirects",
     "subElement": "Other",
     "task": "Implement 301 redirects",
-    "monthlyTask": "·       Monitor and update as needed",
+    "monthlyTask": "Monitor and update as needed",
     "team": "digital-marketing"
   },
   {
     "month": "January",
     "category": "Technical SEO",
-    "element": "Other",
+    "element": "URLs and Redirects",
     "subElement": "Other",
     "task": "Improve Canonicals (if affected)",
     "monthlyTask": "",
@@ -4250,7 +4250,7 @@
   {
     "month": "February",
     "category": "Technical SEO",
-    "element": "Other",
+    "element": "URLs and Redirects",
     "subElement": "Other",
     "task": "Improve Canonicals (if affected)",
     "monthlyTask": "",
@@ -4259,7 +4259,7 @@
   {
     "month": "March",
     "category": "Technical SEO",
-    "element": "Other",
+    "element": "URLs and Redirects",
     "subElement": "Other",
     "task": "Improve Canonicals (if affected)",
     "monthlyTask": "",
@@ -4268,7 +4268,7 @@
   {
     "month": "April",
     "category": "Technical SEO",
-    "element": "Other",
+    "element": "URLs and Redirects",
     "subElement": "Other",
     "task": "Improve Canonicals (if affected)",
     "monthlyTask": "",
@@ -4277,7 +4277,7 @@
   {
     "month": "May",
     "category": "Technical SEO",
-    "element": "Other",
+    "element": "URLs and Redirects",
     "subElement": "Other",
     "task": "Improve Canonicals (if affected)",
     "monthlyTask": "",
@@ -4286,7 +4286,7 @@
   {
     "month": "June",
     "category": "Technical SEO",
-    "element": "Other",
+    "element": "URLs and Redirects",
     "subElement": "Other",
     "task": "Improve Canonicals (if affected)",
     "monthlyTask": "",
@@ -4295,7 +4295,7 @@
   {
     "month": "July",
     "category": "Technical SEO",
-    "element": "Other",
+    "element": "URLs and Redirects",
     "subElement": "Other",
     "task": "Improve Canonicals (if affected)",
     "monthlyTask": "",
@@ -4304,7 +4304,7 @@
   {
     "month": "August",
     "category": "Technical SEO",
-    "element": "Other",
+    "element": "URLs and Redirects",
     "subElement": "Other",
     "task": "Improve Canonicals (if affected)",
     "monthlyTask": "",
@@ -4313,7 +4313,7 @@
   {
     "month": "September",
     "category": "Technical SEO",
-    "element": "Other",
+    "element": "URLs and Redirects",
     "subElement": "Other",
     "task": "Improve Canonicals (if affected)",
     "monthlyTask": "",
@@ -4322,7 +4322,7 @@
   {
     "month": "October",
     "category": "Technical SEO",
-    "element": "Other",
+    "element": "URLs and Redirects",
     "subElement": "Other",
     "task": "Improve Canonicals (if affected)",
     "monthlyTask": "",
@@ -4331,7 +4331,7 @@
   {
     "month": "November",
     "category": "Technical SEO",
-    "element": "Other",
+    "element": "URLs and Redirects",
     "subElement": "Other",
     "task": "Improve Canonicals (if affected)",
     "monthlyTask": "",
@@ -4340,7 +4340,7 @@
   {
     "month": "December",
     "category": "Technical SEO",
-    "element": "Other",
+    "element": "URLs and Redirects",
     "subElement": "Other",
     "task": "Improve Canonicals (if affected)",
     "monthlyTask": "",
@@ -4349,7 +4349,7 @@
   {
     "month": "January",
     "category": "Technical SEO",
-    "element": "Other",
+    "element": "URLs and Redirects",
     "subElement": "Other",
     "task": "Maintain Clean URL structure",
     "monthlyTask": "",
@@ -4358,7 +4358,7 @@
   {
     "month": "February",
     "category": "Technical SEO",
-    "element": "Other",
+    "element": "URLs and Redirects",
     "subElement": "Other",
     "task": "Maintain Clean URL structure",
     "monthlyTask": "",
@@ -4367,7 +4367,7 @@
   {
     "month": "March",
     "category": "Technical SEO",
-    "element": "Other",
+    "element": "URLs and Redirects",
     "subElement": "Other",
     "task": "Maintain Clean URL structure",
     "monthlyTask": "",
@@ -4376,7 +4376,7 @@
   {
     "month": "April",
     "category": "Technical SEO",
-    "element": "Other",
+    "element": "URLs and Redirects",
     "subElement": "Other",
     "task": "Maintain Clean URL structure",
     "monthlyTask": "",
@@ -4385,7 +4385,7 @@
   {
     "month": "May",
     "category": "Technical SEO",
-    "element": "Other",
+    "element": "URLs and Redirects",
     "subElement": "Other",
     "task": "Maintain Clean URL structure",
     "monthlyTask": "",
@@ -4394,7 +4394,7 @@
   {
     "month": "June",
     "category": "Technical SEO",
-    "element": "Other",
+    "element": "URLs and Redirects",
     "subElement": "Other",
     "task": "Maintain Clean URL structure",
     "monthlyTask": "",
@@ -4403,7 +4403,7 @@
   {
     "month": "July",
     "category": "Technical SEO",
-    "element": "Other",
+    "element": "URLs and Redirects",
     "subElement": "Other",
     "task": "Maintain Clean URL structure",
     "monthlyTask": "",
@@ -4412,7 +4412,7 @@
   {
     "month": "August",
     "category": "Technical SEO",
-    "element": "Other",
+    "element": "URLs and Redirects",
     "subElement": "Other",
     "task": "Maintain Clean URL structure",
     "monthlyTask": "",
@@ -4421,7 +4421,7 @@
   {
     "month": "September",
     "category": "Technical SEO",
-    "element": "Other",
+    "element": "URLs and Redirects",
     "subElement": "Other",
     "task": "Maintain Clean URL structure",
     "monthlyTask": "",
@@ -4430,7 +4430,7 @@
   {
     "month": "October",
     "category": "Technical SEO",
-    "element": "Other",
+    "element": "URLs and Redirects",
     "subElement": "Other",
     "task": "Maintain Clean URL structure",
     "monthlyTask": "",
@@ -4439,7 +4439,7 @@
   {
     "month": "November",
     "category": "Technical SEO",
-    "element": "Other",
+    "element": "URLs and Redirects",
     "subElement": "Other",
     "task": "Maintain Clean URL structure",
     "monthlyTask": "",
@@ -4448,7 +4448,7 @@
   {
     "month": "December",
     "category": "Technical SEO",
-    "element": "Other",
+    "element": "URLs and Redirects",
     "subElement": "Other",
     "task": "Maintain Clean URL structure",
     "monthlyTask": "",
@@ -4460,13 +4460,13 @@
     "element": "Structure Data and Schema Mark-up",
     "subElement": "Other",
     "task": "Products – Rich Snippets",
-    "monthlyTask": "·       Monitor and update as needed",
+    "monthlyTask": "Monitor and update as needed",
     "team": "digital-marketing"
   },
   {
     "month": "January",
     "category": "Technical SEO",
-    "element": "Other",
+    "element": "Structure Data and Schema Mark-up",
     "subElement": "Other",
     "task": "Homepage – Local Schema",
     "monthlyTask": "",
@@ -4475,7 +4475,7 @@
   {
     "month": "January",
     "category": "Technical SEO",
-    "element": "Other",
+    "element": "Structure Data and Schema Mark-up",
     "subElement": "Other",
     "task": "Blogs – Article Schema",
     "monthlyTask": "",
@@ -4484,7 +4484,7 @@
   {
     "month": "January",
     "category": "Technical SEO",
-    "element": "Other",
+    "element": "Structure Data and Schema Mark-up",
     "subElement": "Other",
     "task": "FAQ Schema for a FAQ Page",
     "monthlyTask": "",
@@ -4496,7 +4496,7 @@
     "element": "Technical Audits",
     "subElement": "Other",
     "task": "Maintaining Site health",
-    "monthlyTask": "·       Site health score to be 100%",
+    "monthlyTask": "Site health score to be 100%",
     "team": "digital-marketing"
   },
   {
@@ -4505,7 +4505,7 @@
     "element": "Technical Audits",
     "subElement": "Other",
     "task": "Maintaining Site health",
-    "monthlyTask": "·       Site health score to be 100%",
+    "monthlyTask": "Site health score to be 100%",
     "team": "digital-marketing"
   },
   {
@@ -4514,7 +4514,7 @@
     "element": "Technical Audits",
     "subElement": "Other",
     "task": "Maintaining Site health",
-    "monthlyTask": "·       Site health score to be 100%",
+    "monthlyTask": "Site health score to be 100%",
     "team": "digital-marketing"
   },
   {
@@ -4523,7 +4523,7 @@
     "element": "Technical Audits",
     "subElement": "Other",
     "task": "Maintaining Site health",
-    "monthlyTask": "·       Site health score to be 100%",
+    "monthlyTask": "Site health score to be 100%",
     "team": "digital-marketing"
   },
   {
@@ -4532,7 +4532,7 @@
     "element": "Technical Audits",
     "subElement": "Other",
     "task": "Maintaining Site health",
-    "monthlyTask": "·       Site health score to be 100%",
+    "monthlyTask": "Site health score to be 100%",
     "team": "digital-marketing"
   },
   {
@@ -4541,7 +4541,7 @@
     "element": "Technical Audits",
     "subElement": "Other",
     "task": "Maintaining Site health",
-    "monthlyTask": "·       Site health score to be 100%",
+    "monthlyTask": "Site health score to be 100%",
     "team": "digital-marketing"
   },
   {
@@ -4550,7 +4550,7 @@
     "element": "Technical Audits",
     "subElement": "Other",
     "task": "Maintaining Site health",
-    "monthlyTask": "·       Site health score to be 100%",
+    "monthlyTask": "Site health score to be 100%",
     "team": "digital-marketing"
   },
   {
@@ -4559,7 +4559,7 @@
     "element": "Technical Audits",
     "subElement": "Other",
     "task": "Maintaining Site health",
-    "monthlyTask": "·       Site health score to be 100%",
+    "monthlyTask": "Site health score to be 100%",
     "team": "digital-marketing"
   },
   {
@@ -4568,7 +4568,7 @@
     "element": "Technical Audits",
     "subElement": "Other",
     "task": "Maintaining Site health",
-    "monthlyTask": "·       Site health score to be 100%",
+    "monthlyTask": "Site health score to be 100%",
     "team": "digital-marketing"
   },
   {
@@ -4577,7 +4577,7 @@
     "element": "Technical Audits",
     "subElement": "Other",
     "task": "Maintaining Site health",
-    "monthlyTask": "·       Site health score to be 100%",
+    "monthlyTask": "Site health score to be 100%",
     "team": "digital-marketing"
   },
   {
@@ -4586,7 +4586,7 @@
     "element": "Technical Audits",
     "subElement": "Other",
     "task": "Maintaining Site health",
-    "monthlyTask": "·       Site health score to be 100%",
+    "monthlyTask": "Site health score to be 100%",
     "team": "digital-marketing"
   },
   {
@@ -4595,223 +4595,223 @@
     "element": "Technical Audits",
     "subElement": "Other",
     "task": "Maintaining Site health",
-    "monthlyTask": "·       Site health score to be 100%",
+    "monthlyTask": "Site health score to be 100%",
     "team": "digital-marketing"
   },
   {
     "month": "January",
     "category": "Technical SEO",
-    "element": "Other",
+    "element": "Technical Audits",
     "subElement": "Other",
     "task": "Fixing technical errors",
-    "monthlyTask": "·       Fixing errors in URLs every 15 days",
+    "monthlyTask": "Fixing errors in URLs every 15 days",
     "team": "digital-marketing"
   },
   {
     "month": "February",
     "category": "Technical SEO",
-    "element": "Other",
+    "element": "Technical Audits",
     "subElement": "Other",
     "task": "Fixing technical errors",
-    "monthlyTask": "·       Fixing errors in URLs every 15 days",
+    "monthlyTask": "Fixing errors in URLs every 15 days",
     "team": "digital-marketing"
   },
   {
     "month": "March",
     "category": "Technical SEO",
-    "element": "Other",
+    "element": "Technical Audits",
     "subElement": "Other",
     "task": "Fixing technical errors",
-    "monthlyTask": "·       Fixing errors in URLs every 15 days",
+    "monthlyTask": "Fixing errors in URLs every 15 days",
     "team": "digital-marketing"
   },
   {
     "month": "April",
     "category": "Technical SEO",
-    "element": "Other",
+    "element": "Technical Audits",
     "subElement": "Other",
     "task": "Fixing technical errors",
-    "monthlyTask": "·       Fixing errors in URLs every 15 days",
+    "monthlyTask": "Fixing errors in URLs every 15 days",
     "team": "digital-marketing"
   },
   {
     "month": "May",
     "category": "Technical SEO",
-    "element": "Other",
+    "element": "Technical Audits",
     "subElement": "Other",
     "task": "Fixing technical errors",
-    "monthlyTask": "·       Fixing errors in URLs every 15 days",
+    "monthlyTask": "Fixing errors in URLs every 15 days",
     "team": "digital-marketing"
   },
   {
     "month": "June",
     "category": "Technical SEO",
-    "element": "Other",
+    "element": "Technical Audits",
     "subElement": "Other",
     "task": "Fixing technical errors",
-    "monthlyTask": "·       Fixing errors in URLs every 15 days",
+    "monthlyTask": "Fixing errors in URLs every 15 days",
     "team": "digital-marketing"
   },
   {
     "month": "July",
     "category": "Technical SEO",
-    "element": "Other",
+    "element": "Technical Audits",
     "subElement": "Other",
     "task": "Fixing technical errors",
-    "monthlyTask": "·       Fixing errors in URLs every 15 days",
+    "monthlyTask": "Fixing errors in URLs every 15 days",
     "team": "digital-marketing"
   },
   {
     "month": "August",
     "category": "Technical SEO",
-    "element": "Other",
+    "element": "Technical Audits",
     "subElement": "Other",
     "task": "Fixing technical errors",
-    "monthlyTask": "·       Fixing errors in URLs every 15 days",
+    "monthlyTask": "Fixing errors in URLs every 15 days",
     "team": "digital-marketing"
   },
   {
     "month": "September",
     "category": "Technical SEO",
-    "element": "Other",
+    "element": "Technical Audits",
     "subElement": "Other",
     "task": "Fixing technical errors",
-    "monthlyTask": "·       Fixing errors in URLs every 15 days",
+    "monthlyTask": "Fixing errors in URLs every 15 days",
     "team": "digital-marketing"
   },
   {
     "month": "October",
     "category": "Technical SEO",
-    "element": "Other",
+    "element": "Technical Audits",
     "subElement": "Other",
     "task": "Fixing technical errors",
-    "monthlyTask": "·       Fixing errors in URLs every 15 days",
+    "monthlyTask": "Fixing errors in URLs every 15 days",
     "team": "digital-marketing"
   },
   {
     "month": "November",
     "category": "Technical SEO",
-    "element": "Other",
+    "element": "Technical Audits",
     "subElement": "Other",
     "task": "Fixing technical errors",
-    "monthlyTask": "·       Fixing errors in URLs every 15 days",
+    "monthlyTask": "Fixing errors in URLs every 15 days",
     "team": "digital-marketing"
   },
   {
     "month": "December",
     "category": "Technical SEO",
-    "element": "Other",
+    "element": "Technical Audits",
     "subElement": "Other",
     "task": "Fixing technical errors",
-    "monthlyTask": "·       Fixing errors in URLs every 15 days",
+    "monthlyTask": "Fixing errors in URLs every 15 days",
     "team": "digital-marketing"
   },
   {
     "month": "January",
     "category": "Technical SEO",
-    "element": "Other",
+    "element": "Technical Audits",
     "subElement": "Other",
     "task": "Crawling, Indexing",
-    "monthlyTask": "·       Monitor GSC and indexation count",
+    "monthlyTask": "Monitor GSC and indexation count",
     "team": "digital-marketing"
   },
   {
     "month": "February",
     "category": "Technical SEO",
-    "element": "Other",
+    "element": "Technical Audits",
     "subElement": "Other",
     "task": "Crawling, Indexing",
-    "monthlyTask": "·       Monitor GSC and indexation count",
+    "monthlyTask": "Monitor GSC and indexation count",
     "team": "digital-marketing"
   },
   {
     "month": "March",
     "category": "Technical SEO",
-    "element": "Other",
+    "element": "Technical Audits",
     "subElement": "Other",
     "task": "Crawling, Indexing",
-    "monthlyTask": "·       Monitor GSC and indexation count",
+    "monthlyTask": "Monitor GSC and indexation count",
     "team": "digital-marketing"
   },
   {
     "month": "April",
     "category": "Technical SEO",
-    "element": "Other",
+    "element": "Technical Audits",
     "subElement": "Other",
     "task": "Crawling, Indexing",
-    "monthlyTask": "·       Monitor GSC and indexation count",
+    "monthlyTask": "Monitor GSC and indexation count",
     "team": "digital-marketing"
   },
   {
     "month": "May",
     "category": "Technical SEO",
-    "element": "Other",
+    "element": "Technical Audits",
     "subElement": "Other",
     "task": "Crawling, Indexing",
-    "monthlyTask": "·       Monitor GSC and indexation count",
+    "monthlyTask": "Monitor GSC and indexation count",
     "team": "digital-marketing"
   },
   {
     "month": "June",
     "category": "Technical SEO",
-    "element": "Other",
+    "element": "Technical Audits",
     "subElement": "Other",
     "task": "Crawling, Indexing",
-    "monthlyTask": "·       Monitor GSC and indexation count",
+    "monthlyTask": "Monitor GSC and indexation count",
     "team": "digital-marketing"
   },
   {
     "month": "July",
     "category": "Technical SEO",
-    "element": "Other",
+    "element": "Technical Audits",
     "subElement": "Other",
     "task": "Crawling, Indexing",
-    "monthlyTask": "·       Monitor GSC and indexation count",
+    "monthlyTask": "Monitor GSC and indexation count",
     "team": "digital-marketing"
   },
   {
     "month": "August",
     "category": "Technical SEO",
-    "element": "Other",
+    "element": "Technical Audits",
     "subElement": "Other",
     "task": "Crawling, Indexing",
-    "monthlyTask": "·       Monitor GSC and indexation count",
+    "monthlyTask": "Monitor GSC and indexation count",
     "team": "digital-marketing"
   },
   {
     "month": "September",
     "category": "Technical SEO",
-    "element": "Other",
+    "element": "Technical Audits",
     "subElement": "Other",
     "task": "Crawling, Indexing",
-    "monthlyTask": "·       Monitor GSC and indexation count",
+    "monthlyTask": "Monitor GSC and indexation count",
     "team": "digital-marketing"
   },
   {
     "month": "October",
     "category": "Technical SEO",
-    "element": "Other",
+    "element": "Technical Audits",
     "subElement": "Other",
     "task": "Crawling, Indexing",
-    "monthlyTask": "·       Monitor GSC and indexation count",
+    "monthlyTask": "Monitor GSC and indexation count",
     "team": "digital-marketing"
   },
   {
     "month": "November",
     "category": "Technical SEO",
-    "element": "Other",
+    "element": "Technical Audits",
     "subElement": "Other",
     "task": "Crawling, Indexing",
-    "monthlyTask": "·       Monitor GSC and indexation count",
+    "monthlyTask": "Monitor GSC and indexation count",
     "team": "digital-marketing"
   },
   {
     "month": "December",
     "category": "Technical SEO",
-    "element": "Other",
+    "element": "Technical Audits",
     "subElement": "Other",
     "task": "Crawling, Indexing",
-    "monthlyTask": "·       Monitor GSC and indexation count",
+    "monthlyTask": "Monitor GSC and indexation count",
     "team": "digital-marketing"
   },
   {
@@ -4925,7 +4925,7 @@
   {
     "month": "January",
     "category": "Performance Marketing",
-    "element": "Other",
+    "element": "Performance Marketing",
     "subElement": "Other",
     "task": "2.B2C Campaigns",
     "monthlyTask": "",
@@ -4934,7 +4934,7 @@
   {
     "month": "January",
     "category": "Performance Marketing",
-    "element": "Other",
+    "element": "Performance Marketing",
     "subElement": "Other",
     "task": "3.Geographic Targeting",
     "monthlyTask": "",
@@ -4943,7 +4943,7 @@
   {
     "month": "January",
     "category": "Performance Marketing",
-    "element": "Other",
+    "element": "Performance Marketing",
     "subElement": "Social Media Advertising",
     "task": "1.D2C Campaigns (Meta, Instagram)",
     "monthlyTask": "100,000–150,000 impressions with 0.5%–1% CTR Based on Monthly Ad Spend, keyword volume & targeting scope",
@@ -4952,7 +4952,7 @@
   {
     "month": "February",
     "category": "Performance Marketing",
-    "element": "Other",
+    "element": "Performance Marketing",
     "subElement": "Social Media Advertising",
     "task": "1.D2C Campaigns (Meta, Instagram)",
     "monthlyTask": "100,000–150,000 impressions with 0.5%–1% CTR Based on Monthly Ad Spend, keyword volume & targeting scope",
@@ -4961,7 +4961,7 @@
   {
     "month": "March",
     "category": "Performance Marketing",
-    "element": "Other",
+    "element": "Performance Marketing",
     "subElement": "Social Media Advertising",
     "task": "1.D2C Campaigns (Meta, Instagram)",
     "monthlyTask": "100,000–150,000 impressions with 0.5%–1% CTR Based on Monthly Ad Spend, keyword volume & targeting scope",
@@ -4970,7 +4970,7 @@
   {
     "month": "April",
     "category": "Performance Marketing",
-    "element": "Other",
+    "element": "Performance Marketing",
     "subElement": "Social Media Advertising",
     "task": "1.D2C Campaigns (Meta, Instagram)",
     "monthlyTask": "100,000–150,000 impressions with 0.5%–1% CTR Based on Monthly Ad Spend, keyword volume & targeting scope",
@@ -4979,7 +4979,7 @@
   {
     "month": "May",
     "category": "Performance Marketing",
-    "element": "Other",
+    "element": "Performance Marketing",
     "subElement": "Social Media Advertising",
     "task": "1.D2C Campaigns (Meta, Instagram)",
     "monthlyTask": "100,000–150,000 impressions with 0.5%–1% CTR Based on Monthly Ad Spend, keyword volume & targeting scope",
@@ -4988,7 +4988,7 @@
   {
     "month": "June",
     "category": "Performance Marketing",
-    "element": "Other",
+    "element": "Performance Marketing",
     "subElement": "Social Media Advertising",
     "task": "1.D2C Campaigns (Meta, Instagram)",
     "monthlyTask": "100,000–150,000 impressions with 0.5%–1% CTR Based on Monthly Ad Spend, keyword volume & targeting scope",
@@ -4997,7 +4997,7 @@
   {
     "month": "July",
     "category": "Performance Marketing",
-    "element": "Other",
+    "element": "Performance Marketing",
     "subElement": "Social Media Advertising",
     "task": "1.D2C Campaigns (Meta, Instagram)",
     "monthlyTask": "100,000–150,000 impressions with 0.5%–1% CTR Based on Monthly Ad Spend, keyword volume & targeting scope",
@@ -5006,7 +5006,7 @@
   {
     "month": "August",
     "category": "Performance Marketing",
-    "element": "Other",
+    "element": "Performance Marketing",
     "subElement": "Social Media Advertising",
     "task": "1.D2C Campaigns (Meta, Instagram)",
     "monthlyTask": "100,000–150,000 impressions with 0.5%–1% CTR Based on Monthly Ad Spend, keyword volume & targeting scope",
@@ -5015,7 +5015,7 @@
   {
     "month": "September",
     "category": "Performance Marketing",
-    "element": "Other",
+    "element": "Performance Marketing",
     "subElement": "Social Media Advertising",
     "task": "1.D2C Campaigns (Meta, Instagram)",
     "monthlyTask": "100,000–150,000 impressions with 0.5%–1% CTR Based on Monthly Ad Spend, keyword volume & targeting scope",
@@ -5024,7 +5024,7 @@
   {
     "month": "October",
     "category": "Performance Marketing",
-    "element": "Other",
+    "element": "Performance Marketing",
     "subElement": "Social Media Advertising",
     "task": "1.D2C Campaigns (Meta, Instagram)",
     "monthlyTask": "100,000–150,000 impressions with 0.5%–1% CTR Based on Monthly Ad Spend, keyword volume & targeting scope",
@@ -5033,7 +5033,7 @@
   {
     "month": "November",
     "category": "Performance Marketing",
-    "element": "Other",
+    "element": "Performance Marketing",
     "subElement": "Social Media Advertising",
     "task": "1.D2C Campaigns (Meta, Instagram)",
     "monthlyTask": "100,000–150,000 impressions with 0.5%–1% CTR Based on Monthly Ad Spend, keyword volume & targeting scope",
@@ -5042,7 +5042,7 @@
   {
     "month": "December",
     "category": "Performance Marketing",
-    "element": "Other",
+    "element": "Performance Marketing",
     "subElement": "Social Media Advertising",
     "task": "1.D2C Campaigns (Meta, Instagram)",
     "monthlyTask": "100,000–150,000 impressions with 0.5%–1% CTR Based on Monthly Ad Spend, keyword volume & targeting scope",
@@ -5051,7 +5051,7 @@
   {
     "month": "January",
     "category": "Performance Marketing",
-    "element": "Other",
+    "element": "Performance Marketing",
     "subElement": "Other",
     "task": "2.B2C Campaigns (LinkedIn)",
     "monthlyTask": "",
@@ -5060,7 +5060,7 @@
   {
     "month": "January",
     "category": "Performance Marketing",
-    "element": "Other",
+    "element": "Performance Marketing",
     "subElement": "Email Marketing",
     "task": "1.Email Flows",
     "monthlyTask": "1,000–2,000 email will send Includes B2C and D2C: newsletters, automations, and campaigns",
@@ -5069,7 +5069,7 @@
   {
     "month": "February",
     "category": "Performance Marketing",
-    "element": "Other",
+    "element": "Performance Marketing",
     "subElement": "Email Marketing",
     "task": "1.Email Flows",
     "monthlyTask": "1,000–2,000 email will send Includes B2C and D2C: newsletters, automations, and campaigns",
@@ -5078,7 +5078,7 @@
   {
     "month": "March",
     "category": "Performance Marketing",
-    "element": "Other",
+    "element": "Performance Marketing",
     "subElement": "Email Marketing",
     "task": "1.Email Flows",
     "monthlyTask": "1,000–2,000 email will send Includes B2C and D2C: newsletters, automations, and campaigns",
@@ -5087,7 +5087,7 @@
   {
     "month": "April",
     "category": "Performance Marketing",
-    "element": "Other",
+    "element": "Performance Marketing",
     "subElement": "Email Marketing",
     "task": "1.Email Flows",
     "monthlyTask": "1,000–2,000 email will send Includes B2C and D2C: newsletters, automations, and campaigns",
@@ -5096,7 +5096,7 @@
   {
     "month": "May",
     "category": "Performance Marketing",
-    "element": "Other",
+    "element": "Performance Marketing",
     "subElement": "Email Marketing",
     "task": "1.Email Flows",
     "monthlyTask": "1,000–2,000 email will send Includes B2C and D2C: newsletters, automations, and campaigns",
@@ -5105,7 +5105,7 @@
   {
     "month": "June",
     "category": "Performance Marketing",
-    "element": "Other",
+    "element": "Performance Marketing",
     "subElement": "Email Marketing",
     "task": "1.Email Flows",
     "monthlyTask": "1,000–2,000 email will send Includes B2C and D2C: newsletters, automations, and campaigns",
@@ -5114,7 +5114,7 @@
   {
     "month": "July",
     "category": "Performance Marketing",
-    "element": "Other",
+    "element": "Performance Marketing",
     "subElement": "Email Marketing",
     "task": "1.Email Flows",
     "monthlyTask": "1,000–2,000 email will send Includes B2C and D2C: newsletters, automations, and campaigns",
@@ -5123,7 +5123,7 @@
   {
     "month": "August",
     "category": "Performance Marketing",
-    "element": "Other",
+    "element": "Performance Marketing",
     "subElement": "Email Marketing",
     "task": "1.Email Flows",
     "monthlyTask": "1,000–2,000 email will send Includes B2C and D2C: newsletters, automations, and campaigns",
@@ -5132,7 +5132,7 @@
   {
     "month": "September",
     "category": "Performance Marketing",
-    "element": "Other",
+    "element": "Performance Marketing",
     "subElement": "Email Marketing",
     "task": "1.Email Flows",
     "monthlyTask": "1,000–2,000 email will send Includes B2C and D2C: newsletters, automations, and campaigns",
@@ -5141,7 +5141,7 @@
   {
     "month": "October",
     "category": "Performance Marketing",
-    "element": "Other",
+    "element": "Performance Marketing",
     "subElement": "Email Marketing",
     "task": "1.Email Flows",
     "monthlyTask": "1,000–2,000 email will send Includes B2C and D2C: newsletters, automations, and campaigns",
@@ -5150,7 +5150,7 @@
   {
     "month": "November",
     "category": "Performance Marketing",
-    "element": "Other",
+    "element": "Performance Marketing",
     "subElement": "Email Marketing",
     "task": "1.Email Flows",
     "monthlyTask": "1,000–2,000 email will send Includes B2C and D2C: newsletters, automations, and campaigns",
@@ -5159,7 +5159,7 @@
   {
     "month": "December",
     "category": "Performance Marketing",
-    "element": "Other",
+    "element": "Performance Marketing",
     "subElement": "Email Marketing",
     "task": "1.Email Flows",
     "monthlyTask": "1,000–2,000 email will send Includes B2C and D2C: newsletters, automations, and campaigns",
@@ -5168,7 +5168,7 @@
   {
     "month": "January",
     "category": "Performance Marketing",
-    "element": "Other",
+    "element": "Performance Marketing",
     "subElement": "Other",
     "task": "2.B2CLead Nurturing",
     "monthlyTask": "",
@@ -5177,7 +5177,7 @@
   {
     "month": "January",
     "category": "Performance Marketing",
-    "element": "Other",
+    "element": "Performance Marketing",
     "subElement": "Other",
     "task": "3.Monthly Eco Digest",
     "monthlyTask": "",
@@ -5186,7 +5186,7 @@
   {
     "month": "January",
     "category": "Performance Marketing",
-    "element": "Other",
+    "element": "Performance Marketing",
     "subElement": "Conversion Rate Optimization (CRO)",
     "task": "1.A/B testing",
     "monthlyTask": "Team will work on continuous changes",
@@ -5195,7 +5195,7 @@
   {
     "month": "February",
     "category": "Performance Marketing",
-    "element": "Other",
+    "element": "Performance Marketing",
     "subElement": "Conversion Rate Optimization (CRO)",
     "task": "1.A/B testing",
     "monthlyTask": "Team will work on continuous changes",
@@ -5204,7 +5204,7 @@
   {
     "month": "March",
     "category": "Performance Marketing",
-    "element": "Other",
+    "element": "Performance Marketing",
     "subElement": "Conversion Rate Optimization (CRO)",
     "task": "1.A/B testing",
     "monthlyTask": "Team will work on continuous changes",
@@ -5213,7 +5213,7 @@
   {
     "month": "April",
     "category": "Performance Marketing",
-    "element": "Other",
+    "element": "Performance Marketing",
     "subElement": "Conversion Rate Optimization (CRO)",
     "task": "1.A/B testing",
     "monthlyTask": "Team will work on continuous changes",
@@ -5222,7 +5222,7 @@
   {
     "month": "May",
     "category": "Performance Marketing",
-    "element": "Other",
+    "element": "Performance Marketing",
     "subElement": "Conversion Rate Optimization (CRO)",
     "task": "1.A/B testing",
     "monthlyTask": "Team will work on continuous changes",
@@ -5231,7 +5231,7 @@
   {
     "month": "June",
     "category": "Performance Marketing",
-    "element": "Other",
+    "element": "Performance Marketing",
     "subElement": "Conversion Rate Optimization (CRO)",
     "task": "1.A/B testing",
     "monthlyTask": "Team will work on continuous changes",
@@ -5240,7 +5240,7 @@
   {
     "month": "July",
     "category": "Performance Marketing",
-    "element": "Other",
+    "element": "Performance Marketing",
     "subElement": "Conversion Rate Optimization (CRO)",
     "task": "1.A/B testing",
     "monthlyTask": "Team will work on continuous changes",
@@ -5249,7 +5249,7 @@
   {
     "month": "August",
     "category": "Performance Marketing",
-    "element": "Other",
+    "element": "Performance Marketing",
     "subElement": "Conversion Rate Optimization (CRO)",
     "task": "1.A/B testing",
     "monthlyTask": "Team will work on continuous changes",
@@ -5258,7 +5258,7 @@
   {
     "month": "September",
     "category": "Performance Marketing",
-    "element": "Other",
+    "element": "Performance Marketing",
     "subElement": "Conversion Rate Optimization (CRO)",
     "task": "1.A/B testing",
     "monthlyTask": "Team will work on continuous changes",
@@ -5267,7 +5267,7 @@
   {
     "month": "October",
     "category": "Performance Marketing",
-    "element": "Other",
+    "element": "Performance Marketing",
     "subElement": "Conversion Rate Optimization (CRO)",
     "task": "1.A/B testing",
     "monthlyTask": "Team will work on continuous changes",
@@ -5276,7 +5276,7 @@
   {
     "month": "November",
     "category": "Performance Marketing",
-    "element": "Other",
+    "element": "Performance Marketing",
     "subElement": "Conversion Rate Optimization (CRO)",
     "task": "1.A/B testing",
     "monthlyTask": "Team will work on continuous changes",
@@ -5285,7 +5285,7 @@
   {
     "month": "December",
     "category": "Performance Marketing",
-    "element": "Other",
+    "element": "Performance Marketing",
     "subElement": "Conversion Rate Optimization (CRO)",
     "task": "1.A/B testing",
     "monthlyTask": "Team will work on continuous changes",
@@ -5294,7 +5294,7 @@
   {
     "month": "January",
     "category": "Performance Marketing",
-    "element": "Other",
+    "element": "Performance Marketing",
     "subElement": "Other",
     "task": "2.UX improvements",
     "monthlyTask": "",
@@ -5303,7 +5303,7 @@
   {
     "month": "January",
     "category": "Performance Marketing",
-    "element": "Other",
+    "element": "Performance Marketing",
     "subElement": "Marketplace & Distributor",
     "task": "1.D2C Platforms",
     "monthlyTask": "30–50 product listings and optimization per month across platforms",
@@ -5312,7 +5312,7 @@
   {
     "month": "February",
     "category": "Performance Marketing",
-    "element": "Other",
+    "element": "Performance Marketing",
     "subElement": "Marketplace & Distributor",
     "task": "1.D2C Platforms",
     "monthlyTask": "30–50 product listings and optimization per month across platforms",
@@ -5321,7 +5321,7 @@
   {
     "month": "March",
     "category": "Performance Marketing",
-    "element": "Other",
+    "element": "Performance Marketing",
     "subElement": "Marketplace & Distributor",
     "task": "1.D2C Platforms",
     "monthlyTask": "30–50 product listings and optimization per month across platforms",
@@ -5330,7 +5330,7 @@
   {
     "month": "April",
     "category": "Performance Marketing",
-    "element": "Other",
+    "element": "Performance Marketing",
     "subElement": "Marketplace & Distributor",
     "task": "1.D2C Platforms",
     "monthlyTask": "30–50 product listings and optimization per month across platforms",
@@ -5339,7 +5339,7 @@
   {
     "month": "May",
     "category": "Performance Marketing",
-    "element": "Other",
+    "element": "Performance Marketing",
     "subElement": "Marketplace & Distributor",
     "task": "1.D2C Platforms",
     "monthlyTask": "30–50 product listings and optimization per month across platforms",
@@ -5348,7 +5348,7 @@
   {
     "month": "June",
     "category": "Performance Marketing",
-    "element": "Other",
+    "element": "Performance Marketing",
     "subElement": "Marketplace & Distributor",
     "task": "1.D2C Platforms",
     "monthlyTask": "30–50 product listings and optimization per month across platforms",
@@ -5357,7 +5357,7 @@
   {
     "month": "July",
     "category": "Performance Marketing",
-    "element": "Other",
+    "element": "Performance Marketing",
     "subElement": "Marketplace & Distributor",
     "task": "1.D2C Platforms",
     "monthlyTask": "30–50 product listings and optimization per month across platforms",
@@ -5366,7 +5366,7 @@
   {
     "month": "August",
     "category": "Performance Marketing",
-    "element": "Other",
+    "element": "Performance Marketing",
     "subElement": "Marketplace & Distributor",
     "task": "1.D2C Platforms",
     "monthlyTask": "30–50 product listings and optimization per month across platforms",
@@ -5375,7 +5375,7 @@
   {
     "month": "September",
     "category": "Performance Marketing",
-    "element": "Other",
+    "element": "Performance Marketing",
     "subElement": "Marketplace & Distributor",
     "task": "1.D2C Platforms",
     "monthlyTask": "30–50 product listings and optimization per month across platforms",
@@ -5384,7 +5384,7 @@
   {
     "month": "October",
     "category": "Performance Marketing",
-    "element": "Other",
+    "element": "Performance Marketing",
     "subElement": "Marketplace & Distributor",
     "task": "1.D2C Platforms",
     "monthlyTask": "30–50 product listings and optimization per month across platforms",
@@ -5393,7 +5393,7 @@
   {
     "month": "November",
     "category": "Performance Marketing",
-    "element": "Other",
+    "element": "Performance Marketing",
     "subElement": "Marketplace & Distributor",
     "task": "1.D2C Platforms",
     "monthlyTask": "30–50 product listings and optimization per month across platforms",
@@ -5402,7 +5402,7 @@
   {
     "month": "December",
     "category": "Performance Marketing",
-    "element": "Other",
+    "element": "Performance Marketing",
     "subElement": "Marketplace & Distributor",
     "task": "1.D2C Platforms",
     "monthlyTask": "30–50 product listings and optimization per month across platforms",
@@ -5411,7 +5411,7 @@
   {
     "month": "January",
     "category": "Performance Marketing",
-    "element": "Other",
+    "element": "Performance Marketing",
     "subElement": "Other",
     "task": "2.B2C Platforms",
     "monthlyTask": "",
@@ -5420,7 +5420,7 @@
   {
     "month": "January",
     "category": "Performance Marketing",
-    "element": "Other",
+    "element": "Performance Marketing",
     "subElement": "Other",
     "task": "3.Listing Optimization",
     "monthlyTask": "",
@@ -5429,7 +5429,7 @@
   {
     "month": "January",
     "category": "Performance Marketing",
-    "element": "Other",
+    "element": "Performance Marketing",
     "subElement": "Social Media Optimization",
     "task": "Profile Optimization",
     "monthlyTask": "100K–150K impressions with 0.5%–1% CTR, 150–300 clicks",
@@ -5438,7 +5438,7 @@
   {
     "month": "February",
     "category": "Performance Marketing",
-    "element": "Other",
+    "element": "Performance Marketing",
     "subElement": "Social Media Optimization",
     "task": "Profile Optimization",
     "monthlyTask": "100K–150K impressions with 0.5%–1% CTR, 150–300 clicks",
@@ -5447,7 +5447,7 @@
   {
     "month": "March",
     "category": "Performance Marketing",
-    "element": "Other",
+    "element": "Performance Marketing",
     "subElement": "Social Media Optimization",
     "task": "Profile Optimization",
     "monthlyTask": "100K–150K impressions with 0.5%–1% CTR, 150–300 clicks",
@@ -5456,7 +5456,7 @@
   {
     "month": "April",
     "category": "Performance Marketing",
-    "element": "Other",
+    "element": "Performance Marketing",
     "subElement": "Social Media Optimization",
     "task": "Profile Optimization",
     "monthlyTask": "100K–150K impressions with 0.5%–1% CTR, 150–300 clicks",
@@ -5465,7 +5465,7 @@
   {
     "month": "May",
     "category": "Performance Marketing",
-    "element": "Other",
+    "element": "Performance Marketing",
     "subElement": "Social Media Optimization",
     "task": "Profile Optimization",
     "monthlyTask": "100K–150K impressions with 0.5%–1% CTR, 150–300 clicks",
@@ -5474,7 +5474,7 @@
   {
     "month": "June",
     "category": "Performance Marketing",
-    "element": "Other",
+    "element": "Performance Marketing",
     "subElement": "Social Media Optimization",
     "task": "Profile Optimization",
     "monthlyTask": "100K–150K impressions with 0.5%–1% CTR, 150–300 clicks",
@@ -5483,7 +5483,7 @@
   {
     "month": "July",
     "category": "Performance Marketing",
-    "element": "Other",
+    "element": "Performance Marketing",
     "subElement": "Social Media Optimization",
     "task": "Profile Optimization",
     "monthlyTask": "100K–150K impressions with 0.5%–1% CTR, 150–300 clicks",
@@ -5492,7 +5492,7 @@
   {
     "month": "August",
     "category": "Performance Marketing",
-    "element": "Other",
+    "element": "Performance Marketing",
     "subElement": "Social Media Optimization",
     "task": "Profile Optimization",
     "monthlyTask": "100K–150K impressions with 0.5%–1% CTR, 150–300 clicks",
@@ -5501,7 +5501,7 @@
   {
     "month": "September",
     "category": "Performance Marketing",
-    "element": "Other",
+    "element": "Performance Marketing",
     "subElement": "Social Media Optimization",
     "task": "Profile Optimization",
     "monthlyTask": "100K–150K impressions with 0.5%–1% CTR, 150–300 clicks",
@@ -5510,7 +5510,7 @@
   {
     "month": "October",
     "category": "Performance Marketing",
-    "element": "Other",
+    "element": "Performance Marketing",
     "subElement": "Social Media Optimization",
     "task": "Profile Optimization",
     "monthlyTask": "100K–150K impressions with 0.5%–1% CTR, 150–300 clicks",
@@ -5519,7 +5519,7 @@
   {
     "month": "November",
     "category": "Performance Marketing",
-    "element": "Other",
+    "element": "Performance Marketing",
     "subElement": "Social Media Optimization",
     "task": "Profile Optimization",
     "monthlyTask": "100K–150K impressions with 0.5%–1% CTR, 150–300 clicks",
@@ -5528,7 +5528,7 @@
   {
     "month": "December",
     "category": "Performance Marketing",
-    "element": "Other",
+    "element": "Performance Marketing",
     "subElement": "Social Media Optimization",
     "task": "Profile Optimization",
     "monthlyTask": "100K–150K impressions with 0.5%–1% CTR, 150–300 clicks",
@@ -5537,7 +5537,7 @@
   {
     "month": "January",
     "category": "Performance Marketing",
-    "element": "Other",
+    "element": "Performance Marketing",
     "subElement": "Other",
     "task": "Weekly Content Plan",
     "monthlyTask": "",
@@ -5546,7 +5546,7 @@
   {
     "month": "January",
     "category": "Performance Marketing",
-    "element": "Other",
+    "element": "Performance Marketing",
     "subElement": "Other",
     "task": "CTA Integration",
     "monthlyTask": "",
@@ -5555,7 +5555,7 @@
   {
     "month": "January",
     "category": "Performance Marketing",
-    "element": "Other",
+    "element": "Performance Marketing",
     "subElement": "Other",
     "task": "Reels/Stories/YouTube",
     "monthlyTask": "",
@@ -5564,7 +5564,7 @@
   {
     "month": "January",
     "category": "Performance Marketing",
-    "element": "Other",
+    "element": "Performance Marketing",
     "subElement": "Other",
     "task": "Performance Review",
     "monthlyTask": "",
@@ -5681,7 +5681,7 @@
   {
     "month": "January",
     "category": "Paid PR Submission & Distribution Services (B2C Focus)",
-    "element": "Other",
+    "element": "Paid PR Submission & Distribution",
     "subElement": "Other",
     "task": "2.Market positioning",
     "monthlyTask": "",
@@ -5690,7 +5690,7 @@
   {
     "month": "February",
     "category": "Paid PR Submission & Distribution Services (B2C Focus)",
-    "element": "Other",
+    "element": "Paid PR Submission & Distribution",
     "subElement": "Other",
     "task": "2.Market positioning",
     "monthlyTask": "",
@@ -5699,7 +5699,7 @@
   {
     "month": "March",
     "category": "Paid PR Submission & Distribution Services (B2C Focus)",
-    "element": "Other",
+    "element": "Paid PR Submission & Distribution",
     "subElement": "Other",
     "task": "2.Market positioning",
     "monthlyTask": "",
@@ -5708,7 +5708,7 @@
   {
     "month": "April",
     "category": "Paid PR Submission & Distribution Services (B2C Focus)",
-    "element": "Other",
+    "element": "Paid PR Submission & Distribution",
     "subElement": "Other",
     "task": "2.Market positioning",
     "monthlyTask": "",
@@ -5717,7 +5717,7 @@
   {
     "month": "May",
     "category": "Paid PR Submission & Distribution Services (B2C Focus)",
-    "element": "Other",
+    "element": "Paid PR Submission & Distribution",
     "subElement": "Other",
     "task": "2.Market positioning",
     "monthlyTask": "",
@@ -5726,7 +5726,7 @@
   {
     "month": "June",
     "category": "Paid PR Submission & Distribution Services (B2C Focus)",
-    "element": "Other",
+    "element": "Paid PR Submission & Distribution",
     "subElement": "Other",
     "task": "2.Market positioning",
     "monthlyTask": "",
@@ -5735,7 +5735,7 @@
   {
     "month": "July",
     "category": "Paid PR Submission & Distribution Services (B2C Focus)",
-    "element": "Other",
+    "element": "Paid PR Submission & Distribution",
     "subElement": "Other",
     "task": "2.Market positioning",
     "monthlyTask": "",
@@ -5744,7 +5744,7 @@
   {
     "month": "August",
     "category": "Paid PR Submission & Distribution Services (B2C Focus)",
-    "element": "Other",
+    "element": "Paid PR Submission & Distribution",
     "subElement": "Other",
     "task": "2.Market positioning",
     "monthlyTask": "",
@@ -5753,7 +5753,7 @@
   {
     "month": "September",
     "category": "Paid PR Submission & Distribution Services (B2C Focus)",
-    "element": "Other",
+    "element": "Paid PR Submission & Distribution",
     "subElement": "Other",
     "task": "2.Market positioning",
     "monthlyTask": "",
@@ -5762,7 +5762,7 @@
   {
     "month": "October",
     "category": "Paid PR Submission & Distribution Services (B2C Focus)",
-    "element": "Other",
+    "element": "Paid PR Submission & Distribution",
     "subElement": "Other",
     "task": "2.Market positioning",
     "monthlyTask": "",
@@ -5771,7 +5771,7 @@
   {
     "month": "November",
     "category": "Paid PR Submission & Distribution Services (B2C Focus)",
-    "element": "Other",
+    "element": "Paid PR Submission & Distribution",
     "subElement": "Other",
     "task": "2.Market positioning",
     "monthlyTask": "",
@@ -5780,7 +5780,7 @@
   {
     "month": "December",
     "category": "Paid PR Submission & Distribution Services (B2C Focus)",
-    "element": "Other",
+    "element": "Paid PR Submission & Distribution",
     "subElement": "Other",
     "task": "2.Market positioning",
     "monthlyTask": "",
@@ -5789,7 +5789,7 @@
   {
     "month": "January",
     "category": "Paid PR Submission & Distribution Services (B2C Focus)",
-    "element": "Other",
+    "element": "Paid PR Submission & Distribution",
     "subElement": "Other",
     "task": "3.Create tailored messages",
     "monthlyTask": "",
@@ -5798,7 +5798,7 @@
   {
     "month": "February",
     "category": "Paid PR Submission & Distribution Services (B2C Focus)",
-    "element": "Other",
+    "element": "Paid PR Submission & Distribution",
     "subElement": "Other",
     "task": "3.Create tailored messages",
     "monthlyTask": "",
@@ -5807,7 +5807,7 @@
   {
     "month": "March",
     "category": "Paid PR Submission & Distribution Services (B2C Focus)",
-    "element": "Other",
+    "element": "Paid PR Submission & Distribution",
     "subElement": "Other",
     "task": "3.Create tailored messages",
     "monthlyTask": "",
@@ -5816,7 +5816,7 @@
   {
     "month": "April",
     "category": "Paid PR Submission & Distribution Services (B2C Focus)",
-    "element": "Other",
+    "element": "Paid PR Submission & Distribution",
     "subElement": "Other",
     "task": "3.Create tailored messages",
     "monthlyTask": "",
@@ -5825,7 +5825,7 @@
   {
     "month": "May",
     "category": "Paid PR Submission & Distribution Services (B2C Focus)",
-    "element": "Other",
+    "element": "Paid PR Submission & Distribution",
     "subElement": "Other",
     "task": "3.Create tailored messages",
     "monthlyTask": "",
@@ -5834,7 +5834,7 @@
   {
     "month": "June",
     "category": "Paid PR Submission & Distribution Services (B2C Focus)",
-    "element": "Other",
+    "element": "Paid PR Submission & Distribution",
     "subElement": "Other",
     "task": "3.Create tailored messages",
     "monthlyTask": "",
@@ -5843,7 +5843,7 @@
   {
     "month": "July",
     "category": "Paid PR Submission & Distribution Services (B2C Focus)",
-    "element": "Other",
+    "element": "Paid PR Submission & Distribution",
     "subElement": "Other",
     "task": "3.Create tailored messages",
     "monthlyTask": "",
@@ -5852,7 +5852,7 @@
   {
     "month": "August",
     "category": "Paid PR Submission & Distribution Services (B2C Focus)",
-    "element": "Other",
+    "element": "Paid PR Submission & Distribution",
     "subElement": "Other",
     "task": "3.Create tailored messages",
     "monthlyTask": "",
@@ -5861,7 +5861,7 @@
   {
     "month": "September",
     "category": "Paid PR Submission & Distribution Services (B2C Focus)",
-    "element": "Other",
+    "element": "Paid PR Submission & Distribution",
     "subElement": "Other",
     "task": "3.Create tailored messages",
     "monthlyTask": "",
@@ -5870,7 +5870,7 @@
   {
     "month": "October",
     "category": "Paid PR Submission & Distribution Services (B2C Focus)",
-    "element": "Other",
+    "element": "Paid PR Submission & Distribution",
     "subElement": "Other",
     "task": "3.Create tailored messages",
     "monthlyTask": "",
@@ -5879,7 +5879,7 @@
   {
     "month": "November",
     "category": "Paid PR Submission & Distribution Services (B2C Focus)",
-    "element": "Other",
+    "element": "Paid PR Submission & Distribution",
     "subElement": "Other",
     "task": "3.Create tailored messages",
     "monthlyTask": "",
@@ -5888,7 +5888,7 @@
   {
     "month": "December",
     "category": "Paid PR Submission & Distribution Services (B2C Focus)",
-    "element": "Other",
+    "element": "Paid PR Submission & Distribution",
     "subElement": "Other",
     "task": "3.Create tailored messages",
     "monthlyTask": "",
@@ -5897,7 +5897,7 @@
   {
     "month": "January",
     "category": "Paid PR Submission & Distribution Services (B2C Focus)",
-    "element": "Other",
+    "element": "Paid PR Submission & Distribution",
     "subElement": "PR Writing & Submission",
     "task": "1.Write professional, media-ready press releases.",
     "monthlyTask": "20 to 30",
@@ -5906,7 +5906,7 @@
   {
     "month": "February",
     "category": "Paid PR Submission & Distribution Services (B2C Focus)",
-    "element": "Other",
+    "element": "Paid PR Submission & Distribution",
     "subElement": "PR Writing & Submission",
     "task": "1.Write professional, media-ready press releases.",
     "monthlyTask": "20 to 30",
@@ -5915,7 +5915,7 @@
   {
     "month": "March",
     "category": "Paid PR Submission & Distribution Services (B2C Focus)",
-    "element": "Other",
+    "element": "Paid PR Submission & Distribution",
     "subElement": "PR Writing & Submission",
     "task": "1.Write professional, media-ready press releases.",
     "monthlyTask": "20 to 30",
@@ -5924,7 +5924,7 @@
   {
     "month": "April",
     "category": "Paid PR Submission & Distribution Services (B2C Focus)",
-    "element": "Other",
+    "element": "Paid PR Submission & Distribution",
     "subElement": "PR Writing & Submission",
     "task": "1.Write professional, media-ready press releases.",
     "monthlyTask": "20 to 30",
@@ -5933,7 +5933,7 @@
   {
     "month": "May",
     "category": "Paid PR Submission & Distribution Services (B2C Focus)",
-    "element": "Other",
+    "element": "Paid PR Submission & Distribution",
     "subElement": "PR Writing & Submission",
     "task": "1.Write professional, media-ready press releases.",
     "monthlyTask": "20 to 30",
@@ -5942,7 +5942,7 @@
   {
     "month": "June",
     "category": "Paid PR Submission & Distribution Services (B2C Focus)",
-    "element": "Other",
+    "element": "Paid PR Submission & Distribution",
     "subElement": "PR Writing & Submission",
     "task": "1.Write professional, media-ready press releases.",
     "monthlyTask": "20 to 30",
@@ -5951,7 +5951,7 @@
   {
     "month": "July",
     "category": "Paid PR Submission & Distribution Services (B2C Focus)",
-    "element": "Other",
+    "element": "Paid PR Submission & Distribution",
     "subElement": "PR Writing & Submission",
     "task": "1.Write professional, media-ready press releases.",
     "monthlyTask": "20 to 30",
@@ -5960,7 +5960,7 @@
   {
     "month": "August",
     "category": "Paid PR Submission & Distribution Services (B2C Focus)",
-    "element": "Other",
+    "element": "Paid PR Submission & Distribution",
     "subElement": "PR Writing & Submission",
     "task": "1.Write professional, media-ready press releases.",
     "monthlyTask": "20 to 30",
@@ -5969,7 +5969,7 @@
   {
     "month": "September",
     "category": "Paid PR Submission & Distribution Services (B2C Focus)",
-    "element": "Other",
+    "element": "Paid PR Submission & Distribution",
     "subElement": "PR Writing & Submission",
     "task": "1.Write professional, media-ready press releases.",
     "monthlyTask": "20 to 30",
@@ -5978,7 +5978,7 @@
   {
     "month": "October",
     "category": "Paid PR Submission & Distribution Services (B2C Focus)",
-    "element": "Other",
+    "element": "Paid PR Submission & Distribution",
     "subElement": "PR Writing & Submission",
     "task": "1.Write professional, media-ready press releases.",
     "monthlyTask": "20 to 30",
@@ -5987,7 +5987,7 @@
   {
     "month": "November",
     "category": "Paid PR Submission & Distribution Services (B2C Focus)",
-    "element": "Other",
+    "element": "Paid PR Submission & Distribution",
     "subElement": "PR Writing & Submission",
     "task": "1.Write professional, media-ready press releases.",
     "monthlyTask": "20 to 30",
@@ -5996,7 +5996,7 @@
   {
     "month": "December",
     "category": "Paid PR Submission & Distribution Services (B2C Focus)",
-    "element": "Other",
+    "element": "Paid PR Submission & Distribution",
     "subElement": "PR Writing & Submission",
     "task": "1.Write professional, media-ready press releases.",
     "monthlyTask": "20 to 30",
@@ -6005,7 +6005,7 @@
   {
     "month": "January",
     "category": "Paid PR Submission & Distribution Services (B2C Focus)",
-    "element": "Other",
+    "element": "Paid PR Submission & Distribution",
     "subElement": "Other",
     "task": "2.Submit content to relevant media platforms",
     "monthlyTask": "",
@@ -6014,7 +6014,7 @@
   {
     "month": "February",
     "category": "Paid PR Submission & Distribution Services (B2C Focus)",
-    "element": "Other",
+    "element": "Paid PR Submission & Distribution",
     "subElement": "Other",
     "task": "2.Submit content to relevant media platforms",
     "monthlyTask": "",
@@ -6023,7 +6023,7 @@
   {
     "month": "March",
     "category": "Paid PR Submission & Distribution Services (B2C Focus)",
-    "element": "Other",
+    "element": "Paid PR Submission & Distribution",
     "subElement": "Other",
     "task": "2.Submit content to relevant media platforms",
     "monthlyTask": "",
@@ -6032,7 +6032,7 @@
   {
     "month": "April",
     "category": "Paid PR Submission & Distribution Services (B2C Focus)",
-    "element": "Other",
+    "element": "Paid PR Submission & Distribution",
     "subElement": "Other",
     "task": "2.Submit content to relevant media platforms",
     "monthlyTask": "",
@@ -6041,7 +6041,7 @@
   {
     "month": "May",
     "category": "Paid PR Submission & Distribution Services (B2C Focus)",
-    "element": "Other",
+    "element": "Paid PR Submission & Distribution",
     "subElement": "Other",
     "task": "2.Submit content to relevant media platforms",
     "monthlyTask": "",
@@ -6050,7 +6050,7 @@
   {
     "month": "June",
     "category": "Paid PR Submission & Distribution Services (B2C Focus)",
-    "element": "Other",
+    "element": "Paid PR Submission & Distribution",
     "subElement": "Other",
     "task": "2.Submit content to relevant media platforms",
     "monthlyTask": "",
@@ -6059,7 +6059,7 @@
   {
     "month": "July",
     "category": "Paid PR Submission & Distribution Services (B2C Focus)",
-    "element": "Other",
+    "element": "Paid PR Submission & Distribution",
     "subElement": "Other",
     "task": "2.Submit content to relevant media platforms",
     "monthlyTask": "",
@@ -6068,7 +6068,7 @@
   {
     "month": "August",
     "category": "Paid PR Submission & Distribution Services (B2C Focus)",
-    "element": "Other",
+    "element": "Paid PR Submission & Distribution",
     "subElement": "Other",
     "task": "2.Submit content to relevant media platforms",
     "monthlyTask": "",
@@ -6077,7 +6077,7 @@
   {
     "month": "September",
     "category": "Paid PR Submission & Distribution Services (B2C Focus)",
-    "element": "Other",
+    "element": "Paid PR Submission & Distribution",
     "subElement": "Other",
     "task": "2.Submit content to relevant media platforms",
     "monthlyTask": "",
@@ -6086,7 +6086,7 @@
   {
     "month": "October",
     "category": "Paid PR Submission & Distribution Services (B2C Focus)",
-    "element": "Other",
+    "element": "Paid PR Submission & Distribution",
     "subElement": "Other",
     "task": "2.Submit content to relevant media platforms",
     "monthlyTask": "",
@@ -6095,7 +6095,7 @@
   {
     "month": "November",
     "category": "Paid PR Submission & Distribution Services (B2C Focus)",
-    "element": "Other",
+    "element": "Paid PR Submission & Distribution",
     "subElement": "Other",
     "task": "2.Submit content to relevant media platforms",
     "monthlyTask": "",
@@ -6104,7 +6104,7 @@
   {
     "month": "December",
     "category": "Paid PR Submission & Distribution Services (B2C Focus)",
-    "element": "Other",
+    "element": "Paid PR Submission & Distribution",
     "subElement": "Other",
     "task": "2.Submit content to relevant media platforms",
     "monthlyTask": "",
@@ -6113,7 +6113,7 @@
   {
     "month": "January",
     "category": "Paid PR Submission & Distribution Services (B2C Focus)",
-    "element": "Other",
+    "element": "Paid PR Submission & Distribution",
     "subElement": "PR Distribution Channels",
     "task": "1.Identifying channels",
     "monthlyTask": "2 to 3",
@@ -6122,7 +6122,7 @@
   {
     "month": "February",
     "category": "Paid PR Submission & Distribution Services (B2C Focus)",
-    "element": "Other",
+    "element": "Paid PR Submission & Distribution",
     "subElement": "PR Distribution Channels",
     "task": "1.Identifying channels",
     "monthlyTask": "2 to 3",
@@ -6131,7 +6131,7 @@
   {
     "month": "March",
     "category": "Paid PR Submission & Distribution Services (B2C Focus)",
-    "element": "Other",
+    "element": "Paid PR Submission & Distribution",
     "subElement": "PR Distribution Channels",
     "task": "1.Identifying channels",
     "monthlyTask": "2 to 3",
@@ -6140,7 +6140,7 @@
   {
     "month": "April",
     "category": "Paid PR Submission & Distribution Services (B2C Focus)",
-    "element": "Other",
+    "element": "Paid PR Submission & Distribution",
     "subElement": "PR Distribution Channels",
     "task": "1.Identifying channels",
     "monthlyTask": "2 to 3",
@@ -6149,7 +6149,7 @@
   {
     "month": "May",
     "category": "Paid PR Submission & Distribution Services (B2C Focus)",
-    "element": "Other",
+    "element": "Paid PR Submission & Distribution",
     "subElement": "PR Distribution Channels",
     "task": "1.Identifying channels",
     "monthlyTask": "2 to 3",
@@ -6158,7 +6158,7 @@
   {
     "month": "June",
     "category": "Paid PR Submission & Distribution Services (B2C Focus)",
-    "element": "Other",
+    "element": "Paid PR Submission & Distribution",
     "subElement": "PR Distribution Channels",
     "task": "1.Identifying channels",
     "monthlyTask": "2 to 3",
@@ -6167,7 +6167,7 @@
   {
     "month": "July",
     "category": "Paid PR Submission & Distribution Services (B2C Focus)",
-    "element": "Other",
+    "element": "Paid PR Submission & Distribution",
     "subElement": "PR Distribution Channels",
     "task": "1.Identifying channels",
     "monthlyTask": "2 to 3",
@@ -6176,7 +6176,7 @@
   {
     "month": "August",
     "category": "Paid PR Submission & Distribution Services (B2C Focus)",
-    "element": "Other",
+    "element": "Paid PR Submission & Distribution",
     "subElement": "PR Distribution Channels",
     "task": "1.Identifying channels",
     "monthlyTask": "2 to 3",
@@ -6185,7 +6185,7 @@
   {
     "month": "September",
     "category": "Paid PR Submission & Distribution Services (B2C Focus)",
-    "element": "Other",
+    "element": "Paid PR Submission & Distribution",
     "subElement": "PR Distribution Channels",
     "task": "1.Identifying channels",
     "monthlyTask": "2 to 3",
@@ -6194,7 +6194,7 @@
   {
     "month": "October",
     "category": "Paid PR Submission & Distribution Services (B2C Focus)",
-    "element": "Other",
+    "element": "Paid PR Submission & Distribution",
     "subElement": "PR Distribution Channels",
     "task": "1.Identifying channels",
     "monthlyTask": "2 to 3",
@@ -6203,7 +6203,7 @@
   {
     "month": "November",
     "category": "Paid PR Submission & Distribution Services (B2C Focus)",
-    "element": "Other",
+    "element": "Paid PR Submission & Distribution",
     "subElement": "PR Distribution Channels",
     "task": "1.Identifying channels",
     "monthlyTask": "2 to 3",
@@ -6212,7 +6212,7 @@
   {
     "month": "December",
     "category": "Paid PR Submission & Distribution Services (B2C Focus)",
-    "element": "Other",
+    "element": "Paid PR Submission & Distribution",
     "subElement": "PR Distribution Channels",
     "task": "1.Identifying channels",
     "monthlyTask": "2 to 3",
@@ -6221,7 +6221,7 @@
   {
     "month": "January",
     "category": "Paid PR Submission & Distribution Services (B2C Focus)",
-    "element": "Other",
+    "element": "Paid PR Submission & Distribution",
     "subElement": "Other",
     "task": "2. Customize distribution",
     "monthlyTask": "",
@@ -6230,7 +6230,7 @@
   {
     "month": "February",
     "category": "Paid PR Submission & Distribution Services (B2C Focus)",
-    "element": "Other",
+    "element": "Paid PR Submission & Distribution",
     "subElement": "Other",
     "task": "2. Customize distribution",
     "monthlyTask": "",
@@ -6239,7 +6239,7 @@
   {
     "month": "March",
     "category": "Paid PR Submission & Distribution Services (B2C Focus)",
-    "element": "Other",
+    "element": "Paid PR Submission & Distribution",
     "subElement": "Other",
     "task": "2. Customize distribution",
     "monthlyTask": "",
@@ -6248,7 +6248,7 @@
   {
     "month": "April",
     "category": "Paid PR Submission & Distribution Services (B2C Focus)",
-    "element": "Other",
+    "element": "Paid PR Submission & Distribution",
     "subElement": "Other",
     "task": "2. Customize distribution",
     "monthlyTask": "",
@@ -6257,7 +6257,7 @@
   {
     "month": "May",
     "category": "Paid PR Submission & Distribution Services (B2C Focus)",
-    "element": "Other",
+    "element": "Paid PR Submission & Distribution",
     "subElement": "Other",
     "task": "2. Customize distribution",
     "monthlyTask": "",
@@ -6266,7 +6266,7 @@
   {
     "month": "June",
     "category": "Paid PR Submission & Distribution Services (B2C Focus)",
-    "element": "Other",
+    "element": "Paid PR Submission & Distribution",
     "subElement": "Other",
     "task": "2. Customize distribution",
     "monthlyTask": "",
@@ -6275,7 +6275,7 @@
   {
     "month": "July",
     "category": "Paid PR Submission & Distribution Services (B2C Focus)",
-    "element": "Other",
+    "element": "Paid PR Submission & Distribution",
     "subElement": "Other",
     "task": "2. Customize distribution",
     "monthlyTask": "",
@@ -6284,7 +6284,7 @@
   {
     "month": "August",
     "category": "Paid PR Submission & Distribution Services (B2C Focus)",
-    "element": "Other",
+    "element": "Paid PR Submission & Distribution",
     "subElement": "Other",
     "task": "2. Customize distribution",
     "monthlyTask": "",
@@ -6293,7 +6293,7 @@
   {
     "month": "September",
     "category": "Paid PR Submission & Distribution Services (B2C Focus)",
-    "element": "Other",
+    "element": "Paid PR Submission & Distribution",
     "subElement": "Other",
     "task": "2. Customize distribution",
     "monthlyTask": "",
@@ -6302,7 +6302,7 @@
   {
     "month": "October",
     "category": "Paid PR Submission & Distribution Services (B2C Focus)",
-    "element": "Other",
+    "element": "Paid PR Submission & Distribution",
     "subElement": "Other",
     "task": "2. Customize distribution",
     "monthlyTask": "",
@@ -6311,7 +6311,7 @@
   {
     "month": "November",
     "category": "Paid PR Submission & Distribution Services (B2C Focus)",
-    "element": "Other",
+    "element": "Paid PR Submission & Distribution",
     "subElement": "Other",
     "task": "2. Customize distribution",
     "monthlyTask": "",
@@ -6320,7 +6320,7 @@
   {
     "month": "December",
     "category": "Paid PR Submission & Distribution Services (B2C Focus)",
-    "element": "Other",
+    "element": "Paid PR Submission & Distribution",
     "subElement": "Other",
     "task": "2. Customize distribution",
     "monthlyTask": "",
@@ -6437,7 +6437,7 @@
   {
     "month": "January",
     "category": "Brand Positioning & Thought Leadership",
-    "element": "Other",
+    "element": "Brand Positioning & Thought Leadership",
     "subElement": "Other",
     "task": "Media Gifting",
     "monthlyTask": "10",
@@ -6446,7 +6446,7 @@
   {
     "month": "February",
     "category": "Brand Positioning & Thought Leadership",
-    "element": "Other",
+    "element": "Brand Positioning & Thought Leadership",
     "subElement": "Other",
     "task": "Media Gifting",
     "monthlyTask": "10",
@@ -6455,7 +6455,7 @@
   {
     "month": "March",
     "category": "Brand Positioning & Thought Leadership",
-    "element": "Other",
+    "element": "Brand Positioning & Thought Leadership",
     "subElement": "Other",
     "task": "Media Gifting",
     "monthlyTask": "10",
@@ -6464,7 +6464,7 @@
   {
     "month": "April",
     "category": "Brand Positioning & Thought Leadership",
-    "element": "Other",
+    "element": "Brand Positioning & Thought Leadership",
     "subElement": "Other",
     "task": "Media Gifting",
     "monthlyTask": "10",
@@ -6473,7 +6473,7 @@
   {
     "month": "May",
     "category": "Brand Positioning & Thought Leadership",
-    "element": "Other",
+    "element": "Brand Positioning & Thought Leadership",
     "subElement": "Other",
     "task": "Media Gifting",
     "monthlyTask": "10",
@@ -6482,7 +6482,7 @@
   {
     "month": "June",
     "category": "Brand Positioning & Thought Leadership",
-    "element": "Other",
+    "element": "Brand Positioning & Thought Leadership",
     "subElement": "Other",
     "task": "Media Gifting",
     "monthlyTask": "10",
@@ -6491,7 +6491,7 @@
   {
     "month": "July",
     "category": "Brand Positioning & Thought Leadership",
-    "element": "Other",
+    "element": "Brand Positioning & Thought Leadership",
     "subElement": "Other",
     "task": "Media Gifting",
     "monthlyTask": "10",
@@ -6500,7 +6500,7 @@
   {
     "month": "August",
     "category": "Brand Positioning & Thought Leadership",
-    "element": "Other",
+    "element": "Brand Positioning & Thought Leadership",
     "subElement": "Other",
     "task": "Media Gifting",
     "monthlyTask": "10",
@@ -6509,7 +6509,7 @@
   {
     "month": "September",
     "category": "Brand Positioning & Thought Leadership",
-    "element": "Other",
+    "element": "Brand Positioning & Thought Leadership",
     "subElement": "Other",
     "task": "Media Gifting",
     "monthlyTask": "10",
@@ -6518,7 +6518,7 @@
   {
     "month": "October",
     "category": "Brand Positioning & Thought Leadership",
-    "element": "Other",
+    "element": "Brand Positioning & Thought Leadership",
     "subElement": "Other",
     "task": "Media Gifting",
     "monthlyTask": "10",
@@ -6527,7 +6527,7 @@
   {
     "month": "November",
     "category": "Brand Positioning & Thought Leadership",
-    "element": "Other",
+    "element": "Brand Positioning & Thought Leadership",
     "subElement": "Other",
     "task": "Media Gifting",
     "monthlyTask": "10",
@@ -6536,7 +6536,7 @@
   {
     "month": "December",
     "category": "Brand Positioning & Thought Leadership",
-    "element": "Other",
+    "element": "Brand Positioning & Thought Leadership",
     "subElement": "Other",
     "task": "Media Gifting",
     "monthlyTask": "10",
@@ -6545,7 +6545,7 @@
   {
     "month": "January",
     "category": "Brand Positioning & Thought Leadership",
-    "element": "Other",
+    "element": "Brand Positioning & Thought Leadership",
     "subElement": "Other",
     "task": "Press Release",
     "monthlyTask": "1",
@@ -6554,7 +6554,7 @@
   {
     "month": "February",
     "category": "Brand Positioning & Thought Leadership",
-    "element": "Other",
+    "element": "Brand Positioning & Thought Leadership",
     "subElement": "Other",
     "task": "Press Release",
     "monthlyTask": "1",
@@ -6563,7 +6563,7 @@
   {
     "month": "March",
     "category": "Brand Positioning & Thought Leadership",
-    "element": "Other",
+    "element": "Brand Positioning & Thought Leadership",
     "subElement": "Other",
     "task": "Press Release",
     "monthlyTask": "1",
@@ -6572,7 +6572,7 @@
   {
     "month": "April",
     "category": "Brand Positioning & Thought Leadership",
-    "element": "Other",
+    "element": "Brand Positioning & Thought Leadership",
     "subElement": "Other",
     "task": "Press Release",
     "monthlyTask": "1",
@@ -6581,7 +6581,7 @@
   {
     "month": "May",
     "category": "Brand Positioning & Thought Leadership",
-    "element": "Other",
+    "element": "Brand Positioning & Thought Leadership",
     "subElement": "Other",
     "task": "Press Release",
     "monthlyTask": "1",
@@ -6590,7 +6590,7 @@
   {
     "month": "June",
     "category": "Brand Positioning & Thought Leadership",
-    "element": "Other",
+    "element": "Brand Positioning & Thought Leadership",
     "subElement": "Other",
     "task": "Press Release",
     "monthlyTask": "1",
@@ -6599,7 +6599,7 @@
   {
     "month": "July",
     "category": "Brand Positioning & Thought Leadership",
-    "element": "Other",
+    "element": "Brand Positioning & Thought Leadership",
     "subElement": "Other",
     "task": "Press Release",
     "monthlyTask": "1",
@@ -6608,7 +6608,7 @@
   {
     "month": "August",
     "category": "Brand Positioning & Thought Leadership",
-    "element": "Other",
+    "element": "Brand Positioning & Thought Leadership",
     "subElement": "Other",
     "task": "Press Release",
     "monthlyTask": "1",
@@ -6617,7 +6617,7 @@
   {
     "month": "September",
     "category": "Brand Positioning & Thought Leadership",
-    "element": "Other",
+    "element": "Brand Positioning & Thought Leadership",
     "subElement": "Other",
     "task": "Press Release",
     "monthlyTask": "1",
@@ -6626,7 +6626,7 @@
   {
     "month": "October",
     "category": "Brand Positioning & Thought Leadership",
-    "element": "Other",
+    "element": "Brand Positioning & Thought Leadership",
     "subElement": "Other",
     "task": "Press Release",
     "monthlyTask": "1",
@@ -6635,7 +6635,7 @@
   {
     "month": "November",
     "category": "Brand Positioning & Thought Leadership",
-    "element": "Other",
+    "element": "Brand Positioning & Thought Leadership",
     "subElement": "Other",
     "task": "Press Release",
     "monthlyTask": "1",
@@ -6644,7 +6644,7 @@
   {
     "month": "December",
     "category": "Brand Positioning & Thought Leadership",
-    "element": "Other",
+    "element": "Brand Positioning & Thought Leadership",
     "subElement": "Other",
     "task": "Press Release",
     "monthlyTask": "1",
@@ -6653,7 +6653,7 @@
   {
     "month": "January",
     "category": "Brand Positioning & Thought Leadership",
-    "element": "Other",
+    "element": "Brand Positioning & Thought Leadership",
     "subElement": "Other",
     "task": "Influencer collaboration",
     "monthlyTask": "4-May",
@@ -6662,7 +6662,7 @@
   {
     "month": "February",
     "category": "Brand Positioning & Thought Leadership",
-    "element": "Other",
+    "element": "Brand Positioning & Thought Leadership",
     "subElement": "Other",
     "task": "Influencer collaboration",
     "monthlyTask": "4-May",
@@ -6671,7 +6671,7 @@
   {
     "month": "March",
     "category": "Brand Positioning & Thought Leadership",
-    "element": "Other",
+    "element": "Brand Positioning & Thought Leadership",
     "subElement": "Other",
     "task": "Influencer collaboration",
     "monthlyTask": "4-May",
@@ -6680,7 +6680,7 @@
   {
     "month": "April",
     "category": "Brand Positioning & Thought Leadership",
-    "element": "Other",
+    "element": "Brand Positioning & Thought Leadership",
     "subElement": "Other",
     "task": "Influencer collaboration",
     "monthlyTask": "4-May",
@@ -6689,7 +6689,7 @@
   {
     "month": "May",
     "category": "Brand Positioning & Thought Leadership",
-    "element": "Other",
+    "element": "Brand Positioning & Thought Leadership",
     "subElement": "Other",
     "task": "Influencer collaboration",
     "monthlyTask": "4-May",
@@ -6698,7 +6698,7 @@
   {
     "month": "June",
     "category": "Brand Positioning & Thought Leadership",
-    "element": "Other",
+    "element": "Brand Positioning & Thought Leadership",
     "subElement": "Other",
     "task": "Influencer collaboration",
     "monthlyTask": "4-May",
@@ -6707,7 +6707,7 @@
   {
     "month": "July",
     "category": "Brand Positioning & Thought Leadership",
-    "element": "Other",
+    "element": "Brand Positioning & Thought Leadership",
     "subElement": "Other",
     "task": "Influencer collaboration",
     "monthlyTask": "4-May",
@@ -6716,7 +6716,7 @@
   {
     "month": "August",
     "category": "Brand Positioning & Thought Leadership",
-    "element": "Other",
+    "element": "Brand Positioning & Thought Leadership",
     "subElement": "Other",
     "task": "Influencer collaboration",
     "monthlyTask": "4-May",
@@ -6725,7 +6725,7 @@
   {
     "month": "September",
     "category": "Brand Positioning & Thought Leadership",
-    "element": "Other",
+    "element": "Brand Positioning & Thought Leadership",
     "subElement": "Other",
     "task": "Influencer collaboration",
     "monthlyTask": "4-May",
@@ -6734,7 +6734,7 @@
   {
     "month": "October",
     "category": "Brand Positioning & Thought Leadership",
-    "element": "Other",
+    "element": "Brand Positioning & Thought Leadership",
     "subElement": "Other",
     "task": "Influencer collaboration",
     "monthlyTask": "4-May",
@@ -6743,7 +6743,7 @@
   {
     "month": "November",
     "category": "Brand Positioning & Thought Leadership",
-    "element": "Other",
+    "element": "Brand Positioning & Thought Leadership",
     "subElement": "Other",
     "task": "Influencer collaboration",
     "monthlyTask": "4-May",
@@ -6752,7 +6752,7 @@
   {
     "month": "December",
     "category": "Brand Positioning & Thought Leadership",
-    "element": "Other",
+    "element": "Brand Positioning & Thought Leadership",
     "subElement": "Other",
     "task": "Influencer collaboration",
     "monthlyTask": "4-May",
@@ -6761,7 +6761,7 @@
   {
     "month": "January",
     "category": "Brand Positioning & Thought Leadership",
-    "element": "Other",
+    "element": "Brand Positioning & Thought Leadership",
     "subElement": "Other",
     "task": "Features",
     "monthlyTask": "1",
@@ -6770,7 +6770,7 @@
   {
     "month": "February",
     "category": "Brand Positioning & Thought Leadership",
-    "element": "Other",
+    "element": "Brand Positioning & Thought Leadership",
     "subElement": "Other",
     "task": "Features",
     "monthlyTask": "1",
@@ -6779,7 +6779,7 @@
   {
     "month": "March",
     "category": "Brand Positioning & Thought Leadership",
-    "element": "Other",
+    "element": "Brand Positioning & Thought Leadership",
     "subElement": "Other",
     "task": "Features",
     "monthlyTask": "1",
@@ -6788,7 +6788,7 @@
   {
     "month": "April",
     "category": "Brand Positioning & Thought Leadership",
-    "element": "Other",
+    "element": "Brand Positioning & Thought Leadership",
     "subElement": "Other",
     "task": "Features",
     "monthlyTask": "1",
@@ -6797,7 +6797,7 @@
   {
     "month": "May",
     "category": "Brand Positioning & Thought Leadership",
-    "element": "Other",
+    "element": "Brand Positioning & Thought Leadership",
     "subElement": "Other",
     "task": "Features",
     "monthlyTask": "1",
@@ -6806,7 +6806,7 @@
   {
     "month": "June",
     "category": "Brand Positioning & Thought Leadership",
-    "element": "Other",
+    "element": "Brand Positioning & Thought Leadership",
     "subElement": "Other",
     "task": "Features",
     "monthlyTask": "1",
@@ -6815,7 +6815,7 @@
   {
     "month": "July",
     "category": "Brand Positioning & Thought Leadership",
-    "element": "Other",
+    "element": "Brand Positioning & Thought Leadership",
     "subElement": "Other",
     "task": "Features",
     "monthlyTask": "1",
@@ -6824,7 +6824,7 @@
   {
     "month": "August",
     "category": "Brand Positioning & Thought Leadership",
-    "element": "Other",
+    "element": "Brand Positioning & Thought Leadership",
     "subElement": "Other",
     "task": "Features",
     "monthlyTask": "1",
@@ -6833,7 +6833,7 @@
   {
     "month": "September",
     "category": "Brand Positioning & Thought Leadership",
-    "element": "Other",
+    "element": "Brand Positioning & Thought Leadership",
     "subElement": "Other",
     "task": "Features",
     "monthlyTask": "1",
@@ -6842,7 +6842,7 @@
   {
     "month": "October",
     "category": "Brand Positioning & Thought Leadership",
-    "element": "Other",
+    "element": "Brand Positioning & Thought Leadership",
     "subElement": "Other",
     "task": "Features",
     "monthlyTask": "1",
@@ -6851,7 +6851,7 @@
   {
     "month": "November",
     "category": "Brand Positioning & Thought Leadership",
-    "element": "Other",
+    "element": "Brand Positioning & Thought Leadership",
     "subElement": "Other",
     "task": "Features",
     "monthlyTask": "1",
@@ -6860,7 +6860,7 @@
   {
     "month": "December",
     "category": "Brand Positioning & Thought Leadership",
-    "element": "Other",
+    "element": "Brand Positioning & Thought Leadership",
     "subElement": "Other",
     "task": "Features",
     "monthlyTask": "1",
@@ -6977,7 +6977,7 @@
   {
     "month": "January",
     "category": "Content Marketing & Strategy",
-    "element": "Other",
+    "element": "Blog Categories & Sample Topics",
     "subElement": "Other",
     "task": "II.                   Product Education",
     "monthlyTask": "",
@@ -6986,7 +6986,7 @@
   {
     "month": "February",
     "category": "Content Marketing & Strategy",
-    "element": "Other",
+    "element": "Blog Categories & Sample Topics",
     "subElement": "Other",
     "task": "II.                   Product Education",
     "monthlyTask": "",
@@ -6995,7 +6995,7 @@
   {
     "month": "March",
     "category": "Content Marketing & Strategy",
-    "element": "Other",
+    "element": "Blog Categories & Sample Topics",
     "subElement": "Other",
     "task": "II.                   Product Education",
     "monthlyTask": "",
@@ -7004,7 +7004,7 @@
   {
     "month": "April",
     "category": "Content Marketing & Strategy",
-    "element": "Other",
+    "element": "Blog Categories & Sample Topics",
     "subElement": "Other",
     "task": "II.                   Product Education",
     "monthlyTask": "",
@@ -7013,7 +7013,7 @@
   {
     "month": "May",
     "category": "Content Marketing & Strategy",
-    "element": "Other",
+    "element": "Blog Categories & Sample Topics",
     "subElement": "Other",
     "task": "II.                   Product Education",
     "monthlyTask": "",
@@ -7022,7 +7022,7 @@
   {
     "month": "June",
     "category": "Content Marketing & Strategy",
-    "element": "Other",
+    "element": "Blog Categories & Sample Topics",
     "subElement": "Other",
     "task": "II.                   Product Education",
     "monthlyTask": "",
@@ -7031,7 +7031,7 @@
   {
     "month": "July",
     "category": "Content Marketing & Strategy",
-    "element": "Other",
+    "element": "Blog Categories & Sample Topics",
     "subElement": "Other",
     "task": "II.                   Product Education",
     "monthlyTask": "",
@@ -7040,7 +7040,7 @@
   {
     "month": "August",
     "category": "Content Marketing & Strategy",
-    "element": "Other",
+    "element": "Blog Categories & Sample Topics",
     "subElement": "Other",
     "task": "II.                   Product Education",
     "monthlyTask": "",
@@ -7049,7 +7049,7 @@
   {
     "month": "September",
     "category": "Content Marketing & Strategy",
-    "element": "Other",
+    "element": "Blog Categories & Sample Topics",
     "subElement": "Other",
     "task": "II.                   Product Education",
     "monthlyTask": "",
@@ -7058,7 +7058,7 @@
   {
     "month": "October",
     "category": "Content Marketing & Strategy",
-    "element": "Other",
+    "element": "Blog Categories & Sample Topics",
     "subElement": "Other",
     "task": "II.                   Product Education",
     "monthlyTask": "",
@@ -7067,7 +7067,7 @@
   {
     "month": "November",
     "category": "Content Marketing & Strategy",
-    "element": "Other",
+    "element": "Blog Categories & Sample Topics",
     "subElement": "Other",
     "task": "II.                   Product Education",
     "monthlyTask": "",
@@ -7076,7 +7076,7 @@
   {
     "month": "December",
     "category": "Content Marketing & Strategy",
-    "element": "Other",
+    "element": "Blog Categories & Sample Topics",
     "subElement": "Other",
     "task": "II.                   Product Education",
     "monthlyTask": "",
@@ -7193,7 +7193,7 @@
   {
     "month": "January",
     "category": "Content Marketing & Strategy",
-    "element": "Other",
+    "element": "Press & Thought Leadership",
     "subElement": "Other",
     "task": "II.                   Bylined Articles",
     "monthlyTask": "",
@@ -7202,7 +7202,7 @@
   {
     "month": "February",
     "category": "Content Marketing & Strategy",
-    "element": "Other",
+    "element": "Press & Thought Leadership",
     "subElement": "Other",
     "task": "II.                   Bylined Articles",
     "monthlyTask": "",
@@ -7211,7 +7211,7 @@
   {
     "month": "March",
     "category": "Content Marketing & Strategy",
-    "element": "Other",
+    "element": "Press & Thought Leadership",
     "subElement": "Other",
     "task": "II.                   Bylined Articles",
     "monthlyTask": "",
@@ -7220,7 +7220,7 @@
   {
     "month": "April",
     "category": "Content Marketing & Strategy",
-    "element": "Other",
+    "element": "Press & Thought Leadership",
     "subElement": "Other",
     "task": "II.                   Bylined Articles",
     "monthlyTask": "",
@@ -7229,7 +7229,7 @@
   {
     "month": "May",
     "category": "Content Marketing & Strategy",
-    "element": "Other",
+    "element": "Press & Thought Leadership",
     "subElement": "Other",
     "task": "II.                   Bylined Articles",
     "monthlyTask": "",
@@ -7238,7 +7238,7 @@
   {
     "month": "June",
     "category": "Content Marketing & Strategy",
-    "element": "Other",
+    "element": "Press & Thought Leadership",
     "subElement": "Other",
     "task": "II.                   Bylined Articles",
     "monthlyTask": "",
@@ -7247,7 +7247,7 @@
   {
     "month": "July",
     "category": "Content Marketing & Strategy",
-    "element": "Other",
+    "element": "Press & Thought Leadership",
     "subElement": "Other",
     "task": "II.                   Bylined Articles",
     "monthlyTask": "",
@@ -7256,7 +7256,7 @@
   {
     "month": "August",
     "category": "Content Marketing & Strategy",
-    "element": "Other",
+    "element": "Press & Thought Leadership",
     "subElement": "Other",
     "task": "II.                   Bylined Articles",
     "monthlyTask": "",
@@ -7265,7 +7265,7 @@
   {
     "month": "September",
     "category": "Content Marketing & Strategy",
-    "element": "Other",
+    "element": "Press & Thought Leadership",
     "subElement": "Other",
     "task": "II.                   Bylined Articles",
     "monthlyTask": "",
@@ -7274,7 +7274,7 @@
   {
     "month": "October",
     "category": "Content Marketing & Strategy",
-    "element": "Other",
+    "element": "Press & Thought Leadership",
     "subElement": "Other",
     "task": "II.                   Bylined Articles",
     "monthlyTask": "",
@@ -7283,7 +7283,7 @@
   {
     "month": "November",
     "category": "Content Marketing & Strategy",
-    "element": "Other",
+    "element": "Press & Thought Leadership",
     "subElement": "Other",
     "task": "II.                   Bylined Articles",
     "monthlyTask": "",
@@ -7292,7 +7292,7 @@
   {
     "month": "December",
     "category": "Content Marketing & Strategy",
-    "element": "Other",
+    "element": "Press & Thought Leadership",
     "subElement": "Other",
     "task": "II.                   Bylined Articles",
     "monthlyTask": "",
@@ -7517,7 +7517,7 @@
   {
     "month": "January",
     "category": "Content Marketing & Strategy",
-    "element": "Other",
+    "element": "Landing Pages",
     "subElement": "Other",
     "task": "II.                   Gifting Page",
     "monthlyTask": "",
@@ -7526,7 +7526,7 @@
   {
     "month": "February",
     "category": "Content Marketing & Strategy",
-    "element": "Other",
+    "element": "Landing Pages",
     "subElement": "Other",
     "task": "II.                   Gifting Page",
     "monthlyTask": "",
@@ -7535,7 +7535,7 @@
   {
     "month": "March",
     "category": "Content Marketing & Strategy",
-    "element": "Other",
+    "element": "Landing Pages",
     "subElement": "Other",
     "task": "II.                   Gifting Page",
     "monthlyTask": "",
@@ -7544,7 +7544,7 @@
   {
     "month": "April",
     "category": "Content Marketing & Strategy",
-    "element": "Other",
+    "element": "Landing Pages",
     "subElement": "Other",
     "task": "II.                   Gifting Page",
     "monthlyTask": "",
@@ -7553,7 +7553,7 @@
   {
     "month": "May",
     "category": "Content Marketing & Strategy",
-    "element": "Other",
+    "element": "Landing Pages",
     "subElement": "Other",
     "task": "II.                   Gifting Page",
     "monthlyTask": "",
@@ -7562,7 +7562,7 @@
   {
     "month": "June",
     "category": "Content Marketing & Strategy",
-    "element": "Other",
+    "element": "Landing Pages",
     "subElement": "Other",
     "task": "II.                   Gifting Page",
     "monthlyTask": "",
@@ -7571,7 +7571,7 @@
   {
     "month": "July",
     "category": "Content Marketing & Strategy",
-    "element": "Other",
+    "element": "Landing Pages",
     "subElement": "Other",
     "task": "II.                   Gifting Page",
     "monthlyTask": "",
@@ -7580,7 +7580,7 @@
   {
     "month": "August",
     "category": "Content Marketing & Strategy",
-    "element": "Other",
+    "element": "Landing Pages",
     "subElement": "Other",
     "task": "II.                   Gifting Page",
     "monthlyTask": "",
@@ -7589,7 +7589,7 @@
   {
     "month": "September",
     "category": "Content Marketing & Strategy",
-    "element": "Other",
+    "element": "Landing Pages",
     "subElement": "Other",
     "task": "II.                   Gifting Page",
     "monthlyTask": "",
@@ -7598,7 +7598,7 @@
   {
     "month": "October",
     "category": "Content Marketing & Strategy",
-    "element": "Other",
+    "element": "Landing Pages",
     "subElement": "Other",
     "task": "II.                   Gifting Page",
     "monthlyTask": "",
@@ -7607,7 +7607,7 @@
   {
     "month": "November",
     "category": "Content Marketing & Strategy",
-    "element": "Other",
+    "element": "Landing Pages",
     "subElement": "Other",
     "task": "II.                   Gifting Page",
     "monthlyTask": "",
@@ -7616,7 +7616,7 @@
   {
     "month": "December",
     "category": "Content Marketing & Strategy",
-    "element": "Other",
+    "element": "Landing Pages",
     "subElement": "Other",
     "task": "II.                   Gifting Page",
     "monthlyTask": "",
@@ -7625,7 +7625,7 @@
   {
     "month": "January",
     "category": "Content Marketing & Strategy",
-    "element": "Other",
+    "element": "Landing Pages",
     "subElement": "Other",
     "task": "III.                 Everyday Use Page",
     "monthlyTask": "",
@@ -7634,7 +7634,7 @@
   {
     "month": "February",
     "category": "Content Marketing & Strategy",
-    "element": "Other",
+    "element": "Landing Pages",
     "subElement": "Other",
     "task": "III.                 Everyday Use Page",
     "monthlyTask": "",
@@ -7643,7 +7643,7 @@
   {
     "month": "March",
     "category": "Content Marketing & Strategy",
-    "element": "Other",
+    "element": "Landing Pages",
     "subElement": "Other",
     "task": "III.                 Everyday Use Page",
     "monthlyTask": "",
@@ -7652,7 +7652,7 @@
   {
     "month": "April",
     "category": "Content Marketing & Strategy",
-    "element": "Other",
+    "element": "Landing Pages",
     "subElement": "Other",
     "task": "III.                 Everyday Use Page",
     "monthlyTask": "",
@@ -7661,7 +7661,7 @@
   {
     "month": "May",
     "category": "Content Marketing & Strategy",
-    "element": "Other",
+    "element": "Landing Pages",
     "subElement": "Other",
     "task": "III.                 Everyday Use Page",
     "monthlyTask": "",
@@ -7670,7 +7670,7 @@
   {
     "month": "June",
     "category": "Content Marketing & Strategy",
-    "element": "Other",
+    "element": "Landing Pages",
     "subElement": "Other",
     "task": "III.                 Everyday Use Page",
     "monthlyTask": "",
@@ -7679,7 +7679,7 @@
   {
     "month": "July",
     "category": "Content Marketing & Strategy",
-    "element": "Other",
+    "element": "Landing Pages",
     "subElement": "Other",
     "task": "III.                 Everyday Use Page",
     "monthlyTask": "",
@@ -7688,7 +7688,7 @@
   {
     "month": "August",
     "category": "Content Marketing & Strategy",
-    "element": "Other",
+    "element": "Landing Pages",
     "subElement": "Other",
     "task": "III.                 Everyday Use Page",
     "monthlyTask": "",
@@ -7697,7 +7697,7 @@
   {
     "month": "September",
     "category": "Content Marketing & Strategy",
-    "element": "Other",
+    "element": "Landing Pages",
     "subElement": "Other",
     "task": "III.                 Everyday Use Page",
     "monthlyTask": "",
@@ -7706,7 +7706,7 @@
   {
     "month": "October",
     "category": "Content Marketing & Strategy",
-    "element": "Other",
+    "element": "Landing Pages",
     "subElement": "Other",
     "task": "III.                 Everyday Use Page",
     "monthlyTask": "",
@@ -7715,7 +7715,7 @@
   {
     "month": "November",
     "category": "Content Marketing & Strategy",
-    "element": "Other",
+    "element": "Landing Pages",
     "subElement": "Other",
     "task": "III.                 Everyday Use Page",
     "monthlyTask": "",
@@ -7724,7 +7724,7 @@
   {
     "month": "December",
     "category": "Content Marketing & Strategy",
-    "element": "Other",
+    "element": "Landing Pages",
     "subElement": "Other",
     "task": "III.                 Everyday Use Page",
     "monthlyTask": "",
