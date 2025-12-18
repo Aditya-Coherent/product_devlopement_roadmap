@@ -1,0 +1,42 @@
+﻿Team,Elements,Sub-elements,Task,Monthly quantifiable or not (to measure outcome),Monthly Task,Month
+Web Development,Website Design and Development,Na,UI/UX design required Pages aligned with wellness aesthetics,No,One time setup and integration,January
+,,,Payment gateway & shipping integration,,,January
+,,,SEO-friendly structure & content setup,,,January
+,,,"Reviews, ratings & UGC integration",,,January
+,,,Email automation + remarketing setup,,,January
+,Website Traffic & User Behavior: Analytics Tracking,Na,Intergration of Google Analtics and Hotjar,No,One time setup and integration,January
+,Conversion Tracking & eCommerce: Wocommerce Plugin,Na,WooCommerce Conversion Tracking,No,One time setup ,January
+,,,Addition of UTM Parameters,Yes,Monthly 20-30 Products,Jan -  Dec
+,Customer Acquisition/Retention : CRM Integration & Cohort Analysis,Na,Integrate CRM tools,No,One time setup,January
+,,,Zoho CRM Integration and configurations,No,One time setup,January
+,,,Zoho CRM Features activations,No,One time setup,January
+,Inventory Management Integration,Na,Integrate inventory management systems Using WooCommerce,No,One time setup,January
+,Customer Experience: Survey Widgets & Support Integration,Na,WP Widget Integration and Live chat integration,No,One time setup,January
+,,,Follow-up email for Product review and Rating,No,One time setup,January
+,Website Speed Optimization,Na,Site Caching Improve Page Load time,Yes,"Monitor Cache Performance, Clear Cache Regularly, Check for Issues in Dynamic Content and Review Site Traffic and Load Balancing and Backup and Restore Cache Configuration",Jan -  Dec
+,,,Images Optimization,Yes,Monthly 50-80 Images optimization,Jan -  Dec
+,,,CDN Monitoring and Required configurations ,Yes,"Monitor CDN Performance, Check CDN Cache Hit Rate, Update and Optimize Static Assets, Purge CDN Cache Regularly, Review CDN Configuration and Settings, Analyze Geographical Load Distribution, Convert Image Conversion to WebP and Review Security Settings",Jan -  Dec
+,Search Console,Na,Check GSC For Issues,Yes,"Monthly Fixes for Indexing, Core Web Vitals, and Product Snippets Issues",
+,,,Fix mobile related issues,Yes,"Review and resolve mobile usability issues from GSC, including clickable elements, content width, and text readability on a monthly basis.",Jan -  Dec
+,,,Redirections Handling,Yes,Check and implement 301 redirects for any product URL or category changes to prevent 404 errors and maintain link equity.,Jan -  Dec
+,,,Fix crawl Errors,Yes,"Monitor and resolve crawl errors in GSC, fixing broken links or inaccessible pages on product pages, categories, and checkout.",Jan -  Dec
+,,,Product Schema Markup,Yes,"Ensure product pages are updated with structured data (Schema.org/Product) for price, availability, and reviews to enable rich results in search.",Jan -  Dec
+,,,Core Web Vitals Fixing – Mobile,Yes,"Optimize images (50-80), implement lazy loading, minify CSS/JS, and leverage browser caching to enhance Core Web Vitals and improve site performance.",Jan -  Dec
+,,,Core Web Vitals Fixing – Desktop,Yes,Monitor and Fix the issues of Core Web Vitals report in GSC monthly to identify and resolve performance issues affecting user experience.,
+,,,Improve Product Link Structure,Yes,Monthly 50-60 ,Jan -  Dec
+,Google PageSpeed Insights,Na,Google Page Speed Insights recommended optimizations and resolve the issues,Yes,Check website speed and performance monthly using Google Page Speed Insights and implement recommended optimizations and resolve the issues,Jan -  Dec
+,Gtmetrix and Ahref,Na,"Technical Audit fixing Errors, Warnings and Notices",Yes,,Jan -  Dec
+,Performance Analytics and Monitoring,Na,Hotjar Tracking implementations,Yes,Monthly 50-80 Products,Jan -  Dec
+,Error Monitoring,Na,Errors Log Fixing,Yes,Monthly 10-20,Jan -  Dec
+,,,Broken Links Fixing,Yes,Monthly 50-80,Jan -  Dec
+,Mobile Optimization,Na,Mobile Friendly Issues Fixing ,Yes,Monthly 10-20,Jan -  Dec
+,Server and Hosting Monitoring,Na,Monitor Server Health,Yes,Weekly Monitering in 3-4 Times,Jan -  Dec
+,,,Hosting Performance Management,Yes,Weekly Monitoring in 3-4 Times,Jan -  Dec
+,Database Optimization,Na,Database cleaning and Optimization,Yes,Weekly Activity 2 times,Jan -  Dec
+,,,Database Indexing For Performance,Yes,Monthly 50-60 Products,Jan -  Dec
+,Load Testing,Na,Monitor Shopping Cart Load ,Yes,Weekly Monitoring and actions taking,Jan -  Dec
+,,,Server AutoScale Based on Traffic Spikes,No,One time Setup,January
+,Content Delivery and Optimization,Na,Page Loading Management,Yes,Monthly 50-60 Products,Jan -  Dec
+,,,Minification and Concatenation,Yes,Monthly 50-60 Products,Jan -  Dec
+,Security and Performance,Na,Security Monitoring ,Yes,Weekly Activity 2 times,Jan -  Dec
+,Themes and Plugins Updates,Na,Themes and Plugins Updates to Latest Version,Yes,Monthly 1 time,Jan -  Dec

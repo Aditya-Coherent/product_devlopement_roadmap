@@ -1,217 +1,213 @@
 [
   {
     "month": "January",
-    "element": "AI Strategy & Data Foundation",
-    "task": "Decide what problems AI should solve and what success looks like",
+    "element": "AI Planning & Setup",
+    "task": "Understand business goals and decide where AI will be used on the website, such as recommendations, chat support, and insights",
+    "monthlyTask": "One-time planning and documentation",
+    "monthlyQuantifiable": "No",
     "team": "artificial-intelligence"
   },
   {
     "month": "January",
-    "element": "AI Strategy & Data Foundation",
-    "task": "List and review data needed for personalization, insights, and planning",
+    "element": "AI Planning & Setup",
+    "task": "Review product, customer, and order data and prepare it for AI usage",
+    "monthlyTask": "One-time data review and cleanup",
+    "monthlyQuantifiable": "No",
     "team": "artificial-intelligence"
   },
   {
     "month": "January",
-    "element": "AI Strategy & Data Foundation",
-    "task": "Set rules to ensure AI responses stay safe, accurate, and on-brand",
+    "element": "AI Planning & Setup",
+    "task": "Define basic rules to ensure AI responses stay accurate and brand-safe",
+    "monthlyTask": "One-time rule definition",
+    "monthlyQuantifiable": "No",
+    "team": "artificial-intelligence"
+  },
+
+  {
+    "month": "February",
+    "element": "Custom Kit Builder",
+    "task": "Create logic to recommend product kits based on skin type, concerns, and preferences",
+    "monthlyTask": "Initial setup of recommendation rules",
+    "monthlyQuantifiable": "No",
     "team": "artificial-intelligence"
   },
   {
     "month": "February",
-    "element": "AI Knowledge & Data Layer",
-    "task": "Organize product, ingredient, and Ayurvedic knowledge in a structured format",
+    "element": "Custom Kit Builder",
+    "task": "Test product kit suggestions across different customer scenarios",
+    "monthlyTask": "Test 10–15 scenarios",
+    "monthlyQuantifiable": "Yes",
     "team": "artificial-intelligence"
   },
+
   {
-    "month": "February",
-    "element": "AI Knowledge & Data Layer",
-    "task": "Prepare clean and usable data for recommendations and search",
-    "team": "artificial-intelligence"
-  },
-  {
-    "month": "February",
-    "element": "AI Knowledge & Data Layer",
-    "task": "Check data accuracy and remove gaps or inconsistencies",
+    "month": "March",
+    "element": "Custom Kit Builder",
+    "task": "Improve kit recommendations using customer feedback and usage data",
+    "monthlyTask": "Monthly review and updates",
+    "monthlyQuantifiable": "Yes",
     "team": "artificial-intelligence"
   },
   {
     "month": "March",
-    "element": "AI Personalization Engine",
-    "task": "Define simple rules for recommending kits based on user inputs",
+    "element": "Custom Kit Builder",
+    "task": "Fix incorrect or confusing recommendations reported by users",
+    "monthlyTask": "NA",
+    "monthlyQuantifiable": "NA",
     "team": "artificial-intelligence"
   },
+
   {
-    "month": "March",
-    "element": "AI Personalization Engine",
-    "task": "Map skin concerns to ingredients and product routines",
-    "team": "artificial-intelligence"
-  },
-  {
-    "month": "March",
-    "element": "AI Personalization Engine",
-    "task": "Test recommendations for accuracy and edge cases",
+    "month": "April",
+    "element": "AI Chat Assistant",
+    "task": "Train the chat assistant using product details, ingredients, and Ayurvedic information",
+    "monthlyTask": "One-time training and setup",
+    "monthlyQuantifiable": "No",
     "team": "artificial-intelligence"
   },
   {
     "month": "April",
-    "element": "AI Personalization Engine",
-    "task": "Improve recommendation logic based on test results",
+    "element": "AI Chat Assistant",
+    "task": "Define what the assistant can answer and when it should escalate to human support",
+    "monthlyTask": "One-time configuration",
+    "monthlyQuantifiable": "No",
     "team": "artificial-intelligence"
   },
+
   {
-    "month": "April",
-    "element": "AI Personalization Engine",
-    "task": "Use customer feedback to refine kit suggestions",
-    "team": "artificial-intelligence"
-  },
-  {
-    "month": "April",
-    "element": "AI Personalization Engine",
-    "task": "Adjust recommendations to improve trust and conversions",
+    "month": "May",
+    "element": "AI Chat Assistant",
+    "task": "Review chat conversations to improve accuracy and clarity of responses",
+    "monthlyTask": "Review 50–100 conversations",
+    "monthlyQuantifiable": "Yes",
     "team": "artificial-intelligence"
   },
   {
     "month": "May",
-    "element": "AI Conversational Assistant",
-    "task": "Train the assistant using product and Ayurvedic content",
+    "element": "AI Chat Assistant",
+    "task": "Update responses based on new products or customer questions",
+    "monthlyTask": "NA",
+    "monthlyQuantifiable": "NA",
     "team": "artificial-intelligence"
   },
+
   {
-    "month": "May",
-    "element": "AI Conversational Assistant",
-    "task": "Define what the assistant can and cannot answer",
-    "team": "artificial-intelligence"
-  },
-  {
-    "month": "May",
-    "element": "AI Conversational Assistant",
-    "task": "Test assistant responses across common customer questions",
+    "month": "June",
+    "element": "Customer Intelligence",
+    "task": "Track how users browse, interact, and purchase on the website",
+    "monthlyTask": "Monthly dashboard review",
+    "monthlyQuantifiable": "Yes",
     "team": "artificial-intelligence"
   },
   {
     "month": "June",
-    "element": "AI Conversational Assistant",
-    "task": "Launch the assistant across key customer touchpoints",
+    "element": "Customer Intelligence",
+    "task": "Identify common drop-off points in the customer journey",
+    "monthlyTask": "Monthly analysis",
+    "monthlyQuantifiable": "Yes",
     "team": "artificial-intelligence"
   },
+
   {
-    "month": "June",
-    "element": "AI Conversational Assistant",
-    "task": "Enable routine reminders and follow-up suggestions",
-    "team": "artificial-intelligence"
-  },
-  {
-    "month": "June",
-    "element": "AI Conversational Assistant",
-    "task": "Review conversations and improve responses regularly",
+    "month": "July",
+    "element": "Customer Intelligence",
+    "task": "Group customers into segments such as repeat buyers, new users, and inactive users",
+    "monthlyTask": "Update segments monthly",
+    "monthlyQuantifiable": "Yes",
     "team": "artificial-intelligence"
   },
   {
     "month": "July",
-    "element": "Customer Intelligence AI",
-    "task": "Group customers based on behavior and purchase patterns",
+    "element": "Customer Intelligence",
+    "task": "Share customer insights with marketing and website teams",
+    "monthlyTask": "Monthly summary",
+    "monthlyQuantifiable": "NA",
     "team": "artificial-intelligence"
   },
+
   {
-    "month": "July",
-    "element": "Customer Intelligence AI",
-    "task": "Identify early signs of repeat or drop-off behavior",
-    "team": "artificial-intelligence"
-  },
-  {
-    "month": "July",
-    "element": "Customer Intelligence AI",
-    "task": "Show insights clearly on internal dashboards",
+    "month": "August",
+    "element": "Customer Intelligence",
+    "task": "Use customer insights to improve recommendations, messaging, and follow-ups",
+    "monthlyTask": "NA",
+    "monthlyQuantifiable": "NA",
     "team": "artificial-intelligence"
   },
   {
     "month": "August",
-    "element": "Customer Intelligence AI",
-    "task": "Improve customer segments based on new data",
+    "element": "Customer Intelligence",
+    "task": "Review impact of changes made using customer data",
+    "monthlyTask": "Monthly review",
+    "monthlyQuantifiable": "Yes",
     "team": "artificial-intelligence"
   },
+
   {
-    "month": "August",
-    "element": "Customer Intelligence AI",
-    "task": "Use insights to improve recommendations and messaging",
-    "team": "artificial-intelligence"
-  },
-  {
-    "month": "August",
-    "element": "Customer Intelligence AI",
-    "task": "Automate basic reports for marketing and operations",
+    "month": "September",
+    "element": "Demand Forecasting",
+    "task": "Review past sales data and seasonal trends to understand demand",
+    "monthlyTask": "Monthly sales analysis",
+    "monthlyQuantifiable": "Yes",
     "team": "artificial-intelligence"
   },
   {
     "month": "September",
-    "element": "Demand Forecasting AI",
-    "task": "Analyze past sales and seasonal trends",
+    "element": "Demand Forecasting",
+    "task": "Identify fast-moving and slow-moving products",
+    "monthlyTask": "Monthly product review",
+    "monthlyQuantifiable": "Yes",
     "team": "artificial-intelligence"
   },
+
   {
-    "month": "September",
-    "element": "Demand Forecasting AI",
-    "task": "Estimate demand by region and product",
-    "team": "artificial-intelligence"
-  },
-  {
-    "month": "September",
-    "element": "Demand Forecasting AI",
-    "task": "Compare forecasts with actual sales results",
+    "month": "October",
+    "element": "Demand Forecasting",
+    "task": "Suggest inventory planning improvements based on demand insights",
+    "monthlyTask": "Monthly forecast update",
+    "monthlyQuantifiable": "Yes",
     "team": "artificial-intelligence"
   },
   {
     "month": "October",
-    "element": "Demand Forecasting AI",
-    "task": "Improve forecast accuracy using recent sales data",
+    "element": "Demand Forecasting",
+    "task": "Align demand insights with upcoming offers or promotions",
+    "monthlyTask": "NA",
+    "monthlyQuantifiable": "NA",
     "team": "artificial-intelligence"
   },
+
   {
-    "month": "October",
-    "element": "Demand Forecasting AI",
-    "task": "Suggest stock replenishment quantities",
-    "team": "artificial-intelligence"
-  },
-  {
-    "month": "October",
-    "element": "Demand Forecasting AI",
-    "task": "Align forecasts with promotions and growth plans",
+    "month": "November",
+    "element": "AI Optimization",
+    "task": "Review AI features and improve them to increase conversions and repeat purchases",
+    "monthlyTask": "Monthly performance review",
+    "monthlyQuantifiable": "Yes",
     "team": "artificial-intelligence"
   },
   {
     "month": "November",
-    "element": "AI Optimization & Learning",
-    "task": "Improve recommendations and assistant responses",
+    "element": "AI Optimization",
+    "task": "Fix issues or gaps identified during performance reviews",
+    "monthlyTask": "NA",
+    "monthlyQuantifiable": "NA",
     "team": "artificial-intelligence"
   },
+
   {
-    "month": "November",
-    "element": "AI Optimization & Learning",
-    "task": "Use customer feedback to refine system behavior",
-    "team": "artificial-intelligence"
-  },
-  {
-    "month": "November",
-    "element": "AI Optimization & Learning",
-    "task": "Increase average order value and repeat purchases",
+    "month": "December",
+    "element": "AI Review & Planning",
+    "task": "Review overall AI performance and document learnings from the year",
+    "monthlyTask": "One-time annual review",
+    "monthlyQuantifiable": "No",
     "team": "artificial-intelligence"
   },
   {
     "month": "December",
-    "element": "AI Performance & Scale Planning",
-    "task": "Review AI performance and business impact",
+    "element": "AI Review & Planning",
+    "task": "Plan improvements and new AI features for the next year",
+    "monthlyTask": "One-time planning",
+    "monthlyQuantifiable": "No",
     "team": "artificial-intelligence"
-  },
-  {
-    "month": "December",
-    "element": "AI Performance & Scale Planning",
-    "task": "Apply learnings to improve future performance",
-    "team": "artificial-intelligence"
-  },
-  {
-    "month": "December",
-    "element": "AI Performance & Scale Planning",
-    "task": "Plan next year improvements and automation",
-    "team": "artificial-intelligence"
-  }]
+  }
+]

@@ -1,0 +1,2846 @@
+[
+  {
+    "month": "January",
+    "category": "Web Development",
+    "element": "Website Design and Development",
+    "task": "UI/UX design required Pages aligned with wellness aesthetics",
+    "monthlyTask": "One time setup and integration",
+    "monthlyQuantifiable": "No",
+    "team": "website"
+  },
+  {
+    "month": "January",
+    "category": "Web Development",
+    "element": "Website Design and Development",
+    "task": "Payment gateway & shipping integration",
+    "monthlyTask": "No",
+    "monthlyQuantifiable": "No",
+    "team": "website"
+  },
+  {
+    "month": "January",
+    "category": "Web Development",
+    "element": "Website Design and Development",
+    "task": "SEO-friendly structure & content setup",
+    "monthlyTask": "No",
+    "monthlyQuantifiable": "No",
+    "team": "website"
+  },
+  {
+    "month": "January",
+    "category": "Web Development",
+    "element": "Website Design and Development",
+    "task": "Reviews, ratings & UGC integration",
+    "monthlyTask": "No",
+    "monthlyQuantifiable": "No",
+    "team": "website"
+  },
+  {
+    "month": "January",
+    "category": "Web Development",
+    "element": "Website Design and Development",
+    "task": "Email automation + remarketing setup",
+    "monthlyTask": "No",
+    "monthlyQuantifiable": "No",
+    "team": "website"
+  },
+  {
+    "month": "January",
+    "category": "Web Development",
+    "element": "Website Traffic & User Behavior: Analytics Tracking",
+    "task": "Intergration of Google Analtics and Hotjar",
+    "monthlyTask": "One time setup and integration",
+    "monthlyQuantifiable": "No",
+    "team": "website"
+  },
+  {
+    "month": "January",
+    "category": "Web Development",
+    "element": "Conversion Tracking & eCommerce: Wocommerce Plugin",
+    "task": "WooCommerce Conversion Tracking",
+    "monthlyTask": "One time setup",
+    "monthlyQuantifiable": "No",
+    "team": "website"
+  },
+  {
+    "month": "January",
+    "category": "Web Development",
+    "element": "Conversion Tracking & eCommerce: Wocommerce Plugin",
+    "task": "Addition of UTM Parameters",
+    "monthlyTask": "Monthly 20-30 Products",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "February",
+    "category": "Web Development",
+    "element": "Conversion Tracking & eCommerce: Wocommerce Plugin",
+    "task": "Addition of UTM Parameters",
+    "monthlyTask": "Monthly 20-30 Products",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "March",
+    "category": "Web Development",
+    "element": "Conversion Tracking & eCommerce: Wocommerce Plugin",
+    "task": "Addition of UTM Parameters",
+    "monthlyTask": "Monthly 20-30 Products",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "April",
+    "category": "Web Development",
+    "element": "Conversion Tracking & eCommerce: Wocommerce Plugin",
+    "task": "Addition of UTM Parameters",
+    "monthlyTask": "Monthly 20-30 Products",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "May",
+    "category": "Web Development",
+    "element": "Conversion Tracking & eCommerce: Wocommerce Plugin",
+    "task": "Addition of UTM Parameters",
+    "monthlyTask": "Monthly 20-30 Products",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "June",
+    "category": "Web Development",
+    "element": "Conversion Tracking & eCommerce: Wocommerce Plugin",
+    "task": "Addition of UTM Parameters",
+    "monthlyTask": "Monthly 20-30 Products",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "July",
+    "category": "Web Development",
+    "element": "Conversion Tracking & eCommerce: Wocommerce Plugin",
+    "task": "Addition of UTM Parameters",
+    "monthlyTask": "Monthly 20-30 Products",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "August",
+    "category": "Web Development",
+    "element": "Conversion Tracking & eCommerce: Wocommerce Plugin",
+    "task": "Addition of UTM Parameters",
+    "monthlyTask": "Monthly 20-30 Products",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "September",
+    "category": "Web Development",
+    "element": "Conversion Tracking & eCommerce: Wocommerce Plugin",
+    "task": "Addition of UTM Parameters",
+    "monthlyTask": "Monthly 20-30 Products",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "October",
+    "category": "Web Development",
+    "element": "Conversion Tracking & eCommerce: Wocommerce Plugin",
+    "task": "Addition of UTM Parameters",
+    "monthlyTask": "Monthly 20-30 Products",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "November",
+    "category": "Web Development",
+    "element": "Conversion Tracking & eCommerce: Wocommerce Plugin",
+    "task": "Addition of UTM Parameters",
+    "monthlyTask": "Monthly 20-30 Products",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "December",
+    "category": "Web Development",
+    "element": "Conversion Tracking & eCommerce: Wocommerce Plugin",
+    "task": "Addition of UTM Parameters",
+    "monthlyTask": "Monthly 20-30 Products",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "January",
+    "category": "Web Development",
+    "element": "Customer Acquisition/Retention : CRM Integration & Cohort Analysis",
+    "task": "Integrate CRM tools",
+    "monthlyTask": "One time setup",
+    "monthlyQuantifiable": "No",
+    "team": "website"
+  },
+  {
+    "month": "January",
+    "category": "Web Development",
+    "element": "Customer Acquisition/Retention : CRM Integration & Cohort Analysis",
+    "task": "Zoho CRM Integration and configurations",
+    "monthlyTask": "One time setup",
+    "monthlyQuantifiable": "No",
+    "team": "website"
+  },
+  {
+    "month": "January",
+    "category": "Web Development",
+    "element": "Customer Acquisition/Retention : CRM Integration & Cohort Analysis",
+    "task": "Zoho CRM Features activations",
+    "monthlyTask": "One time setup",
+    "monthlyQuantifiable": "No",
+    "team": "website"
+  },
+  {
+    "month": "January",
+    "category": "Web Development",
+    "element": "Inventory Management Integration",
+    "task": "Integrate inventory management systems Using WooCommerce",
+    "monthlyTask": "One time setup",
+    "monthlyQuantifiable": "No",
+    "team": "website"
+  },
+  {
+    "month": "January",
+    "category": "Web Development",
+    "element": "Customer Experience: Survey Widgets & Support Integration",
+    "task": "WP Widget Integration and Live chat integration",
+    "monthlyTask": "One time setup",
+    "monthlyQuantifiable": "No",
+    "team": "website"
+  },
+  {
+    "month": "January",
+    "category": "Web Development",
+    "element": "Customer Experience: Survey Widgets & Support Integration",
+    "task": "Follow-up email for Product review and Rating",
+    "monthlyTask": "One time setup",
+    "monthlyQuantifiable": "No",
+    "team": "website"
+  },
+  {
+    "month": "January",
+    "category": "Web Development",
+    "element": "Website Speed Optimization",
+    "task": "Site Caching Improve Page Load time",
+    "monthlyTask": "Monitor Cache Performance, Clear Cache Regularly, Check for Issues in Dynamic Content and Review Site Traffic and Load Balancing and Backup and Restore Cache Configuration",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "February",
+    "category": "Web Development",
+    "element": "Website Speed Optimization",
+    "task": "Site Caching Improve Page Load time",
+    "monthlyTask": "Monitor Cache Performance, Clear Cache Regularly, Check for Issues in Dynamic Content and Review Site Traffic and Load Balancing and Backup and Restore Cache Configuration",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "March",
+    "category": "Web Development",
+    "element": "Website Speed Optimization",
+    "task": "Site Caching Improve Page Load time",
+    "monthlyTask": "Monitor Cache Performance, Clear Cache Regularly, Check for Issues in Dynamic Content and Review Site Traffic and Load Balancing and Backup and Restore Cache Configuration",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "April",
+    "category": "Web Development",
+    "element": "Website Speed Optimization",
+    "task": "Site Caching Improve Page Load time",
+    "monthlyTask": "Monitor Cache Performance, Clear Cache Regularly, Check for Issues in Dynamic Content and Review Site Traffic and Load Balancing and Backup and Restore Cache Configuration",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "May",
+    "category": "Web Development",
+    "element": "Website Speed Optimization",
+    "task": "Site Caching Improve Page Load time",
+    "monthlyTask": "Monitor Cache Performance, Clear Cache Regularly, Check for Issues in Dynamic Content and Review Site Traffic and Load Balancing and Backup and Restore Cache Configuration",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "June",
+    "category": "Web Development",
+    "element": "Website Speed Optimization",
+    "task": "Site Caching Improve Page Load time",
+    "monthlyTask": "Monitor Cache Performance, Clear Cache Regularly, Check for Issues in Dynamic Content and Review Site Traffic and Load Balancing and Backup and Restore Cache Configuration",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "July",
+    "category": "Web Development",
+    "element": "Website Speed Optimization",
+    "task": "Site Caching Improve Page Load time",
+    "monthlyTask": "Monitor Cache Performance, Clear Cache Regularly, Check for Issues in Dynamic Content and Review Site Traffic and Load Balancing and Backup and Restore Cache Configuration",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "August",
+    "category": "Web Development",
+    "element": "Website Speed Optimization",
+    "task": "Site Caching Improve Page Load time",
+    "monthlyTask": "Monitor Cache Performance, Clear Cache Regularly, Check for Issues in Dynamic Content and Review Site Traffic and Load Balancing and Backup and Restore Cache Configuration",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "September",
+    "category": "Web Development",
+    "element": "Website Speed Optimization",
+    "task": "Site Caching Improve Page Load time",
+    "monthlyTask": "Monitor Cache Performance, Clear Cache Regularly, Check for Issues in Dynamic Content and Review Site Traffic and Load Balancing and Backup and Restore Cache Configuration",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "October",
+    "category": "Web Development",
+    "element": "Website Speed Optimization",
+    "task": "Site Caching Improve Page Load time",
+    "monthlyTask": "Monitor Cache Performance, Clear Cache Regularly, Check for Issues in Dynamic Content and Review Site Traffic and Load Balancing and Backup and Restore Cache Configuration",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "November",
+    "category": "Web Development",
+    "element": "Website Speed Optimization",
+    "task": "Site Caching Improve Page Load time",
+    "monthlyTask": "Monitor Cache Performance, Clear Cache Regularly, Check for Issues in Dynamic Content and Review Site Traffic and Load Balancing and Backup and Restore Cache Configuration",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "December",
+    "category": "Web Development",
+    "element": "Website Speed Optimization",
+    "task": "Site Caching Improve Page Load time",
+    "monthlyTask": "Monitor Cache Performance, Clear Cache Regularly, Check for Issues in Dynamic Content and Review Site Traffic and Load Balancing and Backup and Restore Cache Configuration",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "January",
+    "category": "Web Development",
+    "element": "Website Speed Optimization",
+    "task": "Images Optimization",
+    "monthlyTask": "Monthly 50-80 Images optimization",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "February",
+    "category": "Web Development",
+    "element": "Website Speed Optimization",
+    "task": "Images Optimization",
+    "monthlyTask": "Monthly 50-80 Images optimization",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "March",
+    "category": "Web Development",
+    "element": "Website Speed Optimization",
+    "task": "Images Optimization",
+    "monthlyTask": "Monthly 50-80 Images optimization",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "April",
+    "category": "Web Development",
+    "element": "Website Speed Optimization",
+    "task": "Images Optimization",
+    "monthlyTask": "Monthly 50-80 Images optimization",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "May",
+    "category": "Web Development",
+    "element": "Website Speed Optimization",
+    "task": "Images Optimization",
+    "monthlyTask": "Monthly 50-80 Images optimization",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "June",
+    "category": "Web Development",
+    "element": "Website Speed Optimization",
+    "task": "Images Optimization",
+    "monthlyTask": "Monthly 50-80 Images optimization",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "July",
+    "category": "Web Development",
+    "element": "Website Speed Optimization",
+    "task": "Images Optimization",
+    "monthlyTask": "Monthly 50-80 Images optimization",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "August",
+    "category": "Web Development",
+    "element": "Website Speed Optimization",
+    "task": "Images Optimization",
+    "monthlyTask": "Monthly 50-80 Images optimization",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "September",
+    "category": "Web Development",
+    "element": "Website Speed Optimization",
+    "task": "Images Optimization",
+    "monthlyTask": "Monthly 50-80 Images optimization",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "October",
+    "category": "Web Development",
+    "element": "Website Speed Optimization",
+    "task": "Images Optimization",
+    "monthlyTask": "Monthly 50-80 Images optimization",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "November",
+    "category": "Web Development",
+    "element": "Website Speed Optimization",
+    "task": "Images Optimization",
+    "monthlyTask": "Monthly 50-80 Images optimization",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "December",
+    "category": "Web Development",
+    "element": "Website Speed Optimization",
+    "task": "Images Optimization",
+    "monthlyTask": "Monthly 50-80 Images optimization",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "January",
+    "category": "Web Development",
+    "element": "Website Development",
+    "task": "CDN Monitoring and Required configurations",
+    "monthlyTask": "Monitor CDN Performance, Check CDN Cache Hit Rate, Update and Optimize Static Assets, Purge CDN Cache Regularly, Review CDN Configuration and Settings, Analyze Geographical Load Distribution, Convert Image Conversion to WebP and Review Security Settings",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "February",
+    "category": "Web Development",
+    "element": "Website Development",
+    "task": "CDN Monitoring and Required configurations",
+    "monthlyTask": "Monitor CDN Performance, Check CDN Cache Hit Rate, Update and Optimize Static Assets, Purge CDN Cache Regularly, Review CDN Configuration and Settings, Analyze Geographical Load Distribution, Convert Image Conversion to WebP and Review Security Settings",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "March",
+    "category": "Web Development",
+    "element": "Website Development",
+    "task": "CDN Monitoring and Required configurations",
+    "monthlyTask": "Monitor CDN Performance, Check CDN Cache Hit Rate, Update and Optimize Static Assets, Purge CDN Cache Regularly, Review CDN Configuration and Settings, Analyze Geographical Load Distribution, Convert Image Conversion to WebP and Review Security Settings",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "April",
+    "category": "Web Development",
+    "element": "Website Development",
+    "task": "CDN Monitoring and Required configurations",
+    "monthlyTask": "Monitor CDN Performance, Check CDN Cache Hit Rate, Update and Optimize Static Assets, Purge CDN Cache Regularly, Review CDN Configuration and Settings, Analyze Geographical Load Distribution, Convert Image Conversion to WebP and Review Security Settings",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "May",
+    "category": "Web Development",
+    "element": "Website Development",
+    "task": "CDN Monitoring and Required configurations",
+    "monthlyTask": "Monitor CDN Performance, Check CDN Cache Hit Rate, Update and Optimize Static Assets, Purge CDN Cache Regularly, Review CDN Configuration and Settings, Analyze Geographical Load Distribution, Convert Image Conversion to WebP and Review Security Settings",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "June",
+    "category": "Web Development",
+    "element": "Website Development",
+    "task": "CDN Monitoring and Required configurations",
+    "monthlyTask": "Monitor CDN Performance, Check CDN Cache Hit Rate, Update and Optimize Static Assets, Purge CDN Cache Regularly, Review CDN Configuration and Settings, Analyze Geographical Load Distribution, Convert Image Conversion to WebP and Review Security Settings",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "July",
+    "category": "Web Development",
+    "element": "Website Development",
+    "task": "CDN Monitoring and Required configurations",
+    "monthlyTask": "Monitor CDN Performance, Check CDN Cache Hit Rate, Update and Optimize Static Assets, Purge CDN Cache Regularly, Review CDN Configuration and Settings, Analyze Geographical Load Distribution, Convert Image Conversion to WebP and Review Security Settings",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "August",
+    "category": "Web Development",
+    "element": "Website Development",
+    "task": "CDN Monitoring and Required configurations",
+    "monthlyTask": "Monitor CDN Performance, Check CDN Cache Hit Rate, Update and Optimize Static Assets, Purge CDN Cache Regularly, Review CDN Configuration and Settings, Analyze Geographical Load Distribution, Convert Image Conversion to WebP and Review Security Settings",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "September",
+    "category": "Web Development",
+    "element": "Website Development",
+    "task": "CDN Monitoring and Required configurations",
+    "monthlyTask": "Monitor CDN Performance, Check CDN Cache Hit Rate, Update and Optimize Static Assets, Purge CDN Cache Regularly, Review CDN Configuration and Settings, Analyze Geographical Load Distribution, Convert Image Conversion to WebP and Review Security Settings",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "October",
+    "category": "Web Development",
+    "element": "Website Development",
+    "task": "CDN Monitoring and Required configurations",
+    "monthlyTask": "Monitor CDN Performance, Check CDN Cache Hit Rate, Update and Optimize Static Assets, Purge CDN Cache Regularly, Review CDN Configuration and Settings, Analyze Geographical Load Distribution, Convert Image Conversion to WebP and Review Security Settings",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "November",
+    "category": "Web Development",
+    "element": "Website Development",
+    "task": "CDN Monitoring and Required configurations",
+    "monthlyTask": "Monitor CDN Performance, Check CDN Cache Hit Rate, Update and Optimize Static Assets, Purge CDN Cache Regularly, Review CDN Configuration and Settings, Analyze Geographical Load Distribution, Convert Image Conversion to WebP and Review Security Settings",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "December",
+    "category": "Web Development",
+    "element": "Website Development",
+    "task": "CDN Monitoring and Required configurations",
+    "monthlyTask": "Monitor CDN Performance, Check CDN Cache Hit Rate, Update and Optimize Static Assets, Purge CDN Cache Regularly, Review CDN Configuration and Settings, Analyze Geographical Load Distribution, Convert Image Conversion to WebP and Review Security Settings",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "January",
+    "category": "Web Development",
+    "element": "Search Console",
+    "task": "Check GSC For Issues",
+    "monthlyTask": "Monthly Fixes for Indexing, Core Web Vitals, and Product Snippets Issues",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "January",
+    "category": "Web Development",
+    "element": "Search Console",
+    "task": "Fix mobile related issues",
+    "monthlyTask": "Review and resolve mobile usability issues from GSC, including clickable elements, content width, and text readability on a monthly basis.",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "February",
+    "category": "Web Development",
+    "element": "Search Console",
+    "task": "Fix mobile related issues",
+    "monthlyTask": "Review and resolve mobile usability issues from GSC, including clickable elements, content width, and text readability on a monthly basis.",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "March",
+    "category": "Web Development",
+    "element": "Search Console",
+    "task": "Fix mobile related issues",
+    "monthlyTask": "Review and resolve mobile usability issues from GSC, including clickable elements, content width, and text readability on a monthly basis.",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "April",
+    "category": "Web Development",
+    "element": "Search Console",
+    "task": "Fix mobile related issues",
+    "monthlyTask": "Review and resolve mobile usability issues from GSC, including clickable elements, content width, and text readability on a monthly basis.",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "May",
+    "category": "Web Development",
+    "element": "Search Console",
+    "task": "Fix mobile related issues",
+    "monthlyTask": "Review and resolve mobile usability issues from GSC, including clickable elements, content width, and text readability on a monthly basis.",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "June",
+    "category": "Web Development",
+    "element": "Search Console",
+    "task": "Fix mobile related issues",
+    "monthlyTask": "Review and resolve mobile usability issues from GSC, including clickable elements, content width, and text readability on a monthly basis.",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "July",
+    "category": "Web Development",
+    "element": "Search Console",
+    "task": "Fix mobile related issues",
+    "monthlyTask": "Review and resolve mobile usability issues from GSC, including clickable elements, content width, and text readability on a monthly basis.",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "August",
+    "category": "Web Development",
+    "element": "Search Console",
+    "task": "Fix mobile related issues",
+    "monthlyTask": "Review and resolve mobile usability issues from GSC, including clickable elements, content width, and text readability on a monthly basis.",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "September",
+    "category": "Web Development",
+    "element": "Search Console",
+    "task": "Fix mobile related issues",
+    "monthlyTask": "Review and resolve mobile usability issues from GSC, including clickable elements, content width, and text readability on a monthly basis.",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "October",
+    "category": "Web Development",
+    "element": "Search Console",
+    "task": "Fix mobile related issues",
+    "monthlyTask": "Review and resolve mobile usability issues from GSC, including clickable elements, content width, and text readability on a monthly basis.",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "November",
+    "category": "Web Development",
+    "element": "Search Console",
+    "task": "Fix mobile related issues",
+    "monthlyTask": "Review and resolve mobile usability issues from GSC, including clickable elements, content width, and text readability on a monthly basis.",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "December",
+    "category": "Web Development",
+    "element": "Search Console",
+    "task": "Fix mobile related issues",
+    "monthlyTask": "Review and resolve mobile usability issues from GSC, including clickable elements, content width, and text readability on a monthly basis.",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "January",
+    "category": "Web Development",
+    "element": "Search Console",
+    "task": "Redirections Handling",
+    "monthlyTask": "Check and implement 301 redirects for any product URL or category changes to prevent 404 errors and maintain link equity.",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "February",
+    "category": "Web Development",
+    "element": "Search Console",
+    "task": "Redirections Handling",
+    "monthlyTask": "Check and implement 301 redirects for any product URL or category changes to prevent 404 errors and maintain link equity.",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "March",
+    "category": "Web Development",
+    "element": "Search Console",
+    "task": "Redirections Handling",
+    "monthlyTask": "Check and implement 301 redirects for any product URL or category changes to prevent 404 errors and maintain link equity.",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "April",
+    "category": "Web Development",
+    "element": "Search Console",
+    "task": "Redirections Handling",
+    "monthlyTask": "Check and implement 301 redirects for any product URL or category changes to prevent 404 errors and maintain link equity.",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "May",
+    "category": "Web Development",
+    "element": "Search Console",
+    "task": "Redirections Handling",
+    "monthlyTask": "Check and implement 301 redirects for any product URL or category changes to prevent 404 errors and maintain link equity.",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "June",
+    "category": "Web Development",
+    "element": "Search Console",
+    "task": "Redirections Handling",
+    "monthlyTask": "Check and implement 301 redirects for any product URL or category changes to prevent 404 errors and maintain link equity.",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "July",
+    "category": "Web Development",
+    "element": "Search Console",
+    "task": "Redirections Handling",
+    "monthlyTask": "Check and implement 301 redirects for any product URL or category changes to prevent 404 errors and maintain link equity.",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "August",
+    "category": "Web Development",
+    "element": "Search Console",
+    "task": "Redirections Handling",
+    "monthlyTask": "Check and implement 301 redirects for any product URL or category changes to prevent 404 errors and maintain link equity.",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "September",
+    "category": "Web Development",
+    "element": "Search Console",
+    "task": "Redirections Handling",
+    "monthlyTask": "Check and implement 301 redirects for any product URL or category changes to prevent 404 errors and maintain link equity.",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "October",
+    "category": "Web Development",
+    "element": "Search Console",
+    "task": "Redirections Handling",
+    "monthlyTask": "Check and implement 301 redirects for any product URL or category changes to prevent 404 errors and maintain link equity.",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "November",
+    "category": "Web Development",
+    "element": "Search Console",
+    "task": "Redirections Handling",
+    "monthlyTask": "Check and implement 301 redirects for any product URL or category changes to prevent 404 errors and maintain link equity.",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "December",
+    "category": "Web Development",
+    "element": "Search Console",
+    "task": "Redirections Handling",
+    "monthlyTask": "Check and implement 301 redirects for any product URL or category changes to prevent 404 errors and maintain link equity.",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "January",
+    "category": "Web Development",
+    "element": "Search Console",
+    "task": "Fix crawl Errors",
+    "monthlyTask": "Monitor and resolve crawl errors in GSC, fixing broken links or inaccessible pages on product pages, categories, and checkout.",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "February",
+    "category": "Web Development",
+    "element": "Search Console",
+    "task": "Fix crawl Errors",
+    "monthlyTask": "Monitor and resolve crawl errors in GSC, fixing broken links or inaccessible pages on product pages, categories, and checkout.",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "March",
+    "category": "Web Development",
+    "element": "Search Console",
+    "task": "Fix crawl Errors",
+    "monthlyTask": "Monitor and resolve crawl errors in GSC, fixing broken links or inaccessible pages on product pages, categories, and checkout.",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "April",
+    "category": "Web Development",
+    "element": "Search Console",
+    "task": "Fix crawl Errors",
+    "monthlyTask": "Monitor and resolve crawl errors in GSC, fixing broken links or inaccessible pages on product pages, categories, and checkout.",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "May",
+    "category": "Web Development",
+    "element": "Search Console",
+    "task": "Fix crawl Errors",
+    "monthlyTask": "Monitor and resolve crawl errors in GSC, fixing broken links or inaccessible pages on product pages, categories, and checkout.",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "June",
+    "category": "Web Development",
+    "element": "Search Console",
+    "task": "Fix crawl Errors",
+    "monthlyTask": "Monitor and resolve crawl errors in GSC, fixing broken links or inaccessible pages on product pages, categories, and checkout.",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "July",
+    "category": "Web Development",
+    "element": "Search Console",
+    "task": "Fix crawl Errors",
+    "monthlyTask": "Monitor and resolve crawl errors in GSC, fixing broken links or inaccessible pages on product pages, categories, and checkout.",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "August",
+    "category": "Web Development",
+    "element": "Search Console",
+    "task": "Fix crawl Errors",
+    "monthlyTask": "Monitor and resolve crawl errors in GSC, fixing broken links or inaccessible pages on product pages, categories, and checkout.",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "September",
+    "category": "Web Development",
+    "element": "Search Console",
+    "task": "Fix crawl Errors",
+    "monthlyTask": "Monitor and resolve crawl errors in GSC, fixing broken links or inaccessible pages on product pages, categories, and checkout.",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "October",
+    "category": "Web Development",
+    "element": "Search Console",
+    "task": "Fix crawl Errors",
+    "monthlyTask": "Monitor and resolve crawl errors in GSC, fixing broken links or inaccessible pages on product pages, categories, and checkout.",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "November",
+    "category": "Web Development",
+    "element": "Search Console",
+    "task": "Fix crawl Errors",
+    "monthlyTask": "Monitor and resolve crawl errors in GSC, fixing broken links or inaccessible pages on product pages, categories, and checkout.",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "December",
+    "category": "Web Development",
+    "element": "Search Console",
+    "task": "Fix crawl Errors",
+    "monthlyTask": "Monitor and resolve crawl errors in GSC, fixing broken links or inaccessible pages on product pages, categories, and checkout.",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "January",
+    "category": "Web Development",
+    "element": "Search Console",
+    "task": "Product Schema Markup",
+    "monthlyTask": "Ensure product pages are updated with structured data (Schema.org/Product) for price, availability, and reviews to enable rich results in search.",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "February",
+    "category": "Web Development",
+    "element": "Search Console",
+    "task": "Product Schema Markup",
+    "monthlyTask": "Ensure product pages are updated with structured data (Schema.org/Product) for price, availability, and reviews to enable rich results in search.",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "March",
+    "category": "Web Development",
+    "element": "Search Console",
+    "task": "Product Schema Markup",
+    "monthlyTask": "Ensure product pages are updated with structured data (Schema.org/Product) for price, availability, and reviews to enable rich results in search.",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "April",
+    "category": "Web Development",
+    "element": "Search Console",
+    "task": "Product Schema Markup",
+    "monthlyTask": "Ensure product pages are updated with structured data (Schema.org/Product) for price, availability, and reviews to enable rich results in search.",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "May",
+    "category": "Web Development",
+    "element": "Search Console",
+    "task": "Product Schema Markup",
+    "monthlyTask": "Ensure product pages are updated with structured data (Schema.org/Product) for price, availability, and reviews to enable rich results in search.",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "June",
+    "category": "Web Development",
+    "element": "Search Console",
+    "task": "Product Schema Markup",
+    "monthlyTask": "Ensure product pages are updated with structured data (Schema.org/Product) for price, availability, and reviews to enable rich results in search.",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "July",
+    "category": "Web Development",
+    "element": "Search Console",
+    "task": "Product Schema Markup",
+    "monthlyTask": "Ensure product pages are updated with structured data (Schema.org/Product) for price, availability, and reviews to enable rich results in search.",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "August",
+    "category": "Web Development",
+    "element": "Search Console",
+    "task": "Product Schema Markup",
+    "monthlyTask": "Ensure product pages are updated with structured data (Schema.org/Product) for price, availability, and reviews to enable rich results in search.",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "September",
+    "category": "Web Development",
+    "element": "Search Console",
+    "task": "Product Schema Markup",
+    "monthlyTask": "Ensure product pages are updated with structured data (Schema.org/Product) for price, availability, and reviews to enable rich results in search.",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "October",
+    "category": "Web Development",
+    "element": "Search Console",
+    "task": "Product Schema Markup",
+    "monthlyTask": "Ensure product pages are updated with structured data (Schema.org/Product) for price, availability, and reviews to enable rich results in search.",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "November",
+    "category": "Web Development",
+    "element": "Search Console",
+    "task": "Product Schema Markup",
+    "monthlyTask": "Ensure product pages are updated with structured data (Schema.org/Product) for price, availability, and reviews to enable rich results in search.",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "December",
+    "category": "Web Development",
+    "element": "Search Console",
+    "task": "Product Schema Markup",
+    "monthlyTask": "Ensure product pages are updated with structured data (Schema.org/Product) for price, availability, and reviews to enable rich results in search.",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "January",
+    "category": "Web Development",
+    "element": "Search Console",
+    "task": "Core Web Vitals Fixing – Mobile",
+    "monthlyTask": "Optimize images (50-80), implement lazy loading, minify CSS/JS, and leverage browser caching to enhance Core Web Vitals and improve site performance.",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "February",
+    "category": "Web Development",
+    "element": "Search Console",
+    "task": "Core Web Vitals Fixing – Mobile",
+    "monthlyTask": "Optimize images (50-80), implement lazy loading, minify CSS/JS, and leverage browser caching to enhance Core Web Vitals and improve site performance.",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "March",
+    "category": "Web Development",
+    "element": "Search Console",
+    "task": "Core Web Vitals Fixing – Mobile",
+    "monthlyTask": "Optimize images (50-80), implement lazy loading, minify CSS/JS, and leverage browser caching to enhance Core Web Vitals and improve site performance.",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "April",
+    "category": "Web Development",
+    "element": "Search Console",
+    "task": "Core Web Vitals Fixing – Mobile",
+    "monthlyTask": "Optimize images (50-80), implement lazy loading, minify CSS/JS, and leverage browser caching to enhance Core Web Vitals and improve site performance.",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "May",
+    "category": "Web Development",
+    "element": "Search Console",
+    "task": "Core Web Vitals Fixing – Mobile",
+    "monthlyTask": "Optimize images (50-80), implement lazy loading, minify CSS/JS, and leverage browser caching to enhance Core Web Vitals and improve site performance.",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "June",
+    "category": "Web Development",
+    "element": "Search Console",
+    "task": "Core Web Vitals Fixing – Mobile",
+    "monthlyTask": "Optimize images (50-80), implement lazy loading, minify CSS/JS, and leverage browser caching to enhance Core Web Vitals and improve site performance.",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "July",
+    "category": "Web Development",
+    "element": "Search Console",
+    "task": "Core Web Vitals Fixing – Mobile",
+    "monthlyTask": "Optimize images (50-80), implement lazy loading, minify CSS/JS, and leverage browser caching to enhance Core Web Vitals and improve site performance.",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "August",
+    "category": "Web Development",
+    "element": "Search Console",
+    "task": "Core Web Vitals Fixing – Mobile",
+    "monthlyTask": "Optimize images (50-80), implement lazy loading, minify CSS/JS, and leverage browser caching to enhance Core Web Vitals and improve site performance.",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "September",
+    "category": "Web Development",
+    "element": "Search Console",
+    "task": "Core Web Vitals Fixing – Mobile",
+    "monthlyTask": "Optimize images (50-80), implement lazy loading, minify CSS/JS, and leverage browser caching to enhance Core Web Vitals and improve site performance.",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "October",
+    "category": "Web Development",
+    "element": "Search Console",
+    "task": "Core Web Vitals Fixing – Mobile",
+    "monthlyTask": "Optimize images (50-80), implement lazy loading, minify CSS/JS, and leverage browser caching to enhance Core Web Vitals and improve site performance.",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "November",
+    "category": "Web Development",
+    "element": "Search Console",
+    "task": "Core Web Vitals Fixing – Mobile",
+    "monthlyTask": "Optimize images (50-80), implement lazy loading, minify CSS/JS, and leverage browser caching to enhance Core Web Vitals and improve site performance.",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "December",
+    "category": "Web Development",
+    "element": "Search Console",
+    "task": "Core Web Vitals Fixing – Mobile",
+    "monthlyTask": "Optimize images (50-80), implement lazy loading, minify CSS/JS, and leverage browser caching to enhance Core Web Vitals and improve site performance.",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "January",
+    "category": "Web Development",
+    "element": "Search Console",
+    "task": "Core Web Vitals Fixing – Desktop",
+    "monthlyTask": "Monitor and Fix the issues of Core Web Vitals report in GSC monthly to identify and resolve performance issues affecting user experience.",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "January",
+    "category": "Web Development",
+    "element": "Search Console",
+    "task": "Improve Product Link Structure",
+    "monthlyTask": "Monthly 50-60",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "February",
+    "category": "Web Development",
+    "element": "Search Console",
+    "task": "Improve Product Link Structure",
+    "monthlyTask": "Monthly 50-60",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "March",
+    "category": "Web Development",
+    "element": "Search Console",
+    "task": "Improve Product Link Structure",
+    "monthlyTask": "Monthly 50-60",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "April",
+    "category": "Web Development",
+    "element": "Search Console",
+    "task": "Improve Product Link Structure",
+    "monthlyTask": "Monthly 50-60",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "May",
+    "category": "Web Development",
+    "element": "Search Console",
+    "task": "Improve Product Link Structure",
+    "monthlyTask": "Monthly 50-60",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "June",
+    "category": "Web Development",
+    "element": "Search Console",
+    "task": "Improve Product Link Structure",
+    "monthlyTask": "Monthly 50-60",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "July",
+    "category": "Web Development",
+    "element": "Search Console",
+    "task": "Improve Product Link Structure",
+    "monthlyTask": "Monthly 50-60",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "August",
+    "category": "Web Development",
+    "element": "Search Console",
+    "task": "Improve Product Link Structure",
+    "monthlyTask": "Monthly 50-60",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "September",
+    "category": "Web Development",
+    "element": "Search Console",
+    "task": "Improve Product Link Structure",
+    "monthlyTask": "Monthly 50-60",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "October",
+    "category": "Web Development",
+    "element": "Search Console",
+    "task": "Improve Product Link Structure",
+    "monthlyTask": "Monthly 50-60",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "November",
+    "category": "Web Development",
+    "element": "Search Console",
+    "task": "Improve Product Link Structure",
+    "monthlyTask": "Monthly 50-60",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "December",
+    "category": "Web Development",
+    "element": "Search Console",
+    "task": "Improve Product Link Structure",
+    "monthlyTask": "Monthly 50-60",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "January",
+    "category": "Web Development",
+    "element": "Google PageSpeed Insights",
+    "task": "Google Page Speed Insights recommended optimizations and resolve the issues",
+    "monthlyTask": "Check website speed and performance monthly using Google Page Speed Insights and implement recommended optimizations and resolve the issues",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "February",
+    "category": "Web Development",
+    "element": "Google PageSpeed Insights",
+    "task": "Google Page Speed Insights recommended optimizations and resolve the issues",
+    "monthlyTask": "Check website speed and performance monthly using Google Page Speed Insights and implement recommended optimizations and resolve the issues",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "March",
+    "category": "Web Development",
+    "element": "Google PageSpeed Insights",
+    "task": "Google Page Speed Insights recommended optimizations and resolve the issues",
+    "monthlyTask": "Check website speed and performance monthly using Google Page Speed Insights and implement recommended optimizations and resolve the issues",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "April",
+    "category": "Web Development",
+    "element": "Google PageSpeed Insights",
+    "task": "Google Page Speed Insights recommended optimizations and resolve the issues",
+    "monthlyTask": "Check website speed and performance monthly using Google Page Speed Insights and implement recommended optimizations and resolve the issues",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "May",
+    "category": "Web Development",
+    "element": "Google PageSpeed Insights",
+    "task": "Google Page Speed Insights recommended optimizations and resolve the issues",
+    "monthlyTask": "Check website speed and performance monthly using Google Page Speed Insights and implement recommended optimizations and resolve the issues",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "June",
+    "category": "Web Development",
+    "element": "Google PageSpeed Insights",
+    "task": "Google Page Speed Insights recommended optimizations and resolve the issues",
+    "monthlyTask": "Check website speed and performance monthly using Google Page Speed Insights and implement recommended optimizations and resolve the issues",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "July",
+    "category": "Web Development",
+    "element": "Google PageSpeed Insights",
+    "task": "Google Page Speed Insights recommended optimizations and resolve the issues",
+    "monthlyTask": "Check website speed and performance monthly using Google Page Speed Insights and implement recommended optimizations and resolve the issues",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "August",
+    "category": "Web Development",
+    "element": "Google PageSpeed Insights",
+    "task": "Google Page Speed Insights recommended optimizations and resolve the issues",
+    "monthlyTask": "Check website speed and performance monthly using Google Page Speed Insights and implement recommended optimizations and resolve the issues",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "September",
+    "category": "Web Development",
+    "element": "Google PageSpeed Insights",
+    "task": "Google Page Speed Insights recommended optimizations and resolve the issues",
+    "monthlyTask": "Check website speed and performance monthly using Google Page Speed Insights and implement recommended optimizations and resolve the issues",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "October",
+    "category": "Web Development",
+    "element": "Google PageSpeed Insights",
+    "task": "Google Page Speed Insights recommended optimizations and resolve the issues",
+    "monthlyTask": "Check website speed and performance monthly using Google Page Speed Insights and implement recommended optimizations and resolve the issues",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "November",
+    "category": "Web Development",
+    "element": "Google PageSpeed Insights",
+    "task": "Google Page Speed Insights recommended optimizations and resolve the issues",
+    "monthlyTask": "Check website speed and performance monthly using Google Page Speed Insights and implement recommended optimizations and resolve the issues",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "December",
+    "category": "Web Development",
+    "element": "Google PageSpeed Insights",
+    "task": "Google Page Speed Insights recommended optimizations and resolve the issues",
+    "monthlyTask": "Check website speed and performance monthly using Google Page Speed Insights and implement recommended optimizations and resolve the issues",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "January",
+    "category": "Web Development",
+    "element": "Gtmetrix and Ahref",
+    "task": "Technical Audit fixing Errors, Warnings and Notices",
+    "monthlyTask": "",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "February",
+    "category": "Web Development",
+    "element": "Gtmetrix and Ahref",
+    "task": "Technical Audit fixing Errors, Warnings and Notices",
+    "monthlyTask": "",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "March",
+    "category": "Web Development",
+    "element": "Gtmetrix and Ahref",
+    "task": "Technical Audit fixing Errors, Warnings and Notices",
+    "monthlyTask": "",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "April",
+    "category": "Web Development",
+    "element": "Gtmetrix and Ahref",
+    "task": "Technical Audit fixing Errors, Warnings and Notices",
+    "monthlyTask": "",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "May",
+    "category": "Web Development",
+    "element": "Gtmetrix and Ahref",
+    "task": "Technical Audit fixing Errors, Warnings and Notices",
+    "monthlyTask": "",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "June",
+    "category": "Web Development",
+    "element": "Gtmetrix and Ahref",
+    "task": "Technical Audit fixing Errors, Warnings and Notices",
+    "monthlyTask": "",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "July",
+    "category": "Web Development",
+    "element": "Gtmetrix and Ahref",
+    "task": "Technical Audit fixing Errors, Warnings and Notices",
+    "monthlyTask": "",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "August",
+    "category": "Web Development",
+    "element": "Gtmetrix and Ahref",
+    "task": "Technical Audit fixing Errors, Warnings and Notices",
+    "monthlyTask": "",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "September",
+    "category": "Web Development",
+    "element": "Gtmetrix and Ahref",
+    "task": "Technical Audit fixing Errors, Warnings and Notices",
+    "monthlyTask": "",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "October",
+    "category": "Web Development",
+    "element": "Gtmetrix and Ahref",
+    "task": "Technical Audit fixing Errors, Warnings and Notices",
+    "monthlyTask": "",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "November",
+    "category": "Web Development",
+    "element": "Gtmetrix and Ahref",
+    "task": "Technical Audit fixing Errors, Warnings and Notices",
+    "monthlyTask": "",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "December",
+    "category": "Web Development",
+    "element": "Gtmetrix and Ahref",
+    "task": "Technical Audit fixing Errors, Warnings and Notices",
+    "monthlyTask": "",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "January",
+    "category": "Web Development",
+    "element": "Performance Analytics and Monitoring",
+    "task": "Hotjar Tracking implementations",
+    "monthlyTask": "Monthly 50-80 Products",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "February",
+    "category": "Web Development",
+    "element": "Performance Analytics and Monitoring",
+    "task": "Hotjar Tracking implementations",
+    "monthlyTask": "Monthly 50-80 Products",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "March",
+    "category": "Web Development",
+    "element": "Performance Analytics and Monitoring",
+    "task": "Hotjar Tracking implementations",
+    "monthlyTask": "Monthly 50-80 Products",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "April",
+    "category": "Web Development",
+    "element": "Performance Analytics and Monitoring",
+    "task": "Hotjar Tracking implementations",
+    "monthlyTask": "Monthly 50-80 Products",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "May",
+    "category": "Web Development",
+    "element": "Performance Analytics and Monitoring",
+    "task": "Hotjar Tracking implementations",
+    "monthlyTask": "Monthly 50-80 Products",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "June",
+    "category": "Web Development",
+    "element": "Performance Analytics and Monitoring",
+    "task": "Hotjar Tracking implementations",
+    "monthlyTask": "Monthly 50-80 Products",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "July",
+    "category": "Web Development",
+    "element": "Performance Analytics and Monitoring",
+    "task": "Hotjar Tracking implementations",
+    "monthlyTask": "Monthly 50-80 Products",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "August",
+    "category": "Web Development",
+    "element": "Performance Analytics and Monitoring",
+    "task": "Hotjar Tracking implementations",
+    "monthlyTask": "Monthly 50-80 Products",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "September",
+    "category": "Web Development",
+    "element": "Performance Analytics and Monitoring",
+    "task": "Hotjar Tracking implementations",
+    "monthlyTask": "Monthly 50-80 Products",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "October",
+    "category": "Web Development",
+    "element": "Performance Analytics and Monitoring",
+    "task": "Hotjar Tracking implementations",
+    "monthlyTask": "Monthly 50-80 Products",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "November",
+    "category": "Web Development",
+    "element": "Performance Analytics and Monitoring",
+    "task": "Hotjar Tracking implementations",
+    "monthlyTask": "Monthly 50-80 Products",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "December",
+    "category": "Web Development",
+    "element": "Performance Analytics and Monitoring",
+    "task": "Hotjar Tracking implementations",
+    "monthlyTask": "Monthly 50-80 Products",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "January",
+    "category": "Web Development",
+    "element": "Error Monitoring",
+    "task": "Errors Log Fixing",
+    "monthlyTask": "Monthly 10-20",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "February",
+    "category": "Web Development",
+    "element": "Error Monitoring",
+    "task": "Errors Log Fixing",
+    "monthlyTask": "Monthly 10-20",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "March",
+    "category": "Web Development",
+    "element": "Error Monitoring",
+    "task": "Errors Log Fixing",
+    "monthlyTask": "Monthly 10-20",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "April",
+    "category": "Web Development",
+    "element": "Error Monitoring",
+    "task": "Errors Log Fixing",
+    "monthlyTask": "Monthly 10-20",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "May",
+    "category": "Web Development",
+    "element": "Error Monitoring",
+    "task": "Errors Log Fixing",
+    "monthlyTask": "Monthly 10-20",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "June",
+    "category": "Web Development",
+    "element": "Error Monitoring",
+    "task": "Errors Log Fixing",
+    "monthlyTask": "Monthly 10-20",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "July",
+    "category": "Web Development",
+    "element": "Error Monitoring",
+    "task": "Errors Log Fixing",
+    "monthlyTask": "Monthly 10-20",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "August",
+    "category": "Web Development",
+    "element": "Error Monitoring",
+    "task": "Errors Log Fixing",
+    "monthlyTask": "Monthly 10-20",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "September",
+    "category": "Web Development",
+    "element": "Error Monitoring",
+    "task": "Errors Log Fixing",
+    "monthlyTask": "Monthly 10-20",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "October",
+    "category": "Web Development",
+    "element": "Error Monitoring",
+    "task": "Errors Log Fixing",
+    "monthlyTask": "Monthly 10-20",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "November",
+    "category": "Web Development",
+    "element": "Error Monitoring",
+    "task": "Errors Log Fixing",
+    "monthlyTask": "Monthly 10-20",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "December",
+    "category": "Web Development",
+    "element": "Error Monitoring",
+    "task": "Errors Log Fixing",
+    "monthlyTask": "Monthly 10-20",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "January",
+    "category": "Web Development",
+    "element": "Error Monitoring",
+    "task": "Broken Links Fixing",
+    "monthlyTask": "Monthly 50-80",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "February",
+    "category": "Web Development",
+    "element": "Error Monitoring",
+    "task": "Broken Links Fixing",
+    "monthlyTask": "Monthly 50-80",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "March",
+    "category": "Web Development",
+    "element": "Error Monitoring",
+    "task": "Broken Links Fixing",
+    "monthlyTask": "Monthly 50-80",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "April",
+    "category": "Web Development",
+    "element": "Error Monitoring",
+    "task": "Broken Links Fixing",
+    "monthlyTask": "Monthly 50-80",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "May",
+    "category": "Web Development",
+    "element": "Error Monitoring",
+    "task": "Broken Links Fixing",
+    "monthlyTask": "Monthly 50-80",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "June",
+    "category": "Web Development",
+    "element": "Error Monitoring",
+    "task": "Broken Links Fixing",
+    "monthlyTask": "Monthly 50-80",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "July",
+    "category": "Web Development",
+    "element": "Error Monitoring",
+    "task": "Broken Links Fixing",
+    "monthlyTask": "Monthly 50-80",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "August",
+    "category": "Web Development",
+    "element": "Error Monitoring",
+    "task": "Broken Links Fixing",
+    "monthlyTask": "Monthly 50-80",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "September",
+    "category": "Web Development",
+    "element": "Error Monitoring",
+    "task": "Broken Links Fixing",
+    "monthlyTask": "Monthly 50-80",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "October",
+    "category": "Web Development",
+    "element": "Error Monitoring",
+    "task": "Broken Links Fixing",
+    "monthlyTask": "Monthly 50-80",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "November",
+    "category": "Web Development",
+    "element": "Error Monitoring",
+    "task": "Broken Links Fixing",
+    "monthlyTask": "Monthly 50-80",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "December",
+    "category": "Web Development",
+    "element": "Error Monitoring",
+    "task": "Broken Links Fixing",
+    "monthlyTask": "Monthly 50-80",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "January",
+    "category": "Web Development",
+    "element": "Website Development",
+    "task": "Mobile Friendly Issues Fixing",
+    "monthlyTask": "Monthly 10-20",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "February",
+    "category": "Web Development",
+    "element": "Website Development",
+    "task": "Mobile Friendly Issues Fixing",
+    "monthlyTask": "Monthly 10-20",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "March",
+    "category": "Web Development",
+    "element": "Website Development",
+    "task": "Mobile Friendly Issues Fixing",
+    "monthlyTask": "Monthly 10-20",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "April",
+    "category": "Web Development",
+    "element": "Website Development",
+    "task": "Mobile Friendly Issues Fixing",
+    "monthlyTask": "Monthly 10-20",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "May",
+    "category": "Web Development",
+    "element": "Website Development",
+    "task": "Mobile Friendly Issues Fixing",
+    "monthlyTask": "Monthly 10-20",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "June",
+    "category": "Web Development",
+    "element": "Website Development",
+    "task": "Mobile Friendly Issues Fixing",
+    "monthlyTask": "Monthly 10-20",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "July",
+    "category": "Web Development",
+    "element": "Website Development",
+    "task": "Mobile Friendly Issues Fixing",
+    "monthlyTask": "Monthly 10-20",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "August",
+    "category": "Web Development",
+    "element": "Website Development",
+    "task": "Mobile Friendly Issues Fixing",
+    "monthlyTask": "Monthly 10-20",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "September",
+    "category": "Web Development",
+    "element": "Website Development",
+    "task": "Mobile Friendly Issues Fixing",
+    "monthlyTask": "Monthly 10-20",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "October",
+    "category": "Web Development",
+    "element": "Website Development",
+    "task": "Mobile Friendly Issues Fixing",
+    "monthlyTask": "Monthly 10-20",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "November",
+    "category": "Web Development",
+    "element": "Website Development",
+    "task": "Mobile Friendly Issues Fixing",
+    "monthlyTask": "Monthly 10-20",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "December",
+    "category": "Web Development",
+    "element": "Website Development",
+    "task": "Mobile Friendly Issues Fixing",
+    "monthlyTask": "Monthly 10-20",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "January",
+    "category": "Web Development",
+    "element": "Server and Hosting Monitoring",
+    "task": "Monitor Server Health",
+    "monthlyTask": "Weekly Monitering in 3-4 Times",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "February",
+    "category": "Web Development",
+    "element": "Server and Hosting Monitoring",
+    "task": "Monitor Server Health",
+    "monthlyTask": "Weekly Monitering in 3-4 Times",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "March",
+    "category": "Web Development",
+    "element": "Server and Hosting Monitoring",
+    "task": "Monitor Server Health",
+    "monthlyTask": "Weekly Monitering in 3-4 Times",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "April",
+    "category": "Web Development",
+    "element": "Server and Hosting Monitoring",
+    "task": "Monitor Server Health",
+    "monthlyTask": "Weekly Monitering in 3-4 Times",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "May",
+    "category": "Web Development",
+    "element": "Server and Hosting Monitoring",
+    "task": "Monitor Server Health",
+    "monthlyTask": "Weekly Monitering in 3-4 Times",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "June",
+    "category": "Web Development",
+    "element": "Server and Hosting Monitoring",
+    "task": "Monitor Server Health",
+    "monthlyTask": "Weekly Monitering in 3-4 Times",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "July",
+    "category": "Web Development",
+    "element": "Server and Hosting Monitoring",
+    "task": "Monitor Server Health",
+    "monthlyTask": "Weekly Monitering in 3-4 Times",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "August",
+    "category": "Web Development",
+    "element": "Server and Hosting Monitoring",
+    "task": "Monitor Server Health",
+    "monthlyTask": "Weekly Monitering in 3-4 Times",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "September",
+    "category": "Web Development",
+    "element": "Server and Hosting Monitoring",
+    "task": "Monitor Server Health",
+    "monthlyTask": "Weekly Monitering in 3-4 Times",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "October",
+    "category": "Web Development",
+    "element": "Server and Hosting Monitoring",
+    "task": "Monitor Server Health",
+    "monthlyTask": "Weekly Monitering in 3-4 Times",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "November",
+    "category": "Web Development",
+    "element": "Server and Hosting Monitoring",
+    "task": "Monitor Server Health",
+    "monthlyTask": "Weekly Monitering in 3-4 Times",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "December",
+    "category": "Web Development",
+    "element": "Server and Hosting Monitoring",
+    "task": "Monitor Server Health",
+    "monthlyTask": "Weekly Monitering in 3-4 Times",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "January",
+    "category": "Web Development",
+    "element": "Server and Hosting Monitoring",
+    "task": "Hosting Performance Management",
+    "monthlyTask": "Weekly Monitoring in 3-4 Times",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "February",
+    "category": "Web Development",
+    "element": "Server and Hosting Monitoring",
+    "task": "Hosting Performance Management",
+    "monthlyTask": "Weekly Monitoring in 3-4 Times",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "March",
+    "category": "Web Development",
+    "element": "Server and Hosting Monitoring",
+    "task": "Hosting Performance Management",
+    "monthlyTask": "Weekly Monitoring in 3-4 Times",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "April",
+    "category": "Web Development",
+    "element": "Server and Hosting Monitoring",
+    "task": "Hosting Performance Management",
+    "monthlyTask": "Weekly Monitoring in 3-4 Times",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "May",
+    "category": "Web Development",
+    "element": "Server and Hosting Monitoring",
+    "task": "Hosting Performance Management",
+    "monthlyTask": "Weekly Monitoring in 3-4 Times",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "June",
+    "category": "Web Development",
+    "element": "Server and Hosting Monitoring",
+    "task": "Hosting Performance Management",
+    "monthlyTask": "Weekly Monitoring in 3-4 Times",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "July",
+    "category": "Web Development",
+    "element": "Server and Hosting Monitoring",
+    "task": "Hosting Performance Management",
+    "monthlyTask": "Weekly Monitoring in 3-4 Times",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "August",
+    "category": "Web Development",
+    "element": "Server and Hosting Monitoring",
+    "task": "Hosting Performance Management",
+    "monthlyTask": "Weekly Monitoring in 3-4 Times",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "September",
+    "category": "Web Development",
+    "element": "Server and Hosting Monitoring",
+    "task": "Hosting Performance Management",
+    "monthlyTask": "Weekly Monitoring in 3-4 Times",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "October",
+    "category": "Web Development",
+    "element": "Server and Hosting Monitoring",
+    "task": "Hosting Performance Management",
+    "monthlyTask": "Weekly Monitoring in 3-4 Times",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "November",
+    "category": "Web Development",
+    "element": "Server and Hosting Monitoring",
+    "task": "Hosting Performance Management",
+    "monthlyTask": "Weekly Monitoring in 3-4 Times",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "December",
+    "category": "Web Development",
+    "element": "Server and Hosting Monitoring",
+    "task": "Hosting Performance Management",
+    "monthlyTask": "Weekly Monitoring in 3-4 Times",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "January",
+    "category": "Web Development",
+    "element": "Database Optimization",
+    "task": "Database cleaning and Optimization",
+    "monthlyTask": "Weekly Activity 2 times",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "February",
+    "category": "Web Development",
+    "element": "Database Optimization",
+    "task": "Database cleaning and Optimization",
+    "monthlyTask": "Weekly Activity 2 times",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "March",
+    "category": "Web Development",
+    "element": "Database Optimization",
+    "task": "Database cleaning and Optimization",
+    "monthlyTask": "Weekly Activity 2 times",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "April",
+    "category": "Web Development",
+    "element": "Database Optimization",
+    "task": "Database cleaning and Optimization",
+    "monthlyTask": "Weekly Activity 2 times",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "May",
+    "category": "Web Development",
+    "element": "Database Optimization",
+    "task": "Database cleaning and Optimization",
+    "monthlyTask": "Weekly Activity 2 times",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "June",
+    "category": "Web Development",
+    "element": "Database Optimization",
+    "task": "Database cleaning and Optimization",
+    "monthlyTask": "Weekly Activity 2 times",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "July",
+    "category": "Web Development",
+    "element": "Database Optimization",
+    "task": "Database cleaning and Optimization",
+    "monthlyTask": "Weekly Activity 2 times",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "August",
+    "category": "Web Development",
+    "element": "Database Optimization",
+    "task": "Database cleaning and Optimization",
+    "monthlyTask": "Weekly Activity 2 times",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "September",
+    "category": "Web Development",
+    "element": "Database Optimization",
+    "task": "Database cleaning and Optimization",
+    "monthlyTask": "Weekly Activity 2 times",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "October",
+    "category": "Web Development",
+    "element": "Database Optimization",
+    "task": "Database cleaning and Optimization",
+    "monthlyTask": "Weekly Activity 2 times",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "November",
+    "category": "Web Development",
+    "element": "Database Optimization",
+    "task": "Database cleaning and Optimization",
+    "monthlyTask": "Weekly Activity 2 times",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "December",
+    "category": "Web Development",
+    "element": "Database Optimization",
+    "task": "Database cleaning and Optimization",
+    "monthlyTask": "Weekly Activity 2 times",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "January",
+    "category": "Web Development",
+    "element": "Database Optimization",
+    "task": "Database Indexing For Performance",
+    "monthlyTask": "Monthly 50-60 Products",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "February",
+    "category": "Web Development",
+    "element": "Database Optimization",
+    "task": "Database Indexing For Performance",
+    "monthlyTask": "Monthly 50-60 Products",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "March",
+    "category": "Web Development",
+    "element": "Database Optimization",
+    "task": "Database Indexing For Performance",
+    "monthlyTask": "Monthly 50-60 Products",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "April",
+    "category": "Web Development",
+    "element": "Database Optimization",
+    "task": "Database Indexing For Performance",
+    "monthlyTask": "Monthly 50-60 Products",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "May",
+    "category": "Web Development",
+    "element": "Database Optimization",
+    "task": "Database Indexing For Performance",
+    "monthlyTask": "Monthly 50-60 Products",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "June",
+    "category": "Web Development",
+    "element": "Database Optimization",
+    "task": "Database Indexing For Performance",
+    "monthlyTask": "Monthly 50-60 Products",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "July",
+    "category": "Web Development",
+    "element": "Database Optimization",
+    "task": "Database Indexing For Performance",
+    "monthlyTask": "Monthly 50-60 Products",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "August",
+    "category": "Web Development",
+    "element": "Database Optimization",
+    "task": "Database Indexing For Performance",
+    "monthlyTask": "Monthly 50-60 Products",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "September",
+    "category": "Web Development",
+    "element": "Database Optimization",
+    "task": "Database Indexing For Performance",
+    "monthlyTask": "Monthly 50-60 Products",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "October",
+    "category": "Web Development",
+    "element": "Database Optimization",
+    "task": "Database Indexing For Performance",
+    "monthlyTask": "Monthly 50-60 Products",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "November",
+    "category": "Web Development",
+    "element": "Database Optimization",
+    "task": "Database Indexing For Performance",
+    "monthlyTask": "Monthly 50-60 Products",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "December",
+    "category": "Web Development",
+    "element": "Database Optimization",
+    "task": "Database Indexing For Performance",
+    "monthlyTask": "Monthly 50-60 Products",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "January",
+    "category": "Web Development",
+    "element": "Website Development",
+    "task": "Monitor Shopping Cart Load",
+    "monthlyTask": "Weekly Monitoring and actions taking",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "February",
+    "category": "Web Development",
+    "element": "Website Development",
+    "task": "Monitor Shopping Cart Load",
+    "monthlyTask": "Weekly Monitoring and actions taking",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "March",
+    "category": "Web Development",
+    "element": "Website Development",
+    "task": "Monitor Shopping Cart Load",
+    "monthlyTask": "Weekly Monitoring and actions taking",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "April",
+    "category": "Web Development",
+    "element": "Website Development",
+    "task": "Monitor Shopping Cart Load",
+    "monthlyTask": "Weekly Monitoring and actions taking",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "May",
+    "category": "Web Development",
+    "element": "Website Development",
+    "task": "Monitor Shopping Cart Load",
+    "monthlyTask": "Weekly Monitoring and actions taking",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "June",
+    "category": "Web Development",
+    "element": "Website Development",
+    "task": "Monitor Shopping Cart Load",
+    "monthlyTask": "Weekly Monitoring and actions taking",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "July",
+    "category": "Web Development",
+    "element": "Website Development",
+    "task": "Monitor Shopping Cart Load",
+    "monthlyTask": "Weekly Monitoring and actions taking",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "August",
+    "category": "Web Development",
+    "element": "Website Development",
+    "task": "Monitor Shopping Cart Load",
+    "monthlyTask": "Weekly Monitoring and actions taking",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "September",
+    "category": "Web Development",
+    "element": "Website Development",
+    "task": "Monitor Shopping Cart Load",
+    "monthlyTask": "Weekly Monitoring and actions taking",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "October",
+    "category": "Web Development",
+    "element": "Website Development",
+    "task": "Monitor Shopping Cart Load",
+    "monthlyTask": "Weekly Monitoring and actions taking",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "November",
+    "category": "Web Development",
+    "element": "Website Development",
+    "task": "Monitor Shopping Cart Load",
+    "monthlyTask": "Weekly Monitoring and actions taking",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "December",
+    "category": "Web Development",
+    "element": "Website Development",
+    "task": "Monitor Shopping Cart Load",
+    "monthlyTask": "Weekly Monitoring and actions taking",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "January",
+    "category": "Web Development",
+    "element": "Load Testing",
+    "task": "Server AutoScale Based on Traffic Spikes",
+    "monthlyTask": "One time Setup",
+    "monthlyQuantifiable": "No",
+    "team": "website"
+  },
+  {
+    "month": "January",
+    "category": "Web Development",
+    "element": "Content Delivery and Optimization",
+    "task": "Page Loading Management",
+    "monthlyTask": "Monthly 50-60 Products",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "February",
+    "category": "Web Development",
+    "element": "Content Delivery and Optimization",
+    "task": "Page Loading Management",
+    "monthlyTask": "Monthly 50-60 Products",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "March",
+    "category": "Web Development",
+    "element": "Content Delivery and Optimization",
+    "task": "Page Loading Management",
+    "monthlyTask": "Monthly 50-60 Products",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "April",
+    "category": "Web Development",
+    "element": "Content Delivery and Optimization",
+    "task": "Page Loading Management",
+    "monthlyTask": "Monthly 50-60 Products",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "May",
+    "category": "Web Development",
+    "element": "Content Delivery and Optimization",
+    "task": "Page Loading Management",
+    "monthlyTask": "Monthly 50-60 Products",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "June",
+    "category": "Web Development",
+    "element": "Content Delivery and Optimization",
+    "task": "Page Loading Management",
+    "monthlyTask": "Monthly 50-60 Products",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "July",
+    "category": "Web Development",
+    "element": "Content Delivery and Optimization",
+    "task": "Page Loading Management",
+    "monthlyTask": "Monthly 50-60 Products",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "August",
+    "category": "Web Development",
+    "element": "Content Delivery and Optimization",
+    "task": "Page Loading Management",
+    "monthlyTask": "Monthly 50-60 Products",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "September",
+    "category": "Web Development",
+    "element": "Content Delivery and Optimization",
+    "task": "Page Loading Management",
+    "monthlyTask": "Monthly 50-60 Products",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "October",
+    "category": "Web Development",
+    "element": "Content Delivery and Optimization",
+    "task": "Page Loading Management",
+    "monthlyTask": "Monthly 50-60 Products",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "November",
+    "category": "Web Development",
+    "element": "Content Delivery and Optimization",
+    "task": "Page Loading Management",
+    "monthlyTask": "Monthly 50-60 Products",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "December",
+    "category": "Web Development",
+    "element": "Content Delivery and Optimization",
+    "task": "Page Loading Management",
+    "monthlyTask": "Monthly 50-60 Products",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "January",
+    "category": "Web Development",
+    "element": "Content Delivery and Optimization",
+    "task": "Minification and Concatenation",
+    "monthlyTask": "Monthly 50-60 Products",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "February",
+    "category": "Web Development",
+    "element": "Content Delivery and Optimization",
+    "task": "Minification and Concatenation",
+    "monthlyTask": "Monthly 50-60 Products",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "March",
+    "category": "Web Development",
+    "element": "Content Delivery and Optimization",
+    "task": "Minification and Concatenation",
+    "monthlyTask": "Monthly 50-60 Products",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "April",
+    "category": "Web Development",
+    "element": "Content Delivery and Optimization",
+    "task": "Minification and Concatenation",
+    "monthlyTask": "Monthly 50-60 Products",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "May",
+    "category": "Web Development",
+    "element": "Content Delivery and Optimization",
+    "task": "Minification and Concatenation",
+    "monthlyTask": "Monthly 50-60 Products",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "June",
+    "category": "Web Development",
+    "element": "Content Delivery and Optimization",
+    "task": "Minification and Concatenation",
+    "monthlyTask": "Monthly 50-60 Products",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "July",
+    "category": "Web Development",
+    "element": "Content Delivery and Optimization",
+    "task": "Minification and Concatenation",
+    "monthlyTask": "Monthly 50-60 Products",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "August",
+    "category": "Web Development",
+    "element": "Content Delivery and Optimization",
+    "task": "Minification and Concatenation",
+    "monthlyTask": "Monthly 50-60 Products",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "September",
+    "category": "Web Development",
+    "element": "Content Delivery and Optimization",
+    "task": "Minification and Concatenation",
+    "monthlyTask": "Monthly 50-60 Products",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "October",
+    "category": "Web Development",
+    "element": "Content Delivery and Optimization",
+    "task": "Minification and Concatenation",
+    "monthlyTask": "Monthly 50-60 Products",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "November",
+    "category": "Web Development",
+    "element": "Content Delivery and Optimization",
+    "task": "Minification and Concatenation",
+    "monthlyTask": "Monthly 50-60 Products",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "December",
+    "category": "Web Development",
+    "element": "Content Delivery and Optimization",
+    "task": "Minification and Concatenation",
+    "monthlyTask": "Monthly 50-60 Products",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "January",
+    "category": "Web Development",
+    "element": "Website Development",
+    "task": "Security Monitoring",
+    "monthlyTask": "Weekly Activity 2 times",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "February",
+    "category": "Web Development",
+    "element": "Website Development",
+    "task": "Security Monitoring",
+    "monthlyTask": "Weekly Activity 2 times",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "March",
+    "category": "Web Development",
+    "element": "Website Development",
+    "task": "Security Monitoring",
+    "monthlyTask": "Weekly Activity 2 times",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "April",
+    "category": "Web Development",
+    "element": "Website Development",
+    "task": "Security Monitoring",
+    "monthlyTask": "Weekly Activity 2 times",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "May",
+    "category": "Web Development",
+    "element": "Website Development",
+    "task": "Security Monitoring",
+    "monthlyTask": "Weekly Activity 2 times",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "June",
+    "category": "Web Development",
+    "element": "Website Development",
+    "task": "Security Monitoring",
+    "monthlyTask": "Weekly Activity 2 times",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "July",
+    "category": "Web Development",
+    "element": "Website Development",
+    "task": "Security Monitoring",
+    "monthlyTask": "Weekly Activity 2 times",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "August",
+    "category": "Web Development",
+    "element": "Website Development",
+    "task": "Security Monitoring",
+    "monthlyTask": "Weekly Activity 2 times",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "September",
+    "category": "Web Development",
+    "element": "Website Development",
+    "task": "Security Monitoring",
+    "monthlyTask": "Weekly Activity 2 times",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "October",
+    "category": "Web Development",
+    "element": "Website Development",
+    "task": "Security Monitoring",
+    "monthlyTask": "Weekly Activity 2 times",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "November",
+    "category": "Web Development",
+    "element": "Website Development",
+    "task": "Security Monitoring",
+    "monthlyTask": "Weekly Activity 2 times",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "December",
+    "category": "Web Development",
+    "element": "Website Development",
+    "task": "Security Monitoring",
+    "monthlyTask": "Weekly Activity 2 times",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "January",
+    "category": "Web Development",
+    "element": "Themes and Plugins Updates",
+    "task": "Themes and Plugins Updates to Latest Version",
+    "monthlyTask": "Monthly 1 time",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "February",
+    "category": "Web Development",
+    "element": "Themes and Plugins Updates",
+    "task": "Themes and Plugins Updates to Latest Version",
+    "monthlyTask": "Monthly 1 time",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "March",
+    "category": "Web Development",
+    "element": "Themes and Plugins Updates",
+    "task": "Themes and Plugins Updates to Latest Version",
+    "monthlyTask": "Monthly 1 time",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "April",
+    "category": "Web Development",
+    "element": "Themes and Plugins Updates",
+    "task": "Themes and Plugins Updates to Latest Version",
+    "monthlyTask": "Monthly 1 time",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "May",
+    "category": "Web Development",
+    "element": "Themes and Plugins Updates",
+    "task": "Themes and Plugins Updates to Latest Version",
+    "monthlyTask": "Monthly 1 time",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "June",
+    "category": "Web Development",
+    "element": "Themes and Plugins Updates",
+    "task": "Themes and Plugins Updates to Latest Version",
+    "monthlyTask": "Monthly 1 time",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "July",
+    "category": "Web Development",
+    "element": "Themes and Plugins Updates",
+    "task": "Themes and Plugins Updates to Latest Version",
+    "monthlyTask": "Monthly 1 time",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "August",
+    "category": "Web Development",
+    "element": "Themes and Plugins Updates",
+    "task": "Themes and Plugins Updates to Latest Version",
+    "monthlyTask": "Monthly 1 time",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "September",
+    "category": "Web Development",
+    "element": "Themes and Plugins Updates",
+    "task": "Themes and Plugins Updates to Latest Version",
+    "monthlyTask": "Monthly 1 time",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "October",
+    "category": "Web Development",
+    "element": "Themes and Plugins Updates",
+    "task": "Themes and Plugins Updates to Latest Version",
+    "monthlyTask": "Monthly 1 time",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "November",
+    "category": "Web Development",
+    "element": "Themes and Plugins Updates",
+    "task": "Themes and Plugins Updates to Latest Version",
+    "monthlyTask": "Monthly 1 time",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  },
+  {
+    "month": "December",
+    "category": "Web Development",
+    "element": "Themes and Plugins Updates",
+    "task": "Themes and Plugins Updates to Latest Version",
+    "monthlyTask": "Monthly 1 time",
+    "monthlyQuantifiable": "Yes",
+    "team": "website"
+  }
+]

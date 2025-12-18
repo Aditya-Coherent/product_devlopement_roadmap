@@ -62,7 +62,7 @@ export default function Home() {
         let fileName = null
         
         if (teamFilter === 'website') {
-          fileName = '/website-data.json'
+          fileName = '/website-development-data.json'
         } else if (teamFilter === 'digital-marketing') {
           fileName = '/digital-marketing-data.json'
         } else if (teamFilter === 'market-research') {
@@ -182,11 +182,22 @@ export default function Home() {
         grouped[month] = {}
       }
       
-      if (!grouped[month][item.element]) {
-        grouped[month][item.element] = []
+      const category = item.category || 'Other'
+      if (!grouped[month][category]) {
+        grouped[month][category] = {}
       }
       
-      grouped[month][item.element].push(item.task)
+      const element = item.element || 'Other'
+      if (!grouped[month][category][element]) {
+        grouped[month][category][element] = []
+      }
+      
+      grouped[month][category][element].push({
+        subElement: item.subElement || '',
+        task: item.task || '',
+        monthlyTask: item.monthlyTask || '',
+        monthlyQuantifiable: item.monthlyQuantifiable || ''
+      })
     })
 
     return grouped
@@ -376,7 +387,7 @@ export default function Home() {
               ) : (
                 sortedMonths().map((month, monthIndex) => {
                   const grouped = groupedData()
-                  const elements = Object.keys(grouped[month])
+                  const categories = Object.keys(grouped[month])
                   
                   return (
                     <motion.div
@@ -395,47 +406,81 @@ export default function Home() {
                             </div>
                             <div>
                               <h2 className="text-3xl font-bold text-white">{month}</h2>
-                              <p className="text-white/90 text-sm mt-1">{elements.length} Elements</p>
+                              <p className="text-white/90 text-sm mt-1">{categories.length} Categories</p>
                             </div>
                           </div>
                           <div className="flex items-center gap-2 px-4 py-2 bg-white/30 rounded-full backdrop-blur-sm">
                             <Zap className="w-4 h-4 text-white" />
-                            <span className="text-white font-semibold">{elements.length}</span>
+                            <span className="text-white font-semibold">{categories.length}</span>
                           </div>
                         </div>
                       </div>
 
-                      {/* Elements */}
-                      <div className="space-y-4">
-                        {elements.map((element, elementIndex) => (
+                      {/* Table for each Category */}
+                      <div className="space-y-8">
+                        {categories.map((category, categoryIndex) => (
                           <motion.div
-                            key={element}
+                            key={category}
                             initial={{ opacity: 0, x: -20 }}
                             animate={{ opacity: 1, x: 0 }}
-                            transition={{ duration: 0.4, delay: elementIndex * 0.1 }}
-                            whileHover={{ scale: 1.01 }}
-                            className="bg-emerald-50 rounded-xl p-5 border border-emerald-100 hover:border-emerald-300 hover:shadow-md transition-all"
+                            transition={{ duration: 0.4, delay: categoryIndex * 0.1 }}
                           >
-                            <div className="flex items-center gap-3 mb-4">
-                              <div className="w-2 h-2 rounded-full bg-gradient-to-r from-emerald-500 to-teal-500"></div>
-                              <h3 className="text-xl font-semibold text-gray-800 flex-1">{element}</h3>
-                              <ChevronRight className="w-5 h-5 text-emerald-600" />
-                            </div>
+                            {/* Category Header */}
+                            <h3 className="text-lg font-bold text-white bg-emerald-600 px-4 py-3 rounded-t-lg mb-0">{category}</h3>
                             
-                            <ul className="space-y-2">
-                              {grouped[month][element].map((task, taskIndex) => (
-                                <motion.li
-                                  key={taskIndex}
-                                  initial={{ opacity: 0, x: -10 }}
-                                  animate={{ opacity: 1, x: 0 }}
-                                  transition={{ duration: 0.3, delay: taskIndex * 0.05 }}
-                                  className="flex items-start gap-3 p-3 rounded-lg bg-white hover:bg-emerald-50 transition-all group border border-emerald-50"
-                                >
-                                  <CheckCircle2 className="w-5 h-5 text-emerald-500 mt-0.5 flex-shrink-0 group-hover:scale-110 transition-transform" />
-                                  <span className="text-gray-700 flex-1 break-words">{task}</span>
-                                </motion.li>
-                              ))}
-                            </ul>
+                            {/* Table */}
+                            <div className="overflow-x-auto border border-emerald-200 rounded-b-lg">
+                              <table className="w-full border-collapse">
+                                <thead>
+                                  <tr className="bg-emerald-100 border-b border-emerald-200">
+                                    <th className="border border-emerald-200 px-4 py-3 text-left font-semibold text-gray-800 text-sm">Element</th>
+                                    <th className="border border-emerald-200 px-4 py-3 text-left font-semibold text-gray-800 text-sm">Task</th>
+                                    {teamFilter !== 'human-resources' && teamFilter !== 'digital-marketing' && (
+                                      <>
+                                        <th className="border border-emerald-200 px-4 py-3 text-left font-semibold text-gray-800 text-sm">Monthly Task</th>
+                                        <th className="border border-emerald-200 px-4 py-3 text-left font-semibold text-gray-800 text-sm">Monthly quantifiable or not (to measure outcome)</th>
+                                      </>
+                                    )}
+                                    {teamFilter === 'digital-marketing' && (
+                                      <th className="border border-emerald-200 px-4 py-3 text-left font-semibold text-gray-800 text-sm">Monthly Task</th>
+                                    )}
+                                  </tr>
+                                </thead>
+                                <tbody>
+                                  {Object.keys(grouped[month][category]).map((element, elementIndex) => {
+                                    const items = grouped[month][category][element]
+                                    return items.map((item, itemIndex) => (
+                                      <tr 
+                                        key={`${element}-${itemIndex}`}
+                                        className={`border-b border-emerald-100 hover:bg-emerald-50 transition-colors ${itemIndex % 2 === 0 ? 'bg-white' : 'bg-emerald-50/30'}`}
+                                      >
+                                        <td className="border border-emerald-200 px-4 py-3 text-sm text-gray-700 font-medium">
+                                          {itemIndex === 0 ? element : ''}
+                                        </td>
+                                        <td className="border border-emerald-200 px-4 py-3 text-sm text-gray-700 whitespace-pre-wrap">
+                                          {item.task}
+                                        </td>
+                                        {teamFilter !== 'human-resources' && teamFilter !== 'digital-marketing' && (
+                                          <>
+                                            <td className="border border-emerald-200 px-4 py-3 text-sm text-gray-600 italic whitespace-pre-wrap">
+                                              {item.monthlyTask || 'NA'}
+                                            </td>
+                                            <td className="border border-emerald-200 px-4 py-3 text-sm text-gray-700">
+                                              {item.monthlyQuantifiable || 'NA'}
+                                            </td>
+                                          </>
+                                        )}
+                                        {teamFilter === 'digital-marketing' && (
+                                          <td className="border border-emerald-200 px-4 py-3 text-sm text-gray-600 italic whitespace-pre-wrap">
+                                            {item.monthlyTask || 'NA'}
+                                          </td>
+                                        )}
+                                      </tr>
+                                    ))
+                                  })}
+                                </tbody>
+                              </table>
+                            </div>
                           </motion.div>
                         ))}
                       </div>

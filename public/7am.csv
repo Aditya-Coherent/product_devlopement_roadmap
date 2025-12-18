@@ -1,0 +1,119 @@
+﻿Team,Elements ,Sub-elements,Task,Monthly Task,Monthly
+Digital Marketing,,,,,
+On-Page SEO,,,,,
+,A. Page Metadata,i. Page Title Optimization,Create and Optimize title tags,Audit & update 30 pages/month,Jan -  Dec
+,,ii. Meta Description Optimization,Create and Optimize meta descriptions,30 pages/month,Jan -  Dec
+,B. HTML Structure,i. Header Tags,"Structure H1, H2, H3 tags on each page properly",Audit 30 pages/month,Jan -  Dec
+,C. Keyword Placement,i. In Content & Elements,"Add keywords in H1, first 100 words, image alt, internal links",Implement for 30 pages/month,Jan -  Dec
+,,ii. URL Optimization,"Use keyword-rich, clean URLs (where editable)",Based on platform access,Jan -  Dec
+,D. Image Optimization,i. Compression & Alt Tags,Compress and add keyword-rich alt tags to images,50–100 images/month,Jan -  Dec
+,E. Internal Linking,i. Anchor Text Optimization,Add contextual links between pages using keyword-rich anchors,50–70 links/month,Jan -  Dec
+,F. Schema Markup,i. Product Schema,"Implement structured data (name, price, rating, etc.)",Once/periodically per product set,Jan
+,,ii. Breadcrumb & FAQ Schema,Implement on category/FAQ pages for better SERP,One-time setup + review,Jan
+,,iii. Organization Schema,Add schema to homepage/about us,One-time task,Jan
+,G. Content Optimization,i. Unique Descriptions,Unique Descriptions: Rewrite product descriptions to ensure originality,30 products/month,Jan -  Dec
+,,ii. CTA Optimization,CTA Optimization: Add clear CTAs like “Buy Now” or “See More Styles”,Continuous testing,Jan -  Dec
+,H. Mobile Optimization,i. Responsive & UX Testing,Ensure mobile-friendliness & fast loading,Monthly review,Jan -  Dec
+,I. Blog Optimization,i. Blog Posts,Write and optimize content for blog post with SEO structure,20 blogs/month,Jan -  Dec
+,,ii. Blog Schema,Use article/FAQ schema on blog posts,For each blog,Jan -  Dec
+,J. Core Web Vitals,i. Technical Fixes,"Improve LCP, CLS, FID using PageSpeed",Ongoing monitoring & fixes,Jan -  Dec
+,K. User Engagement Features,i. Product FAQs,Add dynamic FAQ sections to key product pages,30 FAQs/month,Jan -  Dec
+,,ii. Reviews & Trust Signals,Enable and optimize product reviews schema,Platform-based,Jan -  Dec
+,,iii. Policy & Info Display,"Ensure visible return policy, material info, size guide","Once, then update as needed",Jan -  Dec
+,,,,,
+Off-Page SEO,Elements,Sub-elements,Task,Monthly Task,
+,A. Backlink Strategy,i. Monthly Backlink Building,Generate backlinks from eco/sustainable/Lifestyle sites,100–150 backlinks,Jan -  Dec
+,,ii. Guest Posting,Secure placements on relevant blogs with dofollow links,2–4 guest posts,Jan -  Dec
+,,iii. Directories Listing,Submit listings in relevant directories,25 directories,Jan -  Dec
+,,iv. Classified Submissions,Publish brand info with links on classified sites,50–100 listings,Jan -  Dec
+,B. Social Bookmarking & Citations,i. Social Bookmarking,"Submit pages to platforms like Medium, Reddit, Tumblr",50 submissions,Jan -  Dec
+,C. Competitor Backlink Analysis,i. Backlink Research,Audit top 3 competitors using Ahrefs/SEMrush,1 report/month,Jan -  Dec
+,,ii. Replication,Earn backlinks similar to competitors,5-10 backlinks,Jan -  Dec
+,D. Content Strategy for Blog,i. Blog Publishing,Write blogs with long-tail keywords and storytelling,4–5 blogs,Jan -  Dec
+,E. Blog Content Formats,i. Blog Posts,"Use formats like listicles, how-to, news",4–5 blogs,Jan -  Dec
+,,ii. Videos,Create short styling/product videos,2 videos,Jan -  Dec
+,F. Keyword Research & Mapping,i. Keyword Strategy,Identify & group keywords by intent,Ongoing,Jan -  Dec
+,,ii. Mapping & Gap Analysis,Assign keywords & find content gaps,Ongoing,Jan -  Dec
+,G. Social Media & Brand Signals,i. Profile Management,"Manage IG, Pinterest, FB",Regular sharing,Jan -  Dec
+,,ii. Content Sharing,"Share blogs, products, reels",Regular sharing,Jan -  Dec
+,,iii. UGC Promotion,Encourage user-generated content,Campaign-based,Jan -  Dec
+,H. Performance Tracking,i. SEO Monitoring,"Track rankings, traffic, backlinks, Domain Authority, speed",Weekly/Monthly,Jan -  Dec
+ Technical SEO,,,,,
+,,,,,
+,Elements,Sub-elements,Task,Monthly task,Monthly 
+,,,,,
+,Technical SEO Checklist,,·       Robots.txt ,·       Monitor and update as needed,Jan -  Dec
+,,,·       Sitemap,,Jan -  Dec
+,,,·       Image alt tags ,,Jan -  Dec
+,,,·       Plugin Optimization,,Jan -  Dec
+,Page Speed Performance,,"·       Speed Optimization based on score (JS, CSS rendering)",·       Implementations and prepare reports,Jan -  Dec
+,,,"·       Maintaining core web vitals LCP, CLS, INP, etc.",Estimate Speed Scores above 95  ,Jan -  Dec
+,,,,·       Core Web Vitals ,Jan -  Dec
+,,,,Estimate All URLs in Good Status with green signals,Jan -  Dec
+,URLs and Redirects,,·       Implement 301 redirects ,·       Monitor and update as needed,Jan -  Dec
+,,,·       Improve Canonicals (if affected),,Jan -  Dec
+,,,·       Maintain Clean URL structure ,,Jan -  Dec
+,Structure Data and Schema Mark-up,,·       Products – Rich Snippets,·       Monitor and update as needed,Jan
+,,,·       Homepage – Local Schema,,Jan
+,,,·       Blogs – Article Schema,,Jan
+,,,·       FAQ Schema for a FAQ Page,,Jan
+,Technical Audits,,·       Maintaining Site health ,·       Site health score to be 100%,Jan -  Dec
+,,,·       Fixing technical errors,·       Fixing errors in URLs every 15 days ,Jan -  Dec
+,,,"·       Crawling, Indexing ",·       Monitor GSC and indexation count,Jan -  Dec
+,,,,·       Developers will work on continuous on-page errors and eliminating it,Jan -  Dec
+,,,,,
+Performance Marketing,,,,,
+,Elements,Sub-elements,Task,Monthly task,Monthly 
+,,,,,
+,Performance Marketing,Search Engine Marketing,1.D2C Campaigns,"50,000–150,000 impressions with 1%–2% CTR Based on Monthly Ad Spend, keyword volume & targeting scope",Jan -  Dec
+,,,2.B2C Campaigns,,
+,,,3.Geographic Targeting,,
+,,Social Media Advertising,"1.D2C Campaigns (Meta, Instagram)","100,000–150,000 impressions with 0.5%–1% CTR Based on Monthly Ad Spend, keyword volume & targeting scope",Jan -  Dec
+,,,2.B2C Campaigns (LinkedIn),,
+,,Email Marketing,1.Email Flows,"1,000–2,000 email will send Includes B2C and D2C: newsletters, automations, and campaigns",Jan -  Dec
+,,,2.B2CLead Nurturing,,
+,,,3.Monthly Eco Digest,,
+,,Conversion Rate Optimization (CRO),1.A/B testing,Team will work on continuous changes,Jan -  Dec
+,,,2.UX improvements,,
+,,Marketplace & Distributor,1.D2C Platforms,30–50 product listings and optimization per month across platforms,Jan -  Dec
+,,,2.B2C Platforms,,
+,,,3.Listing Optimization,,
+,,Social Media Optimization,Profile Optimization,"100K–150K impressions with 0.5%–1% CTR, 150–300 clicks",Jan -  Dec
+,,,Weekly Content Plan,,
+,,,CTA Integration,,
+,,,Reels/Stories/YouTube,,
+,,,Performance Review,,
+,,,,,
+Paid PR Submission & Distribution Services (B2C Focus),,,,,
+,,,,,
+,,,,,
+,Elements,Sub-elements,Task,Monthly task, Monthly
+,,,,,
+,Paid PR Submission & Distribution,PR Strategy & Messaging,1.Communication plan outlining,20 to 30,Jan -  Dec
+,,,2.Market positioning,,Jan -  Dec
+,,,3.Create tailored messages,,Jan -  Dec
+,,PR Writing & Submission,"1.Write professional, media-ready press releases.",20 to 30,Jan -  Dec
+,,,2.Submit content to relevant media platforms,,Jan -  Dec
+,,PR Distribution Channels,1.Identifying channels,2 to 3,Jan -  Dec
+,,,2. Customize distribution,,Jan -  Dec
+,,,,,
+Brand Positioning & Thought Leadership,,,,,
+,Elements,Sub-elements,Task,Monthly task, Monthly
+,,,,,
+,Brand Positioning & Thought Leadership,,Trend Stories & Listicles ,define,Jan -  Dec
+,,, Media Gifting,10,Jan -  Dec
+,,,Press Release,1,Jan -  Dec
+,,,Influencer collaboration,4-May,Jan -  Dec
+,,,Features,1,Jan -  Dec
+,,,,,
+Content Marketing & Strategy,,,,,
+,Elements,Sub-elements,Task,Monthly task, Monthly
+,,,,,
+,Blog Categories & Sample Topics,,I.                     Website Content Overhaul for B2C Growth,10+5,Jan -  Dec
+,,,II.                   Product Education ,,Jan -  Dec
+,Press & Thought Leadership,,I.                     Press Releases,5+5,Jan -  Dec
+,,,II.                   Bylined Articles,,Jan -  Dec
+,Customer Reviews,,I.                     Real-user product stories,20 Reviews,Jan -  Dec
+,Landing Pages,,I.                     Starter Kits & Bundles,Continuous Updates,Jan -  Dec
+,,,II.                   Gifting Page,,Jan -  Dec
+,,,III.                 Everyday Use Page,,Jan -  Dec

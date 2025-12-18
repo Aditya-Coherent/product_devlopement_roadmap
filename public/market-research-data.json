@@ -1,74 +1,182 @@
 [
   {
-    "month": "Jan",
+    "month": "January",
+    "category": "Research",
     "element": "Monthly Pack (M1)",
-    "task": "Competitor/SKU watchlist update (new launches + key changes); \r\nPricing Snapshot (Top Changes / Movements across companies); \r\nSales Channel Trends Summary (D2C/Marketplace/Q-commerce / Offline)",
+    "task": "Base Month\n• Competitor SKU & launch tracker (continuous): Advertising & campaign activity snapshot, Festive offers. Recent developments, Other key trends\n• Pricing baseline / Snapshot: Pricing Snapshot (Top Changes / Movements across companies)\n• Sales Channel-wise performance pulse (D2C / marketplace / Q-commerce / offline)",
+    "monthlyTask": "",
+    "monthlyQuantifiable": "",
     "team": "market-research"
   },
   {
-    "month": "Feb",
+    "month": "February",
+    "category": "Research",
     "element": "Monthly Pack (M2)",
-    "task": "Ingredient & format signal tracker / Analysis (rising/declining); \r\nConsumer demand/sentiment notes (key shifts / changes); \r\nCompetitor actions log (major moves and developments)",
+    "task": "Consumer & Ingredient Focus (while all baseline tracking continues):\n• Ingredient & format signal tracker (rising/declining)\n• Consumer demand & sentiment cues\n• Competitor strategic moves (portfolio, funding, pricing resets)",
+    "monthlyTask": "",
+    "monthlyQuantifiable": "",
     "team": "market-research"
   },
   {
-    "month": "Mar (Q1 close)",
-    "element": "Quarterly Sales Intelligence Data + Quarterly Macro & Category Trends",
-    "task": "Deliver Q1 datasets: market size & sales dataset cuts (Product/Ingredient/Format), \r\nGlobal vs India benchmarks\r\nSales Channel dashboards\r\nCompetitor Pricing & Promotions + macro shifts / sentiment / Ayurveda×clinical narrative / ingredient megatrends.",
+    "month": "January",
+    "category": "Research",
+    "element": "Quarterly + Monthly (Q1)",
+    "task": "Deliver Q1 datasets: market size & sales dataset cuts (Product/Ingredient/Format), Global vs India benchmarks, Sales Channel dashboards, Competitor Pricing & Promotions + macro shifts / sentiment / Ayurveda×clinical narrative / ingredient megatrends.",
+    "monthlyTask": "",
+    "monthlyQuantifiable": "",
     "team": "market-research"
   },
   {
-    "month": "Apr",
+    "month": "February",
+    "category": "Research",
+    "element": "Quarterly + Monthly (Q1)",
+    "task": "Deliver Q1 datasets: market size & sales dataset cuts (Product/Ingredient/Format), Global vs India benchmarks, Sales Channel dashboards, Competitor Pricing & Promotions + macro shifts / sentiment / Ayurveda×clinical narrative / ingredient megatrends.",
+    "monthlyTask": "",
+    "monthlyQuantifiable": "",
+    "team": "market-research"
+  },
+  {
+    "month": "March",
+    "category": "Research",
+    "element": "Quarterly + Monthly (Q1)",
+    "task": "Deliver Q1 datasets: market size & sales dataset cuts (Product/Ingredient/Format), Global vs India benchmarks, Sales Channel dashboards, Competitor Pricing & Promotions + macro shifts / sentiment / Ayurveda×clinical narrative / ingredient megatrends.",
+    "monthlyTask": "",
+    "monthlyQuantifiable": "",
+    "team": "market-research"
+  },
+  {
+    "month": "April",
+    "category": "Research",
     "element": "Monthly Pack (M4)",
-    "task": "Sales Channel Dashboard Snapshot (key changes only)\r\nRecent Developments Across Competitiors\r\nPrice Trends /  Changes (top SKUs/brands); \r\nNew ingredient/claim callouts captured in market",
+    "task": "• Sales Channel Dashboard Snapshot (key changes only)\n• Recent Developments Across Competitors\n• Price Trends / Changes (top SKUs/brands)\n• New ingredient/claim callouts captured in market",
+    "monthlyTask": "",
+    "monthlyQuantifiable": "",
     "team": "market-research"
   },
   {
     "month": "May",
+    "category": "Research",
     "element": "Monthly Pack (M5)",
-    "task": "Monthly Refresh: \r\nIngredient preference signals \r\nClaims Language Shifts “mainstream vs rising” update; \r\nshortlist of “watch” ingredients/formats.\r\nNew product/format additions (kits/bundles/minis)",
+    "task": "Monthly Refresh:\n• Ingredient preference signals / Insights Dashboard\n• Claims Language Shifts, \"mainstream vs rising\" update\n• Shortlist of \"watch\" ingredients/formats\n• New product/format additions (kits/bundles/minis)",
+    "monthlyTask": "",
+    "monthlyQuantifiable": "",
     "team": "market-research"
   },
   {
-    "month": "Jun (Q2 close)",
-    "element": "Quarterly Sales Intelligence Data + Quarterly Macro & Category Trends",
-    "task": "Deliver Q1 datasets: market size & sales dataset cuts (Product/Ingredient/Format), \r\nGlobal vs India benchmarks\r\nSales Channel dashboards\r\nCompetitor Pricing & Promotions + macro shifts / sentiment / Ayurveda×clinical narrative / ingredient megatrends.",
+    "month": "April",
+    "category": "Research",
+    "element": "Quarterly + Monthly (Q2)",
+    "task": "Deliver Q2 datasets: market size & sales dataset cuts (Product/Ingredient/Format), Global vs India benchmarks, Sales Channel dashboards / Pricing Dashboards, Competitor Pricing & Promotions + macro shifts / sentiment / Ayurveda×clinical narrative / ingredient megatrends.",
+    "monthlyTask": "",
+    "monthlyQuantifiable": "",
     "team": "market-research"
   },
   {
-    "month": "Jul",
+    "month": "May",
+    "category": "Research",
+    "element": "Quarterly + Monthly (Q2)",
+    "task": "Deliver Q2 datasets: market size & sales dataset cuts (Product/Ingredient/Format), Global vs India benchmarks, Sales Channel dashboards / Pricing Dashboards, Competitor Pricing & Promotions + macro shifts / sentiment / Ayurveda×clinical narrative / ingredient megatrends.",
+    "monthlyTask": "",
+    "monthlyQuantifiable": "",
+    "team": "market-research"
+  },
+  {
+    "month": "June",
+    "category": "Research",
+    "element": "Quarterly + Monthly (Q2)",
+    "task": "Deliver Q2 datasets: market size & sales dataset cuts (Product/Ingredient/Format), Global vs India benchmarks, Sales Channel dashboards / Pricing Dashboards, Competitor Pricing & Promotions + macro shifts / sentiment / Ayurveda×clinical narrative / ingredient megatrends.",
+    "monthlyTask": "",
+    "monthlyQuantifiable": "",
+    "team": "market-research"
+  },
+  {
+    "month": "July",
+    "category": "Research",
     "element": "Monthly Pack (M7)",
-    "task": "Post-quarter change log (what shifted vs Q2 baseline); \r\nIngredient adoption cues refresh; Channel performance pulse (quick read)",
+    "task": "Mid-Year Reset:\n• Post-Q2 change log (what accelerated / slowed)\n• Ingredient adoption momentum Check Insights\n• Sales Channel performance Insights: Winners/Laggards",
+    "monthlyTask": "",
+    "monthlyQuantifiable": "",
     "team": "market-research"
   },
   {
-    "month": "Aug",
+    "month": "August",
+    "category": "Research",
     "element": "Monthly Pack (M8)",
-    "task": "Monthly Snapshot:\r\nCategory/consumer pulse dataset (concerns + spend cues); \r\nCompetitor SKU/pricing movement log; Ingredient/format trend tracker refresh",
+    "task": "Consumer & Spend Pulse:\n• Consumer concerns & spend cues (pre-festive)\n• SKU-level pricing / promos movements\n• Ingredient & format tracker refresh",
+    "monthlyTask": "",
+    "monthlyQuantifiable": "",
     "team": "market-research"
   },
   {
-    "month": "Sep (Q3 close)",
-    "element": "Quarterly Sales Intelligence Data + Quarterly Macro & Category Trends",
-    "task": "Deliver Q3 full pack: updated datasets + dashboards + \r\npricing/promos + \r\nquarterly trend storylines (what’s now “default” vs “next-wave”).",
+    "month": "July",
+    "category": "Research",
+    "element": "Quarterly + Monthly (Q3)",
+    "task": "• Deliver Q3 full pack: updated datasets + dashboards as in Q2\n• Pricing/promos trends in last quarter\n• Quarterly trend storylines (what's now \"default\" vs \"next-wave\")\n• Festive build-up pricing & promo strategies",
+    "monthlyTask": "",
+    "monthlyQuantifiable": "",
     "team": "market-research"
   },
   {
-    "month": "Oct",
+    "month": "August",
+    "category": "Research",
+    "element": "Quarterly + Monthly (Q3)",
+    "task": "• Deliver Q3 full pack: updated datasets + dashboards as in Q2\n• Pricing/promos trends in last quarter\n• Quarterly trend storylines (what's now \"default\" vs \"next-wave\")\n• Festive build-up pricing & promo strategies",
+    "monthlyTask": "",
+    "monthlyQuantifiable": "",
+    "team": "market-research"
+  },
+  {
+    "month": "September",
+    "category": "Research",
+    "element": "Quarterly + Monthly (Q3)",
+    "task": "• Deliver Q3 full pack: updated datasets + dashboards as in Q2\n• Pricing/promos trends in last quarter\n• Quarterly trend storylines (what's now \"default\" vs \"next-wave\")\n• Festive build-up pricing & promo strategies",
+    "monthlyTask": "",
+    "monthlyQuantifiable": "",
+    "team": "market-research"
+  },
+  {
+    "month": "October",
+    "category": "Research",
     "element": "Monthly Pack (M10)",
-    "task": "Pre-festive pricing/promo landscape snapshot; \r\nBundle/kit strategy tracker; \r\nIngredient + claim trends from festive campaign",
+    "task": "Festive Intelligence Month:\n• Sales & pricing Datasets\n• Festive pricing, offers & bundles\n• Kit / gifting strategy deep dive\n• Ingredient & claim themes in festive campaigns",
+    "monthlyTask": "",
+    "monthlyQuantifiable": "",
     "team": "market-research"
   },
   {
-    "month": "Nov",
+    "month": "November",
+    "category": "Research",
     "element": "Monthly Pack (M11)",
-    "task": "Deep-dive Analysis / results on Agreed Theme / Narrative: Ingredients and Formats or Channel economics/pricing; \r\nDetailed performance Comparison vs prior quarters.",
+    "task": "Deep-Dive Month (one agreed theme):\n• Ingredients OR formats OR channel economics\n• Performance comparison vs prior quarters\n• Implications drawn from year-to-date data\n• Narrative: Ingredients, Formats, or Channel economics/pricing",
+    "monthlyTask": "",
+    "monthlyQuantifiable": "",
     "team": "market-research"
   },
   {
-    "month": "Dec (Q4 close)",
-    "element": "Quarterly Sales Intelligence Data + Quarterly Macro & Category Trends + Annual Wrap",
-    "task": "Deliver Q4 full pack + a year-end consolidated view: what shifted across the year and key winners/losers, \r\nTop watchlist for next year.",
+    "month": "October",
+    "category": "Research",
+    "element": "Quarterly + Annual Wrap (Q4)",
+    "task": "• Q4 + Annual Consolidation:\n• Q4 datasets & dashboards\n• Year-end pricing & promo summary\n• Ingredient & format shifts across the year\n• Winners/losers + next-year watchlist",
+    "monthlyTask": "",
+    "monthlyQuantifiable": "",
+    "team": "market-research"
+  },
+  {
+    "month": "November",
+    "category": "Research",
+    "element": "Quarterly + Annual Wrap (Q4)",
+    "task": "• Q4 + Annual Consolidation:\n• Q4 datasets & dashboards\n• Year-end pricing & promo summary\n• Ingredient & format shifts across the year\n• Winners/losers + next-year watchlist",
+    "monthlyTask": "",
+    "monthlyQuantifiable": "",
+    "team": "market-research"
+  },
+  {
+    "month": "December",
+    "category": "Research",
+    "element": "Quarterly + Annual Wrap (Q4)",
+    "task": "• Q4 + Annual Consolidation:\n• Q4 datasets & dashboards\n• Year-end pricing & promo summary\n• Ingredient & format shifts across the year\n• Winners/losers + next-year watchlist",
+    "monthlyTask": "",
+    "monthlyQuantifiable": "",
     "team": "market-research"
   }
 ]
