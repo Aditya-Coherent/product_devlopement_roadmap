@@ -451,20 +451,18 @@ export default function Home() {
                                   {Object.keys(grouped[month][category]).map((groupKey, elementIndex) => {
                                     const items = grouped[month][category][groupKey]
                                     
-                                    // Check if all sub-elements are "Other" - if so, hide the column
-                                    const hasSubElements = teamFilter === 'digital-marketing' && items.some(item => item.subElement !== 'Other')
-                                    
                                     // Calculate row spans for sub-elements (merge cells)
                                     const subElementSpans = {}
                                     let currentSubElement = null
                                     let subSpanStart = 0
                                     
                                     items.forEach((item, idx) => {
-                                      if (item.subElement !== currentSubElement) {
+                                      const displayValue = item.subElement !== 'Other' ? item.subElement : ''
+                                      if (displayValue !== currentSubElement) {
                                         if (currentSubElement !== null) {
                                           subElementSpans[subSpanStart] = idx - subSpanStart
                                         }
-                                        currentSubElement = item.subElement
+                                        currentSubElement = displayValue
                                         subSpanStart = idx
                                       }
                                     })
@@ -498,7 +496,7 @@ export default function Home() {
                                         <td className="border border-emerald-200 px-4 py-3 text-sm text-gray-700 font-medium">
                                           {itemIndex === 0 ? groupKey : ''}
                                         </td>
-                                        {teamFilter === 'digital-marketing' && hasSubElements && subElementSpans[itemIndex] && (
+                                        {teamFilter === 'digital-marketing' && subElementSpans[itemIndex] && (
                                           <td 
                                             className="border border-emerald-200 px-4 py-3 text-sm text-gray-700 whitespace-pre-wrap"
                                             rowSpan={subElementSpans[itemIndex]}
