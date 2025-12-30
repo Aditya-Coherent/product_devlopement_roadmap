@@ -86,3 +86,4 @@ for entry in jan_entries[:10]:
     print(f"  - {entry['category']} > {entry['element']} > {entry['subElement']}: {entry['task']}")
 print(f"  ... and {len(jan_entries) - 10} more")
 
+

@@ -96,3 +96,4 @@ for entry in data:
 for cat in sorted(categories.keys()):
     print(f"  {cat}: {categories[cat]}")
 
+

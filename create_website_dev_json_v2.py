@@ -72,3 +72,4 @@ with open('public/website-development-data.json', 'w', encoding='utf-8') as f:
 
 print(f"Successfully created website-development-data.json with {len(data)} entries")
 
+

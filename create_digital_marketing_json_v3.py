@@ -105,3 +105,4 @@ for entry in jan_entries[:5]:
     print(f"  Task: {entry['task']}")
     print(f"  Monthly Task: {entry['monthlyTask']}\n")
 
+

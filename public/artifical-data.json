@@ -1,0 +1,293 @@
+[
+  {
+    "month": "January",
+    "element": "AI-Engineered Digital Storefront",
+    "task": "Audit existing data sources (products, ingredients, orders, customers) and create unified data architecture",
+    "monthlyTask": "One-time data audit and schema design",
+    "monthlyQuantifiable": "No",
+    "team": "artificial-intelligence"
+  },
+  {
+    "month": "January",
+    "element": "AI-Engineered Digital Storefront",
+    "task": "Clean, structure, and migrate all product and customer data into centralized database",
+    "monthlyTask": "One-time data migration",
+    "monthlyQuantifiable": "No",
+    "team": "artificial-intelligence"
+  },
+  {
+    "month": "January",
+    "element": "AI-Engineered Digital Storefront",
+    "task": "Define AI guardrails and brand-safe response rules for all AI features",
+    "monthlyTask": "One-time rule configuration",
+    "monthlyQuantifiable": "No",
+    "team": "artificial-intelligence"
+  },
+
+  {
+    "month": "February",
+    "element": "AI Rituva Assistant",
+    "task": "Compile knowledge base with product details, ingredients, Ayurvedic benefits, and usage instructions",
+    "monthlyTask": "One-time knowledge base creation",
+    "monthlyQuantifiable": "No",
+    "team": "artificial-intelligence"
+  },
+  {
+    "month": "February",
+    "element": "AI Rituva Assistant",
+    "task": "Train AI assistant on product catalog, ingredient safety, and routine recommendations",
+    "monthlyTask": "One-time AI training",
+    "monthlyQuantifiable": "No",
+    "team": "artificial-intelligence"
+  },
+
+  {
+    "month": "March",
+    "element": "AI Rituva Assistant",
+    "task": "Define escalation rules for sensitive queries (pregnancy, allergies, medical conditions)",
+    "monthlyTask": "One-time configuration",
+    "monthlyQuantifiable": "No",
+    "team": "artificial-intelligence"
+  },
+  {
+    "month": "March",
+    "element": "AI Rituva Assistant",
+    "task": "Launch AI chat widget on website with 24/7 availability",
+    "monthlyTask": "One-time deployment",
+    "monthlyQuantifiable": "No",
+    "team": "artificial-intelligence"
+  },
+  {
+    "month": "March",
+    "element": "AI Rituva Assistant",
+    "task": "Design skin assessment quiz flow (skin type, concerns, climate, lifestyle questions)",
+    "monthlyTask": "One-time quiz design",
+    "monthlyQuantifiable": "No",
+    "team": "artificial-intelligence"
+  },
+
+  {
+    "month": "April",
+    "element": "AI Rituva Assistant",
+    "task": "Review chat conversations and improve response accuracy based on user feedback",
+    "monthlyTask": "Review 80–100 conversations",
+    "monthlyQuantifiable": "Yes",
+    "team": "artificial-intelligence"
+  },
+  {
+    "month": "April",
+    "element": "AI Rituva Assistant",
+    "task": "Add new FAQs and product responses based on common customer questions",
+    "monthlyTask": "Monthly knowledge base updates",
+    "monthlyQuantifiable": "Yes",
+    "team": "artificial-intelligence"
+  },
+  {
+    "month": "April",
+    "element": "Customer Intelligence Dashboards",
+    "task": "Set up behavior tracking for browsing, cart actions, and purchase patterns",
+    "monthlyTask": "One-time tracking setup",
+    "monthlyQuantifiable": "No",
+    "team": "artificial-intelligence"
+  },
+
+  {
+    "month": "May",
+    "element": "Customer Intelligence Dashboards",
+    "task": "Build customer segmentation model (new, repeat, loyal, at-risk, VIP)",
+    "monthlyTask": "One-time segmentation setup",
+    "monthlyQuantifiable": "No",
+    "team": "artificial-intelligence"
+  },
+  {
+    "month": "May",
+    "element": "Customer Intelligence Dashboards",
+    "task": "Create Customer 360 view with purchase history, preferences, and AI predictions",
+    "monthlyTask": "One-time dashboard build",
+    "monthlyQuantifiable": "No",
+    "team": "artificial-intelligence"
+  },
+  {
+    "month": "May",
+    "element": "Customer Intelligence Dashboards",
+    "task": "Build cohort retention analysis and churn prediction alerts",
+    "monthlyTask": "One-time analytics setup",
+    "monthlyQuantifiable": "No",
+    "team": "artificial-intelligence"
+  },
+
+  {
+    "month": "June",
+    "element": "Customer Intelligence Dashboards",
+    "task": "Generate first monthly customer insights report and share with marketing team",
+    "monthlyTask": "Monthly insights report",
+    "monthlyQuantifiable": "Yes",
+    "team": "artificial-intelligence"
+  },
+  {
+    "month": "June",
+    "element": "AI-Assisted Demand & Supply Forecasting",
+    "task": "Analyze historical sales data and identify seasonal demand patterns",
+    "monthlyTask": "One-time historical analysis",
+    "monthlyQuantifiable": "No",
+    "team": "artificial-intelligence"
+  },
+  {
+    "month": "June",
+    "element": "AI-Assisted Demand & Supply Forecasting",
+    "task": "Build demand forecasting model with seasonal and regional predictions",
+    "monthlyTask": "One-time model setup",
+    "monthlyQuantifiable": "No",
+    "team": "artificial-intelligence"
+  },
+
+  {
+    "month": "July",
+    "element": "AI-Assisted Demand & Supply Forecasting",
+    "task": "Create inventory alerts for stockout warnings and overstock prevention",
+    "monthlyTask": "One-time alert configuration",
+    "monthlyQuantifiable": "No",
+    "team": "artificial-intelligence"
+  },
+  {
+    "month": "July",
+    "element": "AI-Assisted Demand & Supply Forecasting",
+    "task": "Generate first monthly demand forecast report with production recommendations",
+    "monthlyTask": "Monthly forecast report",
+    "monthlyQuantifiable": "Yes",
+    "team": "artificial-intelligence"
+  },
+  {
+    "month": "July",
+    "element": "CRM + Lifecycle Automation",
+    "task": "Design customer journey flows (welcome series, post-purchase, refill reminders)",
+    "monthlyTask": "One-time journey mapping",
+    "monthlyQuantifiable": "No",
+    "team": "artificial-intelligence"
+  },
+
+  {
+    "month": "August",
+    "element": "CRM + Lifecycle Automation",
+    "task": "Build and launch automated refill reminder system based on product usage cycles",
+    "monthlyTask": "One-time automation setup",
+    "monthlyQuantifiable": "No",
+    "team": "artificial-intelligence"
+  },
+  {
+    "month": "August",
+    "element": "CRM + Lifecycle Automation",
+    "task": "Set up WhatsApp and Email automation for welcome, thank you, and reminder flows",
+    "monthlyTask": "One-time channel integration",
+    "monthlyQuantifiable": "No",
+    "team": "artificial-intelligence"
+  },
+  {
+    "month": "August",
+    "element": "CRM + Lifecycle Automation",
+    "task": "Launch loyalty program (Rituva Rewards) with tier-based benefits",
+    "monthlyTask": "One-time program launch",
+    "monthlyQuantifiable": "No",
+    "team": "artificial-intelligence"
+  },
+
+  {
+    "month": "September",
+    "element": "CRM + Lifecycle Automation",
+    "task": "Build win-back campaigns for inactive customers (45+ days, 60+ days segments)",
+    "monthlyTask": "One-time campaign setup",
+    "monthlyQuantifiable": "No",
+    "team": "artificial-intelligence"
+  },
+  {
+    "month": "September",
+    "element": "CRM + Lifecycle Automation",
+    "task": "Review automation performance and optimize open rates, click rates, conversions",
+    "monthlyTask": "Monthly campaign review",
+    "monthlyQuantifiable": "Yes",
+    "team": "artificial-intelligence"
+  },
+  {
+    "month": "September",
+    "element": "AI-Powered Custom Kit Builder",
+    "task": "Create recommendation logic mapping skin profiles to product combinations",
+    "monthlyTask": "One-time algorithm setup",
+    "monthlyQuantifiable": "No",
+    "team": "artificial-intelligence"
+  },
+
+  {
+    "month": "October",
+    "element": "AI-Powered Custom Kit Builder",
+    "task": "Test kit recommendations across 20+ customer scenarios (skin types, concerns, budgets)",
+    "monthlyTask": "Test 20–25 scenarios",
+    "monthlyQuantifiable": "Yes",
+    "team": "artificial-intelligence"
+  },
+  {
+    "month": "October",
+    "element": "AI-Powered Custom Kit Builder",
+    "task": "Launch kit builder on website and monitor initial user interactions",
+    "monthlyTask": "One-time launch and monitoring",
+    "monthlyQuantifiable": "No",
+    "team": "artificial-intelligence"
+  },
+  {
+    "month": "October",
+    "element": "AI-Powered Custom Kit Builder",
+    "task": "Integrate kit builder with AI Rituva Assistant for seamless recommendations",
+    "monthlyTask": "One-time integration",
+    "monthlyQuantifiable": "No",
+    "team": "artificial-intelligence"
+  },
+
+  {
+    "month": "November",
+    "element": "AI-Powered Custom Kit Builder",
+    "task": "Refine kit recommendations using conversion data and customer feedback",
+    "monthlyTask": "Monthly optimization",
+    "monthlyQuantifiable": "Yes",
+    "team": "artificial-intelligence"
+  },
+  {
+    "month": "November",
+    "element": "Managed Growth Support",
+    "task": "Set up A/B testing framework for homepage, product pages, and checkout flow",
+    "monthlyTask": "One-time testing setup",
+    "monthlyQuantifiable": "No",
+    "team": "artificial-intelligence"
+  },
+  {
+    "month": "November",
+    "element": "Managed Growth Support",
+    "task": "Launch first A/B experiments (homepage hero, kit builder CTA, product reviews position)",
+    "monthlyTask": "Run 2–3 experiments",
+    "monthlyQuantifiable": "Yes",
+    "team": "artificial-intelligence"
+  },
+
+  {
+    "month": "December",
+    "element": "Managed Growth Support",
+    "task": "Build AI growth recommendations engine with prioritized optimization suggestions",
+    "monthlyTask": "One-time recommendations setup",
+    "monthlyQuantifiable": "No",
+    "team": "artificial-intelligence"
+  },
+  {
+    "month": "December",
+    "element": "Managed Growth Support",
+    "task": "Conduct weekly performance reviews with key metrics and AI insights",
+    "monthlyTask": "4 weekly reviews",
+    "monthlyQuantifiable": "Yes",
+    "team": "artificial-intelligence"
+  },
+  {
+    "month": "December",
+    "element": "Managed Growth Support",
+    "task": "Complete annual AI performance review and plan Year 2 roadmap enhancements",
+    "monthlyTask": "One-time annual review and planning",
+    "monthlyQuantifiable": "No",
+    "team": "artificial-intelligence"
+  }
+]
