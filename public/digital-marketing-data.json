@@ -5035,8 +5035,8 @@
     "category": "Technical SEO",
     "element": "Technical Audits",
     "subElement": "Other",
-    "task": " ",
-    "monthlyTask": "·       Developers will work on continuous on-page errors and eliminating it",
+    "task": "",
+    "monthlyTask": "· Developers will work on continuous on-page errors and eliminating it",
     "team": "digital-marketing"
   },
   {
@@ -5045,7 +5045,7 @@
     "element": "Technical Audits",
     "subElement": "Other",
     "task": "Developers will work on continuous on-page errors and eliminating it",
-    "monthlyTask": "·       Developers will work on continuous on-page errors and eliminating it",
+    "monthlyTask": "· Developers will work on continuous on-page errors and eliminating it",
     "team": "digital-marketing"
   },
   {
@@ -7672,7 +7672,7 @@
     "category": "Content Marketing & Strategy",
     "element": "Blog Categories & Sample Topics",
     "subElement": "Other",
-    "task": "III. Rituva Seasonal Ritual Education (Winter: Dec-Feb)",
+    "task": "III. Rituva Seasonal Ritual Education (Summer:)",
     "monthlyTask": "6–8 Blogs (Season-led)",
     "team": "digital-marketing"
   },
@@ -7699,7 +7699,7 @@
     "category": "Content Marketing & Strategy",
     "element": "Press & Thought Leadership",
     "subElement": "Other",
-    "task": "III. Rituva Seasonal Thought Leadership (Winter Wellness, Skin, Digestion, Sleep)",
+    "task": "III. Rituva Seasonal Thought Leadership (Summer Wellness, Skin, Digestion, Sleep)",
     "monthlyTask": "2–3 (Season-specific)",
     "team": "digital-marketing"
   },
@@ -7717,7 +7717,7 @@
     "category": "Content Marketing & Strategy",
     "element": "Customer Reviews",
     "subElement": "Other",
-    "task": "II. Rituva Winter Kit User Journeys (Morning–Night Rituals)",
+    "task": "II. Rituva Summer Kit User Journeys (Morning–Night Rituals)",
     "monthlyTask": "8–10 Reviews / Month",
     "team": "digital-marketing"
   },
@@ -7753,7 +7753,7 @@
     "category": "Content Marketing & Strategy",
     "element": "Landing Pages",
     "subElement": "Other",
-    "task": "IV. Rituva Winter Kits – Seasonal Hub Page (Dec–Feb)",
+    "task": "IV. Rituva Summer Kits – Seasonal Hub Page",
     "monthlyTask": "Dedicated Seasonal Page",
     "team": "digital-marketing"
   },
@@ -7762,8 +7762,8 @@
     "category": "Content Marketing & Strategy",
     "element": "Seasonal Campaign Content (New)",
     "subElement": "Other",
-    "task": "I. Rituva Winter Kits – Morning to Night Rituals",
-    "monthlyTask": "Always-On (Dec–Feb)",
+    "task": "I. Rituva Summer Kits – Morning to Night Rituals",
+    "monthlyTask": "Always-On (season focus only)",
     "team": "digital-marketing"
   },
   {
@@ -7807,7 +7807,7 @@
     "category": "Content Marketing & Strategy",
     "element": "Blog Categories & Sample Topics",
     "subElement": "Other",
-    "task": "III. Rituva Seasonal Ritual Education (Winter: Dec-Feb)",
+    "task": "III. Rituva Seasonal Ritual Education (Summer:)",
     "monthlyTask": "6–8 Blogs (Season-led)",
     "team": "digital-marketing"
   },
@@ -7834,7 +7834,7 @@
     "category": "Content Marketing & Strategy",
     "element": "Press & Thought Leadership",
     "subElement": "Other",
-    "task": "III. Rituva Seasonal Thought Leadership (Winter Wellness, Skin, Digestion, Sleep)",
+    "task": "III. Rituva Seasonal Thought Leadership (Summer Wellness, Skin, Digestion, Sleep)",
     "monthlyTask": "2–3 (Season-specific)",
     "team": "digital-marketing"
   },
@@ -7852,7 +7852,7 @@
     "category": "Content Marketing & Strategy",
     "element": "Customer Reviews",
     "subElement": "Other",
-    "task": "II. Rituva Winter Kit User Journeys (Morning–Night Rituals)",
+    "task": "II. Rituva Summer Kit User Journeys (Morning–Night Rituals)",
     "monthlyTask": "8–10 Reviews / Month",
     "team": "digital-marketing"
   },
@@ -7888,7 +7888,7 @@
     "category": "Content Marketing & Strategy",
     "element": "Landing Pages",
     "subElement": "Other",
-    "task": "IV. Rituva Winter Kits – Seasonal Hub Page (Dec–Feb)",
+    "task": "IV. Rituva Summer Kits – Seasonal Hub Page",
     "monthlyTask": "Dedicated Seasonal Page",
     "team": "digital-marketing"
   },
@@ -7897,8 +7897,8 @@
     "category": "Content Marketing & Strategy",
     "element": "Seasonal Campaign Content (New)",
     "subElement": "Other",
-    "task": "I. Rituva Winter Kits – Morning to Night Rituals",
-    "monthlyTask": "Always-On (Dec–Feb)",
+    "task": "I. Rituva Summer Kits – Morning to Night Rituals",
+    "monthlyTask": "Always-On (season focus only)",
     "team": "digital-marketing"
   },
   {
@@ -7949,55 +7949,55 @@
   {
     "month": "January",
     "category": "On-Page SEO",
-    "element": "Seasonal SEO – Rituva Winter Kits",
+    "element": "Seasonal SEO – Rituva Summer Kits",
     "subElement": "i. Seasonal Landing Pages Optimization",
-    "task": "Create / optimize Rituva Winter Kits landing pages (Morning-Night Rituals)",
-    "monthlyTask": "Dec–Feb focus only",
+    "task": "Create / optimize Rituva Summer Kits landing pages (Morning-Night Rituals)",
+    "monthlyTask": "season focus only",
     "team": "digital-marketing"
   },
   {
     "month": "January",
     "category": "On-Page SEO",
-    "element": "Seasonal SEO – Rituva Winter Kits",
+    "element": "Seasonal SEO – Rituva Summer Kits",
     "subElement": "ii. Seasonal Keyword Optimization",
-    "task": "Optimize for winter-intent keywords (winter rituals, cold-weather routines, winter kits)",
-    "monthlyTask": "Dec–Feb (all SEO activity centered on Winter Kits)",
+    "task": "Optimize for summer-intent keywords (summer rituals, warm-weather routines, summer kits)",
+    "monthlyTask": "season focus only (all SEO activity centered on Summer Kits)",
     "team": "digital-marketing"
   },
   {
     "month": "January",
     "category": "On-Page SEO",
-    "element": "Seasonal SEO – Rituva Winter Kits",
+    "element": "Seasonal SEO – Rituva Summer Kits",
     "subElement": "iii. Seasonal Internal Linking",
-    "task": "Redirect internal links from blogs & products to Rituva Winter Kits pages",
-    "monthlyTask": "Dec–Feb priority linking",
+    "task": "Redirect internal links from blogs & products to Rituva Summer Kits pages",
+    "monthlyTask": "season focus only priority linking",
     "team": "digital-marketing"
   },
   {
     "month": "February",
     "category": "On-Page SEO",
-    "element": "Seasonal SEO – Rituva Winter Kits",
+    "element": "Seasonal SEO – Rituva Summer Kits",
     "subElement": "i. Seasonal Landing Pages Optimization",
-    "task": "Create / optimize Rituva Winter Kits landing pages (Morning-Night Rituals)",
-    "monthlyTask": "Dec–Feb focus only",
+    "task": "Create / optimize Rituva Summer Kits landing pages (Morning-Night Rituals)",
+    "monthlyTask": "season focus only",
     "team": "digital-marketing"
   },
   {
     "month": "February",
     "category": "On-Page SEO",
-    "element": "Seasonal SEO – Rituva Winter Kits",
+    "element": "Seasonal SEO – Rituva Summer Kits",
     "subElement": "ii. Seasonal Keyword Optimization",
-    "task": "Optimize for winter-intent keywords (winter rituals, cold-weather routines, winter kits)",
-    "monthlyTask": "Dec–Feb (all SEO activity centered on Winter Kits)",
+    "task": "Optimize for summer-intent keywords (summer rituals, warm-weather routines, summer kits)",
+    "monthlyTask": "season focus only (all SEO activity centered on Summer Kits)",
     "team": "digital-marketing"
   },
   {
     "month": "February",
     "category": "On-Page SEO",
-    "element": "Seasonal SEO – Rituva Winter Kits",
+    "element": "Seasonal SEO – Rituva Summer Kits",
     "subElement": "iii. Seasonal Internal Linking",
-    "task": "Redirect internal links from blogs & products to Rituva Winter Kits pages",
-    "monthlyTask": "Dec–Feb priority linking",
+    "task": "Redirect internal links from blogs & products to Rituva Summer Kits pages",
+    "monthlyTask": "season focus only priority linking",
     "team": "digital-marketing"
   },
   {
@@ -8058,9 +8058,9 @@
     "month": "January",
     "category": "Off-Page SEO",
     "element": "I. Seasonal Campaign SEO (Rituva Kits)",
-    "subElement": "i. Winter Ritual Positioning",
-    "task": "Promote Rituva Winter Kits for Morning-Day-Night rituals across backlinks, guest posts, and booknmarks",
-    "monthlyTask": "Dec–Feb only",
+    "subElement": "i. Summer Ritual Positioning",
+    "task": "Promote Rituva Summer Kits for Morning-Day-Night rituals across backlinks, guest posts, and booknmarks",
+    "monthlyTask": "seasonal focus only",
     "team": "digital-marketing"
   },
   {
@@ -8068,7 +8068,7 @@
     "category": "Off-Page SEO",
     "element": "I. Seasonal Campaign SEO (Rituva Kits)",
     "subElement": "ii. Seasonal Backlink Outreach",
-    "task": "Acquire backlinks from winter wellness, Ayurveda, self-care, lifestyle, ritual-based blogs",
+    "task": "Acquire backlinks from summer wellness, Ayurveda, self-care, lifestyle, ritual-based blogs",
     "monthlyTask": "20–30 seasonal backlinks",
     "team": "digital-marketing"
   },
@@ -8077,7 +8077,7 @@
     "category": "Off-Page SEO",
     "element": "J. Seasonal Content Amplification",
     "subElement": "i. Seasonal Blog Promotion",
-    "task": "Promote Rituva Winter Care Rituals, Dosha balance, Cold-weather routines using Rituva Kits",
+    "task": "Promote Rituva Summer Care Rituals, Dosha balance, Cold-weather routines using Rituva Kits",
     "monthlyTask": "100% content alignment",
     "team": "digital-marketing"
   },
@@ -8086,7 +8086,7 @@
     "category": "Off-Page SEO",
     "element": "J. Seasonal Content Amplification",
     "subElement": "ii. Seasonal Social Signals",
-    "task": "Push Winter Kit pages via Pinterest boards, IG reels, Reddit threads",
+    "task": "Push Summer Kit pages via Pinterest boards, IG reels, Reddit threads",
     "monthlyTask": "Campaign-based",
     "team": "digital-marketing"
   },
@@ -8094,9 +8094,9 @@
     "month": "January",
     "category": "Off-Page SEO",
     "element": "K. Seasonal Keyword Targeting",
-    "subElement": "i. Winter Keyword Clusters",
-    "task": "Focus only on winter-intent keywords (e.g., winter routine, cold season self-care, morning night rituals)",
-    "monthlyTask": "Dec–Feb only",
+    "subElement": "i. Summer Keyword Clusters",
+    "task": "Focus only on summer-intent keywords (e.g., summer routine, cold season self-care, morning night rituals)",
+    "monthlyTask": "seasonal focus only",
     "team": "digital-marketing"
   },
   {
@@ -8104,7 +8104,7 @@
     "category": "Off-Page SEO",
     "element": "K. Seasonal Keyword Targeting",
     "subElement": "ii. Landing Page Authority",
-    "task": "Build authority links specifically to Rituva Winter Kit landing pages",
+    "task": "Build authority links specifically to Rituva Summer Kit landing pages",
     "monthlyTask": "Priority focus",
     "team": "digital-marketing"
   },
@@ -8112,9 +8112,9 @@
     "month": "February",
     "category": "Off-Page SEO",
     "element": "I. Seasonal Campaign SEO (Rituva Kits)",
-    "subElement": "i. Winter Ritual Positioning",
-    "task": "Promote Rituva Winter Kits for Morning-Day-Night rituals across backlinks, guest posts, and booknmarks",
-    "monthlyTask": "Dec–Feb only",
+    "subElement": "i. Summer Ritual Positioning",
+    "task": "Promote Rituva Summer Kits for Morning-Day-Night rituals across backlinks, guest posts, and booknmarks",
+    "monthlyTask": "seasonal focus only",
     "team": "digital-marketing"
   },
   {
@@ -8122,7 +8122,7 @@
     "category": "Off-Page SEO",
     "element": "I. Seasonal Campaign SEO (Rituva Kits)",
     "subElement": "ii. Seasonal Backlink Outreach",
-    "task": "Acquire backlinks from winter wellness, Ayurveda, self-care, lifestyle, ritual-based blogs",
+    "task": "Acquire backlinks from summer wellness, Ayurveda, self-care, lifestyle, ritual-based blogs",
     "monthlyTask": "20–30 seasonal backlinks",
     "team": "digital-marketing"
   },
@@ -8131,7 +8131,7 @@
     "category": "Off-Page SEO",
     "element": "J. Seasonal Content Amplification",
     "subElement": "i. Seasonal Blog Promotion",
-    "task": "Promote Rituva Winter Care Rituals, Dosha balance, Cold-weather routines using Rituva Kits",
+    "task": "Promote Rituva Summer Care Rituals, Dosha balance, Cold-weather routines using Rituva Kits",
     "monthlyTask": "100% content alignment",
     "team": "digital-marketing"
   },
@@ -8140,7 +8140,7 @@
     "category": "Off-Page SEO",
     "element": "J. Seasonal Content Amplification",
     "subElement": "ii. Seasonal Social Signals",
-    "task": "Push Winter Kit pages via Pinterest boards, IG reels, Reddit threads",
+    "task": "Push Summer Kit pages via Pinterest boards, IG reels, Reddit threads",
     "monthlyTask": "Campaign-based",
     "team": "digital-marketing"
   },
@@ -8148,9 +8148,9 @@
     "month": "February",
     "category": "Off-Page SEO",
     "element": "K. Seasonal Keyword Targeting",
-    "subElement": "i. Winter Keyword Clusters",
-    "task": "Focus only on winter-intent keywords (e.g., winter routine, cold season self-care, morning night rituals)",
-    "monthlyTask": "Dec–Feb only",
+    "subElement": "i. Summer Keyword Clusters",
+    "task": "Focus only on summer-intent keywords (e.g., summer routine, cold season self-care, morning night rituals)",
+    "monthlyTask": "seasonal focus only",
     "team": "digital-marketing"
   },
   {
@@ -8158,7 +8158,7 @@
     "category": "Off-Page SEO",
     "element": "K. Seasonal Keyword Targeting",
     "subElement": "ii. Landing Page Authority",
-    "task": "Build authority links specifically to Rituva Winter Kit landing pages",
+    "task": "Build authority links specifically to Rituva Summer Kit landing pages",
     "monthlyTask": "Priority focus",
     "team": "digital-marketing"
   },
@@ -8193,9 +8193,9 @@
     "month": "January",
     "category": "Performance Marketing",
     "element": "Seasonal Performance Campaigns",
-    "subElement": "Rituva Winter Kits",
-    "task": "Winter-Only Paid Campaigns (Dec–Feb)",
-    "monthlyTask": "100% campaign focus on Rituva Winter Kits with Morning-to-Night Ritual positioning",
+    "subElement": "Rituva Summer Kits",
+    "task": "Summer-Only Paid Campaigns",
+    "monthlyTask": "100% campaign focus on Rituva Summer Kits with Morning-to-Night Ritual positioning",
     "team": "digital-marketing"
   },
   {
@@ -8203,7 +8203,7 @@
     "category": "Performance Marketing",
     "element": "Seasonal Content & Social Push",
     "subElement": "Rituva Ritual Marketing",
-    "task": "Winter Ritual Content (AM–PM)",
+    "task": "Summer Ritual Content (AM–PM)",
     "monthlyTask": "Reels, stories, carousels highlighting Morning Cleansing, Day Protection, Night Repair rituals",
     "team": "digital-marketing"
   },
@@ -8212,17 +8212,17 @@
     "category": "Performance Marketing",
     "element": "Seasonal CRO & Landing Pages",
     "subElement": "Rituva Kit Optimization",
-    "task": "Winter Kit Landing Pages & CTAs",
-    "monthlyTask": "Dedicated winter landing pages, bundled CTAs, seasonal messaging, limited-time offers",
+    "task": "Summer Kit Landing Pages & CTAs",
+    "monthlyTask": "Dedicated summer landing pages, bundled CTAs, seasonal messaging, limited-time offers",
     "team": "digital-marketing"
   },
   {
     "month": "February",
     "category": "Performance Marketing",
     "element": "Seasonal Performance Campaigns",
-    "subElement": "Rituva Winter Kits",
-    "task": "Winter-Only Paid Campaigns (Dec–Feb)",
-    "monthlyTask": "100% campaign focus on Rituva Winter Kits with Morning-to-Night Ritual positioning",
+    "subElement": "Rituva Summer Kits",
+    "task": "Summer-Only Paid Campaigns",
+    "monthlyTask": "100% campaign focus on Rituva Summer Kits with Morning-to-Night Ritual positioning",
     "team": "digital-marketing"
   },
   {
@@ -8230,7 +8230,7 @@
     "category": "Performance Marketing",
     "element": "Seasonal Content & Social Push",
     "subElement": "Rituva Ritual Marketing",
-    "task": "Winter Ritual Content (AM–PM)",
+    "task": "Summer Ritual Content (AM–PM)",
     "monthlyTask": "Reels, stories, carousels highlighting Morning Cleansing, Day Protection, Night Repair rituals",
     "team": "digital-marketing"
   },
@@ -8239,8 +8239,8 @@
     "category": "Performance Marketing",
     "element": "Seasonal CRO & Landing Pages",
     "subElement": "Rituva Kit Optimization",
-    "task": "Winter Kit Landing Pages & CTAs",
-    "monthlyTask": "Dedicated winter landing pages, bundled CTAs, seasonal messaging, limited-time offers",
+    "task": "Summer Kit Landing Pages & CTAs",
+    "monthlyTask": "Dedicated summer landing pages, bundled CTAs, seasonal messaging, limited-time offers",
     "team": "digital-marketing"
   },
   {
@@ -8275,25 +8275,25 @@
     "category": "Paid PR Submission & Distribution Services (B2C Focus)",
     "element": "Seasonal PR Campaigns – Rituva Kits",
     "subElement": "Seasonal Narrative Planning",
-    "task": "1. Identify relevant seasonal theme (e.g., Winter – Dec to Feb)",
+    "task": "1. Identify relevant seasonal theme (e.g., Summer –)",
     "monthlyTask": "1 seasonal focus / quarter",
     "team": "digital-marketing"
   },
   {
     "month": "January",
     "category": "Paid PR Submission & Distribution Services (B2C Focus)",
-    "element": "Rituva Winter Kits PR Activation (Dec-Feb)",
-    "subElement": "Winter Ritual Storytelling",
-    "task": "1. Promote Rituva Winter Kits as complete Morning-to-Night Ritual Solutions 2. Emphasize protection, nourishment, immunity, and comfort themes",
+    "element": "Rituva Summer Kits PR Activation",
+    "subElement": "Summer Ritual Storytelling",
+    "task": "1. Promote Rituva Summer Kits as complete Morning-to-Night Ritual Solutions 2. Emphasize protection, nourishment, immunity, and comfort themes",
     "monthlyTask": "6 to 10",
     "team": "digital-marketing"
   },
   {
     "month": "January",
     "category": "Paid PR Submission & Distribution Services (B2C Focus)",
-    "element": "Rituva Winter Kits – Media & Influencer Alignment",
+    "element": "Rituva Summer Kits – Media & Influencer Alignment",
     "subElement": "Seasonal Distribution Strategy",
-    "task": "1. Target winter-focused lifestyle, wellness, skincare, and Ayurveda platforms 2. Customize PR angles for morning care, daytime protection, and night recovery rituals",
+    "task": "1. Target summer-focused lifestyle, wellness, skincare, and Ayurveda platforms 2. Customize PR angles for morning care, daytime protection, and night recovery rituals",
     "monthlyTask": "3 to 5",
     "team": "digital-marketing"
   },
@@ -8302,25 +8302,25 @@
     "category": "Paid PR Submission & Distribution Services (B2C Focus)",
     "element": "Seasonal PR Campaigns – Rituva Kits",
     "subElement": "Seasonal Narrative Planning",
-    "task": "1. Identify relevant seasonal theme (e.g., Winter – Dec to Feb)",
+    "task": "1. Identify relevant seasonal theme (e.g., Summer –)",
     "monthlyTask": "1 seasonal focus / quarter",
     "team": "digital-marketing"
   },
   {
     "month": "February",
     "category": "Paid PR Submission & Distribution Services (B2C Focus)",
-    "element": "Rituva Winter Kits PR Activation (Dec-Feb)",
-    "subElement": "Winter Ritual Storytelling",
-    "task": "1. Promote Rituva Winter Kits as complete Morning-to-Night Ritual Solutions 2. Emphasize protection, nourishment, immunity, and comfort themes",
+    "element": "Rituva Summer Kits PR Activation",
+    "subElement": "Summer Ritual Storytelling",
+    "task": "1. Promote Rituva Summer Kits as complete Morning-to-Night Ritual Solutions 2. Emphasize protection, nourishment, immunity, and comfort themes",
     "monthlyTask": "6 to 10",
     "team": "digital-marketing"
   },
   {
     "month": "February",
     "category": "Paid PR Submission & Distribution Services (B2C Focus)",
-    "element": "Rituva Winter Kits – Media & Influencer Alignment",
+    "element": "Rituva Summer Kits – Media & Influencer Alignment",
     "subElement": "Seasonal Distribution Strategy",
-    "task": "1. Target winter-focused lifestyle, wellness, skincare, and Ayurveda platforms 2. Customize PR angles for morning care, daytime protection, and night recovery rituals",
+    "task": "1. Target summer-focused lifestyle, wellness, skincare, and Ayurveda platforms 2. Customize PR angles for morning care, daytime protection, and night recovery rituals",
     "monthlyTask": "3 to 5",
     "team": "digital-marketing"
   },
@@ -8355,8 +8355,8 @@
     "month": "January",
     "category": "Brand Positioning & Thought Leadership",
     "element": "Seasonal Brand Campaign (NEW)",
-    "subElement": "Rituva Winter Kits – Morning to Night Ritual Storytelling (Dec–Feb)",
-    "task": "Rituva Winter Kits – Morning to Night Ritual Storytelling (Dec–Feb)",
+    "subElement": "Rituva Summer Kits – Morning to Night Ritual Storytelling",
+    "task": "Rituva Summer Kits – Morning to Night Ritual Storytelling",
     "monthlyTask": "1 core seasonal narrative pushed across PR, blogs & influencers",
     "team": "digital-marketing"
   },
@@ -8364,17 +8364,17 @@
     "month": "January",
     "category": "Brand Positioning & Thought Leadership",
     "element": "Seasonal Influencer Push (NEW)",
-    "subElement": "Rituva Winter Kits – AM/PM Ritual Content (Reels, Blogs, Stories)",
-    "task": "Rituva Winter Kits – AM/PM Ritual Content (Reels, Blogs, Stories)",
-    "monthlyTask": "6–8 winter-specific pieces via existing influencer pool",
+    "subElement": "Rituva Summer Kits – AM/PM Ritual Content (Reels, Blogs, Stories)",
+    "task": "Rituva Summer Kits – AM/PM Ritual Content (Reels, Blogs, Stories)",
+    "monthlyTask": "6–8 summer-specific pieces via existing influencer pool",
     "team": "digital-marketing"
   },
   {
     "month": "January",
     "category": "Brand Positioning & Thought Leadership",
     "element": "Seasonal Digital PR / Features (NEW)",
-    "subElement": "Winter Self-Care Rituals Using Rituva Kits – Editorial & Listicle Placement",
-    "task": "Winter Self-Care Rituals Using Rituva Kits – Editorial & Listicle Placement",
+    "subElement": "Summer Self-Care Rituals Using Rituva Kits – Editorial & Listicle Placement",
+    "task": "Summer Self-Care Rituals Using Rituva Kits – Editorial & Listicle Placement",
     "monthlyTask": "2 seasonal placements",
     "team": "digital-marketing"
   },
@@ -8382,8 +8382,8 @@
     "month": "February",
     "category": "Brand Positioning & Thought Leadership",
     "element": "Seasonal Brand Campaign (NEW)",
-    "subElement": "Rituva Winter Kits – Morning to Night Ritual Storytelling (Dec–Feb)",
-    "task": "Rituva Winter Kits – Morning to Night Ritual Storytelling (Dec–Feb)",
+    "subElement": "Rituva Summer Kits – Morning to Night Ritual Storytelling",
+    "task": "Rituva Summer Kits – Morning to Night Ritual Storytelling",
     "monthlyTask": "1 core seasonal narrative pushed across PR, blogs & influencers",
     "team": "digital-marketing"
   },
@@ -8391,17 +8391,17 @@
     "month": "February",
     "category": "Brand Positioning & Thought Leadership",
     "element": "Seasonal Influencer Push (NEW)",
-    "subElement": "Rituva Winter Kits – AM/PM Ritual Content (Reels, Blogs, Stories)",
-    "task": "Rituva Winter Kits – AM/PM Ritual Content (Reels, Blogs, Stories)",
-    "monthlyTask": "6–8 winter-specific pieces via existing influencer pool",
+    "subElement": "Rituva Summer Kits – AM/PM Ritual Content (Reels, Blogs, Stories)",
+    "task": "Rituva Summer Kits – AM/PM Ritual Content (Reels, Blogs, Stories)",
+    "monthlyTask": "6–8 summer-specific pieces via existing influencer pool",
     "team": "digital-marketing"
   },
   {
     "month": "February",
     "category": "Brand Positioning & Thought Leadership",
     "element": "Seasonal Digital PR / Features (NEW)",
-    "subElement": "Winter Self-Care Rituals Using Rituva Kits – Editorial & Listicle Placement",
-    "task": "Winter Self-Care Rituals Using Rituva Kits – Editorial & Listicle Placement",
+    "subElement": "Summer Self-Care Rituals Using Rituva Kits – Editorial & Listicle Placement",
+    "task": "Summer Self-Care Rituals Using Rituva Kits – Editorial & Listicle Placement",
     "monthlyTask": "2 seasonal placements",
     "team": "digital-marketing"
   },
@@ -11124,75 +11124,12 @@
     "team": "digital-marketing"
   },
   {
-    "month": "February",
-    "category": "On-Page SEO",
-    "element": "Preparation for Upcoming Rituva Summer Kit",
-    "subElement": "On-Page SEO Strategy Preparation for Rituva Summer Kit",
-    "task": "Develop an on-page SEO strategy for the upcoming Rituva Summer Kit (focused on keyword research, content updates, and seasonal landing page planning)",
-    "monthlyTask": "preparation for upcoming Summer Kit season",
-    "team": "digital-marketing"
-  },
-  {
-    "month": "February",
-    "category": "Content Marketing & Strategy",
-    "element": "Rituva Kit Preparation",
-    "subElement": "Content Marketing & Strategy for Upcoming Rituva Summer Kit",
-    "task": "Full Content Strategy for Upcoming Rituva Summer Kit",
-    "monthlyTask": "Develop comprehensive content marketing strategy for Summer Kit season",
-    "team": "digital-marketing"
-  },
-  {
     "month": "November",
     "category": "Brand Positioning & Thought Leadership",
     "element": "Preparation for Upcoming Season Rituva Kit",
     "subElement": "Rituva Winter Kit PR Strategy",
     "task": "Prepare Paid PR Submission & Distribution strategy for upcoming Rituva Winter Kit",
     "monthlyTask": "Prepare in November: This task involves planning and strategizing PR efforts for the Rituva Winter Kit for the upcoming season.",
-    "team": "digital-marketing"
-  },
-  {
-    "month": "February",
-    "category": "Off-Page SEO",
-    "element": "Off-Page SEO for Upcoming Rituva Kit",
-    "subElement": "Rituva Summer Kit Preparation",
-    "task": "Develop and implement off-page SEO strategy for the upcoming Rituva Summer Kit",
-    "monthlyTask": "Plan backlinks, content sharing, influencer outreach for Summer Kit launch",
-    "team": "digital-marketing"
-  },
-  {
-    "month": "February",
-    "category": "Performance Marketing",
-    "element": "Performance Marketing Strategy for Upcoming Rituva Kit",
-    "subElement": "Preparation for Rituva Summer Kit Launch",
-    "task": "1. Develop Performance Marketing Strategy",
-    "monthlyTask": "Prepare strategy, targeting, and creative concepts for upcoming Rituva Summer Kit, based on seasonal trends and historical data.",
-    "team": "digital-marketing"
-  },
-  {
-    "month": "February",
-    "category": "Performance Marketing",
-    "element": "Performance Marketing Strategy for Upcoming Rituva Kit",
-    "subElement": "Preparation for Rituva Summer Kit Launch",
-    "task": "2. Search Engine Marketing & Social Media Campaigns",
-    "monthlyTask": "Research and identify top-performing keywords, geographic targeting, and audience segments for the Rituva Summer Kit.",
-    "team": "digital-marketing"
-  },
-  {
-    "month": "February",
-    "category": "Performance Marketing",
-    "element": "Performance Marketing Strategy for Upcoming Rituva Kit",
-    "subElement": "Preparation for Rituva Summer Kit Launch",
-    "task": "3. Creative Content Planning",
-    "monthlyTask": "Plan and test creative concepts specifically tailored for Rituva Summer Kit, including visuals, copy, and calls-to-action (CTAs).",
-    "team": "digital-marketing"
-  },
-  {
-    "month": "February",
-    "category": "Paid PR Submission & Distribution Services (B2C Focus)",
-    "element": "Preparation for Upcoming Season Rituva Kit",
-    "subElement": "Rituva Summer Kit PR Strategy",
-    "task": "1. Prepare Paid PR Submission & Distribution strategy for upcoming Rituva Summer Kit",
-    "monthlyTask": "Prepare in February: This task involves planning and strategizing PR efforts for the Rituva Summer Kit for the upcoming season.",
     "team": "digital-marketing"
   },
   {
@@ -11254,7 +11191,7 @@
     "category": "Brand Positioning & Thought Leadership",
     "element": "Seasonal Brand Campaign (NEW)",
     "subElement": "",
-    "task": "Rituva Winter Kits - Morning to Night Ritual Storytelling (Dec-Feb)",
+    "task": "Rituva Summer Kits - Morning to Night Ritual Storytelling",
     "monthlyTask": "1 core seasonal narrative pushed across PR, blogs & influencers",
     "team": "digital-marketing"
   },
@@ -11263,8 +11200,8 @@
     "category": "Brand Positioning & Thought Leadership",
     "element": "Seasonal Influencer Push (NEW)",
     "subElement": "",
-    "task": "Rituva Winter Kits - AM/PM Ritual Content (Reels, Blogs, Stories)",
-    "monthlyTask": "6-8 winter-specific pieces via existing influencer pool",
+    "task": "Rituva Summer Kits - AM/PM Ritual Content (Reels, Blogs, Stories)",
+    "monthlyTask": "6-8 summer-specific pieces via existing influencer pool",
     "team": "digital-marketing"
   },
   {
@@ -11272,7 +11209,7 @@
     "category": "Brand Positioning & Thought Leadership",
     "element": "Seasonal Digital PR / Features (NEW)",
     "subElement": "",
-    "task": "Winter Self-Care Rituals Using Rituva Kits - Editorial & Listicle Placement",
+    "task": "Summer Self-Care Rituals Using Rituva Kits - Editorial & Listicle Placement",
     "monthlyTask": "2 seasonal placements",
     "team": "digital-marketing"
   },
