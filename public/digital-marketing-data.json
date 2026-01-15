@@ -7,7 +7,7 @@
     "task": "Create and Optimize title tags",
     "monthlyTask": "Audit & update 30 pages/month",
     "team": "digital-marketing",
-    "weeklyTask": "week 1 (Feb 2 - Feb 6) Audit & update 7 pages meta title\nweek 2 (Feb 9 - Feb 13) Audit & update 8 pages meta title\nweek 3 (Feb 16 - Feb 20) Audit & update 7 pages meta title\nweek 4 (Feb 23 - Feb 27) Audit & update 7 pages meta title"
+    "weeklyTask": "week 4 (jan 26 - jan 31 ) Create and Optimize meta title for 10 Pages"
   },
   {
     "month": "February",
@@ -116,7 +116,8 @@
     "subElement": "ii. Meta Description Optimization",
     "task": "Create and Optimize meta descriptions",
     "monthlyTask": "30 pages/month",
-    "team": "digital-marketing"
+    "team": "digital-marketing",
+    "weeklyTask": "week 4 (jan 26 - jan 31 ) Create and Optimize meta descriptions for 10 Pages"
   },
   {
     "month": "February",
@@ -125,7 +126,8 @@
     "subElement": "ii. Meta Description Optimization",
     "task": "Create and Optimize meta descriptions",
     "monthlyTask": "30 pages/month",
-    "team": "digital-marketing"
+    "team": "digital-marketing",
+    "weeklyTask": "week 1 (Feb 2 - Feb 6) Audit & update 7 pages meta description\nweek 2 (Feb 9 - Feb 13) Audit & update 8 pages meta description\nweek 3 (Feb 16 - Feb 20) Audit & update 7 pages meta description\nweek 4 (Feb 23 - Feb 27) Audit & update 7 pages meta description"
   },
   {
     "month": "March",
@@ -225,7 +227,7 @@
     "task": "Structure H1, H2, H3 tags on each page properly",
     "monthlyTask": "Audit 30 pages/month",
     "team": "digital-marketing",
-    "weeklyTask": "week 1 (Feb 2 - Feb 6) Audit & update 7 pages Header Tags Optimization (H1 to H6)\nweek 2 (Feb 9 - Feb 13) Audit & update 8 pages Header Tags Optimization (H1 to H6)\nweek 3 (Feb 16 - Feb 20) Audit & update 7 pages Header Tags Optimization (H1 to H6)\nweek 4 (Feb 23 - Feb 27) Audit & update 7 pages Header Tags Optimization (H1 to H6)"
+    "weeklyTask": "week 4 (jan 26 - jan 31 ) Audit 5 pages"
   },
   {
     "month": "February",
@@ -334,8 +336,7 @@
     "subElement": "i. In Content & Elements",
     "task": "Add keywords in H1, first 100 words, image alt, internal links",
     "monthlyTask": "Implement for 30 pages/month",
-    "team": "digital-marketing",
-    "weeklyTask": "week 1 (Feb 2 - Feb 6) Audit & update 7 pages optimize H1, image alt, internal links\nweek 2 (Feb 9 - Feb 13) Audit & update 8 pages optimize H1, image alt, internal links\nweek 3 (Feb 16 - Feb 20) Audit & update 7 pages optimize H1, image alt, internal links\nweek 4 (Feb 23 - Feb 27) Audit & update 7 pages optimize H1, image alt, internal links"
+    "team": "digital-marketing"
   },
   {
     "month": "February",
@@ -444,7 +445,8 @@
     "subElement": "ii. URL Optimization",
     "task": "Use keyword-rich, clean URLs (where editable)",
     "monthlyTask": "Based on platform access",
-    "team": "digital-marketing"
+    "team": "digital-marketing",
+    "weeklyTask": "week 4 (jan 26 - jan 31 ) optimize URLs for 10 pages"
   },
   {
     "month": "February",
@@ -453,7 +455,8 @@
     "subElement": "ii. URL Optimization",
     "task": "Use keyword-rich, clean URLs (where editable)",
     "monthlyTask": "Based on platform access",
-    "team": "digital-marketing"
+    "team": "digital-marketing",
+    "weeklyTask": "week 1 (Feb 2 - Feb 6) URL optimization\nweek 2 (Feb 9 - Feb 13) URL optimization\nweek 3 (Feb 16 - Feb 20) URL optimization\nweek 4 (Feb 23 - Feb 27) URL optimization"
   },
   {
     "month": "March",
@@ -553,7 +556,7 @@
     "task": "Compress and add keyword-rich alt tags to images",
     "monthlyTask": "50–100 images/month",
     "team": "digital-marketing",
-    "weeklyTask": "week 1 (Feb 2 - Feb 6) 10 to 25 images optimization\nweek 2 (Feb 9 - Feb 13) 10 to 25 images optimization\nweek 3 (Feb 16 - Feb 20) 10 to 25 images optimization\nweek 4 (Feb 23 - Feb 27) 10 to 25 images optimization"
+    "weeklyTask": "week 4 (jan 26 - jan 31 ) Compress and add keyword-rich alt tags to 10 images"
   },
   {
     "month": "February",
@@ -663,7 +666,7 @@
     "task": "Add contextual links between pages using keyword-rich anchors",
     "monthlyTask": "50–70 links/month",
     "team": "digital-marketing",
-    "weeklyTask": "week 1 (Feb 2 - Feb 6) Add 10 contextual links\nweek 2 (Feb 9 - Feb 13) Add 10 contextual links\nweek 3 (Feb 16 - Feb 20) Add 10 contextual links\nweek 4 (Feb 23 - Feb 27) Add 10 contextual links"
+    "weeklyTask": "week 4 (jan 26 - jan 31 )"
   },
   {
     "month": "February",
@@ -799,8 +802,7 @@
     "subElement": "i. Unique Descriptions",
     "task": "Unique Descriptions: Rewrite product descriptions to ensure originality",
     "monthlyTask": "30 products/month",
-    "team": "digital-marketing",
-    "weeklyTask": "week 1 (Feb 2 - Feb 6) 5 Unique Descriptions: Rewrite product descriptions to ensure originality\nweek 2 (Feb 9 - Feb 13) 5 Unique Descriptions: Rewrite product descriptions to ensure originality\nweek 3 (Feb 16 - Feb 20) 5 Unique Descriptions: Rewrite product descriptions to ensure originality\nweek 4 (Feb 23 - Feb 27) 5 Unique Descriptions: Rewrite product descriptions to ensure originality"
+    "team": "digital-marketing"
   },
   {
     "month": "February",
@@ -1125,8 +1127,7 @@
     "subElement": "i. Blog Posts",
     "task": "Write and optimize content for blog post with SEO structure",
     "monthlyTask": "20 blogs/month",
-    "team": "digital-marketing",
-    "weeklyTask": "week 1 (Feb 2 - Feb 6) Write and optimize content for 3 blog post with SEO structure\nweek 2 (Feb 9 - Feb 13) Write and optimize content for 3 blog post with SEO structure\nweek 3 (Feb 16 - Feb 20) Write and optimize content for 5 blog post with SEO structure\nweek 4 (Feb 23 - Feb 27) Write and optimize content for 5 blog post with SEO structure"
+    "team": "digital-marketing"
   },
   {
     "month": "February",
@@ -1244,7 +1245,8 @@
     "subElement": "ii. Blog Schema",
     "task": "Use article/FAQ schema on blog posts",
     "monthlyTask": "For each blog",
-    "team": "digital-marketing"
+    "team": "digital-marketing",
+    "weeklyTask": "week 1 (Feb 2 - Feb 6) create Use article/FAQ schema on blog posts\nweek 2 (Feb 9 - Feb 13) create Use article/FAQ schema on blog posts\nweek 3 (Feb 16 - Feb 20) create Use article/FAQ schema on blog posts\nweek 4 (Feb 23 - Feb 27) create Use article/FAQ schema on blog posts"
   },
   {
     "month": "March",
@@ -1343,8 +1345,7 @@
     "subElement": "i. Technical Fixes",
     "task": "Improve LCP, CLS, FID using PageSpeed",
     "monthlyTask": "Ongoing monitoring & fixes",
-    "team": "digital-marketing",
-    "weeklyTask": "week 1 (Feb 2 - Feb 6) Ongoing monitoring & fixes\nweek 2 (Feb 9 - Feb 13) Ongoing monitoring & fixes\nweek 3 (Feb 16 - Feb 20) Ongoing monitoring & fixes\nweek 4 (Feb 23 - Feb 27) Ongoing monitoring & fixes"
+    "team": "digital-marketing"
   },
   {
     "month": "February",
@@ -1453,8 +1454,7 @@
     "subElement": "i. Product FAQs",
     "task": "Add dynamic FAQ sections to key product pages",
     "monthlyTask": "30 FAQs/month",
-    "team": "digital-marketing",
-    "weeklyTask": "week 1 (Feb 2 - Feb 6) Add dynamic FAQ sections to 5 key pages\nweek 2 (Feb 9 - Feb 13) Add dynamic FAQ sections to 5 key pages\nweek 3 (Feb 16 - Feb 20) Add dynamic FAQ sections to 5 key pages\nweek 4 (Feb 23 - Feb 27) Add dynamic FAQ sections to 5 key pages"
+    "team": "digital-marketing"
   },
   {
     "month": "February",
@@ -1680,7 +1680,8 @@
     "subElement": "iii. Policy & Info Display",
     "task": "Ensure visible return policy, material info, size guide",
     "monthlyTask": "Once, then update as needed",
-    "team": "digital-marketing"
+    "team": "digital-marketing",
+    "weeklyTask": "week 4 (Feb 23 - Feb 27) Ensure visible return policy, material info, size guide"
   },
   {
     "month": "March",
@@ -1780,7 +1781,7 @@
     "task": "Generate backlinks from eco/sustainable/Lifestyle sites",
     "monthlyTask": "100–150 backlinks",
     "team": "digital-marketing",
-    "weeklyTask": "Week 1: Research and identify relevant eco, sustainable, and lifestyle sites that align with our brand's message. Begin compiling a list of 100+ target websites. Week 2: Start outreach and send personalized requests to these sites for backlink opportunities. Week 3: Follow-up with site owners from the previous week and ensure content alignment for backlinks. Week 4: Finalize backlink list and make sure backlinks are live and indexed on these sites."
+    "weeklyTask": "week 3 (jan 19 - jan 23 ) create a list of 25 websites for submissions"
   },
   {
     "month": "February",
@@ -1898,7 +1899,8 @@
     "subElement": "ii. Guest Posting",
     "task": "Secure placements on relevant blogs with dofollow links",
     "monthlyTask": "2–4 guest posts",
-    "team": "digital-marketing"
+    "team": "digital-marketing",
+    "weeklyTask": "Week 1: Identify and research potential blogs that align with our brand's niche and audience. Compile a list of 10-15 high-authority blogs. Week 2: Reach out to these blogs with guest post proposals, including topic suggestions and keywords. Week 3: Follow up with blog owners to confirm guest post placements. Week 4: Submit 2-4 guest posts and ensure that they are live with dofollow links."
   },
   {
     "month": "March",
@@ -1997,7 +1999,8 @@
     "subElement": "iii. Directories Listing",
     "task": "Submit listings in relevant directories",
     "monthlyTask": "25 directories",
-    "team": "digital-marketing"
+    "team": "digital-marketing",
+    "weeklyTask": "week 3 (jan 19 - jan 23 ) 10 directories submissions"
   },
   {
     "month": "February",
@@ -2006,7 +2009,8 @@
     "subElement": "iii. Directories Listing",
     "task": "Submit listings in relevant directories",
     "monthlyTask": "25 directories",
-    "team": "digital-marketing"
+    "team": "digital-marketing",
+    "weeklyTask": "Week 1: Research and identify 25 relevant, high-quality business directories where we can list our company for maximum SEO benefit. Week 2: Begin submitting our brand to the first 10 directories, ensuring correct and consistent details. Week 3: Continue with submissions to the next 10 directories. Week 4: Complete remaining submissions and review all directory listings to ensure they are live and active."
   },
   {
     "month": "March",
@@ -2105,7 +2109,8 @@
     "subElement": "iv. Classified Submissions",
     "task": "Publish brand info with links on classified sites",
     "monthlyTask": "50–100 listings",
-    "team": "digital-marketing"
+    "team": "digital-marketing",
+    "weeklyTask": "week 3 (jan 19 - jan 23 ) 10 classified submissions"
   },
   {
     "month": "February",
@@ -2114,7 +2119,8 @@
     "subElement": "iv. Classified Submissions",
     "task": "Publish brand info with links on classified sites",
     "monthlyTask": "50–100 listings",
-    "team": "digital-marketing"
+    "team": "digital-marketing",
+    "weeklyTask": "Week 1: Identify and research 50 classified websites where we can post our brand's information, ensuring they are reputable and provide quality backlinks. Week 2: Start publishing brand info with backlinks on 25 sites. Week 3: Continue submissions to the next 25 classified sites. Week 4: Review submissions, confirm listings, and ensure that all information is live."
   },
   {
     "month": "March",
@@ -2214,7 +2220,7 @@
     "task": "Submit pages to platforms like Medium, Reddit, Tumblr",
     "monthlyTask": "50 submissions",
     "team": "digital-marketing",
-    "weeklyTask": "Week 1: Research 50 social bookmarking platforms that are relevant to our brand and have a strong SEO presence (Medium, Reddit, Tumblr, etc.). Week 2: Start bookmarking our blog posts, product pages, and other key content on 25 platforms. Week 3: Continue submitting to the next 25 platforms. Week 4: Track and analyze performance on these platforms and review the overall impact on SEO."
+    "weeklyTask": "week 4 (jan 26 - jan 30 ) 10 submissions"
   },
   {
     "month": "February",
@@ -2324,7 +2330,7 @@
     "task": "Audit top 3 competitors using Ahrefs/SEMrush",
     "monthlyTask": "1 report/month",
     "team": "digital-marketing",
-    "weeklyTask": "Week 1: Identify the top 3 competitors in our niche. Use Ahrefs or SEMrush to audit their backlink profiles, identifying their most valuable backlinks. Week 2: Analyze competitor backlink strategies and map their sources. Week 3: Compile all research into a detailed report highlighting their backlink opportunities and strengths. Week 4: Finalize the backlink audit report and identify areas where we can replicate their strategy."
+    "weeklyTask": "week 4 (jan 26 - jan 30 ) 1 competitor audit"
   },
   {
     "month": "February",
@@ -2433,7 +2439,8 @@
     "subElement": "ii. Replication",
     "task": "Earn backlinks similar to competitors",
     "monthlyTask": "5-10 backlinks",
-    "team": "digital-marketing"
+    "team": "digital-marketing",
+    "weeklyTask": "week 4 (jan 26 - jan 30 ) Earn 4 backlinks similar to competitors"
   },
   {
     "month": "February",
@@ -2442,7 +2449,8 @@
     "subElement": "ii. Replication",
     "task": "Earn backlinks similar to competitors",
     "monthlyTask": "5-10 backlinks",
-    "team": "digital-marketing"
+    "team": "digital-marketing",
+    "weeklyTask": "Week 1: Based on the competitor backlink audit, target the websites they have backlinks from. Identify 5-10 such opportunities. Week 2: Reach out to these sites and offer to contribute content or secure backlinks through relationship building. Week 3: Continue outreach and follow up with site owners for backlink placements. Week 4: Secure 5-10 backlinks by ensuring quality content and backlink strategies are in place."
   },
   {
     "month": "March",
@@ -2541,8 +2549,7 @@
     "subElement": "i. Blog Publishing",
     "task": "Write blogs with long-tail keywords and storytelling",
     "monthlyTask": "4–5 blogs",
-    "team": "digital-marketing",
-    "weeklyTask": "Week 1: Research and write a blog on trending topics that resonate with our audience. Ensure it includes long-tail keywords. Week 2: Write another blog post with a unique angle or perspective that addresses a pain point or topic of interest for our target audience. Week 3: Write a blog that tells a story about our product/service, integrating long-tail keywords seamlessly. Week 4: Write the final blog post and ensure all blogs are published and optimized for SEO."
+    "team": "digital-marketing"
   },
   {
     "month": "February",
@@ -2652,7 +2659,7 @@
     "task": "Use formats like listicles, how-to, news",
     "monthlyTask": "4–5 blogs",
     "team": "digital-marketing",
-    "weeklyTask": "Week 1: Write a listicle blog post that highlights the top 5 or 10 tips related to our product/service. Week 2: Write a how-to blog with a step-by-step guide using our product/service. Week 3: Write a news-style blog on the latest trends or innovations in our industry. Week 4: Repurpose high-performing blog formats to create new content for SEO optimization."
+    "weeklyTask": "week 4 (jan 26 - jan 30 ) 1 listicles"
   },
   {
     "month": "February",
@@ -2770,7 +2777,8 @@
     "subElement": "ii. Videos",
     "task": "Create short styling/product videos",
     "monthlyTask": "2 videos",
-    "team": "digital-marketing"
+    "team": "digital-marketing",
+    "weeklyTask": "Week 1: Plan video content ideas that align with blog content, like styling or product demo videos. Script the first video. Week 2: Shoot and edit the first video. Ensure it’s engaging, and includes a call-to-action. Week 3: Shoot and edit the second video. Ensure quality and consistency with the first. Week 4: Promote both videos on social media platforms and track engagement metrics."
   },
   {
     "month": "March",
@@ -2870,7 +2878,7 @@
     "task": "Identify & group keywords by intent",
     "monthlyTask": "Ongoing",
     "team": "digital-marketing",
-    "weeklyTask": "Week 1: Identify core keywords that match our brand’s offerings. Group them by search intent: informational, transactional, navigational. Week 2: Expand on these keywords by finding long-tail variations that drive high-quality traffic. Week 3: Continue with research to discover additional high-value keywords. Week 4: Map the keywords to specific landing pages and blog content for optimization."
+    "weeklyTask": "week 4 (jan 26 - jan 30 )"
   },
   {
     "month": "February",
@@ -2988,7 +2996,8 @@
     "subElement": "ii. Mapping & Gap Analysis",
     "task": "Assign keywords & find content gaps",
     "monthlyTask": "Ongoing",
-    "team": "digital-marketing"
+    "team": "digital-marketing",
+    "weeklyTask": "Week 1: Assign the identified keywords to corresponding content types (blogs, product pages). Week 2: Analyze gaps in current content where assigned keywords are missing or underperforming. Week 3: Optimize existing content and create new content to fill identified gaps. Week 4: Finalize keyword mapping and gap analysis for the entire site."
   },
   {
     "month": "March",
@@ -3087,8 +3096,7 @@
     "subElement": "i. Profile Management",
     "task": "Manage IG, Pinterest, FB",
     "monthlyTask": "Regular sharing",
-    "team": "digital-marketing",
-    "weeklyTask": "Week 1: Plan and schedule posts for all social platforms for the month ahead. Week 2: Continue with posting regularly on Instagram, Pinterest, and Facebook, ensuring engagement with followers. Week 3: Review the performance of posts and adjust the strategy based on insights. Week 4: Analyze social media performance and refine the content strategy for the next month."
+    "team": "digital-marketing"
   },
   {
     "month": "February",
@@ -3206,7 +3214,8 @@
     "subElement": "ii. Content Sharing",
     "task": "Share blogs, products, reels",
     "monthlyTask": "Regular sharing",
-    "team": "digital-marketing"
+    "team": "digital-marketing",
+    "weeklyTask": "Week 1: Share the latest blog post on all platforms (IG, Pinterest, Facebook). Week 2: Post product-related content and relevant user-generated content. Week 3: Share a reel highlighting product benefits or customer testimonials. Week 4: Re-share popular content, re-engage audiences, and optimize posts for better reach."
   },
   {
     "month": "March",
@@ -3314,7 +3323,8 @@
     "subElement": "iii. UGC Promotion",
     "task": "Encourage user-generated content",
     "monthlyTask": "Campaign-based",
-    "team": "digital-marketing"
+    "team": "digital-marketing",
+    "weeklyTask": "Week 1: Launch a campaign to encourage UGC around a seasonal event or product. Week 2: Promote UGC campaign on all platforms and create incentives for participation. Week 3: Monitor UGC submissions and engage with users. Week 4: Highlight top UGC content across our brand channels and analyze the success of the campaign."
   },
   {
     "month": "March",
@@ -3413,8 +3423,7 @@
     "subElement": "i. SEO Monitoring",
     "task": "Track rankings, traffic, backlinks, Domain Authority, speed",
     "monthlyTask": "Weekly/Monthly",
-    "team": "digital-marketing",
-    "weeklyTask": "Week 1: Track keyword rankings and traffic to assess initial performance. Week 2: Monitor backlink health and Domain Authority. Week 3: Evaluate page load speed and mobile optimization. Week 4: Consolidate weekly and monthly performance data, identify opportunities, and make adjustments."
+    "team": "digital-marketing"
   },
   {
     "month": "February",
@@ -4180,7 +4189,8 @@
     "subElement": "Other",
     "task": "Core Web Vitals",
     "monthlyTask": "Core Web Vitals",
-    "team": "digital-marketing"
+    "team": "digital-marketing",
+    "weeklyTask": "Week 2 Maintaining core web vitals"
   },
   {
     "month": "March",
@@ -4288,7 +4298,8 @@
     "subElement": "Other",
     "task": "Estimate All URLs in Good Status with green signals",
     "monthlyTask": "Estimate All URLs in Good Status with green signals",
-    "team": "digital-marketing"
+    "team": "digital-marketing",
+    "weeklyTask": "Week1 to Week 4 (On-Going)"
   },
   {
     "month": "March",
@@ -5180,7 +5191,7 @@
     "task": "1.D2C Campaigns",
     "monthlyTask": "50,000–150,000 impressions with 1%–2% CTR Based on Monthly Ad Spend, keyword volume & targeting scope",
     "team": "digital-marketing",
-    "weeklyTask": "week 1 Search Engine Marketing Paid Ads Creation and Opti mization for Google\nweek 2 Search Engine Marketing Paid Ads Creation and Opti mization for Google\nweek 3 Search Engine Marketing Paid Ads Creation and Opti mization for Google\nweek 4 Search Engine Marketing Paid Ads Creation and Opti mization for Google"
+    "weeklyTask": "week 3 (jan 19 - jan 23 ) preparation and identify keywords for targeting"
   },
   {
     "month": "February",
@@ -5289,8 +5300,7 @@
     "subElement": "Search Engine Marketing",
     "task": "2.B2C Campaigns",
     "monthlyTask": "50,000–150,000 impressions with 1%–2% CTR Based on Monthly Ad Spend, keyword volume & targeting scope",
-    "team": "digital-marketing",
-    "weeklyTask": "week 1 Search Engine Marketing Paid Ads Creation and Opti mization for Google\nweek 2 Search Engine Marketing Paid Ads Creation and Opti mization for Google\nweek 3 Search Engine Marketing Paid Ads Creation and Opti mization for Google\nweek 4 Search Engine Marketing Paid Ads Creation and Opti mization for Google"
+    "team": "digital-marketing"
   },
   {
     "month": "January",
@@ -5299,8 +5309,7 @@
     "subElement": "Search Engine Marketing",
     "task": "3.Geographic Targeting",
     "monthlyTask": "50,000–150,000 impressions with 1%–2% CTR Based on Monthly Ad Spend, keyword volume & targeting scope",
-    "team": "digital-marketing",
-    "weeklyTask": "week 1 Search Engine Marketing Paid Ads Creation and Opti mization for Google\nweek 2 Search Engine Marketing Paid Ads Creation and Opti mization for Google\nweek 3 Search Engine Marketing Paid Ads Creation and Opti mization for Google\nweek 4 Search Engine Marketing Paid Ads Creation and Opti mization for Google"
+    "team": "digital-marketing"
   },
   {
     "month": "January",
@@ -5309,7 +5318,8 @@
     "subElement": "Social Media Advertising",
     "task": "1.D2C Campaigns (Meta, Instagram)",
     "monthlyTask": "100,000–150,000 impressions with 0.5%–1% CTR Based on Monthly Ad Spend, keyword volume & targeting scope",
-    "team": "digital-marketing"
+    "team": "digital-marketing",
+    "weeklyTask": "week 4 (jan 26 - jan 30 ) prepare keywords for targeted ads creatives"
   },
   {
     "month": "February",
@@ -5318,7 +5328,8 @@
     "subElement": "Social Media Advertising",
     "task": "1.D2C Campaigns (Meta, Instagram)",
     "monthlyTask": "100,000–150,000 impressions with 0.5%–1% CTR Based on Monthly Ad Spend, keyword volume & targeting scope",
-    "team": "digital-marketing"
+    "team": "digital-marketing",
+    "weeklyTask": "week 1 Social Media Advertising Paid Ads Creation and Opti mization for Youtube, Facebook and Instagram\nweek 2 Search Engine Advertising Paid Ads Creation and Opti mization for Youtube, Facebook and Instagram\nweek 3 Search Engine Advertising Paid Ads Creation and Opti mization for Youtube, Facebook and Instagram\nweek 4 Search Engine Advertising Paid Ads Creation and Opti mization for Youtube, Facebook and Instagram"
   },
   {
     "month": "March",
@@ -5426,7 +5437,8 @@
     "subElement": "Email Marketing",
     "task": "1.Email Flows",
     "monthlyTask": "1,000–2,000 email will send Includes B2C and D2C: newsletters, automations, and campaigns",
-    "team": "digital-marketing"
+    "team": "digital-marketing",
+    "weeklyTask": "week 1 100–200 email will send to D2C informational and enducatinal flow\nweek 2 100–200 email will send to D2C informational and enducatinal flow\nweek 3 100–200 email will send to D2C informational and enducatinal flow\nweek 4 100–200 email will send to D2C informational and enducatinal flow"
   },
   {
     "month": "March",
@@ -5534,7 +5546,8 @@
     "subElement": "WhatsApp Marketing",
     "task": "1.WhatsApp Broadcast Messages",
     "monthlyTask": "1,000–2,000 messages will be sent, including B2C and D2C: promotional updates, customer engagement, and automated flows.",
-    "team": "digital-marketing"
+    "team": "digital-marketing",
+    "weeklyTask": "week 1 100–200 messages will be sent, including B2C and D2C: promotional updates, customer engagement, and automated flows.\nweek 2 100–200 messages will be sent, including B2C and D2C: promotional updates, customer engagement, and automated flows.\nweek 3 100–200 messages will be sent, including B2C and D2C: promotional updates, customer engagement, and automated flows.\nweek 4 100–200 messages will be sent, including B2C and D2C: promotional updates, customer engagement, and automated flows."
   },
   {
     "month": "February",
@@ -5543,7 +5556,8 @@
     "subElement": "WhatsApp Marketing",
     "task": "2.Lead Nurturing via WhatsApp",
     "monthlyTask": "Regular updates sent to customers, focusing on key product launches, news, and promotions.",
-    "team": "digital-marketing"
+    "team": "digital-marketing",
+    "weeklyTask": "Week 1 to Week 4"
   },
   {
     "month": "February",
@@ -5552,7 +5566,8 @@
     "subElement": "WhatsApp Marketing",
     "task": "3.Monthly WhatsApp Digest",
     "monthlyTask": "1,000–2,000 messages will be sent, including B2C and D2C: promotional updates, customer engagement, and automated flows.",
-    "team": "digital-marketing"
+    "team": "digital-marketing",
+    "weeklyTask": "week 1 100–200 messages will be sent, including B2C and D2C: promotional updates, customer engagement, and automated flows.\nweek 2 100–200 messages will be sent, including B2C and D2C: promotional updates, customer engagement, and automated flows.\nweek 3 100–200 messages will be sent, including B2C and D2C: promotional updates, customer engagement, and automated flows.\nweek 4 100–200 messages will be sent, including B2C and D2C: promotional updates, customer engagement, and automated flows."
   },
   {
     "month": "March",
@@ -5921,7 +5936,8 @@
     "subElement": "Conversion Rate Optimization (CRO)",
     "task": "1.A/B testing",
     "monthlyTask": "Team will work on continuous changes",
-    "team": "digital-marketing"
+    "team": "digital-marketing",
+    "weeklyTask": "Week 1 to Week 4"
   },
   {
     "month": "March",
@@ -6119,7 +6135,8 @@
     "subElement": "Social Media Optimization",
     "task": "Profile Optimization",
     "monthlyTask": "100K–150K impressions with 0.5%–1% CTR, 150–300 clicks",
-    "team": "digital-marketing"
+    "team": "digital-marketing",
+    "weeklyTask": "week 4 (jan 26 - jan 30 ) prepare post, messages, videos, etc"
   },
   {
     "month": "February",
@@ -6128,7 +6145,8 @@
     "subElement": "Social Media Optimization",
     "task": "Profile Optimization",
     "monthlyTask": "100K–150K impressions with 0.5%–1% CTR, 150–300 clicks",
-    "team": "digital-marketing"
+    "team": "digital-marketing",
+    "weeklyTask": "Week 1 to Week 4"
   },
   {
     "month": "March",
@@ -6264,7 +6282,7 @@
     "task": "1.Communication plan outlining",
     "monthlyTask": "20 to 30",
     "team": "digital-marketing",
-    "weeklyTask": "week 1 Communication plan outlining, Market positioning, Create 5 to 10  tailored messages and Write and submit 5 press releases to media platforms \nweek 2 Communication plan outlining, Market positioning, Create 5 to 10  tailored messages and Write and submit 5 press releases to media platforms \nweek 3 Communication plan outlining, Market positioning, Create 5 to 10  tailored messages and Write and submit 5 press releases to media platforms \nweek 4 Communication plan outlining, Market positioning, Create 5 to 10  tailored messages and Write and submit 5 press releases to media platforms "
+    "weeklyTask": "week 4 (jan 26 - jan 30 ) prepareCommunication plan and market positioning"
   },
   {
     "month": "February",
@@ -6373,8 +6391,7 @@
     "subElement": "PR Strategy & Messaging",
     "task": "2.Market positioning",
     "monthlyTask": "20 to 30",
-    "team": "digital-marketing",
-    "weeklyTask": "week 1 Communication plan outlining, Market positioning, Create 5 to 10  tailored messages and Write and submit 5 press releases to media platforms \nweek 2 Communication plan outlining, Market positioning, Create 5 to 10  tailored messages and Write and submit 5 press releases to media platforms \nweek 3 Communication plan outlining, Market positioning, Create 5 to 10  tailored messages and Write and submit 5 press releases to media platforms \nweek 4 Communication plan outlining, Market positioning, Create 5 to 10  tailored messages and Write and submit 5 press releases to media platforms "
+    "team": "digital-marketing"
   },
   {
     "month": "February",
@@ -6383,8 +6400,7 @@
     "subElement": "PR Strategy & Messaging",
     "task": "2.Market positioning",
     "monthlyTask": "20 to 30",
-    "team": "digital-marketing",
-    "weeklyTask": "week 1 Communication plan outlining, Market positioning, Create 5 to 10  tailored messages and Write and submit 5 press releases to media platforms \nweek 2 Communication plan outlining, Market positioning, Create 5 to 10  tailored messages and Write and submit 5 press releases to media platforms \nweek 3 Communication plan outlining, Market positioning, Create 5 to 10  tailored messages and Write and submit 5 press releases to media platforms \nweek 4 Communication plan outlining, Market positioning, Create 5 to 10  tailored messages and Write and submit 5 press releases to media platforms "
+    "team": "digital-marketing"
   },
   {
     "month": "March",
@@ -6483,8 +6499,7 @@
     "subElement": "PR Strategy & Messaging",
     "task": "3.Create tailored messages",
     "monthlyTask": "20 to 30",
-    "team": "digital-marketing",
-    "weeklyTask": "week 1 Communication plan outlining, Market positioning, Create 5 to 10  tailored messages and Write and submit 5 press releases to media platforms \nweek 2 Communication plan outlining, Market positioning, Create 5 to 10  tailored messages and Write and submit 5 press releases to media platforms \nweek 3 Communication plan outlining, Market positioning, Create 5 to 10  tailored messages and Write and submit 5 press releases to media platforms \nweek 4 Communication plan outlining, Market positioning, Create 5 to 10  tailored messages and Write and submit 5 press releases to media platforms "
+    "team": "digital-marketing"
   },
   {
     "month": "February",
@@ -6493,8 +6508,7 @@
     "subElement": "PR Strategy & Messaging",
     "task": "3.Create tailored messages",
     "monthlyTask": "20 to 30",
-    "team": "digital-marketing",
-    "weeklyTask": "week 1 Communication plan outlining, Market positioning, Create 5 to 10  tailored messages and Write and submit 5 press releases to media platforms \nweek 2 Communication plan outlining, Market positioning, Create 5 to 10  tailored messages and Write and submit 5 press releases to media platforms \nweek 3 Communication plan outlining, Market positioning, Create 5 to 10  tailored messages and Write and submit 5 press releases to media platforms \nweek 4 Communication plan outlining, Market positioning, Create 5 to 10  tailored messages and Write and submit 5 press releases to media platforms "
+    "team": "digital-marketing"
   },
   {
     "month": "March",
@@ -6593,7 +6607,8 @@
     "subElement": "PR Writing & Submission",
     "task": "1.Write professional, media-ready press releases.",
     "monthlyTask": "20 to 30",
-    "team": "digital-marketing"
+    "team": "digital-marketing",
+    "weeklyTask": "week 4 (jan 26 - jan 30 ) Write 4 to 5 professional, media-ready press releases."
   },
   {
     "month": "February",
@@ -6809,7 +6824,8 @@
     "subElement": "PR Distribution Channels",
     "task": "1.Identifying channels",
     "monthlyTask": "2 to 3",
-    "team": "digital-marketing"
+    "team": "digital-marketing",
+    "weeklyTask": "week 4 (jan 26 - jan 30 ) Identifying channels for submissions"
   },
   {
     "month": "February",
@@ -6818,7 +6834,8 @@
     "subElement": "PR Distribution Channels",
     "task": "1.Identifying channels",
     "monthlyTask": "2 to 3",
-    "team": "digital-marketing"
+    "team": "digital-marketing",
+    "weeklyTask": "week 1 Identifying channels and Customize distribution into 1-3 platforms\nweek 2 Identifying channels and Customize distribution into 1-3 platforms\nweek 3 Identifying channels and Customize distribution into 1-3 platforms\nweek 4 Identifying channels and Customize distribution into 1-3 platforms"
   },
   {
     "month": "March",
@@ -7025,7 +7042,8 @@
     "subElement": "Other",
     "task": "Trend Stories & Listicles",
     "monthlyTask": "define",
-    "team": "digital-marketing"
+    "team": "digital-marketing",
+    "weeklyTask": "week 4 (jan 26 - jan 30 ) prepare listicles, Press Releases and collab with infuencer"
   },
   {
     "month": "February",
@@ -7034,7 +7052,8 @@
     "subElement": "Other",
     "task": "Trend Stories & Listicles",
     "monthlyTask": "define",
-    "team": "digital-marketing"
+    "team": "digital-marketing",
+    "weeklyTask": "Week 1 - 1 Trend Stories & Listicles"
   },
   {
     "month": "March",
@@ -7142,7 +7161,8 @@
     "subElement": "Other",
     "task": "Media Gifting",
     "monthlyTask": "10",
-    "team": "digital-marketing"
+    "team": "digital-marketing",
+    "weeklyTask": "week 1 - 2 media gifting\nweek 2 - 1 media gifting\nweek 3 - 2 media gifting\nweek 4 - 1 media gifting"
   },
   {
     "month": "March",
@@ -7250,7 +7270,8 @@
     "subElement": "Other",
     "task": "Press Release",
     "monthlyTask": "1",
-    "team": "digital-marketing"
+    "team": "digital-marketing",
+    "weeklyTask": "Week 2 - 1 PR"
   },
   {
     "month": "March",
@@ -7700,7 +7721,8 @@
     "subElement": "Other",
     "task": "I. Website Content Overhaul for B2C Growth",
     "monthlyTask": "10 + 5",
-    "team": "digital-marketing"
+    "team": "digital-marketing",
+    "weeklyTask": "week 4 (jan 26 - jan 30 ) start preparations for Website Content, Product Education, Kits Educational content"
   },
   {
     "month": "January",
@@ -7727,7 +7749,8 @@
     "subElement": "Other",
     "task": "I. Press Releases",
     "monthlyTask": "5 + 5",
-    "team": "digital-marketing"
+    "team": "digital-marketing",
+    "weeklyTask": "week 4 (jan 26 - jan 30 ) Create 2 PR, 1 Articles"
   },
   {
     "month": "January",
@@ -7754,7 +7777,8 @@
     "subElement": "Other",
     "task": "I. Real-user product stories",
     "monthlyTask": "20 Reviews",
-    "team": "digital-marketing"
+    "team": "digital-marketing",
+    "weeklyTask": "week 4 (jan 26 - jan 30 ) Create 5 reviews, 2 user Journey, 1 Hub Page"
   },
   {
     "month": "January",
@@ -7808,7 +7832,8 @@
     "subElement": "Other",
     "task": "I. Rituva Summer Kits – Morning to Night Rituals",
     "monthlyTask": "Always-On (season focus only)",
-    "team": "digital-marketing"
+    "team": "digital-marketing",
+    "weeklyTask": "week 4 (jan 26 - jan 30 ) Prepare for Seasonal Campaign Content"
   },
   {
     "month": "January",
@@ -7835,7 +7860,8 @@
     "subElement": "Other",
     "task": "I. Website Content Overhaul for B2C Growth",
     "monthlyTask": "10 + 5",
-    "team": "digital-marketing"
+    "team": "digital-marketing",
+    "weeklyTask": "week 1 - 2 Website Content Overhaul for B2C Growth\nweek 2 - 2 Website Content Overhaul for B2C Growth\nweek 3 - 2 Website Content Overhaul for B2C Growth\nweek 4 - 2 Website Content Overhaul for B2C Growth"
   },
   {
     "month": "February",
@@ -7844,7 +7870,8 @@
     "subElement": "Other",
     "task": "II. Product Education",
     "monthlyTask": "Ongoing",
-    "team": "digital-marketing"
+    "team": "digital-marketing",
+    "weeklyTask": "Week 1 TO Week 4"
   },
   {
     "month": "February",
@@ -7853,7 +7880,8 @@
     "subElement": "Other",
     "task": "III. Rituva Seasonal Ritual Education (Summer:)",
     "monthlyTask": "6–8 Blogs (Season-led)",
-    "team": "digital-marketing"
+    "team": "digital-marketing",
+    "weeklyTask": "week 1 - 1 Rituva Seasonal Ritual Education Blog\nweek 2 - 1 Rituva Seasonal Ritual Education Blog\nweek 3 - 1 Rituva Seasonal Ritual Education Blog\nweek 4 - 1 Rituva Seasonal Ritual Education Blog"
   },
   {
     "month": "February",
@@ -7862,7 +7890,8 @@
     "subElement": "Other",
     "task": "I. Press Releases",
     "monthlyTask": "5 + 5",
-    "team": "digital-marketing"
+    "team": "digital-marketing",
+    "weeklyTask": "week 1 - 1 Press Release & Thought Leadership writing\nweek 2 - 1 Press Release & Thought Leadership writing\nweek 3 - 1 Press Release & Thought Leadership writing\nweek 4 - 1 Press Release & Thought Leadership writing"
   },
   {
     "month": "February",
@@ -7871,7 +7900,8 @@
     "subElement": "Other",
     "task": "II. Bylined Articles",
     "monthlyTask": "2–3",
-    "team": "digital-marketing"
+    "team": "digital-marketing",
+    "weeklyTask": "Week 1 to Week 4 - 1 Bylined Articles"
   },
   {
     "month": "February",
@@ -7880,7 +7910,8 @@
     "subElement": "Other",
     "task": "III. Rituva Seasonal Thought Leadership (Summer Wellness, Skin, Digestion, Sleep)",
     "monthlyTask": "2–3 (Season-specific)",
-    "team": "digital-marketing"
+    "team": "digital-marketing",
+    "weeklyTask": "week 1 - 1 Rituva Seasonal Thought Leadership (Summer Wellness, Skin, Digestion, Sleep)\nweek 4 - 1 PRituva Seasonal Thought Leadership (Summer Wellness, Skin, Digestion, Sleep)"
   },
   {
     "month": "February",
@@ -7889,7 +7920,8 @@
     "subElement": "Other",
     "task": "I. Real-user product stories",
     "monthlyTask": "20 Reviews",
-    "team": "digital-marketing"
+    "team": "digital-marketing",
+    "weeklyTask": "week 1 - 5 Review Writing\nweek 2 - 5 Review Writing\nweek 3 - 5 Review Writing\nweek 4 - 5 Review Writing"
   },
   {
     "month": "February",
@@ -7898,7 +7930,8 @@
     "subElement": "Other",
     "task": "II. Rituva Summer Kit User Journeys (Morning–Night Rituals)",
     "monthlyTask": "8–10 Reviews / Month",
-    "team": "digital-marketing"
+    "team": "digital-marketing",
+    "weeklyTask": "week 1 - 1 Review Writing\nweek 2 - 2 Review Writing\nweek 3 - 2 Review Writing\nweek 4 - 1 Review Writing"
   },
   {
     "month": "February",
@@ -7907,7 +7940,8 @@
     "subElement": "Other",
     "task": "I. Starter Kits & Bundles",
     "monthlyTask": "Continuous Updates",
-    "team": "digital-marketing"
+    "team": "digital-marketing",
+    "weeklyTask": "Week 1 TO Week 4"
   },
   {
     "month": "February",
@@ -7916,7 +7950,8 @@
     "subElement": "Other",
     "task": "II. Gifting Page",
     "monthlyTask": "Continuous Updates",
-    "team": "digital-marketing"
+    "team": "digital-marketing",
+    "weeklyTask": "Week 1 TO Week 4"
   },
   {
     "month": "February",
@@ -7925,7 +7960,8 @@
     "subElement": "Other",
     "task": "III. Everyday Use Page",
     "monthlyTask": "Continuous Updates",
-    "team": "digital-marketing"
+    "team": "digital-marketing",
+    "weeklyTask": "Week 1 TO Week 4"
   },
   {
     "month": "February",
@@ -7934,7 +7970,8 @@
     "subElement": "Other",
     "task": "IV. Rituva Summer Kits – Seasonal Hub Page",
     "monthlyTask": "Dedicated Seasonal Page",
-    "team": "digital-marketing"
+    "team": "digital-marketing",
+    "weeklyTask": "Week 1 TO Week 4"
   },
   {
     "month": "February",
@@ -7943,7 +7980,8 @@
     "subElement": "Other",
     "task": "I. Rituva Summer Kits – Morning to Night Rituals",
     "monthlyTask": "Always-On (season focus only)",
-    "team": "digital-marketing"
+    "team": "digital-marketing",
+    "weeklyTask": "Week 1 TO Week 4"
   },
   {
     "month": "February",
@@ -7952,7 +7990,8 @@
     "subElement": "Other",
     "task": "II. Ritual-based Content (AM, Midday, PM, Night)",
     "monthlyTask": "Weekly Rotation",
-    "team": "digital-marketing"
+    "team": "digital-marketing",
+    "weeklyTask": "Week 1 TO Week 4"
   },
   {
     "month": "February",
@@ -7961,7 +8000,8 @@
     "subElement": "Other",
     "task": "I. Seasonal CTA, Bundles, & Messaging Optimization",
     "monthlyTask": "Monthly Optimization",
-    "team": "digital-marketing"
+    "team": "digital-marketing",
+    "weeklyTask": "Week 1 TO Week 4"
   },
   {
     "month": "December",
@@ -8033,7 +8073,8 @@
     "subElement": "ii. Seasonal Keyword Optimization",
     "task": "Optimize for summer-intent keywords (summer rituals, warm-weather routines, summer kits)",
     "monthlyTask": "season focus only (all SEO activity centered on Summer Kits)",
-    "team": "digital-marketing"
+    "team": "digital-marketing",
+    "weeklyTask": "week 4 (Feb 23 - Feb 27) 100 seasonal keywords optimization"
   },
   {
     "month": "February",
@@ -8105,8 +8146,7 @@
     "subElement": "i. Summer Ritual Positioning",
     "task": "Promote Rituva Summer Kits for Morning-Day-Night rituals across backlinks, guest posts, and booknmarks",
     "monthlyTask": "seasonal focus only",
-    "team": "digital-marketing",
-    "weeklyTask": "Week 1: Plan content around the seasonal positioning of Rituva Summer Kits. Week 2: Outreach to relevant blogs for backlinks, guest posts, and social shares. Week 3: Continue content creation and backlink acquisition efforts to promote the kits. Week 4: Review performance and fine-tune strategies for optimal seasonal traffic."
+    "team": "digital-marketing"
   },
   {
     "month": "January",
@@ -8124,8 +8164,7 @@
     "subElement": "i. Seasonal Blog Promotion",
     "task": "Promote Rituva Summer Care Rituals, Dosha balance, Cold-weather routines using Rituva Kits",
     "monthlyTask": "100% content alignment",
-    "team": "digital-marketing",
-    "weeklyTask": "Week 1: Create and publish seasonal blog content for summer care rituals. Week 2: Share content across social media and relevant platforms. Week 3: Push content in targeted email campaigns, social shares, and seasonal ads. Week 4: Measure the impact of content and refine future seasonal campaigns."
+    "team": "digital-marketing"
   },
   {
     "month": "January",
@@ -8143,8 +8182,7 @@
     "subElement": "i. Summer Keyword Clusters",
     "task": "Focus only on summer-intent keywords (e.g., summer routine, cold season self-care, morning night rituals)",
     "monthlyTask": "seasonal focus only",
-    "team": "digital-marketing",
-    "weeklyTask": "Week 1: Research seasonal keywords for summer care and self-care routines. Week 2: Map the keywords to existing content and optimize for summer-focused searches. Week 3: Continue focusing on long-tail summer keywords and refine search intent. Week 4: Analyze the performance of seasonal keywords and adjust accordingly."
+    "team": "digital-marketing"
   },
   {
     "month": "January",
@@ -8172,7 +8210,8 @@
     "subElement": "ii. Seasonal Backlink Outreach",
     "task": "Acquire backlinks from summer wellness, Ayurveda, self-care, lifestyle, ritual-based blogs",
     "monthlyTask": "20–30 seasonal backlinks",
-    "team": "digital-marketing"
+    "team": "digital-marketing",
+    "weeklyTask": "Week 1: Research and identify 20-30 relevant seasonal blogs. Week 2: Reach out to these sites for backlink placement. Week 3: Follow up and ensure placement of backlinks. Week 4: Evaluate backlink performance and adjust seasonal strategy as needed."
   },
   {
     "month": "February",
@@ -8191,7 +8230,8 @@
     "subElement": "ii. Seasonal Social Signals",
     "task": "Push Summer Kit pages via Pinterest boards, IG reels, Reddit threads",
     "monthlyTask": "Campaign-based",
-    "team": "digital-marketing"
+    "team": "digital-marketing",
+    "weeklyTask": "Week 1: Create seasonal content for Pinterest and IG reels. Week 2: Post content and actively engage with followers. Week 3: Promote content on Reddit and other niche platforms. Week 4: Analyze the social signals and adjust the approach for greater engagement."
   },
   {
     "month": "February",
@@ -8210,7 +8250,8 @@
     "subElement": "ii. Landing Page Authority",
     "task": "Build authority links specifically to Rituva Summer Kit landing pages",
     "monthlyTask": "Priority focus",
-    "team": "digital-marketing"
+    "team": "digital-marketing",
+    "weeklyTask": "Week 1: Identify high-authority websites to build backlinks to landing pages. Week 2: Start outreach for link building efforts. Week 3: Follow up and secure backlinks from reputable sites. Week 4: Evaluate the link building process and the authority growth for landing pages."
   },
   {
     "month": "December",
@@ -8247,7 +8288,7 @@
     "task": "Summer-Only Paid Campaigns",
     "monthlyTask": "100% campaign focus on Rituva Summer Kits with Morning-to-Night Ritual positioning",
     "team": "digital-marketing",
-    "weeklyTask": "Week 1 to Week 4"
+    "weeklyTask": "week 4 (jan 26 - jan 30 ) preparaton to focus on Rituva Summer Kits with Morning-to-Night Ritual positioning"
   },
   {
     "month": "January",
@@ -8257,7 +8298,7 @@
     "task": "Summer Ritual Content (AM–PM)",
     "monthlyTask": "Reels, stories, carousels highlighting Morning Cleansing, Day Protection, Night Repair rituals",
     "team": "digital-marketing",
-    "weeklyTask": "Week 1 to Week 4"
+    "weeklyTask": "week 4 (jan 26 - jan 30 ) preparaton Reels, stories, carousels highlighting Morning Cleansing, Day Protection, Night Repair rituals"
   },
   {
     "month": "January",
@@ -8266,8 +8307,7 @@
     "subElement": "Rituva Kit Optimization",
     "task": "Summer Kit Landing Pages & CTAs",
     "monthlyTask": "Dedicated summer landing pages, bundled CTAs, seasonal messaging, limited-time offers",
-    "team": "digital-marketing",
-    "weeklyTask": "Week 1 to Week 4"
+    "team": "digital-marketing"
   },
   {
     "month": "February",
@@ -8333,8 +8373,7 @@
     "subElement": "Seasonal Narrative Planning",
     "task": "1. Identify relevant seasonal theme (e.g., Summer –)",
     "monthlyTask": "1 seasonal focus / quarter",
-    "team": "digital-marketing",
-    "weeklyTask": "week 2 - Seasonal PR Campaigns"
+    "team": "digital-marketing"
   },
   {
     "month": "January",
@@ -8343,8 +8382,7 @@
     "subElement": "Summer Ritual Storytelling",
     "task": "1. Promote Rituva Summer Kits as complete Morning-to-Night Ritual Solutions 2. Emphasize protection, nourishment, immunity, and comfort themes",
     "monthlyTask": "6 to 10",
-    "team": "digital-marketing",
-    "weeklyTask": "Week 2 - 2 to 3 promotions on Promote Rituva Summer Kits as complete Morning-to-Night Ritual Solutions 2. Emphasize protection, nourishment, immunity, and comfort themes\nWeek 3 - 2 to 3 promotions on Promote Rituva Summer Kits as complete Morning-to-Night Ritual Solutions 2. Emphasize protection, nourishment, immunity, and comfort themes"
+    "team": "digital-marketing"
   },
   {
     "month": "January",
@@ -8353,8 +8391,7 @@
     "subElement": "Seasonal Distribution Strategy",
     "task": "1. Target summer-focused lifestyle, wellness, skincare, and Ayurveda platforms 2. Customize PR angles for morning care, daytime protection, and night recovery rituals",
     "monthlyTask": "3 to 5",
-    "team": "digital-marketing",
-    "weeklyTask": "Week 2 - 2 to 3 promotions on Promote Rituva Summer Kits as complete Morning-to-Night Ritual Solutions 2. Emphasize protection, nourishment, immunity, and comfort themes\nWeek 3 - 2 to 3 promotions on Promote Rituva Summer Kits as complete Morning-to-Night Ritual Solutions 2. Emphasize protection, nourishment, immunity, and comfort themes"
+    "team": "digital-marketing"
   },
   {
     "month": "February",
@@ -8421,7 +8458,7 @@
     "task": "Rituva Summer Kits – Morning to Night Ritual Storytelling",
     "monthlyTask": "1 core seasonal narrative pushed across PR, blogs & influencers",
     "team": "digital-marketing",
-    "weeklyTask": "week 1 - 1 core seasonal narrative pushed across PR, blogs & influencers\nweek 2 - 1 core seasonal narrative pushed across PR, blogs & influencers"
+    "weeklyTask": "week 4 (jan 26 - jan 30 ) start preparations for Night Ritual Storytelling"
   },
   {
     "month": "January",
@@ -8431,7 +8468,7 @@
     "task": "Rituva Summer Kits – AM/PM Ritual Content (Reels, Blogs, Stories)",
     "monthlyTask": "6–8 summer-specific pieces via existing influencer pool",
     "team": "digital-marketing",
-    "weeklyTask": "week 1 - 2 summer-specific pieces via existing influencer pool\nweek 2 - 2 summer-specific pieces via existing influencer pool"
+    "weeklyTask": "week 4 (jan 26 - jan 30 ) create 2 Content (Reels, Blogs, Stories)"
   },
   {
     "month": "January",
@@ -8440,8 +8477,7 @@
     "subElement": "Summer Self-Care Rituals Using Rituva Kits – Editorial & Listicle Placement",
     "task": "Summer Self-Care Rituals Using Rituva Kits – Editorial & Listicle Placement",
     "monthlyTask": "2 seasonal placements",
-    "team": "digital-marketing",
-    "weeklyTask": "week 1 - 1 Seasonal Digital PR / Features (NEW)\nweek 4 - 1 Seasonal Digital PR / Features (NEW)"
+    "team": "digital-marketing"
   },
   {
     "month": "February",
@@ -11210,78 +11246,6 @@
     "team": "digital-marketing"
   },
   {
-    "month": "February",
-    "category": "Brand Positioning & Thought Leadership",
-    "element": "Brand Positioning & Thought Leadership",
-    "subElement": "",
-    "task": "Trend Stories & Listicles",
-    "monthlyTask": "define",
-    "team": "digital-marketing"
-  },
-  {
-    "month": "February",
-    "category": "Brand Positioning & Thought Leadership",
-    "element": "Brand Positioning & Thought Leadership",
-    "subElement": "",
-    "task": "Media Gifting",
-    "monthlyTask": "10",
-    "team": "digital-marketing"
-  },
-  {
-    "month": "February",
-    "category": "Brand Positioning & Thought Leadership",
-    "element": "Brand Positioning & Thought Leadership",
-    "subElement": "",
-    "task": "Press Release",
-    "monthlyTask": "1",
-    "team": "digital-marketing"
-  },
-  {
-    "month": "February",
-    "category": "Brand Positioning & Thought Leadership",
-    "element": "Brand Positioning & Thought Leadership",
-    "subElement": "",
-    "task": "Influencer collaboration",
-    "monthlyTask": "4-5",
-    "team": "digital-marketing"
-  },
-  {
-    "month": "February",
-    "category": "Brand Positioning & Thought Leadership",
-    "element": "Brand Positioning & Thought Leadership",
-    "subElement": "",
-    "task": "Features",
-    "monthlyTask": "7",
-    "team": "digital-marketing"
-  },
-  {
-    "month": "February",
-    "category": "Brand Positioning & Thought Leadership",
-    "element": "Seasonal Brand Campaign (NEW)",
-    "subElement": "",
-    "task": "Rituva Summer Kits - Morning to Night Ritual Storytelling",
-    "monthlyTask": "1 core seasonal narrative pushed across PR, blogs & influencers",
-    "team": "digital-marketing"
-  },
-  {
-    "month": "February",
-    "category": "Brand Positioning & Thought Leadership",
-    "element": "Seasonal Influencer Push (NEW)",
-    "subElement": "",
-    "task": "Rituva Summer Kits - AM/PM Ritual Content (Reels, Blogs, Stories)",
-    "monthlyTask": "6-8 summer-specific pieces via existing influencer pool",
-    "team": "digital-marketing"
-  },
-  {
-    "month": "February",
-    "category": "Brand Positioning & Thought Leadership",
-    "element": "Seasonal Digital PR / Features (NEW)",
-    "subElement": "",
-    "task": "Summer Self-Care Rituals Using Rituva Kits - Editorial & Listicle Placement",
-    "monthlyTask": "2 seasonal placements",
-    "team": "digital-marketing"
-  },
-  {
     "month": "May",
     "category": "On-Page SEO",
     "element": "Preparation for Upcoming Rituva Monsoon Kit",
@@ -11352,5 +11316,7620 @@
     "task": "Full Content Strategy for Upcoming Rituva Monsoon Kit",
     "monthlyTask": "Develop comprehensive content marketing strategy for Monsoon Kit season",
     "team": "digital-marketing"
+  },
+  {
+    "month": "January",
+    "category": "Technical SEO",
+    "element": "Page Speed Performance",
+    "subElement": "Other",
+    "task": "Maintaining core web vitals LCP, CLS, INP, etc.",
+    "monthlyTask": "Estimate Speed Scores above 95",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "February",
+    "category": "Technical SEO",
+    "element": "Page Speed Performance",
+    "subElement": "Other",
+    "task": "Maintaining core web vitals LCP, CLS, INP, etc.",
+    "monthlyTask": "Estimate Speed Scores above 95",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "March",
+    "category": "Technical SEO",
+    "element": "Page Speed Performance",
+    "subElement": "Other",
+    "task": "Maintaining core web vitals LCP, CLS, INP, etc.",
+    "monthlyTask": "Estimate Speed Scores above 95",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "April",
+    "category": "Technical SEO",
+    "element": "Page Speed Performance",
+    "subElement": "Other",
+    "task": "Maintaining core web vitals LCP, CLS, INP, etc.",
+    "monthlyTask": "Estimate Speed Scores above 95",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "May",
+    "category": "Technical SEO",
+    "element": "Page Speed Performance",
+
+    "subElement": "Other",
+
+    "task": "Maintaining core web vitals LCP, CLS, INP, etc.",
+
+    "monthlyTask": "Estimate Speed Scores above 95",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "June",
+
+    "category": "Technical SEO",
+
+    "element": "Page Speed Performance",
+
+    "subElement": "Other",
+
+    "task": "Maintaining core web vitals LCP, CLS, INP, etc.",
+
+    "monthlyTask": "Estimate Speed Scores above 95",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "July",
+
+    "category": "Technical SEO",
+
+    "element": "Page Speed Performance",
+
+    "subElement": "Other",
+
+    "task": "Maintaining core web vitals LCP, CLS, INP, etc.",
+
+    "monthlyTask": "Estimate Speed Scores above 95",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "August",
+
+    "category": "Technical SEO",
+
+    "element": "Page Speed Performance",
+
+    "subElement": "Other",
+
+    "task": "Maintaining core web vitals LCP, CLS, INP, etc.",
+
+    "monthlyTask": "Estimate Speed Scores above 95",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "September",
+
+    "category": "Technical SEO",
+
+    "element": "Page Speed Performance",
+
+    "subElement": "Other",
+
+    "task": "Maintaining core web vitals LCP, CLS, INP, etc.",
+
+    "monthlyTask": "Estimate Speed Scores above 95",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "October",
+
+    "category": "Technical SEO",
+
+    "element": "Page Speed Performance",
+
+    "subElement": "Other",
+
+    "task": "Maintaining core web vitals LCP, CLS, INP, etc.",
+
+    "monthlyTask": "Estimate Speed Scores above 95",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "November",
+
+    "category": "Technical SEO",
+
+    "element": "Page Speed Performance",
+
+    "subElement": "Other",
+
+    "task": "Maintaining core web vitals LCP, CLS, INP, etc.",
+
+    "monthlyTask": "Estimate Speed Scores above 95",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "December",
+
+    "category": "Technical SEO",
+
+    "element": "Page Speed Performance",
+
+    "subElement": "Other",
+
+    "task": "Maintaining core web vitals LCP, CLS, INP, etc.",
+
+    "monthlyTask": "Estimate Speed Scores above 95",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "January",
+
+    "category": "Technical SEO",
+
+    "element": "Page Speed Performance",
+
+    "subElement": "Other",
+
+    "task": "Core Web Vitals",
+
+    "monthlyTask": "Core Web Vitals",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "February",
+
+    "category": "Technical SEO",
+
+    "element": "Page Speed Performance",
+
+    "subElement": "Other",
+
+    "task": "Core Web Vitals",
+
+    "monthlyTask": "Core Web Vitals",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "March",
+
+    "category": "Technical SEO",
+
+    "element": "Page Speed Performance",
+
+    "subElement": "Other",
+
+    "task": "Core Web Vitals",
+
+    "monthlyTask": "Core Web Vitals",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "April",
+
+    "category": "Technical SEO",
+
+    "element": "Page Speed Performance",
+
+    "subElement": "Other",
+
+    "task": "Core Web Vitals",
+
+    "monthlyTask": "Core Web Vitals",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "May",
+
+    "category": "Technical SEO",
+
+    "element": "Page Speed Performance",
+
+    "subElement": "Other",
+
+    "task": "Core Web Vitals",
+
+    "monthlyTask": "Core Web Vitals",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "June",
+
+    "category": "Technical SEO",
+
+    "element": "Page Speed Performance",
+
+    "subElement": "Other",
+
+    "task": "Core Web Vitals",
+
+    "monthlyTask": "Core Web Vitals",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "July",
+
+    "category": "Technical SEO",
+
+    "element": "Page Speed Performance",
+
+    "subElement": "Other",
+
+    "task": "Core Web Vitals",
+
+    "monthlyTask": "Core Web Vitals",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "August",
+
+    "category": "Technical SEO",
+
+    "element": "Page Speed Performance",
+
+    "subElement": "Other",
+
+    "task": "Core Web Vitals",
+
+    "monthlyTask": "Core Web Vitals",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "September",
+
+    "category": "Technical SEO",
+
+    "element": "Page Speed Performance",
+
+    "subElement": "Other",
+
+    "task": "Core Web Vitals",
+
+    "monthlyTask": "Core Web Vitals",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "October",
+
+    "category": "Technical SEO",
+
+    "element": "Page Speed Performance",
+
+    "subElement": "Other",
+
+    "task": "Core Web Vitals",
+
+    "monthlyTask": "Core Web Vitals",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "November",
+
+    "category": "Technical SEO",
+
+    "element": "Page Speed Performance",
+
+    "subElement": "Other",
+
+    "task": "Core Web Vitals",
+
+    "monthlyTask": "Core Web Vitals",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "December",
+
+    "category": "Technical SEO",
+
+    "element": "Page Speed Performance",
+
+    "subElement": "Other",
+
+    "task": "Core Web Vitals",
+
+    "monthlyTask": "Core Web Vitals",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "January",
+
+    "category": "Technical SEO",
+
+    "element": "Page Speed Performance",
+
+    "subElement": "Other",
+
+    "task": "Estimate All URLs in Good Status with green signals",
+
+    "monthlyTask": "Estimate All URLs in Good Status with green signals",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "February",
+
+    "category": "Technical SEO",
+
+    "element": "Page Speed Performance",
+
+    "subElement": "Other",
+
+    "task": "Estimate All URLs in Good Status with green signals",
+
+    "monthlyTask": "Estimate All URLs in Good Status with green signals",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "March",
+
+    "category": "Technical SEO",
+
+    "element": "Page Speed Performance",
+
+    "subElement": "Other",
+
+    "task": "Estimate All URLs in Good Status with green signals",
+
+    "monthlyTask": "Estimate All URLs in Good Status with green signals",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "April",
+
+    "category": "Technical SEO",
+
+    "element": "Page Speed Performance",
+
+    "subElement": "Other",
+
+    "task": "Estimate All URLs in Good Status with green signals",
+
+    "monthlyTask": "Estimate All URLs in Good Status with green signals",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "May",
+
+    "category": "Technical SEO",
+
+    "element": "Page Speed Performance",
+
+    "subElement": "Other",
+
+    "task": "Estimate All URLs in Good Status with green signals",
+
+    "monthlyTask": "Estimate All URLs in Good Status with green signals",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "June",
+
+    "category": "Technical SEO",
+
+    "element": "Page Speed Performance",
+
+    "subElement": "Other",
+
+    "task": "Estimate All URLs in Good Status with green signals",
+
+    "monthlyTask": "Estimate All URLs in Good Status with green signals",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "July",
+
+    "category": "Technical SEO",
+
+    "element": "Page Speed Performance",
+
+    "subElement": "Other",
+
+    "task": "Estimate All URLs in Good Status with green signals",
+
+    "monthlyTask": "Estimate All URLs in Good Status with green signals",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "August",
+
+    "category": "Technical SEO",
+
+    "element": "Page Speed Performance",
+
+    "subElement": "Other",
+
+    "task": "Estimate All URLs in Good Status with green signals",
+
+    "monthlyTask": "Estimate All URLs in Good Status with green signals",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "September",
+
+    "category": "Technical SEO",
+
+    "element": "Page Speed Performance",
+
+    "subElement": "Other",
+
+    "task": "Estimate All URLs in Good Status with green signals",
+
+    "monthlyTask": "Estimate All URLs in Good Status with green signals",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "October",
+
+    "category": "Technical SEO",
+
+    "element": "Page Speed Performance",
+
+    "subElement": "Other",
+
+    "task": "Estimate All URLs in Good Status with green signals",
+
+    "monthlyTask": "Estimate All URLs in Good Status with green signals",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "November",
+
+    "category": "Technical SEO",
+
+    "element": "Page Speed Performance",
+
+    "subElement": "Other",
+
+    "task": "Estimate All URLs in Good Status with green signals",
+
+    "monthlyTask": "Estimate All URLs in Good Status with green signals",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "December",
+
+    "category": "Technical SEO",
+
+    "element": "Page Speed Performance",
+
+    "subElement": "Other",
+
+    "task": "Estimate All URLs in Good Status with green signals",
+
+    "monthlyTask": "Estimate All URLs in Good Status with green signals",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "January",
+
+    "category": "Technical SEO",
+
+    "element": "URLs and Redirects",
+
+    "subElement": "Other",
+
+    "task": "Implement 301 redirects",
+
+    "monthlyTask": "Monitor and update as needed",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "February",
+
+    "category": "Technical SEO",
+
+    "element": "URLs and Redirects",
+
+    "subElement": "Other",
+
+    "task": "Implement 301 redirects",
+
+    "monthlyTask": "Monitor and update as needed",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "March",
+
+    "category": "Technical SEO",
+
+    "element": "URLs and Redirects",
+
+    "subElement": "Other",
+
+    "task": "Implement 301 redirects",
+
+    "monthlyTask": "Monitor and update as needed",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "April",
+
+    "category": "Technical SEO",
+
+    "element": "URLs and Redirects",
+
+    "subElement": "Other",
+
+    "task": "Implement 301 redirects",
+
+    "monthlyTask": "Monitor and update as needed",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "May",
+
+    "category": "Technical SEO",
+
+    "element": "URLs and Redirects",
+
+    "subElement": "Other",
+
+    "task": "Implement 301 redirects",
+
+    "monthlyTask": "Monitor and update as needed",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "June",
+
+    "category": "Technical SEO",
+
+    "element": "URLs and Redirects",
+
+    "subElement": "Other",
+
+    "task": "Implement 301 redirects",
+
+    "monthlyTask": "Monitor and update as needed",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "July",
+
+    "category": "Technical SEO",
+
+    "element": "URLs and Redirects",
+
+    "subElement": "Other",
+
+    "task": "Implement 301 redirects",
+
+    "monthlyTask": "Monitor and update as needed",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "August",
+
+    "category": "Technical SEO",
+
+    "element": "URLs and Redirects",
+
+    "subElement": "Other",
+
+    "task": "Implement 301 redirects",
+
+    "monthlyTask": "Monitor and update as needed",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "September",
+
+    "category": "Technical SEO",
+
+    "element": "URLs and Redirects",
+
+    "subElement": "Other",
+
+    "task": "Implement 301 redirects",
+
+    "monthlyTask": "Monitor and update as needed",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "October",
+
+    "category": "Technical SEO",
+
+    "element": "URLs and Redirects",
+
+    "subElement": "Other",
+
+    "task": "Implement 301 redirects",
+
+    "monthlyTask": "Monitor and update as needed",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "November",
+
+    "category": "Technical SEO",
+
+    "element": "URLs and Redirects",
+
+    "subElement": "Other",
+
+    "task": "Implement 301 redirects",
+
+    "monthlyTask": "Monitor and update as needed",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "December",
+
+    "category": "Technical SEO",
+
+    "element": "URLs and Redirects",
+
+    "subElement": "Other",
+
+    "task": "Implement 301 redirects",
+
+    "monthlyTask": "Monitor and update as needed",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "January",
+
+    "category": "Technical SEO",
+
+    "element": "URLs and Redirects",
+
+    "subElement": "Other",
+
+    "task": "Improve Canonicals (if affected)",
+
+    "monthlyTask": "Monitor and update as needed",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "February",
+
+    "category": "Technical SEO",
+
+    "element": "URLs and Redirects",
+
+    "subElement": "Other",
+
+    "task": "Improve Canonicals (if affected)",
+
+    "monthlyTask": "Monitor and update as needed",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "March",
+
+    "category": "Technical SEO",
+
+    "element": "URLs and Redirects",
+
+    "subElement": "Other",
+
+    "task": "Improve Canonicals (if affected)",
+
+    "monthlyTask": "Monitor and update as needed",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "April",
+
+    "category": "Technical SEO",
+
+    "element": "URLs and Redirects",
+
+    "subElement": "Other",
+
+    "task": "Improve Canonicals (if affected)",
+
+    "monthlyTask": "Monitor and update as needed",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "May",
+
+    "category": "Technical SEO",
+
+    "element": "URLs and Redirects",
+
+    "subElement": "Other",
+
+    "task": "Improve Canonicals (if affected)",
+
+    "monthlyTask": "Monitor and update as needed",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "June",
+
+    "category": "Technical SEO",
+
+    "element": "URLs and Redirects",
+
+    "subElement": "Other",
+
+    "task": "Improve Canonicals (if affected)",
+
+    "monthlyTask": "Monitor and update as needed",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "July",
+
+    "category": "Technical SEO",
+
+    "element": "URLs and Redirects",
+
+    "subElement": "Other",
+
+    "task": "Improve Canonicals (if affected)",
+
+    "monthlyTask": "Monitor and update as needed",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "August",
+
+    "category": "Technical SEO",
+
+    "element": "URLs and Redirects",
+
+    "subElement": "Other",
+
+    "task": "Improve Canonicals (if affected)",
+
+    "monthlyTask": "Monitor and update as needed",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "September",
+
+    "category": "Technical SEO",
+
+    "element": "URLs and Redirects",
+
+    "subElement": "Other",
+
+    "task": "Improve Canonicals (if affected)",
+
+    "monthlyTask": "Monitor and update as needed",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "October",
+
+    "category": "Technical SEO",
+
+    "element": "URLs and Redirects",
+
+    "subElement": "Other",
+
+    "task": "Improve Canonicals (if affected)",
+
+    "monthlyTask": "Monitor and update as needed",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "November",
+
+    "category": "Technical SEO",
+
+    "element": "URLs and Redirects",
+
+    "subElement": "Other",
+
+    "task": "Improve Canonicals (if affected)",
+
+    "monthlyTask": "Monitor and update as needed",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "December",
+
+    "category": "Technical SEO",
+
+    "element": "URLs and Redirects",
+
+    "subElement": "Other",
+
+    "task": "Improve Canonicals (if affected)",
+
+    "monthlyTask": "Monitor and update as needed",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "January",
+
+    "category": "Technical SEO",
+
+    "element": "URLs and Redirects",
+
+    "subElement": "Other",
+
+    "task": "Maintain Clean URL structure",
+
+    "monthlyTask": "Monitor and update as needed",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "February",
+
+    "category": "Technical SEO",
+
+    "element": "URLs and Redirects",
+
+    "subElement": "Other",
+
+    "task": "Maintain Clean URL structure",
+
+    "monthlyTask": "Monitor and update as needed",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "March",
+
+    "category": "Technical SEO",
+
+    "element": "URLs and Redirects",
+
+    "subElement": "Other",
+
+    "task": "Maintain Clean URL structure",
+
+    "monthlyTask": "Monitor and update as needed",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "April",
+
+    "category": "Technical SEO",
+
+    "element": "URLs and Redirects",
+
+    "subElement": "Other",
+
+    "task": "Maintain Clean URL structure",
+
+    "monthlyTask": "Monitor and update as needed",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "May",
+
+    "category": "Technical SEO",
+
+    "element": "URLs and Redirects",
+
+    "subElement": "Other",
+
+    "task": "Maintain Clean URL structure",
+
+    "monthlyTask": "Monitor and update as needed",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "June",
+
+    "category": "Technical SEO",
+
+    "element": "URLs and Redirects",
+
+    "subElement": "Other",
+
+    "task": "Maintain Clean URL structure",
+
+    "monthlyTask": "Monitor and update as needed",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "July",
+
+    "category": "Technical SEO",
+
+    "element": "URLs and Redirects",
+
+    "subElement": "Other",
+
+    "task": "Maintain Clean URL structure",
+
+    "monthlyTask": "Monitor and update as needed",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "August",
+
+    "category": "Technical SEO",
+
+    "element": "URLs and Redirects",
+
+    "subElement": "Other",
+
+    "task": "Maintain Clean URL structure",
+
+    "monthlyTask": "Monitor and update as needed",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "September",
+
+    "category": "Technical SEO",
+
+    "element": "URLs and Redirects",
+
+    "subElement": "Other",
+
+    "task": "Maintain Clean URL structure",
+
+    "monthlyTask": "Monitor and update as needed",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "October",
+
+    "category": "Technical SEO",
+
+    "element": "URLs and Redirects",
+
+    "subElement": "Other",
+
+    "task": "Maintain Clean URL structure",
+
+    "monthlyTask": "Monitor and update as needed",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "November",
+
+    "category": "Technical SEO",
+
+    "element": "URLs and Redirects",
+
+    "subElement": "Other",
+
+    "task": "Maintain Clean URL structure",
+
+    "monthlyTask": "Monitor and update as needed",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "December",
+
+    "category": "Technical SEO",
+
+    "element": "URLs and Redirects",
+
+    "subElement": "Other",
+
+    "task": "Maintain Clean URL structure",
+
+    "monthlyTask": "Monitor and update as needed",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "January",
+
+    "category": "Technical SEO",
+
+    "element": "Structure Data and Schema Mark-up",
+
+    "subElement": "Other",
+
+    "task": "Products – Rich Snippets",
+
+    "monthlyTask": "Monitor and update as needed",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "January",
+
+    "category": "Technical SEO",
+
+    "element": "Structure Data and Schema Mark-up",
+
+    "subElement": "Other",
+
+    "task": "Homepage – Local Schema",
+
+    "monthlyTask": "Monitor and update as needed",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "January",
+
+    "category": "Technical SEO",
+
+    "element": "Structure Data and Schema Mark-up",
+
+    "subElement": "Other",
+
+    "task": "Blogs – Article Schema",
+
+    "monthlyTask": "Monitor and update as needed",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "January",
+
+    "category": "Technical SEO",
+
+    "element": "Structure Data and Schema Mark-up",
+
+    "subElement": "Other",
+
+    "task": "FAQ Schema for a FAQ Page",
+
+    "monthlyTask": "Monitor and update as needed",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "January",
+
+    "category": "Technical SEO",
+
+    "element": "Technical Audits",
+
+    "subElement": "Other",
+
+    "task": "Maintaining Site health",
+
+    "monthlyTask": "Site health score to be 100%",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "February",
+
+    "category": "Technical SEO",
+
+    "element": "Technical Audits",
+
+    "subElement": "Other",
+
+    "task": "Maintaining Site health",
+
+    "monthlyTask": "Site health score to be 100%",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "March",
+
+    "category": "Technical SEO",
+
+    "element": "Technical Audits",
+
+    "subElement": "Other",
+
+    "task": "Maintaining Site health",
+
+    "monthlyTask": "Site health score to be 100%",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "April",
+
+    "category": "Technical SEO",
+
+    "element": "Technical Audits",
+
+    "subElement": "Other",
+
+    "task": "Maintaining Site health",
+
+    "monthlyTask": "Site health score to be 100%",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "May",
+
+    "category": "Technical SEO",
+
+    "element": "Technical Audits",
+
+    "subElement": "Other",
+
+    "task": "Maintaining Site health",
+
+    "monthlyTask": "Site health score to be 100%",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "June",
+
+    "category": "Technical SEO",
+
+    "element": "Technical Audits",
+
+    "subElement": "Other",
+
+    "task": "Maintaining Site health",
+
+    "monthlyTask": "Site health score to be 100%",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "July",
+
+    "category": "Technical SEO",
+
+    "element": "Technical Audits",
+
+    "subElement": "Other",
+
+    "task": "Maintaining Site health",
+
+    "monthlyTask": "Site health score to be 100%",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "August",
+
+    "category": "Technical SEO",
+
+    "element": "Technical Audits",
+
+    "subElement": "Other",
+
+    "task": "Maintaining Site health",
+
+    "monthlyTask": "Site health score to be 100%",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "September",
+
+    "category": "Technical SEO",
+
+    "element": "Technical Audits",
+
+    "subElement": "Other",
+
+    "task": "Maintaining Site health",
+
+    "monthlyTask": "Site health score to be 100%",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "October",
+
+    "category": "Technical SEO",
+
+    "element": "Technical Audits",
+
+    "subElement": "Other",
+
+    "task": "Maintaining Site health",
+
+    "monthlyTask": "Site health score to be 100%",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "November",
+
+    "category": "Technical SEO",
+
+    "element": "Technical Audits",
+
+    "subElement": "Other",
+
+    "task": "Maintaining Site health",
+
+    "monthlyTask": "Site health score to be 100%",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "December",
+
+    "category": "Technical SEO",
+
+    "element": "Technical Audits",
+
+    "subElement": "Other",
+
+    "task": "Maintaining Site health",
+
+    "monthlyTask": "Site health score to be 100%",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "January",
+
+    "category": "Technical SEO",
+
+    "element": "Technical Audits",
+
+    "subElement": "Other",
+
+    "task": "Fixing technical errors",
+
+    "monthlyTask": "Fixing errors in URLs every 15 days",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "February",
+
+    "category": "Technical SEO",
+
+    "element": "Technical Audits",
+
+    "subElement": "Other",
+
+    "task": "Fixing technical errors",
+
+    "monthlyTask": "Fixing errors in URLs every 15 days",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "March",
+
+    "category": "Technical SEO",
+
+    "element": "Technical Audits",
+
+    "subElement": "Other",
+
+    "task": "Fixing technical errors",
+
+    "monthlyTask": "Fixing errors in URLs every 15 days",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "April",
+
+    "category": "Technical SEO",
+
+    "element": "Technical Audits",
+
+    "subElement": "Other",
+
+    "task": "Fixing technical errors",
+
+    "monthlyTask": "Fixing errors in URLs every 15 days",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "May",
+
+    "category": "Technical SEO",
+
+    "element": "Technical Audits",
+
+    "subElement": "Other",
+
+    "task": "Fixing technical errors",
+
+    "monthlyTask": "Fixing errors in URLs every 15 days",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "June",
+
+    "category": "Technical SEO",
+
+    "element": "Technical Audits",
+
+    "subElement": "Other",
+
+    "task": "Fixing technical errors",
+
+    "monthlyTask": "Fixing errors in URLs every 15 days",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "July",
+
+    "category": "Technical SEO",
+
+    "element": "Technical Audits",
+
+    "subElement": "Other",
+
+    "task": "Fixing technical errors",
+
+    "monthlyTask": "Fixing errors in URLs every 15 days",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "August",
+
+    "category": "Technical SEO",
+
+    "element": "Technical Audits",
+
+    "subElement": "Other",
+
+    "task": "Fixing technical errors",
+
+    "monthlyTask": "Fixing errors in URLs every 15 days",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "September",
+
+    "category": "Technical SEO",
+
+    "element": "Technical Audits",
+
+    "subElement": "Other",
+
+    "task": "Fixing technical errors",
+
+    "monthlyTask": "Fixing errors in URLs every 15 days",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "October",
+
+    "category": "Technical SEO",
+
+    "element": "Technical Audits",
+
+    "subElement": "Other",
+
+    "task": "Fixing technical errors",
+
+    "monthlyTask": "Fixing errors in URLs every 15 days",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "November",
+
+    "category": "Technical SEO",
+
+    "element": "Technical Audits",
+
+    "subElement": "Other",
+
+    "task": "Fixing technical errors",
+
+    "monthlyTask": "Fixing errors in URLs every 15 days",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "December",
+
+    "category": "Technical SEO",
+
+    "element": "Technical Audits",
+
+    "subElement": "Other",
+
+    "task": "Fixing technical errors",
+
+    "monthlyTask": "Fixing errors in URLs every 15 days",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "January",
+
+    "category": "Technical SEO",
+
+    "element": "Technical Audits",
+
+    "subElement": "Other",
+
+    "task": "Crawling, Indexing",
+
+    "monthlyTask": "Monitor GSC and indexation count",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "February",
+
+    "category": "Technical SEO",
+
+    "element": "Technical Audits",
+
+    "subElement": "Other",
+
+    "task": "Crawling, Indexing",
+
+    "monthlyTask": "Monitor GSC and indexation count",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "March",
+
+    "category": "Technical SEO",
+
+    "element": "Technical Audits",
+
+    "subElement": "Other",
+
+    "task": "Crawling, Indexing",
+
+    "monthlyTask": "Monitor GSC and indexation count",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "April",
+
+    "category": "Technical SEO",
+
+    "element": "Technical Audits",
+
+    "subElement": "Other",
+
+    "task": "Crawling, Indexing",
+
+    "monthlyTask": "Monitor GSC and indexation count",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "May",
+
+    "category": "Technical SEO",
+
+    "element": "Technical Audits",
+
+    "subElement": "Other",
+
+    "task": "Crawling, Indexing",
+
+    "monthlyTask": "Monitor GSC and indexation count",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "June",
+
+    "category": "Technical SEO",
+
+    "element": "Technical Audits",
+
+    "subElement": "Other",
+
+    "task": "Crawling, Indexing",
+
+    "monthlyTask": "Monitor GSC and indexation count",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "July",
+
+    "category": "Technical SEO",
+
+    "element": "Technical Audits",
+
+    "subElement": "Other",
+
+    "task": "Crawling, Indexing",
+
+    "monthlyTask": "Monitor GSC and indexation count",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "August",
+
+    "category": "Technical SEO",
+
+    "element": "Technical Audits",
+
+    "subElement": "Other",
+
+    "task": "Crawling, Indexing",
+
+    "monthlyTask": "Monitor GSC and indexation count",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "September",
+
+    "category": "Technical SEO",
+
+    "element": "Technical Audits",
+
+    "subElement": "Other",
+
+    "task": "Crawling, Indexing",
+
+    "monthlyTask": "Monitor GSC and indexation count",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "October",
+
+    "category": "Technical SEO",
+
+    "element": "Technical Audits",
+
+    "subElement": "Other",
+
+    "task": "Crawling, Indexing",
+
+    "monthlyTask": "Monitor GSC and indexation count",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "November",
+
+    "category": "Technical SEO",
+
+    "element": "Technical Audits",
+
+    "subElement": "Other",
+
+    "task": "Crawling, Indexing",
+
+    "monthlyTask": "Monitor GSC and indexation count",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "December",
+
+    "category": "Technical SEO",
+
+    "element": "Technical Audits",
+
+    "subElement": "Other",
+
+    "task": "Crawling, Indexing",
+
+    "monthlyTask": "Monitor GSC and indexation count",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "January",
+
+    "category": "Technical SEO",
+
+    "element": "Technical Audits",
+
+    "subElement": "Other",
+
+    "task": " ",
+
+    "monthlyTask": "·       Developers will work on continuous on-page errors and eliminating it",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "February",
+
+    "category": "Technical SEO",
+
+    "element": "Technical Audits",
+
+    "subElement": "Other",
+
+    "task": "Developers will work on continuous on-page errors and eliminating it",
+
+    "monthlyTask": "·       Developers will work on continuous on-page errors and eliminating it",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "March",
+
+    "category": "Technical SEO",
+
+    "element": "Technical Audits",
+
+    "subElement": "Other",
+
+    "task": "Developers will work on continuous on-page errors and eliminating it",
+
+    "monthlyTask": "·Developers will work on continuous on-page errors and eliminating it",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "April",
+
+    "category": "Technical SEO",
+
+    "element": "Technical Audits",
+
+    "subElement": "Other",
+
+    "task": " ",
+
+    "monthlyTask": "Developers will work on continuous on-page errors and eliminating it",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "May",
+
+    "category": "Technical SEO",
+
+    "element": "Technical Audits",
+
+    "subElement": "Other",
+
+    "task": "Developers will work on continuous on-page errors and eliminating it",
+
+    "monthlyTask": "·       Developers will work on continuous on-page errors and eliminating it",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "June",
+
+    "category": "Technical SEO",
+
+    "element": "Technical Audits",
+
+    "subElement": "Other",
+
+    "task": "Developers will work on continuous on-page errors and eliminating it",
+
+    "monthlyTask": "·       Developers will work on continuous on-page errors and eliminating it",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "July",
+
+    "category": "Technical SEO",
+
+    "element": "Technical Audits",
+
+    "subElement": "Other",
+
+    "task": "Developers will work on continuous on-page errors and eliminating it",
+
+    "monthlyTask": "·       Developers will work on continuous on-page errors and eliminating it",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "August",
+
+    "category": "Technical SEO",
+
+    "element": "Technical Audits",
+
+    "subElement": "Other",
+
+    "task": "Developers will work on continuous on-page errors and eliminating it",
+
+    "monthlyTask": "·       Developers will work on continuous on-page errors and eliminating it",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "September",
+
+    "category": "Technical SEO",
+
+    "element": "Technical Audits",
+
+    "subElement": "Other",
+
+    "task": "Developers will work on continuous on-page errors and eliminating it",
+
+    "monthlyTask": "·       Developers will work on continuous on-page errors and eliminating it",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "October",
+
+    "category": "Technical SEO",
+
+    "element": "Technical Audits",
+
+    "subElement": "Other",
+
+    "task": "Developers will work on continuous on-page errors and eliminating it",
+
+    "monthlyTask": "·       Developers will work on continuous on-page errors and eliminating it",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "November",
+
+    "category": "Technical SEO",
+
+    "element": "Technical Audits",
+
+    "subElement": "Other",
+
+    "task": "Developers will work on continuous on-page errors and eliminating it",
+
+    "monthlyTask": "·       Developers will work on continuous on-page errors and eliminating it",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "December",
+
+    "category": "Technical SEO",
+
+    "element": "Technical Audits",
+
+    "subElement": "Other",
+
+    "task": "Developers will work on continuous on-page errors and eliminating it",
+
+    "monthlyTask": "·       Developers will work on continuous on-page errors and eliminating it",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "January",
+
+    "category": "Performance Marketing",
+
+    "element": "Performance Marketing",
+
+    "subElement": "Search Engine Marketing",
+
+    "task": "1.D2C Campaigns",
+
+    "monthlyTask": "50,000–150,000 impressions with 1%–2% CTR Based on Monthly Ad Spend, keyword volume & targeting scope",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "February",
+
+    "category": "Performance Marketing",
+
+    "element": "Performance Marketing",
+
+    "subElement": "Search Engine Marketing",
+
+    "task": "1.D2C Campaigns",
+
+    "monthlyTask": "50,000–150,000 impressions with 1%–2% CTR Based on Monthly Ad Spend, keyword volume & targeting scope",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "March",
+
+    "category": "Performance Marketing",
+
+    "element": "Performance Marketing",
+
+    "subElement": "Search Engine Marketing",
+
+    "task": "1.D2C Campaigns",
+
+    "monthlyTask": "50,000–150,000 impressions with 1%–2% CTR Based on Monthly Ad Spend, keyword volume & targeting scope",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "April",
+
+    "category": "Performance Marketing",
+
+    "element": "Performance Marketing",
+
+    "subElement": "Search Engine Marketing",
+
+    "task": "1.D2C Campaigns",
+
+    "monthlyTask": "50,000–150,000 impressions with 1%–2% CTR Based on Monthly Ad Spend, keyword volume & targeting scope",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "May",
+
+    "category": "Performance Marketing",
+
+    "element": "Performance Marketing",
+
+    "subElement": "Search Engine Marketing",
+
+    "task": "1.D2C Campaigns",
+
+    "monthlyTask": "50,000–150,000 impressions with 1%–2% CTR Based on Monthly Ad Spend, keyword volume & targeting scope",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "June",
+
+    "category": "Performance Marketing",
+
+    "element": "Performance Marketing",
+
+    "subElement": "Search Engine Marketing",
+
+    "task": "1.D2C Campaigns",
+
+    "monthlyTask": "50,000–150,000 impressions with 1%–2% CTR Based on Monthly Ad Spend, keyword volume & targeting scope",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "July",
+
+    "category": "Performance Marketing",
+
+    "element": "Performance Marketing",
+
+    "subElement": "Search Engine Marketing",
+
+    "task": "1.D2C Campaigns",
+
+    "monthlyTask": "50,000–150,000 impressions with 1%–2% CTR Based on Monthly Ad Spend, keyword volume & targeting scope",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "August",
+
+    "category": "Performance Marketing",
+
+    "element": "Performance Marketing",
+
+    "subElement": "Search Engine Marketing",
+
+    "task": "1.D2C Campaigns",
+
+    "monthlyTask": "50,000–150,000 impressions with 1%–2% CTR Based on Monthly Ad Spend, keyword volume & targeting scope",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "September",
+
+    "category": "Performance Marketing",
+
+    "element": "Performance Marketing",
+
+    "subElement": "Search Engine Marketing",
+
+    "task": "1.D2C Campaigns",
+
+    "monthlyTask": "50,000–150,000 impressions with 1%–2% CTR Based on Monthly Ad Spend, keyword volume & targeting scope",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "October",
+
+    "category": "Performance Marketing",
+
+    "element": "Performance Marketing",
+
+    "subElement": "Search Engine Marketing",
+
+    "task": "1.D2C Campaigns",
+
+    "monthlyTask": "50,000–150,000 impressions with 1%–2% CTR Based on Monthly Ad Spend, keyword volume & targeting scope",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "November",
+
+    "category": "Performance Marketing",
+
+    "element": "Performance Marketing",
+
+    "subElement": "Search Engine Marketing",
+
+    "task": "1.D2C Campaigns",
+
+    "monthlyTask": "50,000–150,000 impressions with 1%–2% CTR Based on Monthly Ad Spend, keyword volume & targeting scope",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "December",
+
+    "category": "Performance Marketing",
+
+    "element": "Performance Marketing",
+
+    "subElement": "Search Engine Marketing",
+
+    "task": "1.D2C Campaigns",
+
+    "monthlyTask": "50,000–150,000 impressions with 1%–2% CTR Based on Monthly Ad Spend, keyword volume & targeting scope",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "January",
+
+    "category": "Performance Marketing",
+
+    "element": "Performance Marketing",
+
+    "subElement": "Search Engine Marketing",
+
+    "task": "2.B2C Campaigns",
+
+    "monthlyTask": "50,000–150,000 impressions with 1%–2% CTR Based on Monthly Ad Spend, keyword volume & targeting scope",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "January",
+
+    "category": "Performance Marketing",
+
+    "element": "Performance Marketing",
+
+    "subElement": "Search Engine Marketing",
+
+    "task": "3.Geographic Targeting",
+
+    "monthlyTask": "50,000–150,000 impressions with 1%–2% CTR Based on Monthly Ad Spend, keyword volume & targeting scope",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "January",
+
+    "category": "Performance Marketing",
+
+    "element": "Performance Marketing",
+
+    "subElement": "Social Media Advertising",
+
+    "task": "1.D2C Campaigns (Meta, Instagram)",
+
+    "monthlyTask": "100,000–150,000 impressions with 0.5%–1% CTR Based on Monthly Ad Spend, keyword volume & targeting scope",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "February",
+
+    "category": "Performance Marketing",
+
+    "element": "Performance Marketing",
+
+    "subElement": "Social Media Advertising",
+
+    "task": "1.D2C Campaigns (Meta, Instagram)",
+
+    "monthlyTask": "100,000–150,000 impressions with 0.5%–1% CTR Based on Monthly Ad Spend, keyword volume & targeting scope",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "March",
+
+    "category": "Performance Marketing",
+
+    "element": "Performance Marketing",
+
+    "subElement": "Social Media Advertising",
+
+    "task": "1.D2C Campaigns (Meta, Instagram)",
+
+    "monthlyTask": "100,000–150,000 impressions with 0.5%–1% CTR Based on Monthly Ad Spend, keyword volume & targeting scope",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "April",
+
+    "category": "Performance Marketing",
+
+    "element": "Performance Marketing",
+
+    "subElement": "Social Media Advertising",
+
+    "task": "1.D2C Campaigns (Meta, Instagram)",
+
+    "monthlyTask": "100,000–150,000 impressions with 0.5%–1% CTR Based on Monthly Ad Spend, keyword volume & targeting scope",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "May",
+
+    "category": "Performance Marketing",
+
+    "element": "Performance Marketing",
+
+    "subElement": "Social Media Advertising",
+
+    "task": "1.D2C Campaigns (Meta, Instagram)",
+
+    "monthlyTask": "100,000–150,000 impressions with 0.5%–1% CTR Based on Monthly Ad Spend, keyword volume & targeting scope",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "June",
+
+    "category": "Performance Marketing",
+
+    "element": "Performance Marketing",
+
+    "subElement": "Social Media Advertising",
+
+    "task": "1.D2C Campaigns (Meta, Instagram)",
+
+    "monthlyTask": "100,000–150,000 impressions with 0.5%–1% CTR Based on Monthly Ad Spend, keyword volume & targeting scope",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "July",
+
+    "category": "Performance Marketing",
+
+    "element": "Performance Marketing",
+
+    "subElement": "Social Media Advertising",
+
+    "task": "1.D2C Campaigns (Meta, Instagram)",
+
+    "monthlyTask": "100,000–150,000 impressions with 0.5%–1% CTR Based on Monthly Ad Spend, keyword volume & targeting scope",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "August",
+
+    "category": "Performance Marketing",
+
+    "element": "Performance Marketing",
+
+    "subElement": "Social Media Advertising",
+
+    "task": "1.D2C Campaigns (Meta, Instagram)",
+
+    "monthlyTask": "100,000–150,000 impressions with 0.5%–1% CTR Based on Monthly Ad Spend, keyword volume & targeting scope",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "September",
+
+    "category": "Performance Marketing",
+
+    "element": "Performance Marketing",
+
+    "subElement": "Social Media Advertising",
+
+    "task": "1.D2C Campaigns (Meta, Instagram)",
+
+    "monthlyTask": "100,000–150,000 impressions with 0.5%–1% CTR Based on Monthly Ad Spend, keyword volume & targeting scope",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "October",
+
+    "category": "Performance Marketing",
+
+    "element": "Performance Marketing",
+
+    "subElement": "Social Media Advertising",
+
+    "task": "1.D2C Campaigns (Meta, Instagram)",
+
+    "monthlyTask": "100,000–150,000 impressions with 0.5%–1% CTR Based on Monthly Ad Spend, keyword volume & targeting scope",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "November",
+
+    "category": "Performance Marketing",
+
+    "element": "Performance Marketing",
+
+    "subElement": "Social Media Advertising",
+
+    "task": "1.D2C Campaigns (Meta, Instagram)",
+
+    "monthlyTask": "100,000–150,000 impressions with 0.5%–1% CTR Based on Monthly Ad Spend, keyword volume & targeting scope",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "December",
+
+    "category": "Performance Marketing",
+
+    "element": "Performance Marketing",
+
+    "subElement": "Social Media Advertising",
+
+    "task": "1.D2C Campaigns (Meta, Instagram)",
+
+    "monthlyTask": "100,000–150,000 impressions with 0.5%–1% CTR Based on Monthly Ad Spend, keyword volume & targeting scope",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "January",
+
+    "category": "Performance Marketing",
+
+    "element": "Performance Marketing",
+
+    "subElement": "Social Media Advertising",
+
+    "task": "2.B2C Campaigns (LinkedIn)",
+
+    "monthlyTask": "100,000–150,000 impressions with 0.5%–1% CTR Based on Monthly Ad Spend, keyword volume & targeting scope",
+
+    "team": "digital-marketing"
+
+  },
+
+
+  {
+
+    "month": "February",
+
+    "category": "Performance Marketing",
+
+    "element": "Performance Marketing",
+
+    "subElement": "Email Marketing",
+
+    "task": "1.Email Flows",
+
+    "monthlyTask": "1,000–2,000 email will send Includes B2C and D2C: newsletters, automations, and campaigns",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "March",
+
+    "category": "Performance Marketing",
+
+    "element": "Performance Marketing",
+
+    "subElement": "Email Marketing",
+
+    "task": "1.Email Flows",
+
+    "monthlyTask": "1,000–2,000 email will send Includes B2C and D2C: newsletters, automations, and campaigns",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "April",
+
+    "category": "Performance Marketing",
+
+    "element": "Performance Marketing",
+
+    "subElement": "Email Marketing",
+
+    "task": "1.Email Flows",
+
+    "monthlyTask": "1,000–2,000 email will send Includes B2C and D2C: newsletters, automations, and campaigns",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "May",
+
+    "category": "Performance Marketing",
+
+    "element": "Performance Marketing",
+
+    "subElement": "Email Marketing",
+
+    "task": "1.Email Flows",
+
+    "monthlyTask": "1,000–2,000 email will send Includes B2C and D2C: newsletters, automations, and campaigns",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "June",
+
+    "category": "Performance Marketing",
+
+    "element": "Performance Marketing",
+
+    "subElement": "Email Marketing",
+
+    "task": "1.Email Flows",
+
+    "monthlyTask": "1,000–2,000 email will send Includes B2C and D2C: newsletters, automations, and campaigns",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "July",
+
+    "category": "Performance Marketing",
+
+    "element": "Performance Marketing",
+
+    "subElement": "Email Marketing",
+
+    "task": "1.Email Flows",
+
+    "monthlyTask": "1,000–2,000 email will send Includes B2C and D2C: newsletters, automations, and campaigns",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "August",
+
+    "category": "Performance Marketing",
+
+    "element": "Performance Marketing",
+
+    "subElement": "Email Marketing",
+
+    "task": "1.Email Flows",
+
+    "monthlyTask": "1,000–2,000 email will send Includes B2C and D2C: newsletters, automations, and campaigns",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "September",
+
+    "category": "Performance Marketing",
+
+    "element": "Performance Marketing",
+
+    "subElement": "Email Marketing",
+
+    "task": "1.Email Flows",
+
+    "monthlyTask": "1,000–2,000 email will send Includes B2C and D2C: newsletters, automations, and campaigns",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "October",
+
+    "category": "Performance Marketing",
+
+    "element": "Performance Marketing",
+
+    "subElement": "Email Marketing",
+
+    "task": "1.Email Flows",
+
+    "monthlyTask": "1,000–2,000 email will send Includes B2C and D2C: newsletters, automations, and campaigns",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "November",
+
+    "category": "Performance Marketing",
+
+    "element": "Performance Marketing",
+
+    "subElement": "Email Marketing",
+
+    "task": "1.Email Flows",
+
+    "monthlyTask": "1,000–2,000 email will send Includes B2C and D2C: newsletters, automations, and campaigns",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "December",
+
+    "category": "Performance Marketing",
+
+    "element": "Performance Marketing",
+
+    "subElement": "Email Marketing",
+
+    "task": "1.Email Flows",
+
+    "monthlyTask": "1,000–2,000 email will send Includes B2C and D2C: newsletters, automations, and campaigns",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "January",
+
+    "category": "Performance Marketing",
+
+    "element": "Performance Marketing",
+
+    "subElement": "Email Marketing",
+    "task": "2.B2CLead Nurturing",
+    "monthlyTask": "1,000–2,000 email will send Includes B2C and D2C: newsletters, automations, and campaigns",
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "January",
+    "category": "Performance Marketing",
+
+    "element": "Performance Marketing",
+
+    "subElement": "Email Marketing",
+    "task": "3.Monthly Eco Digest",
+    "monthlyTask": "1,000–2,000 email will send Includes B2C and D2C: newsletters, automations, and campaigns",
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "January",
+    "category": "Performance Marketing",
+
+    "element": "Performance Marketing",
+
+    "subElement": "Conversion Rate Optimization (CRO)",
+    "task": "1.A/B testing",
+    "monthlyTask": "Team will work on continuous changes",
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "February",
+
+    "category": "Performance Marketing",
+
+    "element": "Performance Marketing",
+
+    "subElement": "Conversion Rate Optimization (CRO)",
+
+    "task": "1.A/B testing",
+
+    "monthlyTask": "Team will work on continuous changes",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "March",
+
+    "category": "Performance Marketing",
+
+    "element": "Performance Marketing",
+
+    "subElement": "Conversion Rate Optimization (CRO)",
+
+    "task": "1.A/B testing",
+
+    "monthlyTask": "Team will work on continuous changes",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "April",
+
+    "category": "Performance Marketing",
+
+    "element": "Performance Marketing",
+
+    "subElement": "Conversion Rate Optimization (CRO)",
+
+    "task": "1.A/B testing",
+
+    "monthlyTask": "Team will work on continuous changes",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "May",
+
+    "category": "Performance Marketing",
+
+    "element": "Performance Marketing",
+
+    "subElement": "Conversion Rate Optimization (CRO)",
+
+    "task": "1.A/B testing",
+
+    "monthlyTask": "Team will work on continuous changes",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "June",
+
+    "category": "Performance Marketing",
+
+    "element": "Performance Marketing",
+
+    "subElement": "Conversion Rate Optimization (CRO)",
+
+    "task": "1.A/B testing",
+
+    "monthlyTask": "Team will work on continuous changes",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "July",
+
+    "category": "Performance Marketing",
+
+    "element": "Performance Marketing",
+
+    "subElement": "Conversion Rate Optimization (CRO)",
+
+    "task": "1.A/B testing",
+
+    "monthlyTask": "Team will work on continuous changes",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "August",
+
+    "category": "Performance Marketing",
+
+    "element": "Performance Marketing",
+
+    "subElement": "Conversion Rate Optimization (CRO)",
+
+    "task": "1.A/B testing",
+
+    "monthlyTask": "Team will work on continuous changes",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "September",
+
+    "category": "Performance Marketing",
+
+    "element": "Performance Marketing",
+
+    "subElement": "Conversion Rate Optimization (CRO)",
+
+    "task": "1.A/B testing",
+
+    "monthlyTask": "Team will work on continuous changes",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "October",
+
+    "category": "Performance Marketing",
+
+    "element": "Performance Marketing",
+
+    "subElement": "Conversion Rate Optimization (CRO)",
+
+    "task": "1.A/B testing",
+
+    "monthlyTask": "Team will work on continuous changes",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "November",
+
+    "category": "Performance Marketing",
+
+    "element": "Performance Marketing",
+
+    "subElement": "Conversion Rate Optimization (CRO)",
+
+    "task": "1.A/B testing",
+
+    "monthlyTask": "Team will work on continuous changes",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "December",
+
+    "category": "Performance Marketing",
+
+    "element": "Performance Marketing",
+
+    "subElement": "Conversion Rate Optimization (CRO)",
+
+    "task": "1.A/B testing",
+
+    "monthlyTask": "Team will work on continuous changes",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "January",
+
+    "category": "Performance Marketing",
+
+    "element": "Performance Marketing",
+
+    "subElement": "Conversion Rate Optimization (CRO)",
+
+    "task": "2.UX improvements",
+
+    "monthlyTask": "Team will work on continuous changes",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+    "month": "January",
+    "category": "Performance Marketing",
+    "element": "Performance Marketing",
+    "subElement": "Marketplace & Distributor",
+    "task": "1.D2C Platforms",
+    "monthlyTask": "30–50 product listings and optimization per month across platforms",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "February",
+    "category": "Performance Marketing",
+    "element": "Performance Marketing",
+    "subElement": "Marketplace & Distributor",
+    "task": "1.D2C Platforms",
+    "monthlyTask": "30–50 product listings and optimization per month across platforms",
+    "team": "digital-marketing"
+  },
+  {
+
+    "month": "March",
+
+    "category": "Performance Marketing",
+
+    "element": "Performance Marketing",
+
+    "subElement": "Marketplace & Distributor",
+
+    "task": "1.D2C Platforms",
+
+    "monthlyTask": "30–50 product listings and optimization per month across platforms",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "April",
+
+    "category": "Performance Marketing",
+
+    "element": "Performance Marketing",
+
+    "subElement": "Marketplace & Distributor",
+
+    "task": "1.D2C Platforms",
+
+    "monthlyTask": "30–50 product listings and optimization per month across platforms",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "May",
+
+    "category": "Performance Marketing",
+
+    "element": "Performance Marketing",
+
+    "subElement": "Marketplace & Distributor",
+
+    "task": "1.D2C Platforms",
+
+    "monthlyTask": "30–50 product listings and optimization per month across platforms",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "June",
+
+    "category": "Performance Marketing",
+
+    "element": "Performance Marketing",
+
+    "subElement": "Marketplace & Distributor",
+
+    "task": "1.D2C Platforms",
+
+    "monthlyTask": "30–50 product listings and optimization per month across platforms",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "July",
+
+    "category": "Performance Marketing",
+
+    "element": "Performance Marketing",
+
+    "subElement": "Marketplace & Distributor",
+
+    "task": "1.D2C Platforms",
+
+    "monthlyTask": "30–50 product listings and optimization per month across platforms",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "August",
+
+    "category": "Performance Marketing",
+
+    "element": "Performance Marketing",
+
+    "subElement": "Marketplace & Distributor",
+
+    "task": "1.D2C Platforms",
+
+    "monthlyTask": "30–50 product listings and optimization per month across platforms",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "September",
+
+    "category": "Performance Marketing",
+
+    "element": "Performance Marketing",
+
+    "subElement": "Marketplace & Distributor",
+
+    "task": "1.D2C Platforms",
+
+    "monthlyTask": "30–50 product listings and optimization per month across platforms",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "October",
+
+    "category": "Performance Marketing",
+
+    "element": "Performance Marketing",
+
+    "subElement": "Marketplace & Distributor",
+
+    "task": "1.D2C Platforms",
+
+    "monthlyTask": "30–50 product listings and optimization per month across platforms",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "November",
+
+    "category": "Performance Marketing",
+
+    "element": "Performance Marketing",
+
+    "subElement": "Marketplace & Distributor",
+
+    "task": "1.D2C Platforms",
+
+    "monthlyTask": "30–50 product listings and optimization per month across platforms",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "December",
+
+    "category": "Performance Marketing",
+
+    "element": "Performance Marketing",
+
+    "subElement": "Marketplace & Distributor",
+
+    "task": "1.D2C Platforms",
+
+    "monthlyTask": "30–50 product listings and optimization per month across platforms",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+    "month": "January",
+    "category": "Performance Marketing",
+    "element": "Performance Marketing",
+    "subElement": "Marketplace & Distributor",
+    "task": "2.B2C Platforms",
+    "monthlyTask": "30–50 product listings and optimization per month across platforms",
+    "team": "digital-marketing"
+  },
+  {
+    "month": "January",
+    "category": "Performance Marketing",
+    "element": "Performance Marketing",
+    "subElement": "Marketplace & Distributor",
+    "task": "3.Listing Optimization",
+    "monthlyTask": "30–50 product listings and optimization per month across platforms",
+    "team": "digital-marketing"
+  },
+  {
+
+    "month": "January",
+
+    "category": "Performance Marketing",
+
+    "element": "Performance Marketing",
+
+    "subElement": "Social Media Optimization",
+
+    "task": "Profile Optimization",
+
+    "monthlyTask": "100K–150K impressions with 0.5%–1% CTR, 150–300 clicks",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "February",
+
+    "category": "Performance Marketing",
+
+    "element": "Performance Marketing",
+
+    "subElement": "Social Media Optimization",
+
+    "task": "Profile Optimization",
+
+    "monthlyTask": "100K–150K impressions with 0.5%–1% CTR, 150–300 clicks",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "March",
+
+    "category": "Performance Marketing",
+
+    "element": "Performance Marketing",
+
+    "subElement": "Social Media Optimization",
+
+    "task": "Profile Optimization",
+
+    "monthlyTask": "100K–150K impressions with 0.5%–1% CTR, 150–300 clicks",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "April",
+
+    "category": "Performance Marketing",
+
+    "element": "Performance Marketing",
+
+    "subElement": "Social Media Optimization",
+
+    "task": "Profile Optimization",
+
+    "monthlyTask": "100K–150K impressions with 0.5%–1% CTR, 150–300 clicks",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "May",
+
+    "category": "Performance Marketing",
+
+    "element": "Performance Marketing",
+
+    "subElement": "Social Media Optimization",
+
+    "task": "Profile Optimization",
+
+    "monthlyTask": "100K–150K impressions with 0.5%–1% CTR, 150–300 clicks",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "June",
+
+    "category": "Performance Marketing",
+
+    "element": "Performance Marketing",
+
+    "subElement": "Social Media Optimization",
+
+    "task": "Profile Optimization",
+
+    "monthlyTask": "100K–150K impressions with 0.5%–1% CTR, 150–300 clicks",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "July",
+
+    "category": "Performance Marketing",
+
+    "element": "Performance Marketing",
+
+    "subElement": "Social Media Optimization",
+
+    "task": "Profile Optimization",
+
+    "monthlyTask": "100K–150K impressions with 0.5%–1% CTR, 150–300 clicks",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "August",
+
+    "category": "Performance Marketing",
+
+    "element": "Performance Marketing",
+
+    "subElement": "Social Media Optimization",
+
+    "task": "Profile Optimization",
+
+    "monthlyTask": "100K–150K impressions with 0.5%–1% CTR, 150–300 clicks",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "September",
+
+    "category": "Performance Marketing",
+
+    "element": "Performance Marketing",
+
+    "subElement": "Social Media Optimization",
+
+    "task": "Profile Optimization",
+
+    "monthlyTask": "100K–150K impressions with 0.5%–1% CTR, 150–300 clicks",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "October",
+
+    "category": "Performance Marketing",
+
+    "element": "Performance Marketing",
+
+    "subElement": "Social Media Optimization",
+
+    "task": "Profile Optimization",
+
+    "monthlyTask": "100K–150K impressions with 0.5%–1% CTR, 150–300 clicks",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "November",
+
+    "category": "Performance Marketing",
+
+    "element": "Performance Marketing",
+
+    "subElement": "Social Media Optimization",
+
+    "task": "Profile Optimization",
+
+    "monthlyTask": "100K–150K impressions with 0.5%–1% CTR, 150–300 clicks",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "December",
+
+    "category": "Performance Marketing",
+
+    "element": "Performance Marketing",
+
+    "subElement": "Social Media Optimization",
+
+    "task": "Profile Optimization",
+
+    "monthlyTask": "100K–150K impressions with 0.5%–1% CTR, 150–300 clicks",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "January",
+
+    "category": "Performance Marketing",
+
+    "element": "Performance Marketing",
+
+    "subElement": "Social Media Optimization",
+
+    "task": "Weekly Content Plan",
+
+    "monthlyTask": "100K–150K impressions with 0.5%–1% CTR, 150–300 clicks",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "January",
+
+    "category": "Performance Marketing",
+
+    "element": "Performance Marketing",
+
+    "subElement": "Social Media Optimization",
+
+    "task": "CTA Integration",
+
+    "monthlyTask": "100K–150K impressions with 0.5%–1% CTR, 150–300 clicks",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "January",
+
+    "category": "Performance Marketing",
+
+    "element": "Performance Marketing",
+
+    "subElement": "Social Media Optimization",
+
+    "task": "Reels/Stories/YouTube",
+
+    "monthlyTask": "100K–150K impressions with 0.5%–1% CTR, 150–300 clicks",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "January",
+
+    "category": "Performance Marketing",
+
+    "element": "Performance Marketing",
+
+    "subElement": "Social Media Optimization",
+
+    "task": "Performance Review",
+
+    "monthlyTask": "100K–150K impressions with 0.5%–1% CTR, 150–300 clicks",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "January",
+
+    "category": "Paid PR Submission & Distribution Services (B2C Focus)",
+
+    "element": "Paid PR Submission & Distribution",
+
+    "subElement": "PR Strategy & Messaging",
+
+    "task": "1.Communication plan outlining",
+
+    "monthlyTask": "20 to 30",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "February",
+
+    "category": "Paid PR Submission & Distribution Services (B2C Focus)",
+
+    "element": "Paid PR Submission & Distribution",
+
+    "subElement": "PR Strategy & Messaging",
+
+    "task": "1.Communication plan outlining",
+
+    "monthlyTask": "20 to 30",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "March",
+
+    "category": "Paid PR Submission & Distribution Services (B2C Focus)",
+
+    "element": "Paid PR Submission & Distribution",
+
+    "subElement": "PR Strategy & Messaging",
+
+    "task": "1.Communication plan outlining",
+
+    "monthlyTask": "20 to 30",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "April",
+
+    "category": "Paid PR Submission & Distribution Services (B2C Focus)",
+
+    "element": "Paid PR Submission & Distribution",
+
+    "subElement": "PR Strategy & Messaging",
+
+    "task": "1.Communication plan outlining",
+
+    "monthlyTask": "20 to 30",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "May",
+
+    "category": "Paid PR Submission & Distribution Services (B2C Focus)",
+
+    "element": "Paid PR Submission & Distribution",
+
+    "subElement": "PR Strategy & Messaging",
+
+    "task": "1.Communication plan outlining",
+
+    "monthlyTask": "20 to 30",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "June",
+
+    "category": "Paid PR Submission & Distribution Services (B2C Focus)",
+
+    "element": "Paid PR Submission & Distribution",
+
+    "subElement": "PR Strategy & Messaging",
+
+    "task": "1.Communication plan outlining",
+
+    "monthlyTask": "20 to 30",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "July",
+
+    "category": "Paid PR Submission & Distribution Services (B2C Focus)",
+
+    "element": "Paid PR Submission & Distribution",
+
+    "subElement": "PR Strategy & Messaging",
+
+    "task": "1.Communication plan outlining",
+
+    "monthlyTask": "20 to 30",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "August",
+
+    "category": "Paid PR Submission & Distribution Services (B2C Focus)",
+
+    "element": "Paid PR Submission & Distribution",
+
+    "subElement": "PR Strategy & Messaging",
+
+    "task": "1.Communication plan outlining",
+
+    "monthlyTask": "20 to 30",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "September",
+
+    "category": "Paid PR Submission & Distribution Services (B2C Focus)",
+
+    "element": "Paid PR Submission & Distribution",
+
+    "subElement": "PR Strategy & Messaging",
+
+    "task": "1.Communication plan outlining",
+
+    "monthlyTask": "20 to 30",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "October",
+
+    "category": "Paid PR Submission & Distribution Services (B2C Focus)",
+
+    "element": "Paid PR Submission & Distribution",
+
+    "subElement": "PR Strategy & Messaging",
+
+    "task": "1.Communication plan outlining",
+
+    "monthlyTask": "20 to 30",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "November",
+
+    "category": "Paid PR Submission & Distribution Services (B2C Focus)",
+
+    "element": "Paid PR Submission & Distribution",
+
+    "subElement": "PR Strategy & Messaging",
+
+    "task": "1.Communication plan outlining",
+
+    "monthlyTask": "20 to 30",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "December",
+
+    "category": "Paid PR Submission & Distribution Services (B2C Focus)",
+
+    "element": "Paid PR Submission & Distribution",
+
+    "subElement": "PR Strategy & Messaging",
+
+    "task": "1.Communication plan outlining",
+
+    "monthlyTask": "20 to 30",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "January",
+
+    "category": "Paid PR Submission & Distribution Services (B2C Focus)",
+
+    "element": "Paid PR Submission & Distribution",
+
+    "subElement": "PR Strategy & Messaging",
+
+    "task": "2.Market positioning",
+
+    "monthlyTask": "20 to 30",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "February",
+
+    "category": "Paid PR Submission & Distribution Services (B2C Focus)",
+
+    "element": "Paid PR Submission & Distribution",
+
+    "subElement": "PR Strategy & Messaging",
+
+    "task": "2.Market positioning",
+
+    "monthlyTask": "20 to 30",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "March",
+
+    "category": "Paid PR Submission & Distribution Services (B2C Focus)",
+
+    "element": "Paid PR Submission & Distribution",
+
+    "subElement": "PR Strategy & Messaging",
+
+    "task": "2.Market positioning",
+
+    "monthlyTask": "20 to 30",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "April",
+
+    "category": "Paid PR Submission & Distribution Services (B2C Focus)",
+
+    "element": "Paid PR Submission & Distribution",
+
+    "subElement": "PR Strategy & Messaging",
+
+    "task": "2.Market positioning",
+
+    "monthlyTask": "20 to 30",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "May",
+
+    "category": "Paid PR Submission & Distribution Services (B2C Focus)",
+
+    "element": "Paid PR Submission & Distribution",
+
+    "subElement": "PR Strategy & Messaging",
+
+    "task": "2.Market positioning",
+
+    "monthlyTask": "20 to 30",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "June",
+
+    "category": "Paid PR Submission & Distribution Services (B2C Focus)",
+
+    "element": "Paid PR Submission & Distribution",
+
+    "subElement": "PR Strategy & Messaging",
+
+    "task": "2.Market positioning",
+
+    "monthlyTask": "20 to 30",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "July",
+
+    "category": "Paid PR Submission & Distribution Services (B2C Focus)",
+
+    "element": "Paid PR Submission & Distribution",
+
+    "subElement": "PR Strategy & Messaging",
+
+    "task": "2.Market positioning",
+
+    "monthlyTask": "20 to 30",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "August",
+
+    "category": "Paid PR Submission & Distribution Services (B2C Focus)",
+
+    "element": "Paid PR Submission & Distribution",
+
+    "subElement": "PR Strategy & Messaging",
+
+    "task": "2.Market positioning",
+
+    "monthlyTask": "20 to 30",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "September",
+
+    "category": "Paid PR Submission & Distribution Services (B2C Focus)",
+
+    "element": "Paid PR Submission & Distribution",
+
+    "subElement": "PR Strategy & Messaging",
+
+    "task": "2.Market positioning",
+
+    "monthlyTask": "20 to 30",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "October",
+
+    "category": "Paid PR Submission & Distribution Services (B2C Focus)",
+
+    "element": "Paid PR Submission & Distribution",
+
+    "subElement": "PR Strategy & Messaging",
+
+    "task": "2.Market positioning",
+
+    "monthlyTask": "20 to 30",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "November",
+
+    "category": "Paid PR Submission & Distribution Services (B2C Focus)",
+
+    "element": "Paid PR Submission & Distribution",
+
+    "subElement": "PR Strategy & Messaging",
+
+    "task": "2.Market positioning",
+
+    "monthlyTask": "20 to 30",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "December",
+
+    "category": "Paid PR Submission & Distribution Services (B2C Focus)",
+
+    "element": "Paid PR Submission & Distribution",
+
+    "subElement": "PR Strategy & Messaging",
+
+    "task": "2.Market positioning",
+
+    "monthlyTask": "20 to 30",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "January",
+
+    "category": "Paid PR Submission & Distribution Services (B2C Focus)",
+
+    "element": "Paid PR Submission & Distribution",
+
+    "subElement": "PR Strategy & Messaging",
+
+    "task": "3.Create tailored messages",
+
+    "monthlyTask": "20 to 30",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "February",
+
+    "category": "Paid PR Submission & Distribution Services (B2C Focus)",
+
+    "element": "Paid PR Submission & Distribution",
+
+    "subElement": "PR Strategy & Messaging",
+
+    "task": "3.Create tailored messages",
+
+    "monthlyTask": "20 to 30",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "March",
+
+    "category": "Paid PR Submission & Distribution Services (B2C Focus)",
+
+    "element": "Paid PR Submission & Distribution",
+
+    "subElement": "PR Strategy & Messaging",
+
+    "task": "3.Create tailored messages",
+
+    "monthlyTask": "20 to 30",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "April",
+
+    "category": "Paid PR Submission & Distribution Services (B2C Focus)",
+
+    "element": "Paid PR Submission & Distribution",
+
+    "subElement": "PR Strategy & Messaging",
+
+    "task": "3.Create tailored messages",
+
+    "monthlyTask": "20 to 30",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "May",
+
+    "category": "Paid PR Submission & Distribution Services (B2C Focus)",
+
+    "element": "Paid PR Submission & Distribution",
+
+    "subElement": "PR Strategy & Messaging",
+
+    "task": "3.Create tailored messages",
+
+    "monthlyTask": "20 to 30",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "June",
+
+    "category": "Paid PR Submission & Distribution Services (B2C Focus)",
+
+    "element": "Paid PR Submission & Distribution",
+
+    "subElement": "PR Strategy & Messaging",
+
+    "task": "3.Create tailored messages",
+
+    "monthlyTask": "20 to 30",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "July",
+
+    "category": "Paid PR Submission & Distribution Services (B2C Focus)",
+
+    "element": "Paid PR Submission & Distribution",
+
+    "subElement": "PR Strategy & Messaging",
+
+    "task": "3.Create tailored messages",
+
+    "monthlyTask": "20 to 30",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "August",
+
+    "category": "Paid PR Submission & Distribution Services (B2C Focus)",
+
+    "element": "Paid PR Submission & Distribution",
+
+    "subElement": "PR Strategy & Messaging",
+
+    "task": "3.Create tailored messages",
+
+    "monthlyTask": "20 to 30",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "September",
+
+    "category": "Paid PR Submission & Distribution Services (B2C Focus)",
+
+    "element": "Paid PR Submission & Distribution",
+
+    "subElement": "PR Strategy & Messaging",
+
+    "task": "3.Create tailored messages",
+
+    "monthlyTask": "20 to 30",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "October",
+
+    "category": "Paid PR Submission & Distribution Services (B2C Focus)",
+
+    "element": "Paid PR Submission & Distribution",
+
+    "subElement": "PR Strategy & Messaging",
+
+    "task": "3.Create tailored messages",
+
+    "monthlyTask": "20 to 30",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "November",
+
+    "category": "Paid PR Submission & Distribution Services (B2C Focus)",
+
+    "element": "Paid PR Submission & Distribution",
+
+    "subElement": "PR Strategy & Messaging",
+
+    "task": "3.Create tailored messages",
+
+    "monthlyTask": "20 to 30",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "December",
+
+    "category": "Paid PR Submission & Distribution Services (B2C Focus)",
+
+    "element": "Paid PR Submission & Distribution",
+
+    "subElement": "PR Strategy & Messaging",
+
+    "task": "3.Create tailored messages",
+
+    "monthlyTask": "20 to 30",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "January",
+
+    "category": "Paid PR Submission & Distribution Services (B2C Focus)",
+
+    "element": "Paid PR Submission & Distribution",
+
+    "subElement": "PR Writing & Submission",
+
+    "task": "1.Write professional, media-ready press releases.",
+
+    "monthlyTask": "20 to 30",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "February",
+
+    "category": "Paid PR Submission & Distribution Services (B2C Focus)",
+
+    "element": "Paid PR Submission & Distribution",
+
+    "subElement": "PR Writing & Submission",
+
+    "task": "1.Write professional, media-ready press releases.",
+
+    "monthlyTask": "20 to 30",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "March",
+
+    "category": "Paid PR Submission & Distribution Services (B2C Focus)",
+
+    "element": "Paid PR Submission & Distribution",
+
+    "subElement": "PR Writing & Submission",
+
+    "task": "1.Write professional, media-ready press releases.",
+
+    "monthlyTask": "20 to 30",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "April",
+
+    "category": "Paid PR Submission & Distribution Services (B2C Focus)",
+
+    "element": "Paid PR Submission & Distribution",
+
+    "subElement": "PR Writing & Submission",
+
+    "task": "1.Write professional, media-ready press releases.",
+
+    "monthlyTask": "20 to 30",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "May",
+
+    "category": "Paid PR Submission & Distribution Services (B2C Focus)",
+
+    "element": "Paid PR Submission & Distribution",
+
+    "subElement": "PR Writing & Submission",
+
+    "task": "1.Write professional, media-ready press releases.",
+
+    "monthlyTask": "20 to 30",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "June",
+
+    "category": "Paid PR Submission & Distribution Services (B2C Focus)",
+
+    "element": "Paid PR Submission & Distribution",
+
+    "subElement": "PR Writing & Submission",
+
+    "task": "1.Write professional, media-ready press releases.",
+
+    "monthlyTask": "20 to 30",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "July",
+
+    "category": "Paid PR Submission & Distribution Services (B2C Focus)",
+
+    "element": "Paid PR Submission & Distribution",
+
+    "subElement": "PR Writing & Submission",
+
+    "task": "1.Write professional, media-ready press releases.",
+
+    "monthlyTask": "20 to 30",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "August",
+
+    "category": "Paid PR Submission & Distribution Services (B2C Focus)",
+
+    "element": "Paid PR Submission & Distribution",
+
+    "subElement": "PR Writing & Submission",
+
+    "task": "1.Write professional, media-ready press releases.",
+
+    "monthlyTask": "20 to 30",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "September",
+
+    "category": "Paid PR Submission & Distribution Services (B2C Focus)",
+
+    "element": "Paid PR Submission & Distribution",
+
+    "subElement": "PR Writing & Submission",
+
+    "task": "1.Write professional, media-ready press releases.",
+
+    "monthlyTask": "20 to 30",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "October",
+
+    "category": "Paid PR Submission & Distribution Services (B2C Focus)",
+
+    "element": "Paid PR Submission & Distribution",
+
+    "subElement": "PR Writing & Submission",
+
+    "task": "1.Write professional, media-ready press releases.",
+
+    "monthlyTask": "20 to 30",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "November",
+
+    "category": "Paid PR Submission & Distribution Services (B2C Focus)",
+
+    "element": "Paid PR Submission & Distribution",
+
+    "subElement": "PR Writing & Submission",
+
+    "task": "1.Write professional, media-ready press releases.",
+
+    "monthlyTask": "20 to 30",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "December",
+
+    "category": "Paid PR Submission & Distribution Services (B2C Focus)",
+
+    "element": "Paid PR Submission & Distribution",
+
+    "subElement": "PR Writing & Submission",
+
+    "task": "1.Write professional, media-ready press releases.",
+
+    "monthlyTask": "20 to 30",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "January",
+
+    "category": "Paid PR Submission & Distribution Services (B2C Focus)",
+
+    "element": "Paid PR Submission & Distribution",
+
+    "subElement": "PR Writing & Submission",
+
+    "task": "2.Submit content to relevant media platforms",
+
+    "monthlyTask": "20 to 30",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "February",
+
+    "category": "Paid PR Submission & Distribution Services (B2C Focus)",
+
+    "element": "Paid PR Submission & Distribution",
+
+    "subElement": "PR Writing & Submission",
+
+    "task": "2.Submit content to relevant media platforms",
+
+    "monthlyTask": "20 to 30",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "March",
+
+    "category": "Paid PR Submission & Distribution Services (B2C Focus)",
+
+    "element": "Paid PR Submission & Distribution",
+
+    "subElement": "PR Writing & Submission",
+
+    "task": "2.Submit content to relevant media platforms",
+
+    "monthlyTask": "20 to 30",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "April",
+
+    "category": "Paid PR Submission & Distribution Services (B2C Focus)",
+
+    "element": "Paid PR Submission & Distribution",
+
+    "subElement": "PR Writing & Submission",
+
+    "task": "2.Submit content to relevant media platforms",
+
+    "monthlyTask": "20 to 30",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "May",
+
+    "category": "Paid PR Submission & Distribution Services (B2C Focus)",
+
+    "element": "Paid PR Submission & Distribution",
+
+    "subElement": "PR Writing & Submission",
+
+    "task": "2.Submit content to relevant media platforms",
+
+    "monthlyTask": "20 to 30",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "June",
+
+    "category": "Paid PR Submission & Distribution Services (B2C Focus)",
+
+    "element": "Paid PR Submission & Distribution",
+
+    "subElement": "PR Writing & Submission",
+
+    "task": "2.Submit content to relevant media platforms",
+
+    "monthlyTask": "20 to 30",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "July",
+
+    "category": "Paid PR Submission & Distribution Services (B2C Focus)",
+
+    "element": "Paid PR Submission & Distribution",
+
+    "subElement": "PR Writing & Submission",
+
+    "task": "2.Submit content to relevant media platforms",
+
+    "monthlyTask": "20 to 30",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "August",
+
+    "category": "Paid PR Submission & Distribution Services (B2C Focus)",
+
+    "element": "Paid PR Submission & Distribution",
+
+    "subElement": "PR Writing & Submission",
+
+    "task": "2.Submit content to relevant media platforms",
+
+    "monthlyTask": "20 to 30",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "September",
+
+    "category": "Paid PR Submission & Distribution Services (B2C Focus)",
+
+    "element": "Paid PR Submission & Distribution",
+
+    "subElement": "PR Writing & Submission",
+
+    "task": "2.Submit content to relevant media platforms",
+
+    "monthlyTask": "20 to 30",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "October",
+
+    "category": "Paid PR Submission & Distribution Services (B2C Focus)",
+
+    "element": "Paid PR Submission & Distribution",
+
+    "subElement": "PR Writing & Submission",
+
+    "task": "2.Submit content to relevant media platforms",
+
+    "monthlyTask": "20 to 30",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "November",
+
+    "category": "Paid PR Submission & Distribution Services (B2C Focus)",
+
+    "element": "Paid PR Submission & Distribution",
+
+    "subElement": "PR Writing & Submission",
+
+    "task": "2.Submit content to relevant media platforms",
+
+    "monthlyTask": "20 to 30",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "December",
+
+    "category": "Paid PR Submission & Distribution Services (B2C Focus)",
+
+    "element": "Paid PR Submission & Distribution",
+
+    "subElement": "PR Writing & Submission",
+
+    "task": "2.Submit content to relevant media platforms",
+
+    "monthlyTask": "20 to 30",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "January",
+
+    "category": "Paid PR Submission & Distribution Services (B2C Focus)",
+
+    "element": "Paid PR Submission & Distribution",
+
+    "subElement": "PR Distribution Channels",
+
+    "task": "1.Identifying channels",
+
+    "monthlyTask": "2 to 3",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "February",
+
+    "category": "Paid PR Submission & Distribution Services (B2C Focus)",
+
+    "element": "Paid PR Submission & Distribution",
+
+    "subElement": "PR Distribution Channels",
+
+    "task": "1.Identifying channels",
+
+    "monthlyTask": "2 to 3",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "March",
+
+    "category": "Paid PR Submission & Distribution Services (B2C Focus)",
+
+    "element": "Paid PR Submission & Distribution",
+
+    "subElement": "PR Distribution Channels",
+
+    "task": "1.Identifying channels",
+
+    "monthlyTask": "2 to 3",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "April",
+
+    "category": "Paid PR Submission & Distribution Services (B2C Focus)",
+
+    "element": "Paid PR Submission & Distribution",
+
+    "subElement": "PR Distribution Channels",
+
+    "task": "1.Identifying channels",
+
+    "monthlyTask": "2 to 3",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "May",
+
+    "category": "Paid PR Submission & Distribution Services (B2C Focus)",
+
+    "element": "Paid PR Submission & Distribution",
+
+    "subElement": "PR Distribution Channels",
+
+    "task": "1.Identifying channels",
+
+    "monthlyTask": "2 to 3",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "June",
+
+    "category": "Paid PR Submission & Distribution Services (B2C Focus)",
+
+    "element": "Paid PR Submission & Distribution",
+
+    "subElement": "PR Distribution Channels",
+
+    "task": "1.Identifying channels",
+
+    "monthlyTask": "2 to 3",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "July",
+
+    "category": "Paid PR Submission & Distribution Services (B2C Focus)",
+
+    "element": "Paid PR Submission & Distribution",
+
+    "subElement": "PR Distribution Channels",
+
+    "task": "1.Identifying channels",
+
+    "monthlyTask": "2 to 3",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "August",
+
+    "category": "Paid PR Submission & Distribution Services (B2C Focus)",
+
+    "element": "Paid PR Submission & Distribution",
+
+    "subElement": "PR Distribution Channels",
+
+    "task": "1.Identifying channels",
+
+    "monthlyTask": "2 to 3",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "September",
+
+    "category": "Paid PR Submission & Distribution Services (B2C Focus)",
+
+    "element": "Paid PR Submission & Distribution",
+
+    "subElement": "PR Distribution Channels",
+
+    "task": "1.Identifying channels",
+
+    "monthlyTask": "2 to 3",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "October",
+
+    "category": "Paid PR Submission & Distribution Services (B2C Focus)",
+
+    "element": "Paid PR Submission & Distribution",
+
+    "subElement": "PR Distribution Channels",
+
+    "task": "1.Identifying channels",
+
+    "monthlyTask": "2 to 3",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "November",
+
+    "category": "Paid PR Submission & Distribution Services (B2C Focus)",
+
+    "element": "Paid PR Submission & Distribution",
+
+    "subElement": "PR Distribution Channels",
+
+    "task": "1.Identifying channels",
+
+    "monthlyTask": "2 to 3",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "December",
+
+    "category": "Paid PR Submission & Distribution Services (B2C Focus)",
+
+    "element": "Paid PR Submission & Distribution",
+
+    "subElement": "PR Distribution Channels",
+
+    "task": "1.Identifying channels",
+
+    "monthlyTask": "2 to 3",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "January",
+
+    "category": "Paid PR Submission & Distribution Services (B2C Focus)",
+
+    "element": "Paid PR Submission & Distribution",
+
+    "subElement": "PR Distribution Channels",
+
+    "task": "2. Customize distribution",
+
+    "monthlyTask": "2 to 3",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "February",
+
+    "category": "Paid PR Submission & Distribution Services (B2C Focus)",
+
+    "element": "Paid PR Submission & Distribution",
+
+    "subElement": "PR Distribution Channels",
+
+    "task": "2. Customize distribution",
+
+    "monthlyTask": "2 to 3",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "March",
+
+    "category": "Paid PR Submission & Distribution Services (B2C Focus)",
+
+    "element": "Paid PR Submission & Distribution",
+
+    "subElement": "PR Distribution Channels",
+
+    "task": "2. Customize distribution",
+
+    "monthlyTask": "2 to 3",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "April",
+
+    "category": "Paid PR Submission & Distribution Services (B2C Focus)",
+
+    "element": "Paid PR Submission & Distribution",
+
+    "subElement": "PR Distribution Channels",
+
+    "task": "2. Customize distribution",
+
+    "monthlyTask": "2 to 3",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "May",
+
+    "category": "Paid PR Submission & Distribution Services (B2C Focus)",
+
+    "element": "Paid PR Submission & Distribution",
+
+    "subElement": "PR Distribution Channels",
+
+    "task": "2. Customize distribution",
+
+    "monthlyTask": "2 to 3",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "June",
+
+    "category": "Paid PR Submission & Distribution Services (B2C Focus)",
+
+    "element": "Paid PR Submission & Distribution",
+
+    "subElement": "PR Distribution Channels",
+
+    "task": "2. Customize distribution",
+
+    "monthlyTask": "2 to 3",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "July",
+
+    "category": "Paid PR Submission & Distribution Services (B2C Focus)",
+
+    "element": "Paid PR Submission & Distribution",
+
+    "subElement": "PR Distribution Channels",
+
+    "task": "2. Customize distribution",
+
+    "monthlyTask": "2 to 3",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "August",
+
+    "category": "Paid PR Submission & Distribution Services (B2C Focus)",
+
+    "element": "Paid PR Submission & Distribution",
+
+    "subElement": "PR Distribution Channels",
+
+    "task": "2. Customize distribution",
+
+    "monthlyTask": "2 to 3",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "September",
+
+    "category": "Paid PR Submission & Distribution Services (B2C Focus)",
+
+    "element": "Paid PR Submission & Distribution",
+
+    "subElement": "PR Distribution Channels",
+
+    "task": "2. Customize distribution",
+
+    "monthlyTask": "2 to 3",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "October",
+
+    "category": "Paid PR Submission & Distribution Services (B2C Focus)",
+
+    "element": "Paid PR Submission & Distribution",
+
+    "subElement": "PR Distribution Channels",
+
+    "task": "2. Customize distribution",
+
+    "monthlyTask": "2 to 3",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "November",
+
+    "category": "Paid PR Submission & Distribution Services (B2C Focus)",
+
+    "element": "Paid PR Submission & Distribution",
+
+    "subElement": "PR Distribution Channels",
+
+    "task": "2. Customize distribution",
+
+    "monthlyTask": "2 to 3",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "December",
+
+    "category": "Paid PR Submission & Distribution Services (B2C Focus)",
+
+    "element": "Paid PR Submission & Distribution",
+
+    "subElement": "PR Distribution Channels",
+
+    "task": "2. Customize distribution",
+
+    "monthlyTask": "2 to 3",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "January",
+
+    "category": "Brand Positioning & Thought Leadership",
+
+    "element": "Brand Positioning & Thought Leadership",
+
+    "subElement": "Other",
+
+    "task": "Trend Stories & Listicles",
+
+    "monthlyTask": "define",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "February",
+
+    "category": "Brand Positioning & Thought Leadership",
+
+    "element": "Brand Positioning & Thought Leadership",
+
+    "subElement": "Other",
+
+    "task": "Trend Stories & Listicles",
+
+    "monthlyTask": "define",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "March",
+
+    "category": "Brand Positioning & Thought Leadership",
+
+    "element": "Brand Positioning & Thought Leadership",
+
+    "subElement": "Other",
+
+    "task": "Trend Stories & Listicles",
+
+    "monthlyTask": "define",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "April",
+
+    "category": "Brand Positioning & Thought Leadership",
+
+    "element": "Brand Positioning & Thought Leadership",
+
+    "subElement": "Other",
+
+    "task": "Trend Stories & Listicles",
+
+    "monthlyTask": "define",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "May",
+
+    "category": "Brand Positioning & Thought Leadership",
+
+    "element": "Brand Positioning & Thought Leadership",
+
+    "subElement": "Other",
+
+    "task": "Trend Stories & Listicles",
+
+    "monthlyTask": "define",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "June",
+
+    "category": "Brand Positioning & Thought Leadership",
+
+    "element": "Brand Positioning & Thought Leadership",
+
+    "subElement": "Other",
+
+    "task": "Trend Stories & Listicles",
+
+    "monthlyTask": "define",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "July",
+
+    "category": "Brand Positioning & Thought Leadership",
+
+    "element": "Brand Positioning & Thought Leadership",
+
+    "subElement": "Other",
+
+    "task": "Trend Stories & Listicles",
+
+    "monthlyTask": "define",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "August",
+
+    "category": "Brand Positioning & Thought Leadership",
+
+    "element": "Brand Positioning & Thought Leadership",
+
+    "subElement": "Other",
+
+    "task": "Trend Stories & Listicles",
+
+    "monthlyTask": "define",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "September",
+
+    "category": "Brand Positioning & Thought Leadership",
+
+    "element": "Brand Positioning & Thought Leadership",
+
+    "subElement": "Other",
+
+    "task": "Trend Stories & Listicles",
+
+    "monthlyTask": "define",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "October",
+
+    "category": "Brand Positioning & Thought Leadership",
+
+    "element": "Brand Positioning & Thought Leadership",
+
+    "subElement": "Other",
+
+    "task": "Trend Stories & Listicles",
+
+    "monthlyTask": "define",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "November",
+
+    "category": "Brand Positioning & Thought Leadership",
+
+    "element": "Brand Positioning & Thought Leadership",
+
+    "subElement": "Other",
+
+    "task": "Trend Stories & Listicles",
+
+    "monthlyTask": "define",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "December",
+
+    "category": "Brand Positioning & Thought Leadership",
+
+    "element": "Brand Positioning & Thought Leadership",
+
+    "subElement": "Other",
+
+    "task": "Trend Stories & Listicles",
+
+    "monthlyTask": "define",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "January",
+
+    "category": "Brand Positioning & Thought Leadership",
+
+    "element": "Brand Positioning & Thought Leadership",
+
+    "subElement": "Other",
+
+    "task": "Media Gifting",
+
+    "monthlyTask": "10",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "February",
+
+    "category": "Brand Positioning & Thought Leadership",
+
+    "element": "Brand Positioning & Thought Leadership",
+
+    "subElement": "Other",
+
+    "task": "Media Gifting",
+
+    "monthlyTask": "10",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "March",
+
+    "category": "Brand Positioning & Thought Leadership",
+
+    "element": "Brand Positioning & Thought Leadership",
+
+    "subElement": "Other",
+
+    "task": "Media Gifting",
+
+    "monthlyTask": "10",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "April",
+
+    "category": "Brand Positioning & Thought Leadership",
+
+    "element": "Brand Positioning & Thought Leadership",
+
+    "subElement": "Other",
+
+    "task": "Media Gifting",
+
+    "monthlyTask": "10",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "May",
+
+    "category": "Brand Positioning & Thought Leadership",
+
+    "element": "Brand Positioning & Thought Leadership",
+
+    "subElement": "Other",
+
+    "task": "Media Gifting",
+
+    "monthlyTask": "10",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "June",
+
+    "category": "Brand Positioning & Thought Leadership",
+
+    "element": "Brand Positioning & Thought Leadership",
+
+    "subElement": "Other",
+
+    "task": "Media Gifting",
+
+    "monthlyTask": "10",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "July",
+
+    "category": "Brand Positioning & Thought Leadership",
+
+    "element": "Brand Positioning & Thought Leadership",
+
+    "subElement": "Other",
+
+    "task": "Media Gifting",
+
+    "monthlyTask": "10",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "August",
+
+    "category": "Brand Positioning & Thought Leadership",
+
+    "element": "Brand Positioning & Thought Leadership",
+
+    "subElement": "Other",
+
+    "task": "Media Gifting",
+
+    "monthlyTask": "10",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "September",
+
+    "category": "Brand Positioning & Thought Leadership",
+
+    "element": "Brand Positioning & Thought Leadership",
+
+    "subElement": "Other",
+
+    "task": "Media Gifting",
+
+    "monthlyTask": "10",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "October",
+
+    "category": "Brand Positioning & Thought Leadership",
+
+    "element": "Brand Positioning & Thought Leadership",
+
+    "subElement": "Other",
+
+    "task": "Media Gifting",
+
+    "monthlyTask": "10",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "November",
+
+    "category": "Brand Positioning & Thought Leadership",
+
+    "element": "Brand Positioning & Thought Leadership",
+
+    "subElement": "Other",
+
+    "task": "Media Gifting",
+
+    "monthlyTask": "10",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "December",
+
+    "category": "Brand Positioning & Thought Leadership",
+
+    "element": "Brand Positioning & Thought Leadership",
+
+    "subElement": "Other",
+
+    "task": "Media Gifting",
+
+    "monthlyTask": "10",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "January",
+
+    "category": "Brand Positioning & Thought Leadership",
+
+    "element": "Brand Positioning & Thought Leadership",
+
+    "subElement": "Other",
+
+    "task": "Press Release",
+
+    "monthlyTask": "1",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "February",
+
+    "category": "Brand Positioning & Thought Leadership",
+
+    "element": "Brand Positioning & Thought Leadership",
+
+    "subElement": "Other",
+
+    "task": "Press Release",
+
+    "monthlyTask": "1",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "March",
+
+    "category": "Brand Positioning & Thought Leadership",
+
+    "element": "Brand Positioning & Thought Leadership",
+
+    "subElement": "Other",
+
+    "task": "Press Release",
+
+    "monthlyTask": "1",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "April",
+
+    "category": "Brand Positioning & Thought Leadership",
+
+    "element": "Brand Positioning & Thought Leadership",
+
+    "subElement": "Other",
+
+    "task": "Press Release",
+
+    "monthlyTask": "1",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "May",
+
+    "category": "Brand Positioning & Thought Leadership",
+
+    "element": "Brand Positioning & Thought Leadership",
+
+    "subElement": "Other",
+
+    "task": "Press Release",
+
+    "monthlyTask": "1",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "June",
+
+    "category": "Brand Positioning & Thought Leadership",
+
+    "element": "Brand Positioning & Thought Leadership",
+
+    "subElement": "Other",
+
+    "task": "Press Release",
+
+    "monthlyTask": "1",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "July",
+
+    "category": "Brand Positioning & Thought Leadership",
+
+    "element": "Brand Positioning & Thought Leadership",
+
+    "subElement": "Other",
+
+    "task": "Press Release",
+
+    "monthlyTask": "1",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "August",
+
+    "category": "Brand Positioning & Thought Leadership",
+
+    "element": "Brand Positioning & Thought Leadership",
+
+    "subElement": "Other",
+
+    "task": "Press Release",
+
+    "monthlyTask": "1",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "September",
+
+    "category": "Brand Positioning & Thought Leadership",
+
+    "element": "Brand Positioning & Thought Leadership",
+
+    "subElement": "Other",
+
+    "task": "Press Release",
+
+    "monthlyTask": "1",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "October",
+
+    "category": "Brand Positioning & Thought Leadership",
+
+    "element": "Brand Positioning & Thought Leadership",
+
+    "subElement": "Other",
+
+    "task": "Press Release",
+
+    "monthlyTask": "1",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "November",
+
+    "category": "Brand Positioning & Thought Leadership",
+
+    "element": "Brand Positioning & Thought Leadership",
+
+    "subElement": "Other",
+
+    "task": "Press Release",
+
+    "monthlyTask": "1",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "December",
+
+    "category": "Brand Positioning & Thought Leadership",
+
+    "element": "Brand Positioning & Thought Leadership",
+
+    "subElement": "Other",
+
+    "task": "Press Release",
+
+    "monthlyTask": "1",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "January",
+
+    "category": "Brand Positioning & Thought Leadership",
+
+    "element": "Brand Positioning & Thought Leadership",
+
+    "subElement": "Other",
+
+    "task": "Influencer collaboration",
+
+    "monthlyTask": "4-5",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "February",
+
+    "category": "Brand Positioning & Thought Leadership",
+
+    "element": "Brand Positioning & Thought Leadership",
+
+    "subElement": "Other",
+
+    "task": "Influencer collaboration",
+
+    "monthlyTask": "4-5",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "March",
+
+    "category": "Brand Positioning & Thought Leadership",
+
+    "element": "Brand Positioning & Thought Leadership",
+
+    "subElement": "Other",
+
+    "task": "Influencer collaboration",
+
+    "monthlyTask": "4-5",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "April",
+
+    "category": "Brand Positioning & Thought Leadership",
+
+    "element": "Brand Positioning & Thought Leadership",
+
+    "subElement": "Other",
+
+    "task": "Influencer collaboration",
+
+    "monthlyTask": "4-5",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "May",
+
+    "category": "Brand Positioning & Thought Leadership",
+
+    "element": "Brand Positioning & Thought Leadership",
+
+    "subElement": "Other",
+
+    "task": "Influencer collaboration",
+
+    "monthlyTask": "4-5",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "June",
+
+    "category": "Brand Positioning & Thought Leadership",
+
+    "element": "Brand Positioning & Thought Leadership",
+
+    "subElement": "Other",
+
+    "task": "Influencer collaboration",
+
+    "monthlyTask": "4-5",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "July",
+
+    "category": "Brand Positioning & Thought Leadership",
+
+    "element": "Brand Positioning & Thought Leadership",
+
+    "subElement": "Other",
+
+    "task": "Influencer collaboration",
+
+    "monthlyTask": "4-5",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "August",
+
+    "category": "Brand Positioning & Thought Leadership",
+
+    "element": "Brand Positioning & Thought Leadership",
+
+    "subElement": "Other",
+
+    "task": "Influencer collaboration",
+
+    "monthlyTask": "4-5",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "September",
+
+    "category": "Brand Positioning & Thought Leadership",
+
+    "element": "Brand Positioning & Thought Leadership",
+
+    "subElement": "Other",
+
+    "task": "Influencer collaboration",
+
+    "monthlyTask": "4-5",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "October",
+
+    "category": "Brand Positioning & Thought Leadership",
+
+    "element": "Brand Positioning & Thought Leadership",
+
+    "subElement": "Other",
+
+    "task": "Influencer collaboration",
+
+    "monthlyTask": "4-5",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "November",
+
+    "category": "Brand Positioning & Thought Leadership",
+
+    "element": "Brand Positioning & Thought Leadership",
+
+    "subElement": "Other",
+
+    "task": "Influencer collaboration",
+
+    "monthlyTask": "4-5",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "December",
+
+    "category": "Brand Positioning & Thought Leadership",
+
+    "element": "Brand Positioning & Thought Leadership",
+
+    "subElement": "Other",
+
+    "task": "Influencer collaboration",
+
+    "monthlyTask": "4-5",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "January",
+
+    "category": "Brand Positioning & Thought Leadership",
+
+    "element": "Brand Positioning & Thought Leadership",
+
+    "subElement": "Other",
+
+    "task": "Features",
+
+    "monthlyTask": "1",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "February",
+
+    "category": "Brand Positioning & Thought Leadership",
+
+    "element": "Brand Positioning & Thought Leadership",
+
+    "subElement": "Other",
+
+    "task": "Features",
+
+    "monthlyTask": "1",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "March",
+
+    "category": "Brand Positioning & Thought Leadership",
+
+    "element": "Brand Positioning & Thought Leadership",
+
+    "subElement": "Other",
+
+    "task": "Features",
+
+    "monthlyTask": "1",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "April",
+
+    "category": "Brand Positioning & Thought Leadership",
+
+    "element": "Brand Positioning & Thought Leadership",
+
+    "subElement": "Other",
+
+    "task": "Features",
+
+    "monthlyTask": "1",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "May",
+
+    "category": "Brand Positioning & Thought Leadership",
+
+    "element": "Brand Positioning & Thought Leadership",
+
+    "subElement": "Other",
+
+    "task": "Features",
+
+    "monthlyTask": "1",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "June",
+
+    "category": "Brand Positioning & Thought Leadership",
+
+    "element": "Brand Positioning & Thought Leadership",
+
+    "subElement": "Other",
+
+    "task": "Features",
+
+    "monthlyTask": "1",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "July",
+
+    "category": "Brand Positioning & Thought Leadership",
+
+    "element": "Brand Positioning & Thought Leadership",
+
+    "subElement": "Other",
+
+    "task": "Features",
+
+    "monthlyTask": "1",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "August",
+
+    "category": "Brand Positioning & Thought Leadership",
+
+    "element": "Brand Positioning & Thought Leadership",
+
+    "subElement": "Other",
+
+    "task": "Features",
+
+    "monthlyTask": "1",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "September",
+
+    "category": "Brand Positioning & Thought Leadership",
+
+    "element": "Brand Positioning & Thought Leadership",
+
+    "subElement": "Other",
+
+    "task": "Features",
+
+    "monthlyTask": "1",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "October",
+
+    "category": "Brand Positioning & Thought Leadership",
+
+    "element": "Brand Positioning & Thought Leadership",
+
+    "subElement": "Other",
+
+    "task": "Features",
+
+    "monthlyTask": "1",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "November",
+
+    "category": "Brand Positioning & Thought Leadership",
+
+    "element": "Brand Positioning & Thought Leadership",
+
+    "subElement": "Other",
+
+    "task": "Features",
+
+    "monthlyTask": "1",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "December",
+
+    "category": "Brand Positioning & Thought Leadership",
+
+    "element": "Brand Positioning & Thought Leadership",
+
+    "subElement": "Other",
+
+    "task": "Features",
+
+    "monthlyTask": "1",
+
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "January",
+    "category": "Content Marketing & Strategy",
+
+    "element": "Blog Categories & Sample Topics",
+
+    "subElement": "Other",
+
+    "task": "I.                     Website Content Overhaul for B2C Growth",
+    "monthlyTask": "10+5",
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "February",
+    "category": "Content Marketing & Strategy",
+
+    "element": "Blog Categories & Sample Topics",
+
+    "subElement": "Other",
+
+    "task": "I.                     Website Content Overhaul for B2C Growth",
+    "monthlyTask": "10+5",
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "March",
+    "category": "Content Marketing & Strategy",
+
+    "element": "Blog Categories & Sample Topics",
+
+    "subElement": "Other",
+
+    "task": "I.                     Website Content Overhaul for B2C Growth",
+    "monthlyTask": "10+5",
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "April",
+    "category": "Content Marketing & Strategy",
+
+    "element": "Blog Categories & Sample Topics",
+    "subElement": "Other",
+
+    "task": "I.                     Website Content Overhaul for B2C Growth",
+    "monthlyTask": "10+5",
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "May",
+    "category": "Content Marketing & Strategy",
+
+    "element": "Blog Categories & Sample Topics",
+    "subElement": "Other",
+
+    "task": "I.                     Website Content Overhaul for B2C Growth",
+    "monthlyTask": "10+5",
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "June",
+    "category": "Content Marketing & Strategy",
+
+    "element": "Blog Categories & Sample Topics",
+    "subElement": "Other",
+
+    "task": "I.                     Website Content Overhaul for B2C Growth",
+    "monthlyTask": "10+5",
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "July",
+    "category": "Content Marketing & Strategy",
+
+    "element": "Blog Categories & Sample Topics",
+    "subElement": "Other",
+
+    "task": "I.                     Website Content Overhaul for B2C Growth",
+    "monthlyTask": "10+5",
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "August",
+    "category": "Content Marketing & Strategy",
+
+    "element": "Blog Categories & Sample Topics",
+    "subElement": "Other",
+
+    "task": "I.                     Website Content Overhaul for B2C Growth",
+    "monthlyTask": "10+5",
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "September",
+    "category": "Content Marketing & Strategy",
+
+    "element": "Blog Categories & Sample Topics",
+    "subElement": "Other",
+
+    "task": "I.                     Website Content Overhaul for B2C Growth",
+    "monthlyTask": "10+5",
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "October",
+    "category": "Content Marketing & Strategy",
+
+    "element": "Blog Categories & Sample Topics",
+    "subElement": "Other",
+
+    "task": "I.                     Website Content Overhaul for B2C Growth",
+    "monthlyTask": "10+5",
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "November",
+    "category": "Content Marketing & Strategy",
+
+    "element": "Blog Categories & Sample Topics",
+    "subElement": "Other",
+
+    "task": "I.                     Website Content Overhaul for B2C Growth",
+    "monthlyTask": "10+5",
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "December",
+
+    "category": "Content Marketing & Strategy",
+
+    "element": "Blog Categories & Sample Topics",
+    "subElement": "Other",
+
+    "task": "I.                     Website Content Overhaul for B2C Growth",
+    "monthlyTask": "10+5",
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "January",
+
+    "category": "Content Marketing & Strategy",
+
+    "element": "Blog Categories & Sample Topics",
+
+    "subElement": "Other",
+
+    "task": "II.                   Product Education",
+    "monthlyTask": "10+5",
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "February",
+    "category": "Content Marketing & Strategy",
+
+    "element": "Blog Categories & Sample Topics",
+
+    "subElement": "Other",
+
+    "task": "II.                   Product Education",
+    "monthlyTask": "10+5",
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "March",
+    "category": "Content Marketing & Strategy",
+
+    "element": "Blog Categories & Sample Topics",
+
+    "subElement": "Other",
+
+    "task": "II.                   Product Education",
+    "monthlyTask": "10+5",
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "April",
+    "category": "Content Marketing & Strategy",
+
+    "element": "Blog Categories & Sample Topics",
+    "subElement": "Other",
+
+    "task": "II.                   Product Education",
+    "monthlyTask": "10+5",
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "May",
+    "category": "Content Marketing & Strategy",
+
+    "element": "Blog Categories & Sample Topics",
+    "subElement": "Other",
+
+    "task": "II.                   Product Education",
+    "monthlyTask": "10+5",
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "June",
+    "category": "Content Marketing & Strategy",
+
+    "element": "Blog Categories & Sample Topics",
+    "subElement": "Other",
+
+    "task": "II.                   Product Education",
+    "monthlyTask": "10+5",
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "July",
+    "category": "Content Marketing & Strategy",
+
+    "element": "Blog Categories & Sample Topics",
+    "subElement": "Other",
+
+    "task": "II.                   Product Education",
+    "monthlyTask": "10+5",
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "August",
+    "category": "Content Marketing & Strategy",
+
+    "element": "Blog Categories & Sample Topics",
+    "subElement": "Other",
+
+    "task": "II.                   Product Education",
+    "monthlyTask": "10+5",
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "September",
+    "category": "Content Marketing & Strategy",
+
+    "element": "Blog Categories & Sample Topics",
+    "subElement": "Other",
+
+    "task": "II.                   Product Education",
+    "monthlyTask": "10+5",
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "October",
+    "category": "Content Marketing & Strategy",
+
+    "element": "Blog Categories & Sample Topics",
+
+    "subElement": "Other",
+
+    "task": "II.                   Product Education",
+    "monthlyTask": "10+5",
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "November",
+    "category": "Content Marketing & Strategy",
+
+    "element": "Blog Categories & Sample Topics",
+
+    "subElement": "Other",
+
+    "task": "II.                   Product Education",
+    "monthlyTask": "10+5",
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "December",
+    "category": "Content Marketing & Strategy",
+
+    "element": "Blog Categories & Sample Topics",
+
+    "subElement": "Other",
+
+    "task": "II.                   Product Education",
+    "monthlyTask": "10+5",
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "January",
+    "category": "Content Marketing & Strategy",
+
+    "element": "Press & Thought Leadership",
+
+    "subElement": "Other",
+
+    "task": "I.                     Press Releases",
+    "monthlyTask": "5+5",
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "February",
+
+    "category": "Content Marketing & Strategy",
+
+    "element": "Press & Thought Leadership",
+
+    "subElement": "Other",
+
+    "task": "I.                     Press Releases",
+    "monthlyTask": "5+5",
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "March",
+    "category": "Content Marketing & Strategy",
+
+    "element": "Press & Thought Leadership",
+
+    "subElement": "Other",
+
+    "task": "I.                     Press Releases",
+    "monthlyTask": "5+5",
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "April",
+
+    "category": "Content Marketing & Strategy",
+
+    "element": "Press & Thought Leadership",
+
+    "subElement": "Other",
+    "task": "I.                     Press Releases",
+    "monthlyTask": "5+5",
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "May",
+
+    "category": "Content Marketing & Strategy",
+
+    "element": "Press & Thought Leadership",
+
+    "subElement": "Other",
+    "task": "I.                     Press Releases",
+    "monthlyTask": "5+5",
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "June",
+
+    "category": "Content Marketing & Strategy",
+
+    "element": "Press & Thought Leadership",
+
+    "subElement": "Other",
+    "task": "I.                     Press Releases",
+    "monthlyTask": "5+5",
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "July",
+
+    "category": "Content Marketing & Strategy",
+
+    "element": "Press & Thought Leadership",
+
+    "subElement": "Other",
+    "task": "I.                     Press Releases",
+    "monthlyTask": "5+5",
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "August",
+
+    "category": "Content Marketing & Strategy",
+
+    "element": "Press & Thought Leadership",
+
+    "subElement": "Other",
+    "task": "I.                     Press Releases",
+    "monthlyTask": "5+5",
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "September",
+
+    "category": "Content Marketing & Strategy",
+
+    "element": "Press & Thought Leadership",
+
+    "subElement": "Other",
+    "task": "I.                     Press Releases",
+    "monthlyTask": "5+5",
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "October",
+
+    "category": "Content Marketing & Strategy",
+
+    "element": "Press & Thought Leadership",
+
+    "subElement": "Other",
+    "task": "I.                     Press Releases",
+    "monthlyTask": "5+5",
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "November",
+
+    "category": "Content Marketing & Strategy",
+
+    "element": "Press & Thought Leadership",
+
+    "subElement": "Other",
+    "task": "I.                     Press Releases",
+    "monthlyTask": "5+5",
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "December",
+    "category": "Content Marketing & Strategy",
+
+    "element": "Press & Thought Leadership",
+
+    "subElement": "Other",
+    "task": "I.                     Press Releases",
+    "monthlyTask": "5+5",
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "January",
+    "category": "Content Marketing & Strategy",
+
+    "element": "Press & Thought Leadership",
+
+    "subElement": "Other",
+    "task": "II.                   Bylined Articles",
+    "monthlyTask": "5+5",
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "February",
+    "category": "Content Marketing & Strategy",
+
+    "element": "Press & Thought Leadership",
+
+    "subElement": "Other",
+    "task": "II.                   Bylined Articles",
+    "monthlyTask": "5+5",
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "March",
+    "category": "Content Marketing & Strategy",
+
+    "element": "Press & Thought Leadership",
+
+    "subElement": "Other",
+    "task": "II.                   Bylined Articles",
+    "monthlyTask": "5+5",
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "April",
+    "category": "Content Marketing & Strategy",
+
+    "element": "Press & Thought Leadership",
+
+    "subElement": "Other",
+    "task": "II.                   Bylined Articles",
+    "monthlyTask": "5+5",
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "May",
+    "category": "Content Marketing & Strategy",
+
+    "element": "Press & Thought Leadership",
+
+    "subElement": "Other",
+    "task": "II.                   Bylined Articles",
+    "monthlyTask": "5+5",
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "June",
+
+    "category": "Content Marketing & Strategy",
+
+    "element": "Press & Thought Leadership",
+
+    "subElement": "Other",
+    "task": "II.                   Bylined Articles",
+    "monthlyTask": "5+5",
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "July",
+
+    "category": "Content Marketing & Strategy",
+
+    "element": "Press & Thought Leadership",
+
+    "subElement": "Other",
+    "task": "II.                   Bylined Articles",
+    "monthlyTask": "5+5",
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "August",
+
+    "category": "Content Marketing & Strategy",
+
+    "element": "Press & Thought Leadership",
+
+    "subElement": "Other",
+    "task": "II.                   Bylined Articles",
+    "monthlyTask": "5+5",
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "September",
+
+    "category": "Content Marketing & Strategy",
+
+    "element": "Press & Thought Leadership",
+
+    "subElement": "Other",
+    "task": "II.                   Bylined Articles",
+    "monthlyTask": "5+5",
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "October",
+
+    "category": "Content Marketing & Strategy",
+
+    "element": "Press & Thought Leadership",
+
+    "subElement": "Other",
+    "task": "II.                   Bylined Articles",
+    "monthlyTask": "5+5",
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "November",
+
+    "category": "Content Marketing & Strategy",
+
+    "element": "Press & Thought Leadership",
+
+    "subElement": "Other",
+    "task": "II.                   Bylined Articles",
+    "monthlyTask": "5+5",
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "December",
+    "category": "Content Marketing & Strategy",
+
+    "element": "Press & Thought Leadership",
+    "subElement": "Other",
+    "task": "II.                   Bylined Articles",
+    "monthlyTask": "5+5",
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "January",
+    "category": "Content Marketing & Strategy",
+
+    "element": "Customer Reviews",
+
+    "subElement": "Other",
+    "task": "I.                     Real-user product stories",
+    "monthlyTask": "20 Reviews",
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "February",
+    "category": "Content Marketing & Strategy",
+
+    "element": "Customer Reviews",
+
+    "subElement": "Other",
+    "task": "I.                     Real-user product stories",
+    "monthlyTask": "20 Reviews",
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "March",
+    "category": "Content Marketing & Strategy",
+
+    "element": "Customer Reviews",
+
+    "subElement": "Other",
+    "task": "I.                     Real-user product stories",
+    "monthlyTask": "20 Reviews",
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "April",
+    "category": "Content Marketing & Strategy",
+
+    "element": "Customer Reviews",
+
+    "subElement": "Other",
+    "task": "I.                     Real-user product stories",
+    "monthlyTask": "20 Reviews",
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "May",
+    "category": "Content Marketing & Strategy",
+
+    "element": "Customer Reviews",
+
+    "subElement": "Other",
+    "task": "I.                     Real-user product stories",
+    "monthlyTask": "20 Reviews",
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "June",
+
+    "category": "Content Marketing & Strategy",
+
+    "element": "Customer Reviews",
+
+    "subElement": "Other",
+    "task": "I.                     Real-user product stories",
+    "monthlyTask": "20 Reviews",
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "July",
+
+    "category": "Content Marketing & Strategy",
+
+    "element": "Customer Reviews",
+
+    "subElement": "Other",
+    "task": "I.                     Real-user product stories",
+    "monthlyTask": "20 Reviews",
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "August",
+
+    "category": "Content Marketing & Strategy",
+
+    "element": "Customer Reviews",
+
+    "subElement": "Other",
+    "task": "I.                     Real-user product stories",
+    "monthlyTask": "20 Reviews",
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "September",
+
+    "category": "Content Marketing & Strategy",
+
+    "element": "Customer Reviews",
+
+    "subElement": "Other",
+    "task": "I.                     Real-user product stories",
+    "monthlyTask": "20 Reviews",
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "October",
+
+    "category": "Content Marketing & Strategy",
+
+    "element": "Customer Reviews",
+
+    "subElement": "Other",
+    "task": "I.                     Real-user product stories",
+    "monthlyTask": "20 Reviews",
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "November",
+
+    "category": "Content Marketing & Strategy",
+
+    "element": "Customer Reviews",
+
+    "subElement": "Other",
+    "task": "I.                     Real-user product stories",
+    "monthlyTask": "20 Reviews",
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "December",
+    "category": "Content Marketing & Strategy",
+
+    "element": "Customer Reviews",
+    "subElement": "Other",
+    "task": "I.                     Real-user product stories",
+    "monthlyTask": "20 Reviews",
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "January",
+    "category": "Content Marketing & Strategy",
+
+    "element": "Landing Pages",
+
+    "subElement": "Other",
+    "task": "I.                     Starter Kits & Bundles",
+    "monthlyTask": "Continuous Updates",
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "February",
+    "category": "Content Marketing & Strategy",
+
+    "element": "Landing Pages",
+
+    "subElement": "Other",
+    "task": "I.                     Starter Kits & Bundles",
+    "monthlyTask": "Continuous Updates",
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "March",
+    "category": "Content Marketing & Strategy",
+
+    "element": "Landing Pages",
+
+    "subElement": "Other",
+    "task": "I.                     Starter Kits & Bundles",
+    "monthlyTask": "Continuous Updates",
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "April",
+    "category": "Content Marketing & Strategy",
+
+    "element": "Landing Pages",
+
+    "subElement": "Other",
+    "task": "I.                     Starter Kits & Bundles",
+    "monthlyTask": "Continuous Updates",
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "May",
+    "category": "Content Marketing & Strategy",
+
+    "element": "Landing Pages",
+
+    "subElement": "Other",
+    "task": "I.                     Starter Kits & Bundles",
+    "monthlyTask": "Continuous Updates",
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "June",
+
+    "category": "Content Marketing & Strategy",
+
+    "element": "Landing Pages",
+
+    "subElement": "Other",
+    "task": "I.                     Starter Kits & Bundles",
+    "monthlyTask": "Continuous Updates",
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "July",
+
+    "category": "Content Marketing & Strategy",
+
+    "element": "Landing Pages",
+
+    "subElement": "Other",
+    "task": "I.                     Starter Kits & Bundles",
+    "monthlyTask": "Continuous Updates",
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "August",
+
+    "category": "Content Marketing & Strategy",
+
+    "element": "Landing Pages",
+
+    "subElement": "Other",
+    "task": "I.                     Starter Kits & Bundles",
+    "monthlyTask": "Continuous Updates",
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "September",
+
+    "category": "Content Marketing & Strategy",
+
+    "element": "Landing Pages",
+
+    "subElement": "Other",
+    "task": "I.                     Starter Kits & Bundles",
+    "monthlyTask": "Continuous Updates",
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "October",
+
+    "category": "Content Marketing & Strategy",
+
+    "element": "Landing Pages",
+
+    "subElement": "Other",
+    "task": "I.                     Starter Kits & Bundles",
+    "monthlyTask": "Continuous Updates",
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "November",
+
+    "category": "Content Marketing & Strategy",
+
+    "element": "Landing Pages",
+
+    "subElement": "Other",
+    "task": "I.                     Starter Kits & Bundles",
+    "monthlyTask": "Continuous Updates",
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "December",
+    "category": "Content Marketing & Strategy",
+
+    "element": "Landing Pages",
+
+    "subElement": "Other",
+    "task": "I.                     Starter Kits & Bundles",
+    "monthlyTask": "Continuous Updates",
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "January",
+    "category": "Content Marketing & Strategy",
+
+    "element": "Landing Pages",
+
+    "subElement": "Other",
+    "task": "II.                   Gifting Page",
+    "monthlyTask": "Continuous Updates",
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "February",
+    "category": "Content Marketing & Strategy",
+
+    "element": "Landing Pages",
+
+    "subElement": "Other",
+    "task": "II.                   Gifting Page",
+    "monthlyTask": "Continuous Updates",
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "March",
+    "category": "Content Marketing & Strategy",
+
+    "element": "Landing Pages",
+
+    "subElement": "Other",
+    "task": "II.                   Gifting Page",
+    "monthlyTask": "Continuous Updates",
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "April",
+    "category": "Content Marketing & Strategy",
+
+    "element": "Landing Pages",
+
+    "subElement": "Other",
+    "task": "II.                   Gifting Page",
+    "monthlyTask": "Continuous Updates",
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "May",
+    "category": "Content Marketing & Strategy",
+
+    "element": "Landing Pages",
+
+    "subElement": "Other",
+    "task": "II.                   Gifting Page",
+    "monthlyTask": "Continuous Updates",
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "June",
+
+    "category": "Content Marketing & Strategy",
+
+    "element": "Landing Pages",
+
+    "subElement": "Other",
+    "task": "II.                   Gifting Page",
+    "monthlyTask": "Continuous Updates",
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "July",
+
+    "category": "Content Marketing & Strategy",
+
+    "element": "Landing Pages",
+
+    "subElement": "Other",
+    "task": "II.                   Gifting Page",
+    "monthlyTask": "Continuous Updates",
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "August",
+
+    "category": "Content Marketing & Strategy",
+
+    "element": "Landing Pages",
+
+    "subElement": "Other",
+    "task": "II.                   Gifting Page",
+    "monthlyTask": "Continuous Updates",
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "September",
+
+    "category": "Content Marketing & Strategy",
+
+    "element": "Landing Pages",
+
+    "subElement": "Other",
+    "task": "II.                   Gifting Page",
+    "monthlyTask": "Continuous Updates",
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "October",
+
+    "category": "Content Marketing & Strategy",
+
+    "element": "Landing Pages",
+
+    "subElement": "Other",
+    "task": "II.                   Gifting Page",
+    "monthlyTask": "Continuous Updates",
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "November",
+
+    "category": "Content Marketing & Strategy",
+
+    "element": "Landing Pages",
+
+    "subElement": "Other",
+    "task": "II.                   Gifting Page",
+    "monthlyTask": "Continuous Updates",
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "December",
+    "category": "Content Marketing & Strategy",
+
+    "element": "Landing Pages",
+    "subElement": "Other",
+    "task": "II.                   Gifting Page",
+    "monthlyTask": "Continuous Updates",
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "January",
+    "category": "Content Marketing & Strategy",
+
+    "element": "Landing Pages",
+    "subElement": "Other",
+    "task": "III.                 Everyday Use Page",
+    "monthlyTask": "Continuous Updates",
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "February",
+    "category": "Content Marketing & Strategy",
+
+    "element": "Landing Pages",
+    "subElement": "Other",
+    "task": "III.                 Everyday Use Page",
+    "monthlyTask": "Continuous Updates",
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "March",
+    "category": "Content Marketing & Strategy",
+
+    "element": "Landing Pages",
+    "subElement": "Other",
+    "task": "III.                 Everyday Use Page",
+    "monthlyTask": "Continuous Updates",
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "April",
+    "category": "Content Marketing & Strategy",
+
+    "element": "Landing Pages",
+    "subElement": "Other",
+    "task": "III.                 Everyday Use Page",
+    "monthlyTask": "Continuous Updates",
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "May",
+    "category": "Content Marketing & Strategy",
+
+    "element": "Landing Pages",
+    "subElement": "Other",
+    "task": "III.                 Everyday Use Page",
+    "monthlyTask": "Continuous Updates",
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "June",
+
+    "category": "Content Marketing & Strategy",
+
+    "element": "Landing Pages",
+    "subElement": "Other",
+    "task": "III.                 Everyday Use Page",
+    "monthlyTask": "Continuous Updates",
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "July",
+
+    "category": "Content Marketing & Strategy",
+
+    "element": "Landing Pages",
+    "subElement": "Other",
+    "task": "III.                 Everyday Use Page",
+    "monthlyTask": "Continuous Updates",
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "August",
+
+    "category": "Content Marketing & Strategy",
+
+    "element": "Landing Pages",
+    "subElement": "Other",
+    "task": "III.                 Everyday Use Page",
+    "monthlyTask": "Continuous Updates",
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "September",
+
+    "category": "Content Marketing & Strategy",
+
+    "element": "Landing Pages",
+    "subElement": "Other",
+    "task": "III.                 Everyday Use Page",
+    "monthlyTask": "Continuous Updates",
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "October",
+
+    "category": "Content Marketing & Strategy",
+
+    "element": "Landing Pages",
+    "subElement": "Other",
+    "task": "III.                 Everyday Use Page",
+    "monthlyTask": "Continuous Updates",
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "November",
+
+    "category": "Content Marketing & Strategy",
+
+    "element": "Landing Pages",
+    "subElement": "Other",
+    "task": "III.                 Everyday Use Page",
+    "monthlyTask": "Continuous Updates",
+    "team": "digital-marketing"
+
+  },
+
+  {
+
+    "month": "December",
+    "category": "Content Marketing & Strategy",
+
+    "element": "Landing Pages",
+    "subElement": "Other",
+    "task": "III.                 Everyday Use Page",
+    "monthlyTask": "Continuous Updates",
+    "team": "digital-marketing"
+
   }
+
 ]

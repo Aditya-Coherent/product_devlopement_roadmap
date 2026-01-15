@@ -199,7 +199,8 @@ export default function Home() {
         subElement: item.subElement || '',
         task: item.task || '',
         monthlyTask: item.monthlyTask || '',
-        monthlyQuantifiable: item.monthlyQuantifiable || ''
+        monthlyQuantifiable: item.monthlyQuantifiable || '',
+        weeklyTask: item.weeklyTask || ''
       })
     })
 
@@ -449,6 +450,9 @@ export default function Home() {
                                     {teamFilter !== 'human-resources' && teamFilter !== 'market-research' && (
                                       <th className="border border-emerald-200 px-4 py-3 text-left font-semibold text-gray-800 text-sm">Monthly Task</th>
                                     )}
+                                    {teamFilter === 'digital-marketing' && (
+                                      <th className="border border-emerald-200 px-4 py-3 text-center font-semibold text-gray-800 text-sm">Weekly Task</th>
+                                    )}
                                   </tr>
                                 </thead>
                                 <tbody>
@@ -492,6 +496,25 @@ export default function Home() {
                                       monthlyTaskSpans[spanStart] = items.length - spanStart
                                     }
                                     
+                                    // Calculate row spans for weekly tasks (merge cells)
+                                    const weeklyTaskSpans = {}
+                                    let currentWeekly = null
+                                    let weeklySpanStart = 0
+                                    
+                                    items.forEach((item, idx) => {
+                                      const weeklyValue = item.weeklyTask || ''
+                                      if (weeklyValue !== currentWeekly) {
+                                        if (currentWeekly !== null) {
+                                          weeklyTaskSpans[weeklySpanStart] = idx - weeklySpanStart
+                                        }
+                                        currentWeekly = weeklyValue
+                                        weeklySpanStart = idx
+                                      }
+                                    })
+                                    if (currentWeekly !== null) {
+                                      weeklyTaskSpans[weeklySpanStart] = items.length - weeklySpanStart
+                                    }
+                                    
                                     return items.map((item, itemIndex) => (
                                       <tr 
                                         key={`${groupKey}-${itemIndex}`}
@@ -500,8 +523,8 @@ export default function Home() {
                                         <td className="border border-emerald-200 px-4 py-3 text-sm text-gray-700 font-medium">
                                           {itemIndex === 0 ? groupKey : ''}
                                         </td>
-                                        {teamFilter === 'digital-marketing' && !['Technical SEO', 'Brand Positioning & Thought Leadership', 'Content Marketing & Strategy'].includes(category) && subElementSpans[itemIndex] && (
-                                          <td 
+                                        {teamFilter === 'digital-marketing' && !['Technical SEO', 'Brand Positioning & Thought Leadership', 'Content Marketing & Strategy'].includes(category) && subElementSpans[itemIndex] !== undefined && (
+                                          <td
                                             className="border border-emerald-200 px-4 py-3 text-sm text-gray-700 whitespace-pre-wrap"
                                             rowSpan={subElementSpans[itemIndex]}
                                           >
@@ -511,12 +534,20 @@ export default function Home() {
                                         <td className="border border-emerald-200 px-4 py-3 text-sm text-gray-700 whitespace-pre-wrap">
                                           {item.task}
                                         </td>
-                                        {teamFilter !== 'human-resources' && teamFilter !== 'market-research' && monthlyTaskSpans[itemIndex] && (
-                                          <td 
+                                        {teamFilter !== 'human-resources' && teamFilter !== 'market-research' && monthlyTaskSpans[itemIndex] !== undefined && (
+                                          <td
                                             className="border border-emerald-200 px-4 py-3 text-sm text-gray-600 italic whitespace-pre-wrap"
                                             rowSpan={monthlyTaskSpans[itemIndex]}
                                           >
-                                            {item.monthlyTask || 'NA'}
+                                            {item.monthlyTask || ''}
+                                          </td>
+                                        )}
+                                        {teamFilter === 'digital-marketing' && weeklyTaskSpans[itemIndex] !== undefined && (
+                                          <td
+                                            className="border border-emerald-200 px-4 py-3 text-sm text-gray-700 whitespace-pre-wrap bg-blue-50 text-center align-middle"
+                                            rowSpan={weeklyTaskSpans[itemIndex]}
+                                          >
+                                            {item.weeklyTask || ''}
                                           </td>
                                         )}
                                       </tr>
