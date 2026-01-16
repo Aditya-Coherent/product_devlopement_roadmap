@@ -23,11 +23,10 @@
     "monthlyQuantifiable": "No",
     "team": "artificial-intelligence"
   },
-
   {
     "month": "February",
     "element": "AI Rituva Assistant",
-    "task": "Compile knowledge base with product details, ingredients, Ayurvedic benefits, and usage instructions",
+    "task": "Compile knowledge base with product details, ingredients, benefits, and usage instructions",
     "monthlyTask": "One-time knowledge base creation",
     "monthlyQuantifiable": "No",
     "team": "artificial-intelligence"
@@ -40,7 +39,6 @@
     "monthlyQuantifiable": "No",
     "team": "artificial-intelligence"
   },
-
   {
     "month": "March",
     "element": "AI Rituva Assistant",
@@ -65,7 +63,6 @@
     "monthlyQuantifiable": "No",
     "team": "artificial-intelligence"
   },
-
   {
     "month": "April",
     "element": "AI Rituva Assistant",
@@ -90,7 +87,6 @@
     "monthlyQuantifiable": "No",
     "team": "artificial-intelligence"
   },
-
   {
     "month": "May",
     "element": "Customer Intelligence Dashboards",
@@ -115,7 +111,6 @@
     "monthlyQuantifiable": "No",
     "team": "artificial-intelligence"
   },
-
   {
     "month": "June",
     "element": "Customer Intelligence Dashboards",
@@ -140,7 +135,6 @@
     "monthlyQuantifiable": "No",
     "team": "artificial-intelligence"
   },
-
   {
     "month": "July",
     "element": "AI-Assisted Demand & Supply Forecasting",
@@ -165,7 +159,6 @@
     "monthlyQuantifiable": "No",
     "team": "artificial-intelligence"
   },
-
   {
     "month": "August",
     "element": "CRM + Lifecycle Automation",
@@ -190,7 +183,6 @@
     "monthlyQuantifiable": "No",
     "team": "artificial-intelligence"
   },
-
   {
     "month": "September",
     "element": "CRM + Lifecycle Automation",
@@ -215,7 +207,6 @@
     "monthlyQuantifiable": "No",
     "team": "artificial-intelligence"
   },
-
   {
     "month": "October",
     "element": "AI-Powered Custom Kit Builder",
@@ -240,7 +231,6 @@
     "monthlyQuantifiable": "No",
     "team": "artificial-intelligence"
   },
-
   {
     "month": "November",
     "element": "AI-Powered Custom Kit Builder",
@@ -265,7 +255,6 @@
     "monthlyQuantifiable": "Yes",
     "team": "artificial-intelligence"
   },
-
   {
     "month": "December",
     "element": "Managed Growth Support",

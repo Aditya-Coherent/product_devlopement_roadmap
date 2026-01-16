@@ -3,16 +3,18 @@
 import { useState, useEffect } from 'react'
 import { motion, AnimatePresence } from 'framer-motion'
 import Image from 'next/image'
-import { 
-  Calendar, 
-  Users, 
-  CheckCircle2, 
+import {
+  Calendar,
+  Users,
+  CheckCircle2,
   Filter,
   ChevronRight,
   Target,
   Zap,
   Sparkles,
-  FileText
+  FileText,
+  Search,
+  X
 } from 'lucide-react'
 
 const monthNames = {
@@ -45,11 +47,122 @@ const monthColors = [
   'from-yellow-400 to-lime-500',
 ]
 
+// Fuzzy search function - handles typos using Levenshtein distance
+const fuzzyMatch = (text, query) => {
+  if (!text || !query) return false
+
+  const textLower = text.toLowerCase()
+  const queryLower = query.toLowerCase()
+
+  // Exact match or contains
+  if (textLower.includes(queryLower)) return true
+
+  // Split query into words for multi-word search
+  const queryWords = queryLower.split(/\s+/).filter(w => w.length > 0)
+
+  // Check if all query words match (for multi-word queries)
+  if (queryWords.length > 1) {
+    return queryWords.every(word => fuzzyMatchWord(textLower, word))
+  }
+
+  return fuzzyMatchWord(textLower, queryLower)
+}
+
+const fuzzyMatchWord = (text, query) => {
+  if (text.includes(query)) return true
+
+  // Check each word in the text
+  const textWords = text.split(/\s+/)
+  for (const word of textWords) {
+    // Allow 1-2 character typos depending on word length
+    const maxDistance = query.length <= 4 ? 1 : 2
+    if (levenshteinDistance(word, query) <= maxDistance) return true
+
+    // Also check if query is a prefix with typos
+    if (word.length >= query.length) {
+      const prefix = word.substring(0, query.length)
+      if (levenshteinDistance(prefix, query) <= 1) return true
+    }
+  }
+
+  return false
+}
+
+// Levenshtein distance algorithm for typo tolerance
+const levenshteinDistance = (str1, str2) => {
+  const m = str1.length
+  const n = str2.length
+
+  if (m === 0) return n
+  if (n === 0) return m
+
+  // Use two rows instead of full matrix for memory efficiency
+  let prevRow = Array(n + 1).fill(0).map((_, i) => i)
+  let currRow = Array(n + 1).fill(0)
+
+  for (let i = 1; i <= m; i++) {
+    currRow[0] = i
+    for (let j = 1; j <= n; j++) {
+      const cost = str1[i - 1] === str2[j - 1] ? 0 : 1
+      currRow[j] = Math.min(
+        prevRow[j] + 1,      // deletion
+        currRow[j - 1] + 1,  // insertion
+        prevRow[j - 1] + cost // substitution
+      )
+    }
+    ;[prevRow, currRow] = [currRow, prevRow]
+  }
+
+  return prevRow[n]
+}
+
+// Highlight matching text in search results
+const HighlightText = ({ text, query }) => {
+  if (!text || !query || !query.trim()) {
+    return <>{text || ''}</>
+  }
+
+  const queryLower = query.toLowerCase().trim()
+  const queryWords = queryLower.split(/\s+/).filter(w => w.length > 0)
+  const textStr = String(text)
+
+  // Build regex pattern for all query words
+  const patterns = queryWords.map(word => {
+    // Escape special regex characters
+    const escaped = word.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')
+    return escaped
+  })
+
+  // Create combined regex that matches any of the query words
+  const regex = new RegExp(`(${patterns.join('|')})`, 'gi')
+
+  const parts = textStr.split(regex)
+
+  return (
+    <>
+      {parts.map((part, index) => {
+        const isMatch = queryWords.some(word =>
+          part.toLowerCase() === word ||
+          levenshteinDistance(part.toLowerCase(), word) <= (word.length <= 4 ? 1 : 2)
+        )
+        return isMatch ? (
+          <mark key={index} className="bg-yellow-300 text-gray-900 px-0.5 rounded">
+            {part}
+          </mark>
+        ) : (
+          <span key={index}>{part}</span>
+        )
+      })}
+    </>
+  )
+}
+
 export default function Home() {
   const [excelData, setExcelData] = useState([])
   const [filteredData, setFilteredData] = useState([])
   const [teamFilter, setTeamFilter] = useState('website')
   const [monthFilter, setMonthFilter] = useState('all')
+  const [searchQuery, setSearchQuery] = useState('')
   const [isLoading, setIsLoading] = useState(true)
   const [error, setError] = useState(null)
 
@@ -154,13 +267,31 @@ export default function Home() {
   const applyFilters = () => {
     let filtered = [...excelData]
 
+    // Apply month filter
     if (monthFilter !== 'all') {
       const selectedMonth = monthNames[monthFilter]
       filtered = filtered.filter(item => {
         const itemMonth = normalizeMonth(item.month)
-        return itemMonth === selectedMonth || 
-               itemMonth.includes(selectedMonth) || 
+        return itemMonth === selectedMonth ||
+               itemMonth.includes(selectedMonth) ||
                selectedMonth.includes(itemMonth)
+      })
+    }
+
+    // Apply search filter with fuzzy matching
+    if (searchQuery.trim()) {
+      filtered = filtered.filter(item => {
+        const searchFields = [
+          item.element,
+          item.subElement,
+          item.task,
+          item.monthlyTask,
+          item.weeklyTask,
+          item.category,
+          item.month
+        ]
+
+        return searchFields.some(field => fuzzyMatch(field, searchQuery))
       })
     }
 
@@ -172,7 +303,7 @@ export default function Home() {
       applyFilters()
     }
     // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [monthFilter, excelData])
+  }, [monthFilter, searchQuery, excelData])
 
   const groupedData = () => {
     const grouped = {}
@@ -296,7 +427,7 @@ export default function Home() {
               <Filter className="w-5 h-5 text-emerald-600" />
               <h3 className="text-lg font-semibold text-gray-800">Filters</h3>
             </div>
-            <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+            <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
               <div>
                 <label htmlFor="team-filter" className="block text-sm font-medium text-gray-700 mb-2">
                   <Users className="w-4 h-4 inline mr-2" />
@@ -332,6 +463,36 @@ export default function Home() {
                     <option key={num} value={num}>{name}</option>
                   ))}
                 </select>
+              </div>
+
+              <div>
+                <label htmlFor="search-input" className="block text-sm font-medium text-gray-700 mb-2">
+                  <Search className="w-4 h-4 inline mr-2" />
+                  Search
+                </label>
+                <div className="relative">
+                  <input
+                    id="search-input"
+                    type="text"
+                    value={searchQuery}
+                    onChange={(e) => setSearchQuery(e.target.value)}
+                    placeholder="Search tasks, elements, keywords..."
+                    className="w-full px-4 py-3 pr-10 bg-white border-2 border-emerald-200 rounded-xl text-gray-800 font-medium focus:outline-none focus:ring-2 focus:ring-emerald-500 focus:border-emerald-500 transition-all hover:border-emerald-300 placeholder:text-gray-400 placeholder:font-normal"
+                  />
+                  {searchQuery && (
+                    <button
+                      onClick={() => setSearchQuery('')}
+                      className="absolute right-3 top-1/2 -translate-y-1/2 text-gray-400 hover:text-gray-600 transition-colors"
+                    >
+                      <X className="w-5 h-5" />
+                    </button>
+                  )}
+                </div>
+                {searchQuery && (
+                  <p className="text-xs text-emerald-600 mt-1">
+                    Found {filteredData.length} result{filteredData.length !== 1 ? 's' : ''} {monthFilter !== 'all' ? `in ${monthNames[monthFilter]}` : ''}
+                  </p>
+                )}
               </div>
             </div>
           </div>
@@ -516,30 +677,30 @@ export default function Home() {
                                     }
                                     
                                     return items.map((item, itemIndex) => (
-                                      <tr 
+                                      <tr
                                         key={`${groupKey}-${itemIndex}`}
                                         className={`border-b border-emerald-100 hover:bg-emerald-50 transition-colors ${itemIndex % 2 === 0 ? 'bg-white' : 'bg-emerald-50/30'}`}
                                       >
                                         <td className="border border-emerald-200 px-4 py-3 text-sm text-gray-700 font-medium">
-                                          {itemIndex === 0 ? groupKey : ''}
+                                          {itemIndex === 0 ? <HighlightText text={groupKey} query={searchQuery} /> : ''}
                                         </td>
                                         {teamFilter === 'digital-marketing' && !['Technical SEO', 'Brand Positioning & Thought Leadership', 'Content Marketing & Strategy'].includes(category) && subElementSpans[itemIndex] !== undefined && (
                                           <td
                                             className="border border-emerald-200 px-4 py-3 text-sm text-gray-700 whitespace-pre-wrap"
                                             rowSpan={subElementSpans[itemIndex]}
                                           >
-                                            {item.subElement !== 'Other' ? item.subElement : ''}
+                                            <HighlightText text={item.subElement !== 'Other' ? item.subElement : ''} query={searchQuery} />
                                           </td>
                                         )}
                                         <td className="border border-emerald-200 px-4 py-3 text-sm text-gray-700 whitespace-pre-wrap">
-                                          {item.task}
+                                          <HighlightText text={item.task} query={searchQuery} />
                                         </td>
                                         {teamFilter !== 'human-resources' && teamFilter !== 'market-research' && monthlyTaskSpans[itemIndex] !== undefined && (
                                           <td
                                             className="border border-emerald-200 px-4 py-3 text-sm text-gray-600 italic whitespace-pre-wrap"
                                             rowSpan={monthlyTaskSpans[itemIndex]}
                                           >
-                                            {item.monthlyTask || ''}
+                                            <HighlightText text={item.monthlyTask || ''} query={searchQuery} />
                                           </td>
                                         )}
                                         {teamFilter === 'digital-marketing' && weeklyTaskSpans[itemIndex] !== undefined && (
@@ -547,7 +708,7 @@ export default function Home() {
                                             className="border border-emerald-200 px-4 py-3 text-sm text-gray-700 whitespace-pre-wrap bg-blue-50 text-center align-middle"
                                             rowSpan={weeklyTaskSpans[itemIndex]}
                                           >
-                                            {item.weeklyTask || ''}
+                                            <HighlightText text={item.weeklyTask || ''} query={searchQuery} />
                                           </td>
                                         )}
                                       </tr>
